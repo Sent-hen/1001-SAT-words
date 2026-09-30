@@ -11,3 +11,102 @@
 8 | A: pickle(top hat) | B: monster(spiky, mean) | ACT: kicks-over | SCALE: B=giant | OAES: O,A,S
 9 | A: monster(spiky, mean) | B: ball(rubber) | ACT: stomps-then-bounces | SCALE: - | OAES: A,E,S
 10 | A: ball(rubber) | B: fish(shock) | ACT: rolls-into-mouth | SCALE: B=giant | OAES: O
+## 2
+1 | A: fish(shock) | B: popsicle(pink) | ACT: shoots-out-of-its-jaw | SCALE: A=giant | OAES: O,S
+2 | A: popsicle(pink) | B: elephant(tuxedo) | ACT: melts-into | SCALE: B=tiny | OAES: A,S
+3 | A: elephant(tuxedo, crown) | B: crypt | ACT: crown-splits-open | SCALE: - | OAES: S
+4 | A: crypt | B: bull(fluffy, pink) | ACT: climbs-out | SCALE: B=giant | OAES: O,S
+5 | A: bull(pink) | B: skater(scared) | ACT: hugs-onto-the-ice | SCALE: - | OAES: A,S
+6 | A: skater(scared) | B: party | ACT: crashes-into | SCALE: B=giant | OAES: O,S
+7 | A: party | B: mole(angry) | ACT: digs-up-through | SCALE: - | OAES: A,S
+8 | A: mole(angry) | B: seagull(many) | ACT: pops-up-among | SCALE: - | OAES: S
+9 | A: seagull(many) | B: machine | ACT: piles-into | SCALE: B=giant | OAES: A,S
+10 | A: machine | B: whale(blue) | ACT: fires-a-net-around | SCALE: B=giant | OAES: O,A
+## 3
+1 | A: whale(blue) | B: ball(yellow) | ACT: turns-into | SCALE: - | OAES: A,S
+2 | A: ball(yellow) | B: tile | ACT: yanks-up | SCALE: - | OAES: E,S
+3 | A: tile | B: genie | ACT: builds-a-bathtub | SCALE: - | OAES: A,S
+4 | A: genie | B: parrot(scared) | ACT: traps-in-bathtub | SCALE: - | OAES: S
+5 | A: parrot(scared) | B: locksmith | ACT: chisels-free | SCALE: - | OAES: E,S
+6 | A: locksmith | B: eel | ACT: chases | SCALE: - | OAES: A,S
+7 | A: eel | B: robot | ACT: hunted-by | SCALE: - | OAES: A,E
+8 | A: robot | B: deer | ACT: dismantled-by | SCALE: - | OAES: A,S
+9 | A: deer | B: jelly | ACT: drops-a-knife-into | SCALE: - | OAES: O,S
+10 | A: jelly | B: lever | ACT: taxed-by | SCALE: B=giant | OAES: A,S
+## 4
+1 | A: lever | B: tree | ACT: pulled-by | SCALE: - | OAES: S
+2 | A: tree | B: donkey(angry) | ACT: buried-in-forms-by | SCALE: - | OAES: E,S
+3 | A: donkey | B: screw | ACT: crawls-out-of-papers | SCALE: B=tiny | OAES: S
+4 | A: screw | B: band | ACT: spots-smuggling | SCALE: - | OAES: A,S
+5 | A: band | B: baker(angry) | ACT: ambushed-by-tortes | SCALE: - | OAES: A,S
+6 | A: baker(angry) | B: twins | ACT: slips-on | SCALE: - | OAES: S
+7 | A: twins | B: number | ACT: judged-by | SCALE: - | OAES: S
+8 | A: number | B: vending-machine | ACT: offered-a-bribe-by | SCALE: - | OAES: E,S
+9 | A: vending-machine | B: mosquito | ACT: jammed-by | SCALE: - | OAES: E,S
+10 | A: mosquito | B: castle(green) | ACT: flies-into | SCALE: B=giant | OAES: O,S
+## 5
+1 | A: castle(green) | B: ear(ghostly) | ACT: collapses-releasing | SCALE: B=giant | OAES: O,S
+2 | A: ear | B: carrot | ACT: plugged-with | SCALE: - | OAES: E,S
+3 | A: carrot | B: car(many) | ACT: stacked-on | SCALE: B=giant | OAES: O,S
+4 | A: car(many) | B: statue(rusty) | ACT: falls-onto | SCALE: - | OAES: S
+5 | A: statue(rusty) | B: cucumber | ACT: dragged-by | SCALE: B=giant | OAES: S
+6 | A: cucumber | B: fort | ACT: bricks-up | SCALE: - | OAES: S
+7 | A: fort | B: sock(many) | ACT: patched-with | SCALE: - | OAES: E,S
+8 | A: broom(many) | B: bull(blue) | ACT: runs-into | SCALE: B=giant | OAES: O,S
+9 | A: bull(blue) | B: kid | ACT: charged-by | SCALE: - | OAES: S
+10 | A: kid | B: bowl(grin) | ACT: meets | SCALE: - | OAES: E,S
+## 6
+1 | A: bowl | B: bell(many) | ACT: covered-with | SCALE: - | OAES: A,S
+2 | A: bell | B: raccoon | ACT: told-by | SCALE: - | OAES: S
+3 | A: raccoon | B: louse | ACT: sells-a-bean-to | SCALE: - | OAES: E,S
+4 | A: louse | B: city | ACT: tested-by | SCALE: - | OAES: S
+5 | A: city | B: monster(pink) | ACT: invaded-by | SCALE: - | OAES: S
+6 | A: monster(pink) | B: flamingo | ACT: sews-a-costume | SCALE: - | OAES: S
+7 | A: flamingo | B: cart | ACT: out-shouted-by | SCALE: - | OAES: S
+8 | A: cart | B: ant | ACT: stuck-in-her-story | SCALE: - | OAES: S
+9 | A: ant | B: hose(golden) | ACT: blown-up-into | SCALE: B=giant | OAES: O,S
+10 | A: hose(golden) | B: submarine | ACT: sprays-and-sinks | SCALE: - | OAES: A,S
+## 7
+1 | A: submarine | B: ant(smiling) | ACT: pops-up-as | SCALE: - | OAES: S
+2 | A: ant | B: pearl(many) | ACT: paddles-into | SCALE: B=giant | OAES: S
+3 | A: pearl(many) | B: hole | ACT: drops-into | SCALE: B=giant | OAES: O,S
+4 | A: hole | B: nut(glowing) | ACT: rises-from | SCALE: - | OAES: S
+5 | A: nut(glowing) | B: key(brown) | ACT: dropped-into-mud | SCALE: - | OAES: S
+6 | A: key(brown) | B: ant(many) | ACT: carried-by | SCALE: - | OAES: S
+7 | A: ant(many) | B: coin | ACT: rides-up-to-moon | SCALE: - | OAES: A,S
+8 | A: coin | B: chariot | ACT: grabbed-by | SCALE: - | OAES: S
+9 | A: chariot | B: rollercoaster | ACT: smashes-into | SCALE: - | OAES: S
+10 | A: rollercoaster | B: pepper | ACT: dives-into | SCALE: - | OAES: S
+## 8
+1 | A: pepper | B: volcano | ACT: dropped-into | SCALE: B=tiny | OAES: S
+2 | A: volcano | B: circus | ACT: erupts-under | SCALE: - | OAES: S
+3 | A: circus | B: panda(many) | ACT: crashes-into | SCALE: - | OAES: E,S
+4 | A: panda(many) | B: smoke(crying) | ACT: stampede-through | SCALE: - | OAES: S
+5 | A: smoke(crying) | B: waterfall | ACT: triggers | SCALE: - | OAES: A,S
+6 | A: waterfall | B: calendar | ACT: floods | SCALE: - | OAES: E,S
+7 | A: calendar | B: knight(flaming) | ACT: dried-by | SCALE: - | OAES: S
+8 | A: knight(flaming) | B: flag(burning, many) | ACT: walks-into-bonfire | SCALE: - | OAES: S
+9 | A: fire | B: ox(angry) | ACT: stomped-out-by | SCALE: - | OAES: S
+10 | A: ox(angry) | B: tack | ACT: tacks-lips-shut | SCALE: B=giant | OAES: S
+## 9
+1 | A: ox(sad) | B: mummy | ACT: sits-beside | SCALE: - | OAES: S
+2 | A: mummy | B: cat(many) | ACT: blasted-by-phones | SCALE: - | OAES: S
+3 | A: cat(many) | B: tuning-fork | ACT: hummed-over-by | SCALE: B=giant | OAES: A,S
+4 | A: tuning-fork | B: doorman(sleepy) | ACT: wakes | SCALE: - | OAES: S
+5 | A: doorman(sleepy) | B: speaker | ACT: woken-by | SCALE: - | OAES: E,S
+6 | A: speaker | B: pillow | ACT: smothered-by | SCALE: B=giant | OAES: A,S
+7 | A: pillow | B: car | ACT: muffles | SCALE: - | OAES: E,S
+8 | A: car | B: clam(many) | ACT: crashes-into | SCALE: - | OAES: S
+9 | A: clam(many) | B: whale(singing) | ACT: silenced-by | SCALE: B=giant | OAES: S
+10 | A: whale(singing) | B: man(smiling) | ACT: shakes-chains-off | SCALE: - | OAES: S
+## 10
+1 | A: man | B: cheese | ACT: throws-chain-at | SCALE: B=giant | OAES: S
+2 | A: cheese | B: imp(many) | ACT: rolls-into | SCALE: - | OAES: S
+3 | A: imp(many) | B: tricycle | ACT: smashed-by | SCALE: - | OAES: S
+4 | A: tricycle | B: egg(many) | ACT: carried-by | SCALE: - | OAES: A,S
+5 | A: egg(many) | B: mom | ACT: rolls-into | SCALE: - | OAES: S
+6 | A: mom | B: cat | ACT: crashes-into | SCALE: - | OAES: S
+7 | A: cat | B: ant(many, angry) | ACT: leads-a-march | SCALE: - | OAES: S
+8 | A: ant(many, angry) | B: sign | ACT: build | SCALE: - | OAES: S
+9 | A: sign | B: volcano(green) | ACT: toppled-at-the-peak | SCALE: - | OAES: S
+10 | A: volcano(green) | B: tightrope | ACT: crossed-on | SCALE: - | OAES: S

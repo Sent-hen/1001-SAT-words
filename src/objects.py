@@ -849,6 +849,146 @@ def _lightning(c=None, **k):
 def _rainbow(c=None, **k):
     return "".join(P(f"M{-44+j*5},0 A{44-j*5},{44-j*5} 0 0 1 {44-j*5},0", "none", 5, col) for j, col in enumerate(["#e0533b", "#f39c3d", "#ffd23f", "#3f9b4a", "#2f6db5", "#8a4fc8"]))
 
+# ---- library growth · batch 1 (chapters 1-10)
+def _crypt(c=None, **k):
+    c = c or "#8a8a95"
+    return (f'<rect x="-34" y="-50" width="68" height="50" fill="{c}" stroke="{INK}" stroke-width="3"/>' + P("M-40,-50 L0,-72 L40,-50 Z", shade(c, 0.8), 3)
+            + P("M-12,0 V-24 Q0,-38 12,-24 V0 Z", "#1b1b2f", 2.5) + T(-22, -30, "?", 14, "#b48cff") + T(24, -34, "?", 12, "#b48cff"))
+
+def _tile(c=None, **k):
+    c = c or "#e0c28a"
+    return "".join(f'<rect x="{x}" y="{y}" width="22" height="22" fill="{c if (x+y) % 44 else shade(c, 0.8)}" stroke="{INK}" stroke-width="2.5" transform="rotate({r} {x+11} {y+11})"/>'
+                   for x, y, r in [(-34, -24, -8), (-10, -26, 6), (14, -22, -4), (-22, -50, 12), (4, -48, -10)])
+
+def _jelly(c=None, expr="scared", **k):
+    c = c or "#ff5fa2"
+    return (E(0, -4, 38, 6, "#f7f3e8", 2.5) + P("M-30,-6 Q-34,-40 -20,-48 Q0,-60 20,-48 Q34,-40 30,-6 Z", c, 3, extra='opacity=".9"')
+            + P("M-20,-48 Q-10,-40 0,-50 Q10,-40 20,-48", "none", 2, "#fff") + C(0, -58, 5, "#e0533b", 2) + face(0, -28, 0.7, expr))
+
+def _lever(c=None, **k):
+    c = c or "#d9a441"
+    return f'<rect x="-30" y="-14" width="60" height="14" fill="#8a5a2b" stroke="{INK}" stroke-width="3"/>' + L(0, -14, 26, -76, c, 7) + C(28, -80, 9, "#e0533b", 3) + C(0, -14, 6, "#6b6b78", 2)
+
+def _screw(c=None, **k):
+    c = c or "#c9ccd8"
+    return (E(0, -64, 20, 7, c, 3) + L(-8, -66, 8, -62, INK, 2.5) + P("M-9,-60 H9 L2,0 H-2 Z", c, 3)
+            + "".join(L(-8 + j * 1.4, -52 + j * 10, 8 - j * 1.4, -48 + j * 10, INK, 1.8) for j in range(5)))
+
+def _twins(c=None, expr="skeptic", **k):
+    return gs(person("kid", expr, c), -18, 0, 0.9) + gs(person("kid", expr, c), 18, 0, 0.9, flip=True)
+
+def _number(c=None, expr="happy", **k):
+    c = c or "#2f6db5"
+    return P("M-6,0 V-58 L-20,-48 V-62 L2,-80 H12 V0 Z", c, 3) + f'<rect x="-22" y="-10" width="46" height="10" fill="{c}" stroke="{INK}" stroke-width="3"/>' + face(3, -40, 0.55, expr)
+
+def _vending(c=None, expr="grin", **k):
+    c = c or "#c0262d"
+    return (f'<rect x="-30" y="-84" width="60" height="84" rx="4" fill="{c}" stroke="{INK}" stroke-width="3"/><rect x="-22" y="-74" width="30" height="46" fill="#bfefff" stroke="{INK}" stroke-width="2"/>'
+            + "".join(f'<rect x="{-20+dx}" y="{-70+dy}" width="8" height="8" fill="{col}"/>' for dx, dy, col in [(2, 2, "#ffd23f"), (14, 2, "#9cff57"), (2, 18, "#ff5fa2"), (14, 18, "#00e5ff"), (2, 32, "#f39c3d")])
+            + f'<rect x="14" y="-70" width="10" height="4" fill="{INK}"/>' + C(19, -54, 4, "#f4c542", 1.5) + f'<rect x="-20" y="-20" width="40" height="10" fill="{INK}"/>')
+
+def _ear(c=None, **k):
+    c = c or "#e8b98d"
+    return P("M-10,-80 Q30,-86 30,-46 Q30,-20 10,-12 Q4,0 -10,-4 Q-20,-8 -14,-18 Q0,-26 4,-40 Q6,-56 -8,-58 Q-20,-58 -22,-50 Q-30,-74 -10,-80 Z", c, 3) + P("M0,-66 Q18,-66 18,-48 Q18,-34 6,-30", "none", 2.5, shade(c, 0.7))
+
+def _sock(c=None, **k):
+    c = c or "#e0533b"
+    return P("M-10,-80 H14 V-30 Q14,-16 26,-12 Q40,-8 36,0 H-4 Q-14,0 -12,-14 Z", c, 3) + "".join(L(-10, y, 14, y, "#fff", 4) for y in (-72, -60)) + P("M22,-12 q12,0 14,10", "none", 2, shade(c, 0.7))
+
+def _bowl(c=None, expr="grin", **k):
+    c = c or "#2f6db5"
+    return E(0, -40, 36, 9, "#f3d9a0", 3) + "".join(C(x, y, 5, col, 1.5) for x, y, col in [(-20, -44, "#f39c3d"), (-6, -46, "#ffd23f"), (10, -44, "#e0533b"), (22, -42, "#f39c3d")]) + P("M-36,-40 Q-34,0 0,0 Q34,0 36,-40 Z", c, 3) + face(0, -22, 0.7, expr)
+
+def _cart(c=None, **k):
+    c = c or "#a0703a"
+    return P("M-40,-50 H30 L24,-16 H-34 Z", c, 3) + L(30, -50, 42, -62, INK, 4) + C(-24, -8, 9, "#555", 2.5) + C(14, -8, 9, "#555", 2.5) + "".join(L(x, -48, x - 2, -18, shade(c, 0.7), 2) for x in (-20, -4, 12))
+
+def _hose(c=None, **k):
+    c = c or "#3f9b4a"
+    return (P("M-40,-6 Q-40,-40 -10,-40 Q20,-40 20,-60", "none", 11, INK) + P("M-40,-6 Q-40,-40 -10,-40 Q20,-40 20,-60", "none", 7, c)
+            + f'<rect x="12" y="-78" width="16" height="18" rx="3" fill="#c9ccd8" stroke="{INK}" stroke-width="2.5"/>'
+            + "".join(P(f"M20,-80 q{dx},-14 {dx*2},-4", "none", 2.5, "#63aee0") for dx in (-10, 0, 10)))
+
+def _submarine(c=None, **k):
+    c = c or "#ffd23f"
+    return (E(0, -26, 42, 18, c, 3) + f'<rect x="-10" y="-58" width="22" height="18" rx="4" fill="{c}" stroke="{INK}" stroke-width="3"/>' + L(6, -58, 6, -70, INK, 3)
+            + L(6, -70, 16, -70, INK, 3) + "".join(C(x, -26, 6, "#63aee0", 2.5) for x in (-22, -4, 14)) + P("M40,-26 l10,-10 v20 Z", shade(c, 0.8), 2.5))
+
+def _buoy(c=None, **k):
+    return E(0, -10, 34, 10, c or "#e0533b", 3) + P("M-26,-12 L-12,-50 H12 L26,-12", "#f7f3e8", 3) + L(-18, -30, 18, -30, "#e0533b", 5) + C(0, -58, 8, "#ffd23f", 2.5)
+
+def _pearl(c=None, expr=None, **k):
+    return C(0, -30, 28, c or "#f7f3e8", 3) + C(-8, -40, 8, "#fff", 0, extra='opacity=".8"') + (face(4, -26, 0.8, expr) if expr and expr != "happy" else "")
+
+def _hole(c=None, **k):
+    return E(0, -16, 44, 16, c or "#0b0b18", 3) + E(0, -14, 34, 10, "#000", 0) + T(0, -40, "HISS", 13, "#b48cff", extra=f'stroke="{INK}" stroke-width="2" paint-order="stroke"')
+
+def _nut(c=None, expr="happy", **k):
+    c = c or "#c8773a"
+    return P("M-24,-40 Q-26,-6 0,0 Q26,-6 24,-40 Z", c, 3) + P("M-30,-40 Q-28,-62 0,-62 Q28,-62 30,-40 Z", shade(c, 0.7), 3) + L(0, -62, 2, -72, "#6b4a2a", 3) + face(0, -24, 0.6, expr)
+
+def _chariot(c=None, **k):
+    c = c or "#d9a441"
+    return P("M-30,-56 H20 Q30,-56 30,-40 V-20 H-30 Z", c, 3) + C(-8, -16, 16, "none", 4, "#8a5a2b") + L(-24, -16, 8, -16, "#8a5a2b", 2) + L(-8, -32, -8, 0, "#8a5a2b", 2) + L(30, -30, 48, -30, "#8a5a2b", 4)
+
+def _rollercoaster(c=None, **k):
+    c = c or "#e0533b"
+    return (P("M-44,0 Q-30,-80 -8,-40 Q8,-10 20,-60 Q30,-90 44,-20", "none", 5, c) + "".join(L(x, 0, x, y, "#8a5a2b", 2.5) for x, y in [(-36, -40), (-20, -52), (6, -22), (26, -58), (40, -34)])
+            + f'<rect x="12" y="-74" width="18" height="10" rx="3" fill="#2f6db5" stroke="{INK}" stroke-width="2" transform="rotate(-50 20 -68)"/>')
+
+def _pepper(c=None, expr="angry", **k):
+    c = c or "#e0533b"
+    return P("M-6,-66 Q-22,-60 -20,-30 Q-16,-4 4,0 Q10,-20 12,-40 Q14,-62 -6,-66 Z", c, 3) + P("M-6,-66 q2,-10 10,-12", "none", 4, "#3f9b4a") + face(-3, -40, 0.55, expr) + P("M18,-60 q8,-6 6,-14 M22,-48 q10,-2 10,-10", "none", 2, "#f39c3d")
+
+def _smoke(c=None, expr="crying", **k):
+    c = c or "#8a94a6"
+    return "".join(C(x, y, r, c, 2.5, extra='opacity=".92"') for x, y, r in [(-20, -20, 16), (4, -30, 20), (22, -18, 14), (-6, -52, 16), (14, -60, 12)]) + face(2, -32, 0.7, expr)
+
+def _waterfall(c=None, **k):
+    return (f'<rect x="-40" y="-84" width="80" height="12" fill="#8a7a6a" stroke="{INK}" stroke-width="2.5"/>' + P("M-30,-72 H30 L36,0 H-36 Z", c or "#63aee0", 3)
+            + "".join(L(x, -70, x * 1.2, -4, "#fff", 2, 'opacity=".7"') for x in (-20, -6, 8, 22)) + E(0, -2, 44, 6, "#bfefff", 2))
+
+def _calendar(c=None, **k):
+    return (f'<rect x="-30" y="-70" width="60" height="64" rx="4" fill="#fff" stroke="{INK}" stroke-width="3"/><rect x="-30" y="-70" width="60" height="16" rx="4" fill="{c or "#c0262d"}" stroke="{INK}" stroke-width="3"/>'
+            + "".join(f'<rect x="{-24+j%4*13}" y="{-48+j//4*13}" width="9" height="9" fill="#dfe6f0"/>' for j in range(12)) + L(-16, -76, -16, -64, INK, 3) + L(16, -76, 16, -64, INK, 3))
+
+def _tack(c=None, **k):
+    c = c or "#e0533b"
+    return C(0, -56, 22, c, 3) + E(0, -40, 12, 5, shade(c, 0.7), 2.5) + P("M-2,-36 L0,0 L2,-36 Z", "#c9ccd8", 2) + C(-8, -62, 5, "#fff", 0, extra='opacity=".5"')
+
+def _tuningfork(c=None, **k):
+    c = c or "#c9ccd8"
+    return (P("M-14,-84 V-40 Q-14,-26 0,-26 Q14,-26 14,-40 V-84", "none", 7, c) + L(0, -26, 0, 0, c, 7)
+            + "".join(P(f"M{s*24},-70 q{s*8},10 0,20 M{s*32},-74 q{s*10},14 0,28", "none", 2, "#ffd23f") for s in (-1, 1)))
+
+def _speaker(c=None, **k):
+    return (f'<rect x="-26" y="-76" width="52" height="76" rx="4" fill="{c or "#3a3a4a"}" stroke="{INK}" stroke-width="3"/>' + C(0, -22, 16, "#555", 3) + C(0, -22, 6, INK, 0) + C(0, -58, 9, "#555", 2.5)
+            + "".join(P(f"M{30+j*8},-50 q8,12 0,26", "none", 2.5, "#ffd23f") for j in range(3)))
+
+def _clam(c=None, expr="angry", **k):
+    c = c or "#f3d9c8"
+    return P("M-34,-8 Q-34,-40 0,-44 Q34,-40 34,-8 Z", c, 3) + P("M-34,-8 Q0,6 34,-8 Q0,-4 -34,-8 Z", shade(c, 0.85), 3) + "".join(L(0, -8, x, -38, shade(c, 0.7), 1.5) for x in (-22, -10, 10, 22)) + face(0, -26, 0.6, expr)
+
+def _tricycle(c=None, **k):
+    c = c or "#e0533b"
+    return C(-26, -14, 12, "none", 4, INK) + C(22, -24, 22, "none", 4, INK) + P("M-26,-14 L0,-30 L22,-24 M0,-30 L4,-62 M-8,-64 H16", "none", 5, c) + f'<rect x="-14" y="-38" width="20" height="8" rx="3" fill="{INK}"/>'
+
+def _sign(c=None, **k):
+    c = c or "#c0262d"
+    pts = " ".join(f"{26*math.cos(math.radians(22.5+45*j)):.1f},{-58+26*math.sin(math.radians(22.5+45*j)):.1f}" for j in range(8))
+    return L(0, -34, 0, 0, "#9aa8b8", 6) + f'<polygon points="{pts}" fill="{c}" stroke="{INK}" stroke-width="3"/>' + T(0, -53, "STOP", 12, "#fff", family="Arial,sans-serif", weight="900")
+
+def _tightrope(c=None, **k):
+    return L(-44, -60, -44, 0, "#8a5a2b", 5) + L(44, -60, 44, 0, "#8a5a2b", 5) + P("M-44,-58 Q0,-50 44,-58", "none", 2, "#d9c79a") + "".join(gs(_crowd_body(j, None), x, -54, 0.32) for j, x in enumerate((-22, 0, 22)))
+
+LIB_BATCH1 = {"crypt": _crypt, "tomb": _crypt, "tile": _tile, "jelly": _jelly, "lever": _lever, "screw": _screw, "twins": _twins, "twin": _twins,
+              "number": _number, "integer": _number, "vending-machine": _vending, "vending": _vending, "ear": _ear, "sock": _sock, "bowl": _bowl,
+              "cart": _cart, "hose": _hose, "submarine": _submarine, "sub": _submarine, "buoy": _buoy, "pearl": _pearl, "hole": _hole, "pit": _hole,
+              "abyss": _hole, "nut": _nut, "acorn": _nut, "chariot": _chariot, "rollercoaster": _rollercoaster, "roller-coaster": _rollercoaster,
+              "pepper": _pepper, "chili": _pepper, "smoke": _smoke, "waterfall": _waterfall, "calendar": _calendar, "tack": _tack, "thumbtack": _tack,
+              "fork": _tuningfork, "tuning-fork": _tuningfork, "speaker": _speaker, "loudspeaker": _speaker, "clam": _clam, "oyster": _clam,
+              "tricycle": _tricycle, "sign": _sign, "stop-sign": _sign, "tightrope": _tightrope}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1077,6 +1217,12 @@ ALIAS = {
     "cyclops": "monster", "minotaur": "bull", "sphinx": "lion", "hydra": "dragon", "golem": "statue", "gargoyle-statue": "statue", "titan": "monster",
     "hat-trick": "hat", "top-hat": "hat",
 }
+
+LIB.update(LIB_BATCH1)
+ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
+              "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
+              "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
+              "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
     """Library key for a noun, or None (-> thought-bubble fallback)."""
