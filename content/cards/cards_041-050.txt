@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 41-50 · reviewed by hand against each L: line
+## 41
+1 | A: detective | B: bear | ACT: follows-a-fur-trail-to | SCALE: - | OAES: S
+2 | A: bear | B: rock | ACT: starts-from-a-promise | SCALE: - | OAES: S
+3 | A: rock | B: tower | ACT: cracks-into-a-falling | SCALE: - | OAES: S
+4 | A: tower | B: robot | ACT: rebuilt-by | SCALE: - | OAES: S
+5 | A: robot | B: card | ACT: stamps-VALID-on | SCALE: - | OAES: S
+6 | A: card | B: hippo | ACT: tests-with | SCALE: - | OAES: S
+7 | A: hippo | B: judge | ACT: settled-by | SCALE: - | OAES: S
+8 | A: judge | B: man(glasses) | ACT: gavel-held-by | SCALE: - | OAES: S
+9 | A: man | B: chef | ACT: plays-chess-with | SCALE: - | OAES: S
+10 | A: chef | B: loom | ACT: sees-looming | SCALE: B=giant | OAES: S
+## 42
+1 | A: loom | B: shark(mean) | ACT: hides | SCALE: - | OAES: S
+2 | A: shark(mean) | B: mountain | ACT: guards | SCALE: B=giant | OAES: S
+3 | A: mountain | B: viking | ACT: climbed-by | SCALE: - | OAES: S
+4 | A: viking | B: cow(scared) | ACT: makes-cower | SCALE: - | OAES: S
+5 | A: cow(scared) | B: bully(mean) | ACT: bullied-by | SCALE: - | OAES: S
+6 | A: bully(mean) | B: mask | ACT: wears-a | SCALE: - | OAES: S
+7 | A: mask | B: ant | ACT: faced-by-a-knight | SCALE: - | OAES: S
+8 | A: ant | B: shield | ACT: repels-with | SCALE: - | OAES: S
+9 | A: shield | B: plunger | ACT: plunges-a-monster-with | SCALE: B=giant | OAES: S
+10 | A: plunger | B: soldier | ACT: splashes | SCALE: - | OAES: S
+## 43
+1 | A: soldier | B: statue | ACT: watched-by | SCALE: - | OAES: S
+2 | A: statue | B: card | ACT: keeps-a-poker-face-over | SCALE: - | OAES: S
+3 | A: card | B: soldier | ACT: balanced-by | SCALE: - | OAES: S
+4 | A: soldier | B: mint(many) | ACT: leads | SCALE: - | OAES: S
+5 | A: mint(many) | B: pyramid | ACT: line-up-in | SCALE: - | OAES: S
+6 | A: pyramid | B: sandwich | ACT: has-at-the-bottom | SCALE: - | OAES: S
+7 | A: sandwich | B: ant | ACT: obeyed-by | SCALE: - | OAES: S
+8 | A: ant | B: sandwich(angry) | ACT: annoyed-by | SCALE: - | OAES: S
+9 | A: sandwich(angry) | B: marshal | ACT: stopped-by | SCALE: - | OAES: S
+10 | A: marshal | B: potion | ACT: takes-a | SCALE: - | OAES: S
+## 44
+1 | A: potion | B: mint(sad) | ACT: cures | SCALE: - | OAES: S
+2 | A: mint(sad) | B: lady(sad) | ACT: catches-worse-from | SCALE: - | OAES: S
+3 | A: lady(sad) | B: bee(smiling) | ACT: turns-harmless-as | SCALE: - | OAES: S
+4 | A: bee | B: frog(red) | ACT: meets | SCALE: - | OAES: S
+5 | A: frog(red) | B: eraser | ACT: cured-by | SCALE: - | OAES: S
+6 | A: eraser | B: kid(many) | ACT: chases-a-tag-game | SCALE: - | OAES: S
+7 | A: kid(many) | B: cat | ACT: soothed-by | SCALE: - | OAES: S
+8 | A: cat | B: mitt | ACT: catches-hail-in | SCALE: B=giant | OAES: S
+9 | A: mitt | B: patient(sleepy) | ACT: helps-rest | SCALE: - | OAES: S
+10 | A: patient(sleepy) | B: coin(red) | ACT: pays-with-a-crayon | SCALE: - | OAES: S
+## 45
+1 | A: coin(red) | B: coin(gold) | ACT: compared-with | SCALE: - | OAES: S
+2 | A: coin(gold) | B: spur | ACT: swapped-for-a | SCALE: - | OAES: S
+3 | A: spur | B: money | ACT: spent-as-flowing | SCALE: - | OAES: S
+4 | A: money | B: soda | ACT: counted-by | SCALE: - | OAES: S
+5 | A: soda | B: coin(many) | ACT: debases | SCALE: - | OAES: S
+6 | A: soda | B: dragon(many, sleepy) | ACT: guarded-by | SCALE: - | OAES: S
+7 | A: dragon(sleepy) | B: squid | ACT: wasted-by | SCALE: - | OAES: S
+8 | A: squid | B: bowl(sad) | ACT: sent-to-plain-rice | SCALE: - | OAES: S
+9 | A: bowl(sad) | B: family(sad) | ACT: shared-by | SCALE: - | OAES: S
+10 | A: family(sad) | B: cloud(purple) | ACT: wanders-into | SCALE: B=giant | OAES: S
+## 46
+1 | A: cloud(purple) | B: window | ACT: hides-behind-a-painted | SCALE: - | OAES: S
+2 | A: window | B: carrot(talking) | ACT: described-vaguely-by | SCALE: - | OAES: S
+3 | A: carrot(talking) | B: lighthouse | ACT: turns-clear-as | SCALE: - | OAES: S
+4 | A: lighthouse | B: cloud(grey) | ACT: beams-through | SCALE: - | OAES: S
+5 | A: cloud(grey) | B: marble(glowing) | ACT: squished-into | SCALE: B=tiny | OAES: S
+6 | A: marble(glowing) | B: monster(blue) | ACT: evaporates-as | SCALE: - | OAES: S
+7 | A: monster(blue) | B: sponge | ACT: soaks-up-as | SCALE: - | OAES: S
+8 | A: sponge | B: cake | ACT: seeps-into | SCALE: - | OAES: S
+9 | A: cake | B: glass | ACT: turns-see-through-as | SCALE: - | OAES: S
+10 | A: glass | B: blacksmith | ACT: melted-by | SCALE: - | OAES: S
+## 47
+1 | A: hammer | B: bull(shock) | ACT: heats-in-a-pot | SCALE: - | OAES: S
+2 | A: bull(shock) | B: fan | ACT: cheered-by | SCALE: - | OAES: S
+3 | A: fan | B: fire-truck(red) | ACT: races-as | SCALE: - | OAES: S
+4 | A: fire-truck(red) | B: seal | ACT: full-of-zeal-like | SCALE: - | OAES: S
+5 | A: seal | B: candle(glowing) | ACT: juggles | SCALE: - | OAES: S
+6 | A: candle(glowing) | B: ember | ACT: knocked-over-into | SCALE: B=tiny | OAES: S
+7 | A: ember | B: campfire | ACT: kindled-into | SCALE: - | OAES: S
+8 | A: campfire | B: mountain | ACT: lights-a-steep-path-up | SCALE: B=giant | OAES: S
+9 | A: mountain | B: fort | ACT: climbed-with | SCALE: - | OAES: S
+10 | A: fort | B: chef | ACT: defended-by | SCALE: - | OAES: S
+## 48
+1 | A: chef | B: robot | ACT: competes-with | SCALE: - | OAES: S
+2 | A: robot | B: jet | ACT: calculates-the-path-of | SCALE: - | OAES: S
+3 | A: jet | B: arrow | ACT: followed-by | SCALE: - | OAES: S
+4 | A: arrow | B: bee(red) | ACT: watches-swerve | SCALE: - | OAES: S
+5 | A: bee(red) | B: scales | ACT: adjusts | SCALE: - | OAES: S
+6 | A: scales | B: rock | ACT: serve-a-judge | SCALE: - | OAES: S
+7 | A: rock | B: composer | ACT: keeps-calm-like | SCALE: - | OAES: S
+8 | A: composer | B: river(many) | ACT: watches-meet | SCALE: - | OAES: S
+9 | A: river | B: duck(many) | ACT: splits-into | SCALE: - | OAES: S
+10 | A: duck(many) | B: whale | ACT: swim-into-the-mouth-of | SCALE: B=giant | OAES: S
+## 49
+1 | A: whale | B: submarine | ACT: dives-beneath-the-earth-as | SCALE: - | OAES: S
+2 | A: submarine | B: dunk-tank | ACT: surfaces-in | SCALE: - | OAES: S
+3 | A: dunk-tank | B: desert | ACT: sits-in | SCALE: - | OAES: S
+4 | A: desert | B: hut | ACT: hides | SCALE: - | OAES: S
+5 | A: hut | B: iceberg | ACT: stranded-on | SCALE: - | OAES: S
+6 | A: iceberg | B: dude | ACT: sits-alone-on | SCALE: - | OAES: S
+7 | A: dude | B: hermit-crab | ACT: hides-like | SCALE: - | OAES: S
+8 | A: hermit-crab | B: boat(many) | ACT: offers-shelter-to | SCALE: - | OAES: S
+9 | A: boat(many) | B: referee | ACT: sheltered-by | SCALE: - | OAES: S
+10 | A: referee | B: ant | ACT: saved-by | SCALE: - | OAES: S
+## 50
+1 | A: ant | B: ant(smiling) | ACT: gives-lunch-away-as | SCALE: - | OAES: S
+2 | A: ant(smiling) | B: mirror | ACT: is-as-selfless-as | SCALE: - | OAES: S
+3 | A: mirror | B: rock(crying) | ACT: cracks-with-grief | SCALE: - | OAES: S
+4 | A: mirror | B: owl(crying) | ACT: makes-mourn | SCALE: - | OAES: S
+5 | A: owl(crying) | B: knight | ACT: propped-up-by | SCALE: - | OAES: S
+6 | A: knight | B: magnet(smiling) | ACT: is-as-big-hearted-as | SCALE: B=giant | OAES: S
+7 | A: magnet | B: boat(sad) | ACT: leaves-lonely | SCALE: - | OAES: S
+8 | A: boat(sad) | B: tribe | ACT: seeks-payback-from | SCALE: - | OAES: S
+9 | A: tribe | B: boy(sad) | ACT: takes-captive | SCALE: - | OAES: S
+10 | A: boy(sad) | B: elephant | ACT: freed-by | SCALE: - | OAES: S

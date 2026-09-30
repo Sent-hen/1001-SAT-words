@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 51-60 · reviewed by hand against each L: line
+## 51
+1 | A: elephant | B: collector | ACT: helps-gather-memories-with | SCALE: - | OAES: S
+2 | A: collector | B: cake | ACT: honors-a-hero-with | SCALE: - | OAES: S
+3 | A: cake | B: hat(party hat, singing) | ACT: hands-out | SCALE: - | OAES: S
+4 | A: hat | B: hole | ACT: thrown-into-a-black | SCALE: B=giant | OAES: S
+5 | A: hole | B: stain | ACT: cannot-swallow | SCALE: - | OAES: S
+6 | A: stain | B: book | ACT: written-into | SCALE: - | OAES: S
+7 | A: book | B: letter | ACT: posted-to-the-future-as | SCALE: - | OAES: S
+8 | A: letter | B: hippo(sleepy) | ACT: carried-slowly-by | SCALE: B=giant | OAES: S
+9 | A: hippo | B: crowd | ACT: bowed-to-by | SCALE: - | OAES: S
+10 | A: hippo | B: egg(scared) | ACT: sits-on | SCALE: - | OAES: S
+## 52
+1 | A: egg(scared) | B: cling-film | ACT: wrapped-in | SCALE: - | OAES: S
+2 | A: cling-film | B: grandpa | ACT: wraps-a-fraying | SCALE: - | OAES: S
+3 | A: grandpa | B: tile(many) | ACT: steps-on-snapping | SCALE: - | OAES: S
+4 | A: tile(many) | B: kite | ACT: thrown-up-high-like | SCALE: - | OAES: S
+5 | A: kite | B: jeans(glowing) | ACT: floats-up-as | SCALE: - | OAES: S
+6 | A: jeans | B: teacup | ACT: carry-a-delicate | SCALE: - | OAES: S
+7 | A: teacup | B: bull(iron) | ACT: replaced-by | SCALE: - | OAES: S
+8 | A: bull(iron) | B: inventor | ACT: builds-new-things-as | SCALE: - | OAES: S
+9 | A: inventor | B: lightbulb | ACT: writes-a-brand-new | SCALE: - | OAES: S
+10 | A: lightbulb | B: window(white) | ACT: seen-through | SCALE: - | OAES: S
+## 53
+1 | A: window | B: candle | ACT: hides-an-honest | SCALE: - | OAES: S
+2 | A: candle | B: kid | ACT: works-hard-as | SCALE: - | OAES: S
+3 | A: kid | B: bottle(purple) | ACT: finds-a-real | SCALE: - | OAES: S
+4 | A: bottle(purple) | B: tent | ACT: poured-beside-a-fake | SCALE: - | OAES: S
+5 | A: tent | B: hippo | ACT: owned-by | SCALE: - | OAES: S
+6 | A: hippo | B: hippo(monocle) | ACT: puts-on-airs-as | SCALE: - | OAES: S
+7 | A: hippo(monocle) | B: statue(brass) | ACT: outshouted-by | SCALE: - | OAES: S
+8 | A: statue(brass) | B: professor(shouting) | ACT: professes-love-as | SCALE: - | OAES: S
+9 | A: professor | B: vest | ACT: wears-a-flawless | SCALE: - | OAES: S
+10 | A: vest | B: star(many) | ACT: decorated-with | SCALE: - | OAES: S
+## 54
+1 | A: star(many) | B: mole | ACT: traded-to | SCALE: - | OAES: S
+2 | A: mole | B: galaxy | ACT: digs-into | SCALE: B=giant | OAES: S
+3 | A: galaxy | B: snake | ACT: goes-on-forever-as | SCALE: - | OAES: S
+4 | A: snake | B: dog | ACT: caught-circling-with | SCALE: - | OAES: S
+5 | A: dog | B: wave | ACT: loops-a-vast | SCALE: B=giant | OAES: S
+6 | A: wave | B: scientist | ACT: measured-by | SCALE: - | OAES: S
+7 | A: scientist | B: professor | ACT: argues-with | SCALE: - | OAES: S
+8 | A: professor | B: ghost(glowing) | ACT: sees | SCALE: - | OAES: S
+9 | A: ghost(glowing) | B: crowd(glasses) | ACT: makes-guess | SCALE: - | OAES: S
+10 | A: crowd | B: robot | ACT: marched-off-by | SCALE: - | OAES: S
+## 55
+1 | A: robot | B: chest | ACT: works-in-labelled | SCALE: - | OAES: S
+2 | A: chest | B: swimmer(many) | ACT: synchronized-with | SCALE: - | OAES: S
+3 | A: swimmer(many) | B: robot(chef hat) | ACT: follow-the-recipe-like | SCALE: - | OAES: S
+4 | A: robot(chef hat) | B: cupcake(many) | ACT: serves-identical | SCALE: - | OAES: S
+5 | A: cupcake(many) | B: icecream(many) | ACT: forced-into-one-shape-like | SCALE: - | OAES: S
+6 | A: machine | B: robot | ACT: escaped-by-a-self-ruling | SCALE: - | OAES: S
+7 | A: robot | B: map | ACT: follows | SCALE: - | OAES: S
+8 | A: map | B: clock | ACT: leads-through-an-intricate | SCALE: - | OAES: S
+9 | A: clock | B: gear(many) | ACT: has-an-extra | SCALE: - | OAES: S
+10 | A: gear | B: robot | ACT: compiles-pages-with | SCALE: - | OAES: S
+## 56
+1 | A: scroll(many) | B: ant | ACT: bound-into-a-book-by | SCALE: - | OAES: S
+2 | A: book | B: bag | ACT: grows-into | SCALE: - | OAES: S
+3 | A: bag | B: net | ACT: catches-everything-in | SCALE: B=giant | OAES: S
+4 | A: net | B: scissors | ACT: snipped-short-by | SCALE: - | OAES: S
+5 | A: letter | B: sink | ACT: sucked-down | SCALE: - | OAES: S
+6 | A: letter | B: bridge | ACT: cuts-short | SCALE: - | OAES: S
+7 | A: bridge | B: bee(many) | ACT: glued-by | SCALE: - | OAES: S
+8 | A: bee(many) | B: ant(many) | ACT: line-up-clearly-as | SCALE: - | OAES: S
+9 | A: ant(many) | B: cow(talking) | ACT: interrupted-by | SCALE: - | OAES: S
+10 | A: cow(talking) | B: swamp | ACT: wanders-into | SCALE: - | OAES: S
+## 57
+1 | A: dinosaur | B: genie | ACT: births | SCALE: - | OAES: S
+2 | A: genie | B: seed | ACT: starts-with | SCALE: - | OAES: S
+3 | A: seed | B: sprout | ACT: grows-into | SCALE: - | OAES: S
+4 | A: sprout | B: egg | ACT: is-as-early-as | SCALE: - | OAES: S
+5 | A: egg | B: boat | ACT: grows-into-a-model-on | SCALE: - | OAES: S
+6 | A: boat | B: robot(brown) | ACT: tested-as | SCALE: - | OAES: S
+7 | A: robot(brown) | B: flower(purple) | ACT: meets | SCALE: - | OAES: S
+8 | A: flower(purple) | B: baby(singing) | ACT: has-talent-like | SCALE: - | OAES: S
+9 | A: baby(singing) | B: zebra | ACT: born-with-stripes-like | SCALE: - | OAES: S
+10 | A: zebra | B: clay | ACT: painted-on | SCALE: - | OAES: S
+## 58
+1 | A: clay | B: kid | ACT: molded-into | SCALE: - | OAES: S
+2 | A: kid | B: calendar | ACT: lives-a-dull | SCALE: - | OAES: S
+3 | A: calendar | B: club | ACT: smashed-with | SCALE: - | OAES: S
+4 | A: club | B: diamond | ACT: polished-into | SCALE: - | OAES: S
+5 | A: diamond | B: artisan | ACT: made-by | SCALE: - | OAES: S
+6 | A: artisan | B: bucket | ACT: makes-a-useful | SCALE: - | OAES: S
+7 | A: bucket | B: painting | ACT: shown-beside | SCALE: - | OAES: S
+8 | A: painting | B: mint(many) | ACT: breaks-into-bits-like | SCALE: - | OAES: S
+9 | A: mint(many) | B: blob | ACT: melt-into | SCALE: - | OAES: S
+10 | A: blob | B: crowd(angry) | ACT: joins | SCALE: - | OAES: S
+## 59
+1 | A: crowd(angry) | B: rebel | ACT: led-by | SCALE: - | OAES: S
+2 | A: rebel | B: mouse(many) | ACT: leads-a-ship-revolt-of | SCALE: - | OAES: S
+3 | A: mouse(many) | B: turtle | ACT: is-as-radical-as | SCALE: - | OAES: S
+4 | A: turtle | B: giant | ACT: causes | SCALE: B=giant | OAES: S
+5 | A: city | B: painting | ACT: turns-as-vivid-as | SCALE: - | OAES: S
+6 | A: painting | B: clown(green) | ACT: gets-too-garish-like | SCALE: - | OAES: S
+7 | A: clown(green) | B: statue | ACT: smashes | SCALE: - | OAES: S
+8 | A: statue | B: icecream | ACT: rebels-like | SCALE: - | OAES: S
+9 | A: icecream | B: poster | ACT: provokes-like | SCALE: - | OAES: S
+10 | A: poster | B: juice(orange) | ACT: rejuvenated-by | SCALE: - | OAES: S
+## 60
+1 | A: juice(orange) | B: plant | ACT: revives | SCALE: - | OAES: S
+2 | A: plant | B: painter | ACT: blooms-in-a-fair-of | SCALE: - | OAES: S
+3 | A: painter | B: wave | ACT: sparks-a-rising | SCALE: - | OAES: S
+4 | A: wave | B: potion | ACT: invigorates-with | SCALE: - | OAES: S
+5 | A: crowd | B: butterfly | ACT: watches-transform-into | SCALE: - | OAES: S
+6 | A: butterfly | B: thief | ACT: seeks-redemption-with | SCALE: - | OAES: S
+7 | A: thief | B: salvage-crane | ACT: salvages-a-ship-with | SCALE: - | OAES: S
+8 | A: ship | B: hammer | ACT: restored-with | SCALE: - | OAES: S
+9 | A: ship | B: tailor | ACT: logbook-mended-by | SCALE: - | OAES: S
+10 | A: scroll | B: judge | ACT: judged-by | SCALE: - | OAES: S

@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 11-20 · reviewed by hand against each L: line
+## 11
+1 | A: tightrope | B: poet | ACT: traversed-by | SCALE: - | OAES: O,S
+2 | A: poet | B: vase | ACT: meets-a-swinging | SCALE: - | OAES: S
+3 | A: vase | B: scales | ACT: lands-on | SCALE: B=giant | OAES: S
+4 | A: scales | B: ape(scared) | ACT: watched-by | SCALE: - | OAES: S
+5 | A: ape(scared) | B: statue | ACT: hides-behind | SCALE: - | OAES: S
+6 | A: statue | B: mouse(many, scared) | ACT: approached-by | SCALE: - | OAES: S
+7 | A: mouse(many, scared) | B: boat | ACT: climb-into | SCALE: - | OAES: S
+8 | A: boat | B: wave | ACT: bobs-on | SCALE: - | OAES: S
+9 | A: wave | B: scientist(many) | ACT: tamed-by | SCALE: - | OAES: S
+10 | A: scientist(many) | B: cat | ACT: build-a-spinning | SCALE: - | OAES: S
+## 12
+1 | A: cat | B: note | ACT: sings-one | SCALE: - | OAES: S
+2 | A: note | B: bee | ACT: replaced-by | SCALE: - | OAES: S
+3 | A: bee | B: teddy(sleepy) | ACT: counts-sand-beside | SCALE: - | OAES: S
+4 | A: teddy(sleepy) | B: dog | ACT: pushed-uphill-by | SCALE: - | OAES: S
+5 | A: dog | B: owl | ACT: watched-by | SCALE: - | OAES: S
+6 | A: owl | B: bicycle | ACT: rides | SCALE: - | OAES: S
+7 | A: bicycle | B: fish | ACT: replaced-by | SCALE: - | OAES: S
+8 | A: fish | B: deer(green) | ACT: lands-in-the-pond | SCALE: - | OAES: S
+9 | A: deer(green) | B: horse | ACT: harnessed-to | SCALE: - | OAES: S
+10 | A: horse | B: monk(many) | ACT: gallops-into | SCALE: - | OAES: S
+## 13
+1 | A: monk(many) | B: teapot | ACT: sends-agent-under | SCALE: - | OAES: S
+2 | A: teapot | B: bat | ACT: spied-on-by | SCALE: - | OAES: S
+3 | A: bat | B: lizard | ACT: sneaked-up-on-by | SCALE: - | OAES: S
+4 | A: lizard | B: tower | ACT: climbs | SCALE: - | OAES: S
+5 | A: tower | B: cloud(grey) | ACT: vanishes-into | SCALE: - | OAES: S
+6 | A: cloud(grey) | B: whale | ACT: pops-out | SCALE: - | OAES: S
+7 | A: whale | B: snake | ACT: annoyed-by | SCALE: - | OAES: S
+8 | A: snake | B: ferret | ACT: slithers-off-as | SCALE: - | OAES: S
+9 | A: ferret | B: cricket | ACT: hands-secret-to | SCALE: - | OAES: S
+10 | A: cricket | B: tick | ACT: chirps-riddle-to | SCALE: - | OAES: S
+## 14
+1 | A: tick | B: magnet | ACT: is-a | SCALE: - | OAES: S
+2 | A: magnet | B: cat | ACT: cannot-pull | SCALE: - | OAES: S
+3 | A: cat | B: table | ACT: stares-at | SCALE: - | OAES: S
+4 | A: table | B: musician | ACT: opens-to-reveal | SCALE: - | OAES: S
+5 | A: musician | B: dancer | ACT: teaches | SCALE: - | OAES: S
+6 | A: dancer | B: fox | ACT: tricked-by | SCALE: - | OAES: S
+7 | A: fox | B: fox(sleepy, lying) | ACT: pretends-to-faint | SCALE: - | OAES: S
+8 | A: fox(lying) | B: elephant(pink) | ACT: lands-in-the-arms-of | SCALE: - | OAES: S
+9 | A: elephant(pink) | B: hedgehog | ACT: tiptoes-past | SCALE: - | OAES: S
+10 | A: hedgehog | B: seagull | ACT: guards | SCALE: - | OAES: S
+## 15
+1 | A: seagull | B: price-tag | ACT: faints-at | SCALE: B=giant | OAES: S
+2 | A: price-tag | B: dragon(gold) | ACT: grabbed-by | SCALE: - | OAES: S
+3 | A: dragon(gold) | B: barber | ACT: barters-with | SCALE: - | OAES: S
+4 | A: barber | B: knight(many) | ACT: becomes-a-deal | SCALE: - | OAES: S
+5 | A: knight(many) | B: mouse | ACT: ruined-by | SCALE: - | OAES: S
+6 | A: mouse | B: parsnip(white) | ACT: outdone-by | SCALE: - | OAES: S
+7 | A: parsnip(white) | B: compass | ACT: paid-back-with | SCALE: - | OAES: S
+8 | A: compass | B: shop(yellow) | ACT: opens-a | SCALE: - | OAES: S
+9 | A: shop(yellow) | B: seagull(many, wizard hat) | ACT: swarmed-by | SCALE: - | OAES: S
+10 | A: seagull(many) | B: family(angry) | ACT: start-a-feud | SCALE: - | OAES: S
+## 16
+1 | A: family(angry) | B: teacup | ACT: fight-over | SCALE: B=tiny | OAES: S
+2 | A: teacup | B: monster(angry) | ACT: smashed-by | SCALE: B=giant | OAES: S
+3 | A: monster(angry) | B: truck(white) | ACT: stopped-by | SCALE: - | OAES: S
+4 | A: truck(white) | B: duck | ACT: driven-by | SCALE: - | OAES: S
+5 | A: duck | B: seal | ACT: hugged-by | SCALE: - | OAES: S
+6 | A: seal | B: lion(angry) | ACT: growled-at-by | SCALE: - | OAES: S
+7 | A: lion(angry) | B: question | ACT: distracted-by | SCALE: - | OAES: S
+8 | A: question | B: pigeon(many, angry) | ACT: collapses-into | SCALE: - | OAES: S
+9 | A: pigeon(many, angry) | B: owl | ACT: separated-by | SCALE: - | OAES: S
+10 | A: owl | B: pyramid | ACT: sends-everyone-to | SCALE: - | OAES: S
+## 17
+1 | A: pyramid | B: sandal | ACT: holds-one | SCALE: - | OAES: S
+2 | A: crown | B: vest | ACT: leaves-only-a | SCALE: - | OAES: S
+3 | A: vest | B: robot(rusty) | ACT: worn-by | SCALE: - | OAES: S
+4 | A: robot(rusty) | B: robe(golden) | ACT: dressed-in | SCALE: - | OAES: S
+5 | A: robe(golden) | B: door | ACT: shown-off-at | SCALE: B=giant | OAES: S
+6 | A: door | B: flower(many) | ACT: carved-with | SCALE: - | OAES: S
+7 | A: flower(many) | B: bubble | ACT: painted-on | SCALE: - | OAES: S
+8 | A: bubble | B: pencil | ACT: pops-onto | SCALE: - | OAES: S
+9 | A: pencil | B: cave | ACT: digs-out | SCALE: - | OAES: S
+10 | A: cave | B: whirlpool | ACT: swallowed-by | SCALE: B=giant | OAES: S
+## 18
+1 | A: whirlpool | B: wave | ACT: engulfs | SCALE: - | OAES: S
+2 | A: wave | B: bowl | ACT: poured-into | SCALE: B=giant | OAES: S
+3 | A: bowl | B: trophy | ACT: squeezes-into | SCALE: - | OAES: S
+4 | A: trophy | B: vulture | ACT: slimed-by | SCALE: - | OAES: S
+5 | A: vulture | B: bread(angry) | ACT: hated-by | SCALE: - | OAES: S
+6 | A: bread(angry) | B: pirate(crying) | ACT: makes-desperate | SCALE: - | OAES: S
+7 | A: pirate(crying) | B: boat | ACT: builds-from-spoons | SCALE: - | OAES: S
+8 | A: boat | B: cannon | ACT: fires-everyone-out | SCALE: - | OAES: S
+9 | A: cannon | B: queen(shock) | ACT: lands-on | SCALE: - | OAES: S
+10 | A: queen(shock) | B: compass | ACT: spins-into | SCALE: - | OAES: S
+## 19
+1 | A: compass | B: maze | ACT: falls-into | SCALE: - | OAES: S
+2 | A: maze | B: deer(mean) | ACT: holds-a | SCALE: - | OAES: S
+3 | A: deer(mean) | B: circus | ACT: wanders-through | SCALE: - | OAES: S
+4 | A: circus | B: wildebeest(shock) | ACT: bewilders | SCALE: - | OAES: S
+5 | A: wildebeest(shock) | B: imp(many) | ACT: bumps-into | SCALE: - | OAES: S
+6 | A: imp(many) | B: genie | ACT: solved-by | SCALE: - | OAES: S
+7 | A: genie | B: ant | ACT: teaches | SCALE: - | OAES: S
+8 | A: ant | B: cloud(grey) | ACT: marches-into | SCALE: B=giant | OAES: S
+9 | A: cloud(grey) | B: eel | ACT: hides | SCALE: - | OAES: S
+10 | A: eel | B: tray | ACT: bets-away | SCALE: - | OAES: S
+## 20
+1 | A: eel | B: stairs | ACT: climbs | SCALE: - | OAES: S
+2 | A: stairs | B: city | ACT: built-by | SCALE: - | OAES: S
+3 | A: city | B: cat(mean) | ACT: ruled-by | SCALE: - | OAES: S
+4 | A: cat(mean) | B: chair | ACT: pulls-away | SCALE: - | OAES: S
+5 | A: chair | B: seagull | ACT: fools | SCALE: - | OAES: S
+6 | A: seagull | B: lamb | ACT: friends-with | SCALE: - | OAES: S
+7 | A: lamb | B: dictator(angry) | ACT: chased-by | SCALE: - | OAES: S
+8 | A: dictator(angry) | B: broccoli | ACT: demands-you-eat | SCALE: - | OAES: S
+9 | A: broccoli | B: magician(sad) | ACT: breaks | SCALE: - | OAES: S
+10 | A: magician(sad) | B: bus(many) | ACT: swept-into | SCALE: - | OAES: S

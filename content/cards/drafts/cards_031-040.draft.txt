@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 31
+1 | A: melon-collie | B: some-bear | ACT: links-to | SCALE: - | OAES: S
+2 | A: some-bear | B: shoe | ACT: hugs | SCALE: - | OAES: S
+3 | A: shoe | B: cone-sole(crying) | ACT: hugs | SCALE: - | OAES: S
+4 | A: cone-sole(crying) | B: lamb-ment | ACT: links-to | SCALE: - | OAES: S
+5 | A: lamb-ment | B: sea | ACT: links-to | SCALE: - | OAES: S
+6 | A: sea | B: feather-pen | ACT: turns-into | SCALE: - | OAES: S
+7 | A: feather-pen | B: cow | ACT: links-to | SCALE: - | OAES: S
+8 | A: cow | B: moon | ACT: links-to | SCALE: - | OAES: S
+9 | A: moon | B: garden | ACT: links-to | SCALE: - | OAES: S
+10 | A: garden | B: coin | ACT: drops-on | SCALE: - | OAES: S
+## 32
+1 | A: coin | B: pool | ACT: drops-on | SCALE: - | OAES: S
+2 | A: pool | B: volcano | ACT: gulps | SCALE: - | OAES: S
+3 | A: volcano | B: add-verse-city | ACT: links-to | SCALE: - | OAES: S
+4 | A: add-verse-city | B: parrot | ACT: turns-into | SCALE: - | OAES: S
+5 | A: parrot | B: vice-grip | ACT: links-to | SCALE: - | OAES: S
+6 | A: vice-grip | B: fick-pickle | ACT: links-to | SCALE: - | OAES: S
+7 | A: fick-pickle | B: tower | ACT: pulls | SCALE: - | OAES: S
+8 | A: tower | B: camera | ACT: catches | SCALE: - | OAES: S
+9 | A: camera | B: moon | ACT: links-to | SCALE: - | OAES: S
+10 | A: moon | B: lemon | ACT: drops-on | SCALE: - | OAES: S
+## 33
+1 | A: lemon | B: acid | ACT: links-to | SCALE: - | OAES: S
+2 | A: acid | B: sardine-ic | ACT: drops-on | SCALE: - | OAES: S
+3 | A: sardine-ic | B: review | ACT: links-to | SCALE: - | OAES: S
+4 | A: review | B: balloon | ACT: climbs-out | SCALE: - | OAES: S
+5 | A: balloon | B: shoe | ACT: links-to | SCALE: - | OAES: S
+6 | A: shoe | B: sick-o-fan | ACT: links-to | SCALE: - | OAES: S
+7 | A: sick-o-fan | B: acid | ACT: links-to | SCALE: - | OAES: S
+8 | A: acid | B: poodle | ACT: links-to | SCALE: - | OAES: S
+9 | A: poodle | B: parrot | ACT: links-to | SCALE: - | OAES: S
+10 | A: parrot | B: giant | ACT: links-to | SCALE: - | OAES: S
+## 34
+1 | A: giant | B: iron | ACT: links-to | SCALE: A=giant | OAES: S
+2 | A: iron | B: cat | ACT: links-to | SCALE: - | OAES: S
+3 | A: cat | B: trainer | ACT: links-to | SCALE: - | OAES: S
+4 | A: trainer | B: shark | ACT: chases | SCALE: - | OAES: S
+5 | A: shark | B: sloth | ACT: links-to | SCALE: - | OAES: S
+6 | A: sloth | B: plate-cake | ACT: links-to | SCALE: - | OAES: S
+7 | A: plate-cake | B: manager-ie | ACT: links-to | SCALE: - | OAES: S
+8 | A: manager-ie | B: mouse | ACT: links-to | SCALE: - | OAES: S
+9 | A: mouse | B: caveman | ACT: links-to | SCALE: - | OAES: S
+10 | A: caveman | B: orator | ACT: links-to | SCALE: - | OAES: S
+## 35
+1 | A: orator | B: artist | ACT: links-to | SCALE: - | OAES: S
+2 | A: artist | B: song | ACT: links-to | SCALE: - | OAES: S
+3 | A: song | B: dance | ACT: links-to | SCALE: - | OAES: S
+4 | A: dance | B: man | ACT: turns-into | SCALE: - | OAES: S
+5 | A: man | B: alligator | ACT: links-to | SCALE: - | OAES: S
+6 | A: alligator | B: sat-tire | ACT: links-to | SCALE: - | OAES: S
+7 | A: sat-tire | B: chef | ACT: throws | SCALE: - | OAES: S
+8 | A: chef | B: friend | ACT: turns-into | SCALE: - | OAES: S
+9 | A: friend | B: orator | ACT: turns-into | SCALE: - | OAES: S
+10 | A: orator | B: machine | ACT: drops-on | SCALE: - | OAES: S
+## 36
+1 | A: machine | B: rose | ACT: links-to | SCALE: - | OAES: S
+2 | A: rose | B: point-ant | ACT: links-to | SCALE: - | OAES: S
+3 | A: point-ant | B: heart-shaped | ACT: links-to | SCALE: - | OAES: S
+4 | A: heart-shaped | B: nose-talgia | ACT: links-to | SCALE: - | OAES: S
+5 | A: nose-talgia | B: genie | ACT: links-to | SCALE: - | OAES: S
+6 | A: genie | B: shoe | ACT: links-to | SCALE: - | OAES: S
+7 | A: shoe | B: compass | ACT: pulls | SCALE: - | OAES: S
+8 | A: compass | B: vulture-able | ACT: opens | SCALE: - | OAES: S
+9 | A: vulture-able | B: cat | ACT: bursts-out | SCALE: - | OAES: S
+10 | A: cat | B: alley-giant | ACT: links-to | SCALE: - | OAES: S
+## 37
+1 | A: alley-giant | B: dog | ACT: links-to | SCALE: A=giant | OAES: S
+2 | A: dog | B: vow | ACT: throws | SCALE: - | OAES: S
+3 | A: vow | B: shoe | ACT: links-to | SCALE: - | OAES: S
+4 | A: shoe | B: cove-and-ant | ACT: links-to | SCALE: - | OAES: S
+5 | A: cove-and-ant | B: grandma | ACT: links-to | SCALE: - | OAES: S
+6 | A: grandma | B: wall | ACT: carries | SCALE: - | OAES: S
+7 | A: wall | B: camera-derie | ACT: hugs | SCALE: - | OAES: S
+8 | A: camera-derie | B: ally-ant(many) | ACT: links-to | SCALE: - | OAES: S
+9 | A: ally-ant(many) | B: chef | ACT: links-to | SCALE: - | OAES: S
+10 | A: chef | B: card | ACT: links-to | SCALE: - | OAES: S
+## 38
+1 | A: card | B: message | ACT: links-to | SCALE: - | OAES: S
+2 | A: message | B: in-dice-isive | ACT: links-to | SCALE: - | OAES: S
+3 | A: in-dice-isive | B: die-lemon | ACT: links-to | SCALE: - | OAES: S
+4 | A: die-lemon | B: cow | ACT: links-to | SCALE: - | OAES: S
+5 | A: cow | B: man | ACT: links-to | SCALE: - | OAES: S
+6 | A: man | B: cone-un-drum | ACT: links-to | SCALE: - | OAES: S
+7 | A: cone-un-drum | B: cat | ACT: links-to | SCALE: - | OAES: S
+8 | A: cat | B: owner | ACT: links-to | SCALE: - | OAES: S
+9 | A: owner | B: politician | ACT: links-to | SCALE: - | OAES: S
+10 | A: politician | B: grandpa | ACT: links-to | SCALE: B=tiny | OAES: S
+## 39
+1 | A: grandpa | B: lake | ACT: links-to | SCALE: B=tiny | OAES: S
+2 | A: lake | B: party | ACT: carries | SCALE: - | OAES: S
+3 | A: party | B: lightbulb | ACT: links-to | SCALE: - | OAES: S
+4 | A: lightbulb | B: turtle | ACT: links-to | SCALE: - | OAES: S
+5 | A: turtle | B: sage-acious | ACT: links-to | SCALE: - | OAES: S
+6 | A: sage-acious | B: leg-a-see | ACT: links-to | SCALE: - | OAES: S
+7 | A: leg-a-see | B: brain | ACT: links-to | SCALE: - | OAES: S
+8 | A: brain | B: lamp | ACT: links-to | SCALE: - | OAES: S
+9 | A: lamp | B: wise | ACT: links-to | SCALE: - | OAES: S
+10 | A: wise | B: ship | ACT: links-to | SCALE: - | OAES: S
+## 40
+1 | A: ship | B: net | ACT: catches | SCALE: - | OAES: S
+2 | A: net | B: ant | ACT: links-to | SCALE: - | OAES: S
+3 | A: ant | B: soldier | ACT: links-to | SCALE: - | OAES: S
+4 | A: soldier | B: superpower | ACT: links-to | SCALE: - | OAES: S
+5 | A: superpower | B: port-tent | ACT: links-to | SCALE: - | OAES: S
+6 | A: port-tent | B: card | ACT: links-to | SCALE: - | OAES: S
+7 | A: card | B: ninja | ACT: links-to | SCALE: - | OAES: S
+8 | A: ninja | B: storm | ACT: links-to | SCALE: - | OAES: S
+9 | A: storm | B: harbor-singer | ACT: links-to | SCALE: - | OAES: S
+10 | A: harbor-singer | B: detective | ACT: links-to | SCALE: - | OAES: S

@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 91
+1 | A: palace | B: fish | ACT: links-to | SCALE: - | OAES: S
+2 | A: fish | B: ostrich-tatious | ACT: links-to | SCALE: - | OAES: S
+3 | A: ostrich-tatious | B: lava-sh | ACT: throws | SCALE: - | OAES: S
+4 | A: lava-sh | B: wanderer(many) | ACT: links-to | SCALE: - | OAES: S
+5 | A: wanderer(many) | B: outfit | ACT: links-to | SCALE: - | OAES: S
+6 | A: outfit | B: feast(many) | ACT: links-to | SCALE: - | OAES: S
+7 | A: feast(many) | B: guest | ACT: links-to | SCALE: - | OAES: S
+8 | A: guest | B: door | ACT: drops-on | SCALE: - | OAES: S
+9 | A: door | B: peacock | ACT: smashes | SCALE: - | OAES: S
+10 | A: peacock | B: eye-rate | ACT: links-to | SCALE: - | OAES: S
+## 92
+1 | A: eye-rate | B: liver-d | ACT: links-to | SCALE: - | OAES: S
+2 | A: liver-d | B: rat-th | ACT: throws | SCALE: - | OAES: S
+3 | A: rat-th | B: incense | ACT: links-to | SCALE: - | OAES: S
+4 | A: incense | B: rancher | ACT: carries | SCALE: - | OAES: S
+5 | A: rancher | B: tie | ACT: links-to | SCALE: - | OAES: S
+6 | A: tie | B: hostel | ACT: smashes | SCALE: - | OAES: S
+7 | A: hostel | B: tire-ade | ACT: links-to | SCALE: - | OAES: S
+8 | A: tire-ade | B: scoreboard | ACT: links-to | SCALE: - | OAES: S
+9 | A: scoreboard | B: grandpa | ACT: bursts-out | SCALE: - | OAES: S
+10 | A: grandpa | B: art-office | ACT: smashes | SCALE: A=giant,B=giant | OAES: S
+## 93
+1 | A: art-office | B: van | ACT: links-to | SCALE: - | OAES: S
+2 | A: van | B: marble | ACT: links-to | SCALE: - | OAES: S
+3 | A: marble | B: egg | ACT: links-to | SCALE: - | OAES: S
+4 | A: egg | B: lab(many) | ACT: links-to | SCALE: - | OAES: S
+5 | A: lab(many) | B: violinist | ACT: links-to | SCALE: - | OAES: S
+6 | A: violinist | B: terrier | ACT: links-to | SCALE: - | OAES: S
+7 | A: terrier | B: submarine | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: submarine | B: thrall | ACT: catches | SCALE: - | OAES: S
+9 | A: thrall | B: baby | ACT: links-to | SCALE: - | OAES: S
+10 | A: baby | B: cat | ACT: drops-on | SCALE: - | OAES: S
+## 94
+1 | A: cat | B: child | ACT: links-to | SCALE: - | OAES: S
+2 | A: child | B: certificate | ACT: links-to | SCALE: - | OAES: S
+3 | A: certificate | B: re-gym | ACT: links-to | SCALE: - | OAES: S
+4 | A: re-gym | B: die-nasty | ACT: links-to | SCALE: - | OAES: S
+5 | A: die-nasty | B: hedge-money | ACT: links-to | SCALE: - | OAES: S
+6 | A: hedge-money | B: sitting | ACT: links-to | SCALE: - | OAES: S
+7 | A: sitting | B: field | ACT: drops-on | SCALE: - | OAES: S
+8 | A: field | B: pre-seed-ent | ACT: links-to | SCALE: - | OAES: S
+9 | A: pre-seed-ent | B: man | ACT: links-to | SCALE: - | OAES: S
+10 | A: man | B: messenger | ACT: links-to | SCALE: - | OAES: S
+## 95
+1 | A: messenger | B: deli-gate | ACT: links-to | SCALE: - | OAES: S
+2 | A: deli-gate | B: rulebook | ACT: links-to | SCALE: - | OAES: S
+3 | A: rulebook | B: etti-kettle | ACT: drops-on | SCALE: - | OAES: S
+4 | A: etti-kettle | B: living | ACT: links-to | SCALE: - | OAES: S
+5 | A: living | B: knight | ACT: carries | SCALE: - | OAES: S
+6 | A: knight | B: diplomat | ACT: links-to | SCALE: - | OAES: S
+7 | A: diplomat | B: man | ACT: links-to | SCALE: - | OAES: S
+8 | A: man | B: gate | ACT: links-to | SCALE: - | OAES: S
+9 | A: gate | B: city(many) | ACT: links-to | SCALE: - | OAES: S
+10 | A: city(many) | B: stew-pour | ACT: drops-on | SCALE: - | OAES: S
+## 96
+1 | A: stew-pour | B: lamb(sleepy) | ACT: links-to | SCALE: - | OAES: S
+2 | A: lamb(sleepy) | B: sink | ACT: links-to | SCALE: - | OAES: S
+3 | A: sink | B: sleeper | ACT: links-to | SCALE: - | OAES: S
+4 | A: sleeper | B: owl | ACT: links-to | SCALE: - | OAES: S
+5 | A: owl | B: ant | ACT: carries | SCALE: - | OAES: S
+6 | A: ant | B: soap-or-ific | ACT: drops-on | SCALE: - | OAES: S
+7 | A: soap-or-ific | B: man | ACT: links-to | SCALE: - | OAES: S
+8 | A: man | B: star | ACT: links-to | SCALE: - | OAES: S
+9 | A: star | B: ant | ACT: links-to | SCALE: - | OAES: S
+10 | A: ant | B: mountain | ACT: climbs-out | SCALE: - | OAES: S
+## 97
+1 | A: mountain | B: weightlifter | ACT: carries | SCALE: - | OAES: S
+2 | A: weightlifter | B: teapot | ACT: drops-on | SCALE: - | OAES: S
+3 | A: teapot | B: robot | ACT: links-to | SCALE: - | OAES: S
+4 | A: robot | B: bunny | ACT: links-to | SCALE: - | OAES: S
+5 | A: bunny | B: purse-sistent | ACT: smashes | SCALE: - | OAES: S
+6 | A: purse-sistent | B: ladder | ACT: climbs-out | SCALE: - | OAES: S
+7 | A: ladder | B: kid | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: kid | B: knight | ACT: links-to | SCALE: - | OAES: S
+9 | A: knight | B: mountain | ACT: links-to | SCALE: - | OAES: S
+10 | A: mountain | B: face-off | ACT: links-to | SCALE: - | OAES: S
+## 98
+1 | A: face-off | B: shark | ACT: chases | SCALE: - | OAES: S
+2 | A: shark | B: ant | ACT: links-to | SCALE: - | OAES: S
+3 | A: ant | B: hero | ACT: links-to | SCALE: - | OAES: S
+4 | A: hero | B: statue | ACT: links-to | SCALE: - | OAES: S
+5 | A: statue | B: soldier | ACT: links-to | SCALE: - | OAES: S
+6 | A: soldier | B: brick | ACT: links-to | SCALE: - | OAES: S
+7 | A: brick | B: grass | ACT: links-to | SCALE: - | OAES: S
+8 | A: grass | B: climber | ACT: climbs-out | SCALE: - | OAES: S
+9 | A: climber | B: emperor | ACT: links-to | SCALE: - | OAES: S
+10 | A: emperor | B: door | ACT: links-to | SCALE: - | OAES: S
+## 99
+1 | A: door | B: key | ACT: opens | SCALE: - | OAES: S
+2 | A: key | B: door | ACT: opens | SCALE: - | OAES: S
+3 | A: door | B: coin | ACT: opens | SCALE: - | OAES: S
+4 | A: coin | B: genie | ACT: turns-into | SCALE: - | OAES: S
+5 | A: genie | B: iron | ACT: links-to | SCALE: - | OAES: S
+6 | A: iron | B: penguin | ACT: turns-into | SCALE: - | OAES: S
+7 | A: penguin | B: shed | ACT: opens | SCALE: - | OAES: S
+8 | A: shed | B: train | ACT: turns-into | SCALE: - | OAES: S
+9 | A: train | B: junk-sure | ACT: links-to | SCALE: - | OAES: S
+10 | A: junk-sure | B: knot | ACT: links-to | SCALE: - | OAES: S
+## 100
+1 | A: knot | B: epic-log | ACT: links-to | SCALE: - | OAES: S
+2 | A: epic-log | B: climber | ACT: climbs-out | SCALE: - | OAES: S
+3 | A: climber | B: quintuplet | ACT: links-to | SCALE: - | OAES: S
+4 | A: quintuplet | B: flavor | ACT: links-to | SCALE: - | OAES: S
+5 | A: flavor | B: figure | ACT: links-to | SCALE: - | OAES: S
+6 | A: figure | B: card | ACT: links-to | SCALE: - | OAES: S
+7 | A: card | B: king | ACT: links-to | SCALE: A=giant | OAES: S
+8 | A: king | B: castle | ACT: links-to | SCALE: - | OAES: S
+9 | A: castle | B: rocket | ACT: links-to | SCALE: - | OAES: S
+10 | A: rocket | B: gnome | ACT: drops-on | SCALE: - | OAES: -

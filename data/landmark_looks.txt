@@ -1,0 +1,100 @@
+1|a white tower shaped like a crescent moon, fire-mirror on top, at the very southern tip of the docks
+2|a shouting market under striped awnings, ice-baskets of silver fish, a giant swordfish skull over the door
+3|long sheds where ropes are twisted, coils as big as houses, a rope bridge between two masts
+4|a stern stone building with scales on the roof and a huge brass stamp at the door
+5|dhow skeletons standing on wooden stilts like ribs of whales, sawdust and tar
+6|Sinbad's beached ship, tilted on its side, patched sails, seven flags from seven voyages
+7|a long pier with diving stones on ropes, oyster heaps and a giant clam used as a bench
+8|brick warehouses stacked with sacks of pepper, cinnamon and saffron, a crane with a hook
+9|a tall square tower with a great bronze bell and a signal-flag balcony
+10|two towers across the river holding a massive iron chain that blocks ships
+11|a bridge made of boats tied side-by-side, planks between them, wobbling
+12|floating barges with waterwheels turning millstones day and night
+13|a bathhouse on a raft, domed roof with glass star-holes, steam leaking out
+14|a reedy island covered in white herons, a single leaning palm
+15|a crooked hut on stilts with a lantern and a long pole, bells on the doorframe
+16|an island split by a fence, striped watermelons piled on both sides
+17|an old palace lying underwater, its domes just below the surface, fish in the windows
+18|a spinning whirlpool with a stone pillar in its center, the Tanin's lair
+19|tall reeds higher than a man, a maze of narrow water channels
+20|a toll gate at the west end of the bridge, a striped barrier pole and a coin box
+21|a huge copper arch covered in engraved camels, the entrance to the bazaar
+22|stalls of spice cones: red, yellow, orange pyramids, sneezing customers
+23|carpets hanging across the alley like flags, looms clacking
+24|crystal perfume bottles on shelves, clouds of scented smoke
+25|the booksellers' street, books stacked to the ceiling, ladders on wheels
+26|a lane of coppersmiths hammering pots, sparks and clangs, shining pans on walls
+27|Abu Hasan's sweet shop, towers of baklava, a honey fountain
+28|cages of parrots, canaries and peacocks stacked into a wall of feathers
+29|a storyteller's theater full of mirrors, candles repeated forever
+30|a domed square with a high auction stage, a gong and a bidding crowd
+31|a humpbacked stone bridge over the Sarat canal, weeping willows
+32|a giant wooden waterwheel lifting buckets, squealing as it turns
+33|a walled rose garden where the roses have tiny faces
+34|the caliph's zoo: giraffe, elephants and lions in marble pens
+35|a café with cushions, a poetry stage and brass coffee pots
+36|copper stills bubbling, rose petals piled like snowdrifts
+37|rows of pomegranate trees, a stone table where oaths are sworn
+38|a tall green hedge maze with a sundial at the center
+39|a lotus pond with a round pavilion on stilts, fireflies at night
+40|a tower in the garden wall with a view of the Basra Gate and its Brass Lion
+41|the south-eastern gate, a massive brass lion lying across the arch
+42|a drawbridge over a moat full of glowing eyes
+43|stone barracks, rows of helmets on pegs, a drill yard
+44|a great hospital (bimaristan) with herb gardens and a fountain courtyard
+45|the mint, coin presses stamping gold, stacked sacks of coins
+46|a steam bathhouse (hammam), marble slabs and thick fog
+47|blacksmiths' forge, glowing anvils, bellows breathing fire
+48|an archery range with straw targets and a tower of arrows
+49|a vast underground cistern of stone pillars standing in dark water
+50|a tall watchtower at the south-east corner of the wall, a signal fire on top
+51|the south-western gate, a brass elephant standing with raised trunk
+52|a paper mill, pulp vats and sheets drying on lines like laundry
+53|glassblowers' kilns, glowing bubbles of glass on long pipes
+54|a workshop filled with astrolabes, star-globes and brass rings
+55|a clocktower with mechanical figures that march out each hour
+56|a hall of bookbinders, leather stacks and gold-tooling presses
+57|vats of black ink as big as ponds, soot chimneys
+58|potters' kilns, shelves of clay jars and figurines
+59|dyers' pools in rainbow colors, cloth hanging to dry
+60|a calligraphy school with long desks and giant brush-letters on the walls
+61|the north-western gate, a brass eagle with wings spread over the arch
+62|a huge caravanserai, square courtyard full of camels and bales
+63|a dusty racetrack with camels in colored saddles
+64|black goat-hair tents of the nomads, a tall royal tent in the middle
+65|stone wells in the sand where the air shimmers with mirages
+66|a ruined fortress full of broken arches and owls
+67|white salt flats that crunch underfoot, blinding bright
+68|a row of windcatcher towers that breathe cool air into houses
+69|tall golden dunes that hum when the wind blows
+70|an oasis of date palms around a turquoise pool
+71|the north-eastern gate, a brass horse rearing above the arch
+72|royal stables, stalls of Arabian horses, hay lofts
+73|a windy hill full of kite-flyers, strings crisscrossing the sky
+74|an eight-sided tower with a weather vane and whistling holes
+75|the great observatory with a giant sextant carved into the hill
+76|a hall whose ceiling is a painted star-map that slowly moves
+77|a tower of pigeon-holes where carrier pigeons land with messages
+78|a plaza with an enormous sundial, the shadow as long as a street
+79|a moonlit well that reflects the moon even at noon
+80|the eastern ramparts, a walkway along the top of the wall
+81|a small arched gate in the inner wall, guarded, with iron spikes
+82|marble palaces of the spoiled princes, cushions and peacocks
+83|a vault with a round steel door, piles of treasure chests
+84|the House of Wisdom, now burned ruins, charred scrolls floating
+85|endless library stacks, rolling ladders, dusty scrolls
+86|a hall where translators sit at desks labeled with many languages
+87|a deep stone well that repeats every word three times
+88|the prison beneath, iron cells and a long dark corridor
+89|a hall with a giant table-map of the city and moving pieces
+90|a vast parade ground where armies (or crowds) gather
+91|the gold-plated gate of the palace, glittering too bright to look at
+92|a courtyard of fountains with water jets in the shape of lions
+93|a tree made of silver whose mechanical birds sing when wound
+94|the throne hall, a raised empty throne under a canopy
+95|a hall of ambassadors with flags of every land
+96|the caliph's bedchamber, a huge canopy bed and snoring bubbles
+97|a spiraling stair of a thousand steps up to the dome
+98|the inside of the Green Dome, the empty stand where the Lexicon floated
+99|the bronze horseman statue that stands on top of the dome and turns with the wind
+100|the sky above the dome, a crown of stars where the words come home

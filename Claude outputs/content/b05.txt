@@ -1,0 +1,364 @@
+## 21
+ST: the giant Copper Arch engraved with camels | the brass-studded threshold step | the hanging copper lantern on the left | the patterned cobblestone floor of the entrance plaza | the central fountain of the bazaar | the pillar covered in merchants' signs on the right | the money-changer's window at the back | the stone stair to the upper market | the balcony of the caravan inn overlooking the plaza | the golden crescent on top of the arch
+
+== bustling
+T: The Karkh Bazaar is the busiest place on Earth. Donkeys, merchants, jugglers and camels shove past. It's bustling: full of busy activity. Even grey and half-silent, it never stops moving.
+H: BUS-tling ≈ “BUS-JINGLING”: a hundred buses jingling through a market
+L: 201→202 · The jingling buses (bustling) unload a THRONG: a “THRONE-G” crowd so big it carries a king's throne on its shoulders like a surfboard (Substitution: THRONG ≈ throne-g).
+C: Station 1 · ARCH. Under the Copper Arch, a hundred buses jingle past with bells, honking = BUSTLING.
+P: A huge copper arch engraved with camels at the entrance to a bustling medieval Baghdad bazaar; donkeys, camels, merchants and jugglers everywhere; colors half-drained to grey; three kids, an old sailor and a baby roc entering
+
+== throng
+T: A throng, a large crowd, surges through the gate and sweeps them apart. Zayn feels a tiny tug at his satchel. Someone just picked his pocket.
+H: THRONG ≈ “THRONE-G”: a crowd so big it carries a throne
+L: 202→203 · The throne-carrying crowd (throng) is DIVERSE: “DIVE-VERSE,” people diving in from every country, every color, every size, all different kinds (Substitution: di-VERSE ≈ dive-verse).
+C: Station 2 · STEP. On the threshold step, a huge crowd lifts a throne over its heads = THRONG.
+P: A dense crowd surging through a bazaar gate, sweeping kids apart; a small hand sneaking into a boy's satchel
+
+== diverse
+T: Zayn chases the thief through the crowd: Persian traders, Chinese silk-sellers, African goldsmiths, Greek doctors. The bazaar is diverse: varied, of many kinds.
+H: di-VERSE ≈ “DIVE-VERSE”: every kind of person diving into one poem
+L: 203→204 · The varied crowd (diverse) shops at an ECLECTIC “ECLECTIC-CLOCK” shop selling one clock from every century: a sundial, a cuckoo, a robot and a clock made of cheese (Substitution: ec-LEC-tic ≈ eclectic collection).
+C: Station 3 · LAMP. The copper lantern on the left shines on people from every land, each in different clothes = DIVERSE.
+P: A boy chasing a thief through a bazaar crowd of traders from many lands: Persian, Chinese, African, Greek; rich variety of costumes
+
+== eclectic
+T: The thief darts into a stall selling everything: Indian drums, a stuffed crocodile, Chinese kites, a Viking helmet. The owner's taste is eclectic: drawn from many sources.
+H: ec-LEC-tic ≈ “A-COLLECT-IC”: a collection of everything
+L: 204→205 · The mixed-up shop (eclectic) bursts into VIBRANT “VIBE-RANT” colors: neon parrots, rainbow carpets and dancing lights, full of energy (Substitution: VI-brant ≈ vibe).
+C: Station 4 · RUG. On the cobblestone floor, a stall is piled with a crocodile, a drum, a kite and a Viking helmet = ECLECTIC.
+P: A cluttered stall full of a stuffed crocodile, a Viking helmet, drums and kites; a thief ducking inside; a boy skidding after
+
+== vibrant
+T: Out the back of the stall, the thief is caught by the one patch of the bazaar still full of color, where Zayn's spark of “RESILIENT” flared. It's vibrant: full of energy and color. And there she is: a girl in a crimson bandana, grinning.
+H: VI-brant ≈ “VIBE-RANT”: bursting with good vibes and color
+L: 205→206 · The colorful patch (vibrant) hosts a COSMOPOLITAN “COSMO-POLE-ITAN” party on a space pole where aliens from every planet mix happily (Substitution: cos-mo-POL-itan ≈ cosmos-pole).
+C: Station 5 · HEART. The central fountain shoots up neon, rainbow water, bursting with life = VIBRANT.
+P: A patch of bazaar bursting with color among grey stalls; a 16-year-old girl in a crimson bandana with a bandolier of throwing knives grinning while holding a stolen spark
+
+== cosmopolitan
+T: “I'm Marjana.” She speaks four languages in one sentence, greeting a Persian, a Greek and an Indian trader by name. She's cosmopolitan: at home in many cultures. “And that's my spark now.”
+H: cos-mo-POL-itan ≈ “COSMOS-POLE”: at home on every planet
+L: 206→207 · The space-pole party (cosmopolitan) runs on COMMERCE: “COMMA-MERCE,” shops trading commas for coins, all buying and selling (Substitution: COM-merce ≈ comma-merchants).
+C: Station 6 · PILLAR. On the sign-covered pillar, signs in twenty languages all say “WELCOME” = COSMOPOLITAN.
+P: A confident girl in a crimson bandana chatting easily with traders of many cultures while spinning a glowing spark on her finger
+
+== commerce
+T: “Everything here is commerce: buying and selling,” Marjana says. “What will you pay for your spark?” Layla offers the one thing Marjana can't steal: the truth about Zulmat.
+H: COM-merce ≈ “COME-MERCHANTS”: come buy, come sell
+L: 207→208 · The comma-shop (commerce) is run by a MERCANTILE “MERCHANT-TILE” robot made of tiles, whose only thought is trade and profit (Substitution: MER-can-tile ≈ merchant-tile).
+C: Station 7 · WINDOW. At the money-changer's window, coins, goods and handshakes fly in and out = COMMERCE.
+P: A girl scholar in an indigo headscarf talking seriously with a girl in a crimson bandana across a merchant's table; coins and goods around
+
+== mercantile
+T: Marjana leads them to her hideout, a mercantile maze of trading houses and merchants' warehouses. There the Forty Sparrows live, orphans who steal only from thieves. Each wears a grey feather.
+H: MER-can-tile ≈ “MERCHANT-TILE”: tiles made of merchants and trade
+L: 208→209 · The trading robot (mercantile) is copied a million times until it's UBIQUITOUS, “YOU-BIG-QUITE-US”: robots are everywhere, in your soup, your shoe, your hat (Substitution: u-BIQ-uitous ≈ you-big-quite-us).
+C: Station 8 · STAIR. Up the stone stair, every step is a merchant's stall = MERCANTILE.
+P: A secret hideout in a maze of trading warehouses; forty orphan kids each wearing a single grey feather; a girl in a crimson bandana leading the newcomers in
+
+== ubiquitous
+T: “The Vizier's agents are ubiquitous,” Marjana warns. They're found everywhere: under stalls, on roofs, in the crowd. His spies are on every corner.
+H: u-BIQ-ui-tous ≈ “YOU-BIG-QUITE-US”: they're everywhere, even on you
+L: 209→210 · The everywhere-robots (ubiquitous) cause a TUMULT: “TWO-MULE-T” mules crashing through a china shop in a noisy commotion (Substitution: TU-mult ≈ two-mule).
+C: Station 9 · BALCONY. From the inn balcony, you see spies on every roof, in every window, under every cart = UBIQUITOUS.
+P: A rooftop view of a bazaar where shadowy spies lurk on every corner, rooftop and stall; a girl in a crimson bandana pointing them out to the kids
+
+== tumult
+T: Suddenly the square erupts in tumult, a noisy commotion. Someone has dumped poison in the Street of Spices, and the spice-sellers are fainting. The Vizier's saboteurs are here.
+H: TU-mult ≈ “TWO-MULE-T”: two mules smashing through a shop
+L: 210→211 · The crashing mules (tumult) are sent by a SABOTAGE “SAB-O-TOGA” spy in a toga who throws a wooden shoe (sabot) into the machine to wreck it (Substitution: SAB-o-tage ≈ sabot-toga).
+C: Station 10 · TOP. On the crescent atop the arch, two mules are crashing and braying in a noisy commotion = TUMULT.
+P: A bazaar square erupting in noisy commotion; people running and shouting; spice-sellers fainting in the distance under drifting purple smoke
+
+## 22
+ST: the arch of hanging chili garlands | the step of saffron sacks | the cinnamon-stick lamp on the left | the floor dusted with red paprika | the towering spice pyramids at the center | the pillar of stacked pepper jars on the right | the window of the spice-grinder's shop | the ladder-stair to the drying racks | the drying-rack balcony | the chimney of the roasting oven on top
+
+== sabotage
+T: Somebody has mixed sleeping powder into the saffron. Whoever breathes it falls asleep, and Hushlings carry them away. It's sabotage: deliberately wrecking something.
+H: SAB-o-tage ≈ “SABOT”: a wooden shoe thrown in the machine
+L: 211→212 · The shoe-thrower (sabotage) hides behind a SINISTER “SIN-SISTER” in a black veil who smiles in a way that seems evil (Substitution: SIN-is-ter ≈ sin-sister).
+C: Station 1 · ARCH. Under the chili-garland arch, a spy throws a wooden shoe into the grinding wheel and it explodes = SABOTAGE.
+P: A spice street with towering colorful spice pyramids; merchants collapsing asleep from glittery purple powder; shadow creatures carrying them away
+
+== sinister
+T: A tall man in a black silk turban watches from the shadows, smiling. Something about him seems evil, sinister. Marjana whispers: “Silver-Tongue, the Vizier's auctioneer.”
+H: SIN-is-ter ≈ “SIN-SISTER”: a sister of sin with an evil smile
+L: 212→213 · The evil-smiling sister (sinister) flips a SUBVERT “SUB-VERT” submarine that sneaks under the city and weakens it from below (Substitution: sub-VERT ≈ sub-overturn).
+C: Station 2 · STEP. On the saffron step sits a smiling figure in a black veil. Something about her feels evil = SINISTER.
+P: A tall, smooth-faced man in a black silk turban with a silver tongue-shaped brooch, smiling sinisterly from shadows at the end of a spice street
+
+== subvert
+T: Silver-Tongue's plan is to subvert the bazaar, undermining it secretly by turning merchants against each other with rumors until nobody trusts anybody.
+H: sub-VERT ≈ “SUB-OVERTURN”: overturning from underneath
+L: 213→214 · The sneaky sub (subvert) is joined by a MEDDLE “MEDAL” busybody who pins medals on everyone's business, interfering everywhere (Substitution: MED-dle ≈ medal).
+C: Station 3 · LAMP. The cinnamon lamp on the left is tipped over by a tiny submarine sneaking underneath = SUBVERT.
+P: A sinister auctioneer whispering rumors to merchants who glare at each other with suspicion; trust crumbling
+
+== meddle
+T: Tariq wants to help, so he meddles with the spice scales and knocks over a whole pyramid of turmeric. “Stop meddling!” Zayn groans. To meddle is to interfere.
+H: MED-dle ≈ “MEDAL”: pinning medals on other people's business
+L: 214→215 · The medal busybody (meddle) accidentally UNDERMINES a tower: an “UNDER-MINE” miner digs under it until it wobbles and falls (Substitution: under-MINE ≈ under-mine).
+C: Station 4 · RUG. On the paprika floor, a busybody sticks his fingers into everyone's pots = MEDDLE.
+P: A small boy in a green cap knocking over a tower of bright yellow turmeric while fiddling with scales; his brother groaning
+
+== undermine
+T: Hushlings are digging under the spice pyramids, weakening them from below. They're undermining the whole street. The pyramids start to lean.
+H: under-MINE ≈ “UNDER-MINE”: digging a mine underneath
+L: 215→216 · The dug-under tower (undermine) is TAMPERED with by a “TAMPER-PAWS” raccoon who fiddles with the gears until they break (Substitution: TAM-per ≈ tamper-paws).
+C: Station 5 · HEART. Under the spice pyramids at the center, miners with pickaxes dig until everything wobbles = UNDERMINE.
+P: Shadow creatures tunneling under towering spice pyramids, which lean dangerously; kids pointing in alarm
+
+== tamper
+T: The Forty Sparrows find the saffron jars: someone has tampered with the seals, broken them and resealed them with purple wax. To tamper is to interfere harmfully.
+H: TAM-per ≈ “TAMPER-PAWS”: a raccoon's paws messing with the lock
+L: 216→217 · The meddling raccoon (tamper) is sent by a MALICIOUS “MALL-ICIOUS” mall-monster who enjoys causing harm (Substitution: ma-LI-cious ≈ mal-icious, bad).
+C: Station 6 · PILLAR. On the pepper-jar pillar, a raccoon fiddles with every lid to break the seals = TAMPER.
+P: Orphan kids with grey feathers examining spice jars with broken and resealed purple wax seals; a raccoon-like paw print
+
+== malicious
+T: “This isn't a prank,” Layla says. “It's malicious: intended to harm. They want the whole bazaar asleep before the auction.”
+H: ma-LI-cious ≈ “MAL-ICIOUS”: MAL means bad, full of bad intent
+L: 217→218 · The harmful mall-monster (malicious) is caught red-handed as the CULPRIT: “CULL-PIT,” he falls into a pit with a sign reading GUILTY (Substitution: CUL-prit ≈ cull-pit).
+C: Station 7 · WINDOW. Out the spice-grinder's window, a monster sprinkles poison on purpose, cackling = MALICIOUS.
+P: A girl scholar holding up a poisoned saffron jar, face serious; purple smoke; the sinister auctioneer's shadow on the wall
+
+== culprit
+T: Marjana spots the culprit, the one guilty: a spice-merchant in Silver-Tongue's pay, pockets full of purple wax. The Sparrows surround him.
+H: CUL-prit ≈ “CULL-PIT”: falling into the guilty pit
+L: 218→219 · The guilty man (culprit) is out-foxed by a CUNNING “CUNNING-HAM” pig in a disguise, cleverly deceitful, who swapped the wax (Substitution: CUN-ning ≈ cunning-ham).
+C: Station 8 · STAIR. On the ladder-stair, a man with purple-stained hands is caught in a spotlight marked GUILTY = CULPRIT.
+P: Orphan kids in grey feathers surrounding a guilty spice merchant with purple wax spilling from his pockets; a girl in a crimson bandana pointing a knife
+
+== cunning
+T: But Silver-Tongue is cunning, cleverly deceitful. He's switched the real sleeping powder into the fountain of the Auction Square. The saffron was just a decoy!
+H: CUN-ning ≈ “CUNNING HAM”: a sly pig in disguise
+L: 219→220 · The sly pig (cunning) is THWARTED by a “THWART-WART” frog who leaps into the way at the last second and blocks the plan with its warty tongue (Substitution: THWART ≈ thwart-wart).
+C: Station 9 · BALCONY. On the drying-rack balcony, a sly pig in a disguise swaps two jars behind everyone's back = CUNNING.
+P: A sinister auctioneer smirking while secretly pouring glittering purple powder into a fountain in a distant square; kids realizing too late
+
+== thwart
+T: Layla sends Qalam racing ahead to seal the fountain with ink, and it works. They thwart the plan: they block it. But as they celebrate, Tariq climbs onto a carpet in the weavers' alley… and it starts to move.
+H: THWART ≈ “THWART-WART”: a warty frog blocking the way
+L: 220→221 · The blocking frog (thwart) is knocked off by an ERRATIC “AIR-ATTIC” carpet that zigzags wildly through an attic, unpredictable and irregular (Substitution: er-RAT-ic ≈ air-attic).
+C: Station 10 · TOP. On the roasting-oven chimney, a warty frog sits in the way, blocking the smoke = THWART.
+P: A small ink djinn sealing a fountain with a dome of black ink while purple powder fizzles; kids cheering; in the background a boy in a green cap climbing onto a rolled carpet that twitches
+
+## 23
+ST: the arch of hanging carpets | the step of rolled carpets | the loom-lamp on the left | the carpet-covered alley floor | the giant loom at the center | the pillar wound with dyed yarn on the right | the weaver's window with patterns | the stair of stacked carpets | the drying-line balcony | the rooftop carpet-beating frame
+
+== erratic
+T: WHOOSH! The carpet shoots up with Tariq and Pebble on it! It zigzags, loops and dives. Its flight is erratic: unpredictable and irregular.
+H: er-RAT-ic ≈ “AIR-RAT-IC”: a rat zigzagging through the air
+L: 221→222 · The zigzag carpet (erratic) is ridden by a CAPRICIOUS “CAPRI-SHOES” goat who changes shoes and moods every second: happy, angry, sleepy (Substitution: ca-PRI-cious ≈ Capri-shoes).
+C: Station 1 · ARCH. Through the carpet arch, a rat on a tiny carpet zigzags crazily = ERRATIC.
+P: A flying carpet zigzagging wildly out of a narrow alley hung with colorful carpets; a small boy in a green cap and a fluffy baby roc clinging on; weavers shouting
+
+== capricious
+T: One moment the carpet purrs and floats gently, the next it bucks and spins. It's capricious: it changes mood suddenly. “It's a young carpet,” a weaver shouts. “Moody!”
+H: ca-PRI-cious ≈ “CAPRI-SHOES”: a goat who changes shoes and moods on a whim
+L: 222→223 · The mood-swinging goat (capricious) is chased by an AGILE “A-GILL” fish with legs who dodges and leaps like a ninja (Substitution: AG-ile ≈ a-gill).
+C: Station 2 · STEP. The rolled-carpet step changes mood: calm, then angry, then giggling = CAPRICIOUS.
+P: A flying carpet with an expressive face-like pattern suddenly bucking and spinning after floating calmly; a boy and baby roc tumbling
+
+== agile
+T: Zayn runs across rooftops, leaping gaps, sliding under laundry lines, flipping off an awning. He's agile: he moves quickly and easily. He's gaining on the carpet.
+H: AG-ile ≈ “A-GILL”: a nimble fish with legs
+L: 223→224 · The ninja fish (agile) enters a FRENETIC “FRENZY-TIC” dance club where everyone dances wildly at a hundred miles an hour (Substitution: fre-NET-ic ≈ frenzy).
+C: Station 3 · LAMP. Around the loom-lamp, a fish with legs flips and cartwheels like a ninja = AGILE.
+P: A boy with an orange headband leaping across rooftops, sliding under laundry lines and flipping off an awning in pursuit of a flying carpet
+
+== frenetic
+T: The whole bazaar joins the chase: weavers, Sparrows, dogs, a camel. It's frenetic: wildly energetic. Everyone is running, shouting, pointing.
+H: fre-NET-ic ≈ “FRENZY”: a wild frenzy
+L: 224→225 · The frenzied dance (frenetic) spins off a WAYWARD “WAY-WARD” wagon that ignores the road and wanders off into a hospital ward (Substitution: WAY-ward ≈ away-ward).
+C: Station 4 · RUG. On the carpet floor, a crowd dances wildly at super speed = FRENETIC.
+P: A wild, frenzied chase through a bazaar with weavers, orphan kids, barking dogs and a galloping camel all running after a flying carpet
+
+== wayward
+T: The carpet ignores every command, straying wherever it likes. It's wayward: hard to control, straying. It flies right into the perfumers' row.
+H: WAY-ward ≈ “AWAY-WARD”: always wandering away
+L: 225→226 · The wandering wagon (wayward) joins an UNRULY “UN-RULE-Y” classroom where kids tear up the rule book and swing from the lamps, disorderly and wild (Substitution: un-RU-ly ≈ un-rule-y).
+C: Station 5 · HEART. The giant loom at the center weaves a carpet that keeps flying off in the wrong direction = WAYWARD.
+P: A wayward flying carpet swerving off course into an alley lined with crystal perfume bottles; weavers facepalming
+
+== unruly
+T: The carpet's tassels whip about, knocking hats off and sending bottles flying. It's unruly: disorderly and wild. Pebble, excited, flaps and makes it worse.
+H: un-RU-ly ≈ “UN-RULE-Y”: no rules at all
+L: 226→227 · The rule-less class (unruly) CAREENS down a hill in a runaway shopping cart, “CAR-EEN,” swaying wildly left and right (Substitution: ca-REEN ≈ car-lean).
+C: Station 6 · PILLAR. The yarn pillar is wrapped in wild tangles as kittens run riot = UNRULY.
+P: A flying carpet with whipping tassels knocking off hats; a flapping baby roc making chaos worse; bottles and scarves flying
+
+== careen
+T: The carpet careens down the street, rushing wildly and swaying side to side, barely missing a fruit cart, then a fountain, then an old man.
+H: ca-REEN ≈ “CAR-LEAN”: a car leaning and swerving wildly
+L: 227→228 · The swerving cart (careen) is PURSUED by a PURSE-SUE lawyer chasing it with a purse and a lawsuit (Substitution: pur-SUE ≈ purse-sue).
+C: Station 7 · WINDOW. Past the weaver's window, a shopping cart careens, swaying wildly = CAREEN.
+P: A flying carpet careening sideways down a narrow street at high speed, narrowly missing a fruit cart, a fountain and an old man
+
+== pursue
+T: Zayn and Marjana pursue it, chasing it through three streets. “Left!” “Right!” “DUCK!”
+H: pur-SUE ≈ “PURSE-SUE”: chasing with a purse and a lawsuit
+L: 228→229 · The chasing lawyer (pursue) EXASPERATES an EXASPERATE “EGGS-ASPERATE” chef whose eggs keep cracking. He's so annoyed he screams into a pan (Substitution: ex-AS-per-ate ≈ eggs-aspirate).
+C: Station 8 · STAIR. Up the carpet stair, a lawyer with a purse chases a runaway carpet = PURSUE.
+P: A boy with an orange headband and a girl in a crimson bandana sprinting side by side, chasing a flying carpet through a bazaar street
+
+== exasperate
+T: The carpet stops, just out of reach, and wiggles its tassels at them. Then it flies off again. “This carpet exasperates me!” Zayn shouts. To exasperate is to annoy greatly.
+H: ex-AS-per-ate ≈ “EGGS-ASPER-ATE”: a chef screaming at cracked eggs
+L: 229→230 · The annoyed chef (exasperate) is saved by a NIMBLE “NIM-BULL,” a little bull who dances lightly on eggshells without breaking a single one (Substitution: NIM-ble ≈ nim-bull).
+C: Station 9 · BALCONY. From the drying-line balcony, a chef screams in annoyance as eggs crack one after another = EXASPERATE.
+P: A frustrated boy tearing at his hair while a flying carpet teasingly wiggles its tassels just out of reach, then zips away
+
+== nimble
+T: Marjana, quick and light as a cat, leaps onto a clothesline, runs along it and lands on the carpet with one hand. She's nimble: quick and light in movement. She grabs Tariq. But the carpet dives into a cloud of perfume…
+H: NIM-ble ≈ “NIM-BULL”: a light-footed dancing bull
+L: 230→231 · The light-footed bull (nimble) lands in a FRAGRANT “FRAGRANT-ANT” garden where ants smell of roses and jasmine (Substitution: FRA-grant ≈ fragrant-ant).
+C: Station 10 · TOP. On the carpet-beating frame on the roof, a little bull tiptoes lightly along a thin wire = NIMBLE.
+P: A girl in a crimson bandana running lightly along a clothesline and leaping onto a flying carpet to grab a small boy; the carpet diving toward a glittering cloud of perfume
+
+## 24
+ST: the arch of crystal bottles | the rose-petal step | the incense burner lamp on the left | the mosaic floor | the perfume fountain at the center | the jasmine-wrapped pillar on the right | the tinted window of the perfumer's lab | the stair of glass shelves | the balcony where scent-bottles dry | the perfume-still chimney on top
+
+== fragrant
+T: The carpet crash-lands in Perfumers' Row. Clouds of rose, jasmine and amber drift everywhere. The street is fragrant: sweet-smelling. Everyone breathes in happily.
+H: FRA-grant ≈ “FRAGRANT ANT”: an ant that smells like roses
+L: 231→232 · The rose-scented ant (fragrant) rides an AROMATIC “AROMA-TICK” clock whose every tick releases a strong spicy smell of cinnamon (Substitution: ar-o-MAT-ic ≈ aroma-tick).
+C: Station 1 · ARCH. The crystal-bottle arch drips with rose water; you can smell it a mile away = FRAGRANT.
+P: A flying carpet crash-landing in an elegant street lined with shelves of crystal perfume bottles; colorful scented smoke; kids tumbling off smiling
+
+== aromatic
+T: A perfumer in golden robes offers them aromatic oils with strong pleasant smells: cinnamon, sandalwood, orange blossom. “Free samples,” she smiles.
+H: ar-o-MAT-ic ≈ “AROMA-TICK”: a clock ticking out smells
+L: 232→233 · The smelly clock (aromatic) spreads PERVASIVE “PURR-VASE-IVE” purple smoke from a vase that seeps into every corner and crack of the city (Substitution: per-VA-sive ≈ purr-vase).
+C: Station 2 · STEP. The rose-petal step has a clock that puffs cinnamon smoke with each tick = AROMATIC.
+P: A glamorous perfumer in golden robes holding out small glowing bottles of oil to the kids; curls of colored scented smoke
+
+== pervasive
+T: But a strange sweet smell is creeping into everything: their clothes, their hair, the whole street. It's pervasive: it spreads everywhere. And people who breathe it start to nod along, dreamy.
+H: per-VA-sive ≈ “PURR-VASE”: a vase that purrs out smoke everywhere
+L: 233→234 · The everywhere smoke (pervasive) hides a SUBTLE “SUB-TLE” submarine so tiny and quiet you'd hardly notice it (Substitution: SUB-tle ≈ sub-tiny).
+C: Station 3 · LAMP. From the incense lamp, pink smoke seeps into every crack of the street = PERVASIVE.
+P: Pink shimmering smoke creeping through every doorway and window of a perfume street; people nodding dreamily
+
+== subtle
+T: The effect is subtle, delicate and hard to notice. At first everyone just feels agreeable. Then Zayn realizes he's about to hand the perfumer his satchel without thinking.
+H: SUB-tle ≈ “SUB-TINY”: a tiny sub you'd barely notice
+L: 234→235 · The tiny sub (subtle) is pulled by ALLURE: “A-LURE,” a fishing lure so shiny and charming that every fish swims straight toward it (Substitution: al-LURE ≈ a-lure).
+C: Station 4 · RUG. Under the mosaic floor, a tiny submarine glides so quietly you barely notice = SUBTLE.
+P: A boy with an orange headband holding out his satchel to a smiling perfumer with a dazed look; faint pink smoke around his head
+
+== allure
+T: The perfume has allure: an attractive charm. It makes the Vizier's agent irresistible. People gladly give her their sparks. “Just one more sniff…”
+H: al-LURE ≈ “A-LURE”: a shiny fishing lure you can't resist
+L: 235→236 · The irresistible lure (allure) is spiked with POTENT “POT-TENT” potion: one drop makes a tent rocket to the moon, it's so powerful (Substitution: PO-tent ≈ pot-tent).
+C: Station 5 · HEART. The perfume fountain at the center dangles a sparkling lure that pulls everyone closer = ALLURE.
+P: Dazed shoppers lining up to hand glowing sparks to a glamorous perfumer who gathers them into a crystal bottle; charm sparkles
+
+== potent
+T: Layla covers her nose with ink-soaked cloth. “It's potent: very powerful. One more breath and we're done!” Tariq is already swaying.
+H: PO-tent ≈ “POT-TENT”: a potion strong enough to launch a tent
+L: 236→237 · The powerful potion (potent) is mixed with CLOYING “CLOY-ING” syrup, a toy so sickeningly sweet it's coated in a hundred layers of sugar icing (Substitution: CLOY-ing ≈ cloy-sugar).
+C: Station 6 · PILLAR. The jasmine pillar is dripping a single drop of potion that knocks out an elephant = POTENT.
+P: A girl scholar covering her nose with black ink-soaked cloth; a small boy swaying dizzily; strong pink smoke
+
+== cloying
+T: The smell turns cloying: sickeningly sweet, like a thousand candies melting in the sun. Pebble gags. Zayn snaps out of it and gags too.
+H: CLOY-ing ≈ “CLOY-sugar”: so sweet it makes you sick
+L: 237→238 · The sickly sweet syrup (cloying) hides a DECEPTIVE “DE-SEPT-IVE” cake that looks delicious but is really a sponge full of glue, misleading (Substitution: de-CEP-tive ≈ decept).
+C: Station 7 · WINDOW. From the tinted window pours sugary syrup so sweet you feel sick = CLOYING.
+P: A baby roc and a boy gagging comically at an overwhelmingly sweet sticky pink smell; syrupy clouds
+
+== deceptive
+T: “The perfumer isn't what she seems!” Layla shouts. “Her kindness is deceptive,” meaning misleading. She yanks at the golden robe…
+H: de-CEP-tive ≈ “DECEIVE-ive”: meant to deceive
+L: 238→239 · The misleading cake (deceptive) sits in front of a FACADE “FAKE-ADE” lemonade stand that's just a painted board with nothing behind it (Substitution: fa-CADE ≈ fake-ade).
+C: Station 8 · STAIR. On the glass-shelf stair sits a beautiful cake that's really a sponge full of glue = DECEPTIVE.
+P: A girl scholar yanking at a perfumer's golden robe; a glimpse of violet underneath
+
+== facade
+T: …and it's just a facade, a false front. Behind the robe is a Hushling wearing a painted mask. Her whole shop is a painted board with nothing behind it.
+H: fa-CADE ≈ “FAKE-ADE”: a fake lemonade stand made of cardboard
+L: 239→240 · The fake front (facade) falls into a REDOLENT “RED-DOLE-ENT” soup, a red soup whose smell reminds you so strongly of grandma's kitchen you can almost see it (Substitution: RED-o-lent ≈ red-dole).
+C: Station 9 · BALCONY. The balcony is just a painted board. Walk on it and there's nothing behind = FACADE.
+P: A glamorous perfume shop revealed as a painted board facade; a mouthless shadow creature behind a painted mask; kids gasping
+
+== redolent
+T: The spell breaks. The street smells real again, redolent of roses and cinnamon, strongly suggestive of home. Tariq sniffs. “Smells like Mom's kitchen.” Then Zayn goes quiet. He thinks of their mom, who went grey on Wordfall night.
+H: RED-o-lent ≈ “RED-DOLE”: a red soup smelling so strongly of home
+L: 240→241 · The home-smelling soup (redolent) is served to an ERUDITE “AIR-UDITE” scholar-owl who reads a thousand books while flying through the air (Substitution: ER-u-dite ≈ air-read-ite).
+C: Station 10 · TOP. The perfume-still chimney puffs out a smell so strong you're back in grandma's kitchen = REDOLENT.
+P: A peaceful perfume street after the spell breaks; a small boy sniffing the air with a nostalgic smile; his older brother looking sad and quiet, thinking of their mother
+
+## 25
+ST: the arch of books piled into a doorway | the step made of a dictionary | the reading-lamp on the left | the floor covered in scrolls | the tallest bookstack at the center | the ladder-on-wheels pillar on the right | the window of the rare-book room | the spiral stair of books | the reading balcony | the rooftop scroll-weathervane
+
+== erudite
+T: The Booksellers' Souq is Layla's paradise. Old scholar Ibn Warraq peers over a mountain of books. He's erudite: very learned. He's read everything, twice.
+H: ER-u-dite ≈ “AIR-READ-ITE”: an owl reading books in mid-air
+L: 241→242 · The book-owl (erudite) is corrected by a PEDANTIC “PED-ANT-IC” ant in spectacles who shouts “ACTUALLY, it's pronounced…” about every tiny thing (Substitution: pe-DAN-tic ≈ ped-ant).
+C: Station 1 · ARCH. Under the book-arch sits an owl who has read every book in the world = ERUDITE.
+P: A narrow bookseller street with books stacked to the ceiling and rolling ladders; a very old scholar with thick spectacles peering over a mountain of books; a girl scholar in awe
+
+== pedantic
+T: “Actually,” says Ibn Warraq, “that's a codex, not a book. And it's ink, not paint. And you mispronounced ‘souq’.” He's pedantic: fussy about small rules of learning. Zayn rolls his eyes.
+H: pe-DAN-tic ≈ “PED-ANT”: a know-it-all ant
+L: 242→243 · The fussy ant (pedantic) guards an ESOTERIC “ESO-TERRIC” door in a secret terrace that only three wizards in the world can open (Substitution: es-o-TER-ic ≈ secret-terrace).
+C: Station 2 · STEP. On the dictionary step, an ant in tiny spectacles corrects every word you say = PEDANTIC.
+P: A fussy old bookseller wagging a finger and correcting details; a boy with an orange headband rolling his eyes
+
+== esoteric
+T: He shows them a scroll about the Lexicon, written in esoteric symbols understood by only a few. “Only Shahrazad's family can read this,” he says, looking at Layla.
+H: es-o-TER-ic ≈ “SECRET-TERRACE”: a door only a few can open
+L: 243→244 · The secret door (esoteric) leads to a TOME: a “TOMB” of a book so heavy it needs twelve camels to carry it (Substitution: TOME ≈ tomb).
+C: Station 3 · LAMP. Under the reading-lamp is a scroll in strange symbols only three people alive can read = ESOTERIC.
+P: An old scholar unrolling a scroll covered in mysterious glowing symbols; a girl scholar leaning close, recognizing them
+
+== tome
+T: He heaves out a tome, a large heavy book, as big as a door, called The Book of the Last Word. When Layla opens it… it BITES.
+H: TOME ≈ “TOMB”: a book as heavy as a tomb
+L: 244→245 · The giant book (tome) is ANNOTATED by an “ANNA-NOTE” girl who scribbles sticky notes all over every page (Substitution: AN-no-tate ≈ Anna-note).
+C: Station 4 · RUG. Lying on the scroll floor is a book so big twelve camels are trying to lift it = TOME.
+P: An enormous leather book as big as a door opening its pages like jaws and snapping at a startled girl scholar; the old bookseller jumping back
+
+== annotate
+T: Once Layla calms the book (by reading to it), she finds Shahrazad's handwriting in the margins. Her grandmother annotated it, adding notes: “The last word is not written. It is given.”
+H: AN-no-tate ≈ “ANNA-NOTE”: Anna writing notes in the margins
+L: 245→246 · The sticky-noted book (annotate) is filed in an ARCHIVE: “ARK-HIVE,” a giant beehive shaped like Noah's Ark, storing every record ever written (Substitution: AR-chive ≈ ark-hive).
+C: Station 5 · HEART. The tallest bookstack at the center is covered in handwritten notes in the margins = ANNOTATE.
+P: A girl scholar gently reading to a calmed book; close-up of elegant handwritten notes in a margin, glowing faintly
+
+== archive
+T: Ibn Warraq takes them down to his secret archive, a collection of records. Thousands of scrolls about Baghdad's history. There's a record of every boy who ever entered the Poets' Café duel.
+H: AR-chive ≈ “ARK-HIVE”: a beehive shaped like an ark, full of records
+L: 246→247 · The record-hive (archive) is studied by a SCHOLARLY “SCHOLAR-LEE” lizard in a graduation cap, academic and learned (Substitution: SCHOL-ar-ly ≈ scholar).
+C: Station 6 · PILLAR. The rolling-ladder pillar leads into a honeycomb of scrolls, every record stored in a cell = ARCHIVE.
+P: A hidden underground archive of thousands of rolled scrolls in honeycomb shelves; an old bookseller leading the kids with a lantern
+
+== scholarly
+T: Layla dives in with scholarly focus, academic and learned, cross-referencing dates. She finds a name crossed out in the duel records: “IDRIS, age 15. Did not finish.”
+H: SCHOL-ar-ly ≈ “SCHOLAR-LEE”: like a scholar
+L: 247→248 · The graduation lizard (scholarly) is PROLIFIC: a “PRO-LIFE-IC” rabbit who has a thousand babies every day and writes a book about each (Substitution: pro-LIF-ic ≈ pro-life).
+C: Station 7 · WINDOW. At the rare-book window, a lizard in a graduation cap studies with a magnifying glass = SCHOLARLY.
+P: A girl scholar surrounded by open scrolls, cross-referencing with focus by lamplight; finding a crossed-out name
+
+== prolific
+T: Ibn Warraq is prolific, producing a lot: he's written three hundred books. “One is about the Vizier's childhood,” he whispers. “But it was stolen.”
+H: pro-LIF-ic ≈ “PRO-LIFE”: bursting with life and output
+L: 248→249 · The book-a-day rabbit (prolific) talks to a VERBOSE “VERB-OSE” parrot who says fifty words when one would do: “Hello-greetings-salutations-good-day-to-you…” (Substitution: ver-BOSE ≈ verb-dose).
+C: Station 8 · STAIR. The spiral stair of books is made entirely of books written by one very busy author = PROLIFIC.
+P: An old bookseller gesturing proudly at a wall of three hundred books he wrote himself, one gap on the shelf where a book was stolen
+
+== verbose
+T: The old man keeps talking: about ink, the history of paper, his cat, his other cat. He's so verbose, using too many words, that Zayn falls asleep standing up.
+H: ver-BOSE ≈ “VERB-DOSE”: an overdose of words
+L: 249→250 · The wordy parrot (verbose) finally meets LITERATE “LITTER-ATE” kittens who can read and write the words on their litter box (Substitution: LIT-er-ate ≈ litter).
+C: Station 9 · BALCONY. From the reading balcony a parrot keeps talking, talking, talking = VERBOSE.
+P: An old bookseller talking on and on with speech bubbles filling the whole panel; a boy asleep standing up
+
+== literate
+T: Layla shakes Zayn awake. “We need to read the auction list. Can you help?” Zayn goes red. He's not really literate: able to read and write. Layla sees his face and quietly understands. “Then I'll teach you. Tonight.” The list shows tomorrow's first item: a SATCHEL.
+H: LIT-er-ate ≈ “LETTER-ATE”: someone who eats letters, knows letters
+L: 250→251 · The reading kittens (literate) are hammered into shape by a MALLEABLE “MALLET-ABLE” clay block that bends under a mallet into any shape (Substitution: MAL-le-able ≈ mallet-able).
+C: Station 10 · TOP. On the scroll weathervane, kittens read the letters written in the wind = LITERATE.
+P: A boy looking embarrassed at a page of text he can't read; a girl scholar gently offering to teach him; an auction poster with a drawing of a satchel

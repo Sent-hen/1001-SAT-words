@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 21
+1 | A: crowd(many) | B: crowd(many) | ACT: carries | SCALE: - | OAES: S
+2 | A: crowd(many) | B: people | ACT: links-to | SCALE: - | OAES: S
+3 | A: people | B: shop | ACT: links-to | SCALE: - | OAES: S
+4 | A: shop | B: parrot | ACT: bursts-out | SCALE: - | OAES: S
+5 | A: parrot | B: party | ACT: links-to | SCALE: - | OAES: S
+6 | A: party | B: shop | ACT: links-to | SCALE: - | OAES: S
+7 | A: shop | B: merchant-tile | ACT: links-to | SCALE: - | OAES: S
+8 | A: merchant-tile | B: robot | ACT: links-to | SCALE: - | OAES: S
+9 | A: robot | B: two-mule-t | ACT: links-to | SCALE: - | OAES: S
+10 | A: two-mule-t | B: spy | ACT: throws | SCALE: - | OAES: S
+## 22
+1 | A: spy | B: black | ACT: links-to | SCALE: - | OAES: S
+2 | A: black | B: submarine | ACT: links-to | SCALE: - | OAES: S
+3 | A: submarine | B: medal | ACT: links-to | SCALE: - | OAES: S
+4 | A: medal | B: miner | ACT: pulls | SCALE: - | OAES: S
+5 | A: miner | B: raccoon | ACT: links-to | SCALE: - | OAES: S
+6 | A: raccoon | B: mall-monster | ACT: links-to | SCALE: - | OAES: S
+7 | A: mall-monster | B: cull-pit | ACT: catches | SCALE: - | OAES: S
+8 | A: cull-pit | B: pig | ACT: links-to | SCALE: - | OAES: S
+9 | A: pig | B: frog | ACT: links-to | SCALE: - | OAES: S
+10 | A: frog | B: carpet | ACT: smashes | SCALE: - | OAES: S
+## 23
+1 | A: carpet | B: goat | ACT: links-to | SCALE: - | OAES: S
+2 | A: goat | B: fish | ACT: chases | SCALE: - | OAES: S
+3 | A: fish | B: club | ACT: links-to | SCALE: - | OAES: S
+4 | A: club | B: wagon | ACT: links-to | SCALE: - | OAES: S
+5 | A: wagon | B: kid | ACT: links-to | SCALE: - | OAES: S
+6 | A: kid | B: hill | ACT: links-to | SCALE: - | OAES: S
+7 | A: hill | B: purse-sue | ACT: chases | SCALE: - | OAES: S
+8 | A: purse-sue | B: eggs-asperate | ACT: links-to | SCALE: - | OAES: S
+9 | A: eggs-asperate | B: nim-bull | ACT: links-to | SCALE: - | OAES: S
+10 | A: nim-bull | B: garden | ACT: drops-on | SCALE: - | OAES: S
+## 24
+1 | A: garden | B: clock | ACT: rides | SCALE: - | OAES: S
+2 | A: clock | B: purr-vase-ive | ACT: links-to | SCALE: - | OAES: S
+3 | A: purr-vase-ive | B: submarine | ACT: links-to | SCALE: - | OAES: S
+4 | A: submarine | B: a-lure | ACT: pulls | SCALE: B=tiny | OAES: S
+5 | A: a-lure | B: pot-tent | ACT: drops-on | SCALE: - | OAES: S
+6 | A: pot-tent | B: syrup | ACT: links-to | SCALE: - | OAES: S
+7 | A: syrup | B: cake | ACT: links-to | SCALE: - | OAES: S
+8 | A: cake | B: lemonade | ACT: links-to | SCALE: - | OAES: S
+9 | A: lemonade | B: soup | ACT: drops-on | SCALE: - | OAES: S
+10 | A: soup | B: scholar-owl(many) | ACT: links-to | SCALE: - | OAES: S
+## 25
+1 | A: scholar-owl(many) | B: ant | ACT: links-to | SCALE: - | OAES: S
+2 | A: ant | B: door | ACT: opens | SCALE: - | OAES: S
+3 | A: door | B: tomb | ACT: carries | SCALE: - | OAES: S
+4 | A: tomb | B: anna-note | ACT: links-to | SCALE: A=giant,B=giant | OAES: S
+5 | A: anna-note | B: ark-hive | ACT: links-to | SCALE: - | OAES: S
+6 | A: ark-hive | B: lizard | ACT: links-to | SCALE: - | OAES: S
+7 | A: lizard | B: rabbit(many) | ACT: links-to | SCALE: - | OAES: S
+8 | A: rabbit(many) | B: parrot | ACT: links-to | SCALE: - | OAES: S
+9 | A: parrot | B: kitten | ACT: links-to | SCALE: - | OAES: S
+10 | A: kitten | B: clay | ACT: smashes | SCALE: - | OAES: S
+## 26
+1 | A: clay | B: giant | ACT: smashes | SCALE: - | OAES: S
+2 | A: giant | B: band | ACT: links-to | SCALE: A=giant | OAES: S
+3 | A: band | B: weightlifter | ACT: links-to | SCALE: - | OAES: S
+4 | A: weightlifter | B: rock-us(many) | ACT: links-to | SCALE: - | OAES: S
+5 | A: rock-us(many) | B: in-cease-ant | ACT: links-to | SCALE: - | OAES: S
+6 | A: in-cease-ant | B: gong | ACT: links-to | SCALE: - | OAES: S
+7 | A: gong | B: toddler | ACT: links-to | SCALE: - | OAES: S
+8 | A: toddler | B: duck-tile | ACT: pulls | SCALE: - | OAES: S
+9 | A: duck-tile | B: robot-bust | ACT: links-to | SCALE: - | OAES: S
+10 | A: robot-bust | B: santa | ACT: links-to | SCALE: - | OAES: S
+## 27
+1 | A: santa | B: cake | ACT: links-to | SCALE: - | OAES: S
+2 | A: cake | B: grandpa | ACT: links-to | SCALE: - | OAES: S
+3 | A: grandpa | B: money | ACT: bursts-out | SCALE: - | OAES: S
+4 | A: money | B: genie-al | ACT: hugs | SCALE: - | OAES: S
+5 | A: genie-al | B: jackal | ACT: links-to | SCALE: - | OAES: S
+6 | A: jackal | B: face-shush-us | ACT: links-to | SCALE: - | OAES: S
+7 | A: face-shush-us | B: nurse | ACT: links-to | SCALE: - | OAES: S
+8 | A: nurse | B: bear | ACT: links-to | SCALE: - | OAES: S
+9 | A: bear | B: cake | ACT: links-to | SCALE: - | OAES: S
+10 | A: cake | B: bird | ACT: links-to | SCALE: - | OAES: S
+## 28
+1 | A: bird | B: feather | ACT: links-to | SCALE: - | OAES: S
+2 | A: feather | B: captain-ivity | ACT: links-to | SCALE: - | OAES: S
+3 | A: captain-ivity | B: box | ACT: links-to | SCALE: - | OAES: S
+4 | A: box | B: wing | ACT: bursts-out | SCALE: - | OAES: S
+5 | A: wing | B: chain | ACT: links-to | SCALE: - | OAES: S
+6 | A: chain | B: hummingbird | ACT: links-to | SCALE: - | OAES: S
+7 | A: hummingbird | B: flower | ACT: drops-on | SCALE: - | OAES: S
+8 | A: flower | B: chick | ACT: links-to | SCALE: - | OAES: S
+9 | A: chick | B: parrot | ACT: links-to | SCALE: - | OAES: S
+10 | A: parrot | B: elephant | ACT: links-to | SCALE: - | OAES: S
+## 29
+1 | A: elephant | B: mirror | ACT: links-to | SCALE: - | OAES: S
+2 | A: mirror | B: detective | ACT: links-to | SCALE: - | OAES: S
+3 | A: detective | B: peacock | ACT: hugs | SCALE: - | OAES: S
+4 | A: peacock | B: face | ACT: links-to | SCALE: - | OAES: S
+5 | A: face | B: fax-simile | ACT: links-to | SCALE: - | OAES: S
+6 | A: fax-simile | B: cat(many) | ACT: links-to | SCALE: - | OAES: S
+7 | A: cat(many) | B: salami | ACT: links-to | SCALE: - | OAES: S
+8 | A: salami | B: cat | ACT: links-to | SCALE: - | OAES: S
+9 | A: cat | B: van | ACT: links-to | SCALE: - | OAES: S
+10 | A: van | B: co-horse | ACT: pulls | SCALE: - | OAES: S
+## 30
+1 | A: co-horse | B: tyrant | ACT: links-to | SCALE: - | OAES: S
+2 | A: tyrant | B: mechanic | ACT: drops-on | SCALE: - | OAES: S
+3 | A: mechanic | B: genie | ACT: links-to | SCALE: - | OAES: S
+4 | A: genie | B: duct-tape | ACT: links-to | SCALE: - | OAES: S
+5 | A: duct-tape | B: mountain | ACT: links-to | SCALE: - | OAES: S
+6 | A: mountain | B: foot | ACT: smashes | SCALE: - | OAES: S
+7 | A: foot | B: desk-pot | ACT: links-to | SCALE: - | OAES: S
+8 | A: desk-pot | B: tire-anny | ACT: links-to | SCALE: - | OAES: S
+9 | A: tire-anny | B: giant | ACT: smashes | SCALE: - | OAES: S
+10 | A: giant | B: melon-collie | ACT: links-to | SCALE: - | OAES: S

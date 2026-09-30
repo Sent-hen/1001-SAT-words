@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 71
+1 | A: equus-train | B: bride | ACT: throws | SCALE: - | OAES: S
+2 | A: bride | B: ghost | ACT: links-to | SCALE: - | OAES: S
+3 | A: ghost | B: goat | ACT: links-to | SCALE: - | OAES: S
+4 | A: goat | B: skunk | ACT: pulls | SCALE: - | OAES: S
+5 | A: skunk | B: tractor | ACT: links-to | SCALE: - | OAES: S
+6 | A: tractor | B: dude | ACT: links-to | SCALE: - | OAES: S
+7 | A: dude | B: wheel-d | ACT: links-to | SCALE: - | OAES: S
+8 | A: wheel-d | B: knight | ACT: links-to | SCALE: - | OAES: S
+9 | A: knight | B: tractor | ACT: rides | SCALE: - | OAES: S
+10 | A: tractor | B: imp-pulse | ACT: links-to | SCALE: - | OAES: S
+## 72
+1 | A: imp-pulse | B: guy | ACT: links-to | SCALE: - | OAES: S
+2 | A: guy | B: sponge-taineous | ACT: bursts-out | SCALE: - | OAES: S
+3 | A: sponge-taineous | B: horse | ACT: links-to | SCALE: - | OAES: S
+4 | A: horse | B: chef | ACT: throws | SCALE: - | OAES: S
+5 | A: chef | B: shouting | ACT: links-to | SCALE: - | OAES: S
+6 | A: shouting | B: extra-burrito | ACT: links-to | SCALE: - | OAES: S
+7 | A: extra-burrito | B: boys-terous | ACT: links-to | SCALE: - | OAES: S
+8 | A: boys-terous | B: ram | ACT: links-to | SCALE: - | OAES: S
+9 | A: ram | B: rest-train | ACT: carries | SCALE: - | OAES: S
+10 | A: rest-train | B: wave | ACT: carries | SCALE: - | OAES: S
+## 73
+1 | A: wave | B: plum | ACT: drops-on | SCALE: - | OAES: S
+2 | A: plum | B: craft | ACT: catches | SCALE: - | OAES: S
+3 | A: craft | B: octopus | ACT: links-to | SCALE: - | OAES: S
+4 | A: octopus | B: skirt-mish | ACT: links-to | SCALE: - | OAES: S
+5 | A: skirt-mish | B: monk | ACT: links-to | SCALE: - | OAES: S
+6 | A: monk | B: nay-deer | ACT: drops-on | SCALE: - | OAES: S
+7 | A: nay-deer | B: ape | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: ape | B: rope | ACT: links-to | SCALE: - | OAES: S
+9 | A: rope | B: table | ACT: smashes | SCALE: - | OAES: S
+10 | A: table | B: parrot | ACT: carries | SCALE: - | OAES: S
+## 74
+1 | A: parrot | B: land | ACT: drops-on | SCALE: - | OAES: S
+2 | A: land | B: lie-bell | ACT: links-to | SCALE: - | OAES: S
+3 | A: lie-bell | B: machine | ACT: links-to | SCALE: - | OAES: S
+4 | A: machine | B: unicorn | ACT: links-to | SCALE: - | OAES: S
+5 | A: unicorn | B: in-your-window | ACT: links-to | SCALE: - | OAES: S
+6 | A: in-your-window | B: goose | ACT: links-to | SCALE: - | OAES: S
+7 | A: goose | B: crow | ACT: links-to | SCALE: - | OAES: S
+8 | A: crow | B: accuser | ACT: links-to | SCALE: - | OAES: S
+9 | A: accuser | B: lab | ACT: links-to | SCALE: - | OAES: S
+10 | A: lab | B: child | ACT: climbs-out | SCALE: - | OAES: S
+## 75
+1 | A: child | B: ant | ACT: carries | SCALE: - | OAES: S
+2 | A: ant | B: owl | ACT: links-to | SCALE: - | OAES: S
+3 | A: owl | B: list | ACT: links-to | SCALE: - | OAES: S
+4 | A: list | B: island | ACT: links-to | SCALE: - | OAES: S
+5 | A: island | B: optic-mist | ACT: links-to | SCALE: - | OAES: S
+6 | A: optic-mist | B: tick | ACT: drops-on | SCALE: - | OAES: S
+7 | A: tick | B: yarn | ACT: links-to | SCALE: - | OAES: S
+8 | A: yarn | B: moon | ACT: climbs-out | SCALE: - | OAES: S
+9 | A: moon | B: icicle | ACT: links-to | SCALE: - | OAES: S
+10 | A: icicle | B: explosion | ACT: links-to | SCALE: - | OAES: S
+## 76
+1 | A: explosion | B: statue | ACT: links-to | SCALE: - | OAES: S
+2 | A: statue | B: river | ACT: links-to | SCALE: - | OAES: S
+3 | A: river | B: chameleon | ACT: links-to | SCALE: - | OAES: S
+4 | A: chameleon | B: mountain | ACT: links-to | SCALE: - | OAES: S
+5 | A: mountain | B: car | ACT: turns-into | SCALE: - | OAES: S
+6 | A: car | B: car | ACT: climbs-out | SCALE: - | OAES: S
+7 | A: car | B: river | ACT: links-to | SCALE: - | OAES: S
+8 | A: river | B: jar | ACT: links-to | SCALE: - | OAES: S
+9 | A: jar | B: verse-a-tile | ACT: links-to | SCALE: - | OAES: S
+10 | A: verse-a-tile | B: conveyor | ACT: carries | SCALE: - | OAES: S
+## 77
+1 | A: conveyor | B: apple | ACT: links-to | SCALE: - | OAES: S
+2 | A: apple | B: pirate | ACT: links-to | SCALE: - | OAES: S
+3 | A: pirate | B: rocket | ACT: links-to | SCALE: - | OAES: S
+4 | A: rocket | B: kid | ACT: links-to | SCALE: - | OAES: S
+5 | A: kid | B: runner | ACT: links-to | SCALE: - | OAES: S
+6 | A: runner | B: missile | ACT: links-to | SCALE: - | OAES: S
+7 | A: missile | B: oven | ACT: links-to | SCALE: - | OAES: S
+8 | A: oven | B: teacup | ACT: carries | SCALE: - | OAES: S
+9 | A: teacup | B: turtle- | ACT: links-to | SCALE: - | OAES: S
+10 | A: turtle- | B: clock | ACT: links-to | SCALE: - | OAES: S
+## 78
+1 | A: clock | B: photo | ACT: links-to | SCALE: - | OAES: S
+2 | A: photo | B: photo | ACT: carries | SCALE: - | OAES: S
+3 | A: photo | B: dj | ACT: links-to | SCALE: - | OAES: S
+4 | A: dj | B: song | ACT: links-to | SCALE: - | OAES: S
+5 | A: song | B: card | ACT: links-to | SCALE: - | OAES: S
+6 | A: card | B: sloth | ACT: links-to | SCALE: - | OAES: S
+7 | A: sloth | B: daw-doll | ACT: links-to | SCALE: - | OAES: S
+8 | A: daw-doll | B: flower | ACT: links-to | SCALE: - | OAES: S
+9 | A: flower | B: car | ACT: links-to | SCALE: - | OAES: S
+10 | A: car | B: screen | ACT: links-to | SCALE: - | OAES: S
+## 79
+1 | A: screen | B: price | ACT: links-to | SCALE: - | OAES: S
+2 | A: price | B: bee | ACT: links-to | SCALE: - | OAES: S
+3 | A: bee | B: drill | ACT: links-to | SCALE: - | OAES: S
+4 | A: drill | B: cloak(black) | ACT: links-to | SCALE: - | OAES: S
+5 | A: cloak(black) | B: scientist | ACT: links-to | SCALE: - | OAES: S
+6 | A: scientist | B: teacher | ACT: links-to | SCALE: - | OAES: S
+7 | A: teacher | B: horse | ACT: links-to | SCALE: - | OAES: S
+8 | A: horse | B: coach | ACT: links-to | SCALE: - | OAES: S
+9 | A: coach | B: die-er | ACT: pulls | SCALE: - | OAES: S
+10 | A: die-er | B: thief | ACT: rides | SCALE: - | OAES: S
+## 80
+1 | A: thief | B: con-fish | ACT: catches | SCALE: - | OAES: S
+2 | A: con-fish | B: pirate | ACT: links-to | SCALE: - | OAES: S
+3 | A: pirate | B: secret | ACT: links-to | SCALE: - | OAES: S
+4 | A: secret | B: villain | ACT: links-to | SCALE: - | OAES: S
+5 | A: villain | B: die-a-bowl-ical | ACT: throws | SCALE: - | OAES: S
+6 | A: die-a-bowl-ical | B: goat | ACT: links-to | SCALE: - | OAES: S
+7 | A: goat | B: sandcastle | ACT: smashes | SCALE: - | OAES: S
+8 | A: sandcastle | B: spoon | ACT: links-to | SCALE: - | OAES: S
+9 | A: spoon | B: fox | ACT: catches | SCALE: - | OAES: S
+10 | A: fox | B: fox | ACT: links-to | SCALE: - | OAES: S

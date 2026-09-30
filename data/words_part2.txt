@@ -1,0 +1,660 @@
+# 41 | Riddle of the Brass Lion | The Basra Gate
+deduce | v. | to reach a conclusion by reasoning
+infer | v. | to conclude from evidence
+premise | n. | a statement an argument is built on
+fallacy | n. | a mistaken belief or faulty reasoning
+rational | adj. | based on reason
+valid | adj. | logically sound; acceptable
+hypothesis | n. | an educated guess to be tested
+conclusive | adj. | settling a question for good
+acumen | n. | sharpness of judgment
+astute | adj. | clever at seeing what matters
+# 42 | Moat of Monsters | The Moat Bridge
+loom | v. | to appear large and threatening
+lurk | v. | to wait hidden
+daunting | adj. | intimidating
+valor | n. | great courage
+cower | v. | to crouch in fear
+intimidate | v. | to frighten into obeying
+hideous | adj. | extremely ugly
+gallant | adj. | brave and noble
+repel | v. | to drive back
+plunge | v. | to dive or fall suddenly
+# 43 | Soldiers of Stone | The Guard Barracks
+rigid | adj. | stiff; unbending
+stoic | adj. | enduring pain without complaint
+impassive | adj. | showing no emotion
+discipline | n. | controlled behavior; training
+regiment | n. | a military unit
+hierarchy | n. | a ranked order
+subordinate | n./adj. | lower in rank
+compliant | adj. | obedient
+insubordinate | adj. | refusing to obey authority
+martial | adj. | relating to war
+# 44 | The Healer's Gamble | The Bimaristan (Hospital)
+remedy | n. | a cure
+ailment | n. | an illness
+malady | n. | a disease or disorder
+benign | adj. | harmless; kindly
+lethal | adj. | deadly
+antidote | n. | a cure for poison
+contagious | adj. | spreading from person to person
+alleviate | v. | to ease (pain)
+mitigate | v. | to make less severe
+convalesce | v. | to recover health
+# 45 | Counterfeit Kingdom | The Mint
+counterfeit | adj./n. | fake; a forgery
+authentic | adj. | real; genuine
+spurious | adj. | false; fake
+currency | n. | money in use
+fiscal | adj. | relating to public money
+debase | v. | to lower in value
+hoard | v./n. | to secretly store up
+squander | v. | to waste
+austerity | n. | strict saving; plainness
+impoverished | adj. | very poor
+# 46 | Fog of the Hammam | The Steam Bathhouse
+nebulous | adj. | cloudy; vague
+opaque | adj. | not see-through; hard to understand
+vague | adj. | unclear
+lucid | adj. | clear; easy to understand
+diffuse | v./adj. | to spread out; scattered
+condense | v. | to make denser or shorter
+evaporate | v. | to turn to vapor; to vanish
+saturate | v. | to soak completely
+permeate | v. | to spread through
+transparent | adj. | see-through; obvious
+# 47 | Forged in Fire | The Blacksmiths' Forge
+forge | v. | to shape metal by heat; to fake
+crucible | n. | a severe test; a melting pot
+fervent | adj. | passionate
+ardent | adj. | enthusiastic; burning
+zeal | n. | great energy for a cause
+incandescent | adj. | glowing with heat; brilliant
+smolder | v. | to burn slowly without flame
+kindle | v. | to light; to stir up
+arduous | adj. | very difficult
+fortitude | n. | courage in pain
+# 48 | The Arrow Knows | The Archery Range
+precise | adj. | exact
+adroit | adj. | skillful
+trajectory | n. | the path of a flying object
+unerring | adj. | never missing
+deviate | v. | to turn aside from a course
+calibrate | v. | to adjust precisely
+objective | adj./n. | unbiased; a goal
+composure | n. | calmness
+converge | v. | to come together
+diverge | v. | to separate; to split off
+# 49 | Echoes in the Cistern | The Underground Cistern
+cavernous | adj. | huge and hollow like a cave
+subterranean | adj. | underground
+dank | adj. | cold and damp
+desolate | adj. | empty and bleak
+secluded | adj. | hidden away
+isolate | v. | to set apart
+solitude | n. | being alone
+recluse | n. | a person who lives alone
+sanctuary | n. | a safe place
+refuge | n. | shelter from danger
+# 50 | Sinbad Falls | The Southeast Watchtower
+valiant | adj. | brave
+altruistic | adj. | selflessly helping others
+selfless | adj. | caring for others first
+grievous | adj. | very serious; causing grief
+mourn | v. | to feel grief
+stalwart | adj. | loyal and dependable
+magnanimous | adj. | generous in forgiving
+bereft | adj. | deprived; lonely after loss
+retribution | n. | punishment in return
+captive | n. | a prisoner
+# 51 | The Elephant Who Remembered | The Kufa Gate
+retain | v. | to keep
+recollect | v. | to remember
+commemorate | v. | to honor the memory of
+mnemonic | n./adj. | a memory aid
+oblivion | n. | being forgotten
+indelible | adj. | impossible to erase
+chronicle | n./v. | a record of events
+posterity | n. | future generations
+ponderous | adj. | slow and heavy; dull
+venerate | v. | to deeply respect
+# 52 | Paper Wings | The Paper Mill
+fragile | adj. | easily broken
+flimsy | adj. | thin and weak
+frail | adj. | weak
+brittle | adj. | hard but easily snapped
+aloft | adv. | up in the air
+levitate | v. | to float in the air
+delicate | adj. | fine and easily damaged
+durable | adj. | long-lasting
+innovate | v. | to introduce new ideas
+novel | adj. | new and original
+# 53 | Glass Hearts | The Glassblowers' Kiln
+translucent | adj. | letting light through
+sincere | adj. | genuine; honest
+earnest | adj. | serious and sincere
+genuine | adj. | real; true
+pretense | n. | a false show
+hypocrite | n. | someone who preaches what they don't practice
+affectation | n. | an unnatural, showy behavior
+brazen | adj. | shamelessly bold
+profess | v. | to claim openly
+impeccable | adj. | flawless
+# 54 | Map of the Heavens | The Astrolabe Workshop
+celestial | adj. | of the sky or heavens
+terrestrial | adj. | of the earth
+cosmic | adj. | of the universe; vast
+infinite | adj. | without end
+orbit | n./v. | a curved path around a body
+vast | adj. | huge
+empirical | adj. | based on observation
+theoretical | adj. | based on theory
+phenomenon | n. | an observable event
+speculate | v. | to guess; to theorize
+# 55 | The Clockwork Army | The Clocktower of the Automata
+automaton | n. | a self-operating machine
+systematic | adj. | done by a method
+synchronize | v. | to make happen at the same time
+methodical | adj. | orderly and careful
+uniform | adj. | all the same
+conformity | n. | following the crowd
+autonomous | adj. | self-governing
+sequence | n. | an order of things
+intricate | adj. | very detailed and complex
+redundant | adj. | unnecessary; repetitive
+# 56 | Bound in Leather | The Bookbinders' Hall
+compile | v. | to collect into one
+anthology | n. | a collection of works
+compendium | n. | a complete summary collection
+comprehensive | adj. | including everything
+concise | adj. | brief but complete
+succinct | adj. | short and clear
+abridge | v. | to shorten
+cohesive | adj. | sticking together
+coherent | adj. | logical and clear
+digress | v. | to wander off topic
+# 57 | Ink of the First Night | The Ink-Makers' Vats
+primordial | adj. | existing from the very beginning
+genesis | n. | the origin
+inception | n. | the beginning
+nascent | adj. | just beginning to exist
+embryonic | adj. | in an early stage
+archetype | n. | a perfect original model
+prototype | n. | a first model
+indigenous | adj. | native to a place
+innate | adj. | inborn
+inherent | adj. | built-in; essential
+# 58 | Clay Soldiers | The Potters' Kilns
+pliable | adj. | easily bent
+impressionable | adj. | easily influenced
+mundane | adj. | ordinary; dull
+crude | adj. | rough; unrefined
+refine | v. | to improve; to purify
+artisan | n. | a skilled craftsperson
+utilitarian | adj. | useful rather than pretty
+aesthetic | adj. | about beauty
+fragment | n. | a broken piece
+amorphous | adj. | shapeless
+# 59 | Colors of Rebellion | The Dyers' Pools
+dissent | n./v. | disagreement
+insurgent | n. | a rebel
+mutiny | n. | a revolt against authority
+radical | adj. | extreme; fundamental
+upheaval | n. | a sudden violent change
+vivid | adj. | bright and intense
+garish | adj. | tastelessly bright
+iconoclast | n. | one who attacks cherished beliefs
+nonconformist | n. | one who refuses to follow norms
+provocative | adj. | causing strong reaction
+# 60 | The Pen Reborn | The Calligraphers' School
+rejuvenate | v. | to make young again
+revive | v. | to bring back to life
+renaissance | n. | a rebirth
+resurgence | n. | a rising again
+invigorate | v. | to fill with energy
+metamorphosis | n. | a complete transformation
+redemption | n. | being saved from wrong
+salvage | v. | to rescue from ruin
+rehabilitate | v. | to restore to good condition
+amend | v. | to change for the better
+# 61 | The Eagle's Judgment | The Syrian Gate
+judicious | adj. | showing good judgment
+impartial | adj. | fair; not taking sides
+verdict | n. | a decision
+prudent | adj. | wisely careful
+discerning | adj. | showing good judgment
+biased | adj. | unfairly favoring one side
+prejudice | n. | unfair opinion formed beforehand
+equitable | adj. | fair to all
+adjudicate | v. | to judge officially
+partisan | adj./n. | strongly supporting one side
+# 62 | Crossroads of Caravans | The Great Caravanserai
+itinerant | adj. | traveling from place to place
+nomadic | adj. | wandering; with no fixed home
+peripatetic | adj. | traveling around
+sojourn | n. | a temporary stay
+transient | adj. | temporary; passing
+expedition | n. | a journey with a purpose
+odyssey | n. | a long adventurous journey
+vagabond | n. | a wanderer
+embark | v. | to start; to board
+emigrate | v. | to leave one's country
+# 63 | The Great Camel Race | The Camel Racetrack
+rival | n. | a competitor
+vie | v. | to compete
+adversary | n. | an opponent
+tactic | n. | a planned move
+exert | v. | to put forth (effort)
+surpass | v. | to go beyond
+outstrip | v. | to outrun; to exceed
+stamina | n. | staying power
+jubilant | adj. | joyful
+vanquish | v. | to defeat
+# 64 | The Nomad Queen | The Nomad Tents
+sovereign | n./adj. | a ruler; supreme
+regal | adj. | royal
+majestic | adj. | grand
+autocrat | n. | a ruler with total power
+dignified | adj. | calm and respectable
+decree | n. | an official order
+matriarch | n. | a female head of a family
+authoritative | adj. | commanding; reliable
+imperious | adj. | bossy; arrogant
+clemency | n. | mercy
+# 65 | Wells of Illusion | The Mirage Wells
+chimera | n. | an impossible fantasy
+hallucinate | v. | to see what is not there
+phantom | n. | a ghost; an illusion
+specter | n. | a ghost; a threatening image
+apparition | n. | a ghostly figure
+surreal | adj. | dream-like; bizarre
+figment | n. | something imagined
+tantalize | v. | to tease with something out of reach
+quench | v. | to satisfy thirst; to put out
+parched | adj. | very dry
+# 66 | Ruins of the Ghoul | The Ghoul's Ruins
+macabre | adj. | gruesome; about death
+morbid | adj. | gloomy; interested in death
+gruesome | adj. | horrible to see
+ghastly | adj. | shockingly frightful
+dread | n. | great fear
+petrify | v. | to terrify; to turn to stone
+harrowing | adj. | very distressing
+grim | adj. | stern; gloomy
+decrepit | adj. | worn out by age
+desecrate | v. | to damage something sacred
+# 67 | The Salt Truce | The Salt Flats
+concede | v. | to admit; to give up
+compromise | n./v. | a middle-ground agreement
+diplomacy | n. | skill in handling relations
+mediate | v. | to help settle a dispute
+conciliatory | adj. | trying to make peace
+amicable | adj. | friendly
+cordial | adj. | warm and polite
+rapport | n. | a friendly connection
+consensus | n. | general agreement
+accord | n. | an agreement
+# 68 | Towers That Breathe | The Windcatcher Towers
+ventilate | v. | to let fresh air in
+sustainable | adj. | able to last without harm
+arid | adj. | very dry
+humid | adj. | damp and muggy
+temperate | adj. | mild; moderate
+sweltering | adj. | uncomfortably hot
+respite | n. | a short rest or relief
+sultry | adj. | hot and humid
+frigid | adj. | very cold
+torrid | adj. | scorching hot; intense
+# 69 | Song of the Dunes | The Singing Dunes
+melodious | adj. | tuneful
+harmonious | adj. | in agreement; tuneful together
+dulcet | adj. | sweet-sounding
+serenade | n./v. | a song sung to someone
+rhapsody | n. | an outburst of enthusiasm
+crescendo | n. | a gradual rise to a peak
+timbre | n. | the quality of a sound
+lilting | adj. | gently rising and falling
+euphoric | adj. | intensely happy
+mesmerize | v. | to hold spellbound
+# 70 | Oasis of Second Chances | The Oasis of Date Palms
+repent | v. | to feel regret for wrongdoing
+contrite | adj. | sorry
+remorse | n. | deep regret
+absolve | v. | to free from blame
+atone | v. | to make amends
+amnesty | n. | an official pardon
+reprieve | n. | a delay of punishment
+vindicate | v. | to clear of blame
+exonerate | v. | to declare not guilty
+reform | v./n. | to improve by change
+# 71 | The Horse of Brass | The Khurasan Gate
+equestrian | adj. | relating to horse riding
+unbridled | adj. | uncontrolled
+spirited | adj. | lively and bold
+headstrong | adj. | stubborn
+obstinate | adj. | stubbornly refusing to change
+intractable | adj. | hard to manage
+subdue | v. | to overpower; to calm
+wield | v. | to hold and use (power or a weapon)
+mettle | n. | courage and spirit
+tractable | adj. | easy to manage
+# 72 | The Wild Stallion | The Horse Stables
+impulsive | adj. | acting on sudden urges
+rash | adj. | hasty; reckless
+spontaneous | adj. | unplanned
+restive | adj. | restless; resisting control
+temperamental | adj. | moody
+vehement | adj. | forceful; intense
+exuberant | adj. | overflowing with joy
+boisterous | adj. | noisy and lively
+rambunctious | adj. | wild and unruly
+restrain | v. | to hold back
+# 73 | War of the Kites | The Kite-Flyers' Hill
+altitude | n. | height
+plummet | v. | to fall straight down
+hover | v. | to stay in one place in the air
+entangle | v. | to tangle up
+skirmish | n. | a small fight
+zenith | n. | the highest point
+nadir | n. | the lowest point
+apex | n. | the peak
+descend | v. | to go down
+buffet | v. | to strike repeatedly (like wind)
+# 74 | Whispers on the Wind | The Tower of Winds
+hearsay | n. | rumor
+slander | n./v. | a false spoken statement that harms
+libel | n. | a false written statement that harms
+defame | v. | to damage a reputation
+malign | v. | to speak evil of
+innuendo | n. | a sly hint
+propaganda | n. | biased information to persuade
+credible | adj. | believable
+allege | v. | to claim without proof
+substantiate | v. | to prove with evidence
+# 75 | Eyes on the Stars | The Great Observatory
+aspire | v. | to aim high
+ambitious | adj. | eager to succeed
+visionary | adj./n. | imaginative about the future
+idealistic | adj. | believing in perfection
+utopia | n. | a perfect place
+optimistic | adj. | hopeful
+pessimistic | adj. | expecting the worst
+yearn | v. | to long for
+lofty | adj. | very high; noble
+cynical | adj. | believing everyone is selfish
+# 76 | The Map That Moved | The Star-Map Hall
+dynamic | adj. | energetic; changing
+static | adj. | unchanging
+flux | n. | constant change
+mutable | adj. | changeable
+immutable | adj. | unchangeable
+evolve | v. | to develop gradually
+adapt | v. | to adjust
+fluid | adj. | flowing; changeable
+variable | adj./n. | likely to change
+versatile | adj. | able to do many things
+# 77 | Wings of the Messenger | The Pigeon Post Tower
+convey | v. | to communicate; to carry
+correspondence | n. | letters exchanged
+dispatch | v./n. | to send off quickly
+expedite | v. | to speed up
+prompt | adj./v. | on time; to cause
+relay | v. | to pass along
+missive | n. | a letter
+transmit | v. | to send
+brevity | n. | shortness
+terse | adj. | abrupt and short
+# 78 | Shadow of the Sundial | The Sundial Plaza
+punctual | adj. | on time
+chronological | adj. | in time order
+anachronism | n. | something out of its time
+contemporary | adj./n. | modern; living at the same time
+temporal | adj. | relating to time
+belated | adj. | late
+procrastinate | v. | to put off
+dawdle | v. | to waste time
+perennial | adj. | lasting; recurring every year
+hasten | v. | to hurry
+# 79 | The Moon Well's Warning | The Moon Well
+premonition | n. | a feeling of what's to come
+prophecy | n. | a prediction
+clairvoyant | adj./n. | able to see the future
+augur | v. | to predict
+omen | n. | a sign of the future
+prescient | adj. | knowing beforehand
+admonish | v. | to warn firmly
+heed | v. | to pay attention to
+exhort | v. | to urge strongly
+dire | adj. | dreadful; urgent
+# 80 | The Great Betrayal | The Eastern Ramparts
+usurp | v. | to seize power wrongfully
+confiscate | v. | to take by authority
+plunder | v./n. | to steal by force
+machination | n. | a scheming plot
+nefarious | adj. | wicked
+diabolical | adj. | devilish
+gloat | v. | to delight in others' misfortune
+devastate | v. | to destroy; to crush emotionally
+despondent | adj. | hopeless
+sly | adj. | sneaky
+# 81 | Behind the Inner Wall | The Inner Ring Gate
+infiltrate | v. | to secretly enter
+breach | n./v. | a break or gap; to break through
+surveillance | n. | close watch
+camouflage | n. | disguise that blends in
+incognito | adj. | in disguise
+guise | n. | an outward appearance
+espionage | n. | spying
+circumvent | v. | to find a way around
+evasive | adj. | avoiding directness
+decoy | n. | a lure; a fake target
+# 82 | Princes of Dust | The Palace of the Princes
+indolent | adj. | lazy
+apathy | n. | lack of interest
+complacent | adj. | smugly satisfied
+decadent | adj. | indulgent and declining
+hedonist | n. | a pleasure-seeker
+listless | adj. | lacking energy
+torpor | n. | sluggish inactivity
+languid | adj. | slow and relaxed
+lackadaisical | adj. | lazy and careless
+nonchalant | adj. | casually calm
+# 83 | The Empty Treasury | The Treasury Vault
+embezzle | v. | to steal money in one's care
+deplete | v. | to use up
+bankrupt | adj. | out of money
+destitute | adj. | extremely poor
+penury | n. | extreme poverty
+meager | adj. | scanty; too little
+scant | adj. | barely enough
+paltry | adj. | tiny; worthless
+abundant | adj. | plentiful
+surplus | n. | an extra amount
+# 84 | Ashes of Wisdom | The House of Wisdom (Ruins)
+raze | v. | to demolish completely
+obliterate | v. | to wipe out
+annihilate | v. | to destroy completely
+eradicate | v. | to root out
+decimate | v. | to destroy a large part of
+irrevocable | adj. | cannot be undone
+irreparable | adj. | cannot be repaired
+ravage | v. | to wreck
+debris | n. | scattered remains
+remnant | n. | a remaining part
+# 85 | The Stacks Remember | The Library Stacks
+categorize | v. | to sort into groups
+classify | v. | to arrange by type
+curate | v. | to select and organize
+cite | v. | to quote as evidence
+peruse | v. | to read carefully
+skim | v. | to read quickly
+glean | v. | to gather bit by bit
+decipher | v. | to decode
+comprehend | v. | to understand
+assimilate | v. | to absorb
+# 86 | Many Tongues, One Truth | The Translators' Hall
+paraphrase | v. | to restate in other words
+interpret | v. | to explain the meaning
+vernacular | n. | everyday language
+dialect | n. | a regional form of language
+colloquial | adj. | informal speech
+lexicon | n. | vocabulary; a dictionary
+semantics | n. | the study of meaning
+nuance | n. | a subtle difference
+idiom | n. | an expression not meant literally
+universal | adj. | true for all
+# 87 | The Well of Echoes | The Well of Echoes
+reiterate | v. | to repeat
+mimic | v. | to imitate
+plagiarize | v. | to copy someone's work as your own
+derivative | adj. | copied; unoriginal
+cliché | n. | an overused phrase
+hackneyed | adj. | overused
+banal | adj. | boringly ordinary
+trite | adj. | stale from overuse
+tautology | n. | needless repetition
+verbatim | adv. | word for word
+# 88 | Prison of Silence | The Dungeon Beneath
+incarcerate | v. | to imprison
+detain | v. | to hold back; to keep in custody
+suppress | v. | to put down by force
+repress | v. | to hold down (feelings)
+censor | v. | to remove objectionable content
+muzzle | v. | to silence
+persecute | v. | to harass cruelly
+subjugate | v. | to conquer and control
+endure | v. | to bear; to last
+bleak | adj. | cold and hopeless
+# 89 | Mapping the Final Battle | The Hall of Maps
+strategic | adj. | part of a plan
+contingency | n. | a possible future event; a backup plan
+logistics | n. | organizing supplies and movement
+feasible | adj. | possible
+viable | adj. | workable
+coordinate | v. | to organize together
+deploy | v. | to send into action
+mobilize | v. | to prepare for action
+anticipate | v. | to expect
+prioritize | v. | to rank by importance
+# 90 | The City Rises | The Parade Ground
+galvanize | v. | to shock into action
+unify | v. | to bring together
+rouse | v. | to wake; to stir up
+incite | v. | to provoke to action
+morale | n. | a group's spirit
+populace | n. | the people
+collective | adj. | shared by a group
+egalitarian | adj. | believing all are equal
+empower | v. | to give power to
+multitude | n. | a great number
+# 91 | The Golden Gate | The Golden Gate
+resplendent | adj. | dazzling
+gilded | adj. | covered in gold
+ostentatious | adj. | showing off
+lavish | adj. | extravagant
+extravagant | adj. | excessive
+gaudy | adj. | cheaply showy
+sumptuous | adj. | splendid and costly
+pretentious | adj. | trying to seem important
+splendor | n. | magnificence
+pompous | adj. | self-important
+# 92 | Fountains of Fury | The Courtyard of Fountains
+irate | adj. | very angry
+livid | adj. | furious
+wrath | n. | fierce anger
+incensed | adj. | enraged
+rancor | n. | bitter resentment
+enmity | n. | hostility
+hostile | adj. | unfriendly; aggressive
+tirade | n. | a long angry speech
+retaliate | v. | to strike back
+irascible | adj. | easily angered
+# 93 | The Tree of Silver Birds | The Tree of Silver Birds
+artifice | n. | clever trickery; skill
+contrivance | n. | a clever device
+marvel | n./v. | a wonder; to be amazed
+exquisite | adj. | beautifully made
+elaborate | adj. | detailed
+virtuoso | n. | a master performer
+dexterity | n. | skill with hands
+sublime | adj. | awe-inspiring
+enthrall | v. | to captivate
+facile | adj. | too easy; superficial
+# 94 | The Empty Throne | The Throne Hall
+abdicate | v. | to give up a throne
+successor | n. | one who follows another
+legitimate | adj. | lawful; valid
+regime | n. | a government
+dynasty | n. | a ruling family line
+hegemony | n. | dominance
+preside | v. | to be in charge
+anarchy | n. | lawless chaos
+precedent | n. | an earlier example
+mandate | n. | an official order; authority
+# 95 | Envoys of Every Land | The Hall of Ambassadors
+emissary | n. | a messenger on a mission
+delegate | n./v. | a representative; to assign
+protocol | n. | official rules of conduct
+etiquette | n. | polite behavior rules
+decorum | n. | proper behavior
+courteous | adj. | polite
+tactful | adj. | sensitive in dealing with others
+xenophobia | n. | fear of foreigners
+tolerance | n. | acceptance of differences
+pluralism | n. | many groups living together
+# 96 | Wake the Caliph | The Caliph's Sleeping Chamber
+stupor | n. | a dazed state
+somnolent | adj. | sleepy
+slumber | n./v. | sleep
+comatose | adj. | in a deep unconscious state
+insomnia | n. | inability to sleep
+vigil | n. | a watch kept at night
+soporific | adj. | causing sleep
+oblivious | adj. | unaware
+startle | v. | to surprise suddenly
+cognizant | adj. | aware
+# 97 | A Thousand Steps | The Stair of a Thousand Steps
+grueling | adj. | exhausting
+strenuous | adj. | requiring great effort
+fatigue | n. | tiredness
+indefatigable | adj. | tireless
+undeterred | adj. | not discouraged
+persistent | adj. | continuing firmly
+incremental | adj. | increasing step by step
+gradual | adj. | slow and steady
+surmount | v. | to overcome
+pinnacle | n. | the highest point
+# 98 | Under the Green Dome | The Green Dome
+confront | v. | to face boldly
+nemesis | n. | an archenemy
+antagonist | n. | an opponent; the villain
+protagonist | n. | the main character
+unflinching | adj. | not shrinking back
+resolute | adj. | determined
+brink | n. | the edge
+verge | n. | the edge; about to
+climactic | adj. | forming the climax
+imperative | adj./n. | absolutely necessary
+# 99 | The Horseman Turns | The Bronze Horseman atop the Dome
+pivotal | adj. | crucial; central
+crucial | adj. | extremely important
+decisive | adj. | settling the result
+paradigm | n. | a model or pattern
+revert | v. | to go back
+ironic | adj. | the opposite of what's expected
+unprecedented | adj. | never happened before
+watershed | n. | a turning point
+transition | n. | a change from one state to another
+juncture | n. | a critical point in time
+# 100 | The Thousand and First Word | The Crown of Stars
+denouement | n. | the final resolution of a story
+epilogue | n. | a closing section
+consummate | adj. | complete; perfect
+quintessential | adj. | the purest example
+ineffable | adj. | too great for words
+perpetuate | v. | to keep going
+gratitude | n. | thankfulness
+humility | n. | modesty
+enduring | adj. | lasting
+transcend | v. | to go beyond limits

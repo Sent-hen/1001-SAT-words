@@ -1,0 +1,6902 @@
+[
+ {
+  "chapter": 1,
+  "title": "The Night the Words Fell",
+  "locus": "The Crescent Lighthouse",
+  "words": [
+   {
+    "n": 1,
+    "word": "anomaly",
+    "pos": "n.",
+    "meaning": "something strange that breaks the normal pattern"
+   },
+   {
+    "n": 2,
+    "word": "ominous",
+    "pos": "adj.",
+    "meaning": "giving the feeling that something bad is coming"
+   },
+   {
+    "n": 3,
+    "word": "impetuous",
+    "pos": "adj.",
+    "meaning": "acting fast without thinking"
+   },
+   {
+    "n": 4,
+    "word": "audacious",
+    "pos": "adj.",
+    "meaning": "boldly daring, even shockingly so"
+   },
+   {
+    "n": 5,
+    "word": "benevolent",
+    "pos": "adj.",
+    "meaning": "kind and wanting to do good"
+   },
+   {
+    "n": 6,
+    "word": "skeptical",
+    "pos": "adj.",
+    "meaning": "doubting; not easily convinced"
+   },
+   {
+    "n": 7,
+    "word": "candid",
+    "pos": "adj.",
+    "meaning": "honest and direct"
+   },
+   {
+    "n": 8,
+    "word": "diligent",
+    "pos": "adj.",
+    "meaning": "hard-working and careful"
+   },
+   {
+    "n": 9,
+    "word": "malevolent",
+    "pos": "adj.",
+    "meaning": "wishing harm on others"
+   },
+   {
+    "n": 10,
+    "word": "resilient",
+    "pos": "adj.",
+    "meaning": "able to bounce back after trouble"
+   }
+  ],
+  "look": "a white tower shaped like a crescent moon, fire-mirror on top, at the very southern tip of the docks",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 2,
+  "title": "A Djinn in the Fish Basket",
+  "locus": "The Fish Market",
+  "words": [
+   {
+    "n": 11,
+    "word": "incredulous",
+    "pos": "adj.",
+    "meaning": "unable to believe something"
+   },
+   {
+    "n": 12,
+    "word": "whimsical",
+    "pos": "adj.",
+    "meaning": "playfully odd and unpredictable"
+   },
+   {
+    "n": 13,
+    "word": "eloquent",
+    "pos": "adj.",
+    "meaning": "speaking beautifully and persuasively"
+   },
+   {
+    "n": 14,
+    "word": "cryptic",
+    "pos": "adj.",
+    "meaning": "mysterious; hard to understand"
+   },
+   {
+    "n": 15,
+    "word": "affable",
+    "pos": "adj.",
+    "meaning": "friendly and easy to talk to"
+   },
+   {
+    "n": 16,
+    "word": "novice",
+    "pos": "n.",
+    "meaning": "a beginner"
+   },
+   {
+    "n": 17,
+    "word": "frivolous",
+    "pos": "adj.",
+    "meaning": "silly; not serious"
+   },
+   {
+    "n": 18,
+    "word": "indignant",
+    "pos": "adj.",
+    "meaning": "angry at something unfair"
+   },
+   {
+    "n": 19,
+    "word": "gregarious",
+    "pos": "adj.",
+    "meaning": "loving company; very social"
+   },
+   {
+    "n": 20,
+    "word": "pragmatic",
+    "pos": "adj.",
+    "meaning": "practical; focused on what works"
+   }
+  ],
+  "look": "a shouting market under striped awnings, ice-baskets of silver fish, a giant swordfish skull over the door",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 3,
+  "title": "Knots of the Hushlings",
+  "locus": "The Rope-Makers' Wharf",
+  "words": [
+   {
+    "n": 21,
+    "word": "ensnare",
+    "pos": "v.",
+    "meaning": "to trap"
+   },
+   {
+    "n": 22,
+    "word": "tenacious",
+    "pos": "adj.",
+    "meaning": "refusing to let go or give up"
+   },
+   {
+    "n": 23,
+    "word": "futile",
+    "pos": "adj.",
+    "meaning": "useless; having no chance of success"
+   },
+   {
+    "n": 24,
+    "word": "ingenious",
+    "pos": "adj.",
+    "meaning": "clever and inventive"
+   },
+   {
+    "n": 25,
+    "word": "predicament",
+    "pos": "n.",
+    "meaning": "a difficult, tricky situation"
+   },
+   {
+    "n": 26,
+    "word": "adept",
+    "pos": "adj.",
+    "meaning": "very skilled"
+   },
+   {
+    "n": 27,
+    "word": "evade",
+    "pos": "v.",
+    "meaning": "to escape or avoid"
+   },
+   {
+    "n": 28,
+    "word": "relentless",
+    "pos": "adj.",
+    "meaning": "never stopping or easing up"
+   },
+   {
+    "n": 29,
+    "word": "deft",
+    "pos": "adj.",
+    "meaning": "quick and skillful with hands"
+   },
+   {
+    "n": 30,
+    "word": "jeopardy",
+    "pos": "n.",
+    "meaning": "danger of loss or harm"
+   }
+  ],
+  "look": "long sheds where ropes are twisted, coils as big as houses, a rope bridge between two masts",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 4,
+  "title": "The Tax on Truth",
+  "locus": "The Customs House",
+  "words": [
+   {
+    "n": 31,
+    "word": "levy",
+    "pos": "v./n.",
+    "meaning": "to impose (a tax); a tax"
+   },
+   {
+    "n": 32,
+    "word": "arbitrary",
+    "pos": "adj.",
+    "meaning": "based on whim, not reason"
+   },
+   {
+    "n": 33,
+    "word": "bureaucracy",
+    "pos": "n.",
+    "meaning": "a system of officials and endless rules"
+   },
+   {
+    "n": 34,
+    "word": "scrutinize",
+    "pos": "v.",
+    "meaning": "to examine very closely"
+   },
+   {
+    "n": 35,
+    "word": "contraband",
+    "pos": "n.",
+    "meaning": "smuggled or forbidden goods"
+   },
+   {
+    "n": 36,
+    "word": "extort",
+    "pos": "v.",
+    "meaning": "to get something by threats"
+   },
+   {
+    "n": 37,
+    "word": "dubious",
+    "pos": "adj.",
+    "meaning": "doubtful; suspicious"
+   },
+   {
+    "n": 38,
+    "word": "integrity",
+    "pos": "n.",
+    "meaning": "honesty and strong moral principles"
+   },
+   {
+    "n": 39,
+    "word": "venal",
+    "pos": "adj.",
+    "meaning": "open to bribery; corrupt"
+   },
+   {
+    "n": 40,
+    "word": "meticulous",
+    "pos": "adj.",
+    "meaning": "extremely careful with details"
+   }
+  ],
+  "look": "a stern stone building with scales on the roof and a huge brass stamp at the door",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 5,
+  "title": "Skeleton Ships",
+  "locus": "The Shipyard",
+  "words": [
+   {
+    "n": 41,
+    "word": "dilapidated",
+    "pos": "adj.",
+    "meaning": "falling apart from age or neglect"
+   },
+   {
+    "n": 42,
+    "word": "eerie",
+    "pos": "adj.",
+    "meaning": "strange and frightening"
+   },
+   {
+    "n": 43,
+    "word": "rudimentary",
+    "pos": "adj.",
+    "meaning": "basic; undeveloped"
+   },
+   {
+    "n": 44,
+    "word": "precarious",
+    "pos": "adj.",
+    "meaning": "dangerously unstable"
+   },
+   {
+    "n": 45,
+    "word": "derelict",
+    "pos": "adj.",
+    "meaning": "abandoned and run-down"
+   },
+   {
+    "n": 46,
+    "word": "cumbersome",
+    "pos": "adj.",
+    "meaning": "bulky and hard to handle"
+   },
+   {
+    "n": 47,
+    "word": "fortify",
+    "pos": "v.",
+    "meaning": "to strengthen"
+   },
+   {
+    "n": 48,
+    "word": "makeshift",
+    "pos": "adj.",
+    "meaning": "temporary, thrown together"
+   },
+   {
+    "n": 49,
+    "word": "formidable",
+    "pos": "adj.",
+    "meaning": "impressively powerful; scary to face"
+   },
+   {
+    "n": 50,
+    "word": "intrepid",
+    "pos": "adj.",
+    "meaning": "fearless; adventurous"
+   }
+  ],
+  "look": "dhow skeletons standing on wooden stilts like ribs of whales, sawdust and tar",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 6,
+  "title": "The Liar Who Never Lied",
+  "locus": "Sinbad's Ship, the Wandering Pearl",
+  "words": [
+   {
+    "n": 51,
+    "word": "hyperbole",
+    "pos": "n.",
+    "meaning": "extreme exaggeration"
+   },
+   {
+    "n": 52,
+    "word": "embellish",
+    "pos": "v.",
+    "meaning": "to decorate; to add made-up details"
+   },
+   {
+    "n": 53,
+    "word": "raconteur",
+    "pos": "n.",
+    "meaning": "a skilled storyteller"
+   },
+   {
+    "n": 54,
+    "word": "credulous",
+    "pos": "adj.",
+    "meaning": "too ready to believe things"
+   },
+   {
+    "n": 55,
+    "word": "veracity",
+    "pos": "n.",
+    "meaning": "truthfulness"
+   },
+   {
+    "n": 56,
+    "word": "fabricate",
+    "pos": "v.",
+    "meaning": "to make up (a lie); to build"
+   },
+   {
+    "n": 57,
+    "word": "flamboyant",
+    "pos": "adj.",
+    "meaning": "showy and colorful"
+   },
+   {
+    "n": 58,
+    "word": "braggart",
+    "pos": "n.",
+    "meaning": "a person who boasts a lot"
+   },
+   {
+    "n": 59,
+    "word": "anecdote",
+    "pos": "n.",
+    "meaning": "a short, interesting true story"
+   },
+   {
+    "n": 60,
+    "word": "grandiose",
+    "pos": "adj.",
+    "meaning": "overly grand; pretentiously big"
+   }
+  ],
+  "look": "Sinbad's beached ship, tilted on its side, patched sails, seven flags from seven voyages",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 7,
+  "title": "Dive for the Drowned Spark",
+  "locus": "The Pearl Divers' Pier",
+  "words": [
+   {
+    "n": 61,
+    "word": "submerge",
+    "pos": "v.",
+    "meaning": "to put or go under water"
+   },
+   {
+    "n": 62,
+    "word": "buoyant",
+    "pos": "adj.",
+    "meaning": "able to float; cheerful"
+   },
+   {
+    "n": 63,
+    "word": "perilous",
+    "pos": "adj.",
+    "meaning": "full of danger"
+   },
+   {
+    "n": 64,
+    "word": "abyss",
+    "pos": "n.",
+    "meaning": "a bottomless pit or depth"
+   },
+   {
+    "n": 65,
+    "word": "luminous",
+    "pos": "adj.",
+    "meaning": "glowing; giving off light"
+   },
+   {
+    "n": 66,
+    "word": "murky",
+    "pos": "adj.",
+    "meaning": "dark and cloudy; unclear"
+   },
+   {
+    "n": 67,
+    "word": "endurance",
+    "pos": "n.",
+    "meaning": "the ability to last through hardship"
+   },
+   {
+    "n": 68,
+    "word": "ascend",
+    "pos": "v.",
+    "meaning": "to go up"
+   },
+   {
+    "n": 69,
+    "word": "reckless",
+    "pos": "adj.",
+    "meaning": "careless about danger"
+   },
+   {
+    "n": 70,
+    "word": "exhilarating",
+    "pos": "adj.",
+    "meaning": "thrilling; making you feel alive"
+   }
+  ],
+  "look": "a long pier with diving stones on ropes, oyster heaps and a giant clam used as a bench",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 8,
+  "title": "Pepper Storm",
+  "locus": "The Spice Warehouses",
+  "words": [
+   {
+    "n": 71,
+    "word": "pungent",
+    "pos": "adj.",
+    "meaning": "sharply strong in smell or taste"
+   },
+   {
+    "n": 72,
+    "word": "volatile",
+    "pos": "adj.",
+    "meaning": "likely to explode or change suddenly"
+   },
+   {
+    "n": 73,
+    "word": "chaotic",
+    "pos": "adj.",
+    "meaning": "completely disordered"
+   },
+   {
+    "n": 74,
+    "word": "pandemonium",
+    "pos": "n.",
+    "meaning": "wild, noisy chaos"
+   },
+   {
+    "n": 75,
+    "word": "acrid",
+    "pos": "adj.",
+    "meaning": "bitter and burning to smell"
+   },
+   {
+    "n": 76,
+    "word": "torrent",
+    "pos": "n.",
+    "meaning": "a violent rushing stream"
+   },
+   {
+    "n": 77,
+    "word": "inundate",
+    "pos": "v.",
+    "meaning": "to flood; to overwhelm"
+   },
+   {
+    "n": 78,
+    "word": "ignite",
+    "pos": "v.",
+    "meaning": "to set on fire; to spark"
+   },
+   {
+    "n": 79,
+    "word": "conflagration",
+    "pos": "n.",
+    "meaning": "a huge destructive fire"
+   },
+   {
+    "n": 80,
+    "word": "havoc",
+    "pos": "n.",
+    "meaning": "widespread destruction"
+   }
+  ],
+  "look": "brick warehouses stacked with sacks of pepper, cinnamon and saffron, a crane with a hook",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 9,
+  "title": "The Bell That Couldn't Ring",
+  "locus": "The Harbormaster's Tower",
+  "words": [
+   {
+    "n": 81,
+    "word": "taciturn",
+    "pos": "adj.",
+    "meaning": "saying very little"
+   },
+   {
+    "n": 82,
+    "word": "reticent",
+    "pos": "adj.",
+    "meaning": "reluctant to share feelings or information"
+   },
+   {
+    "n": 83,
+    "word": "cacophony",
+    "pos": "n.",
+    "meaning": "harsh mix of loud sounds"
+   },
+   {
+    "n": 84,
+    "word": "resonate",
+    "pos": "v.",
+    "meaning": "to echo; to strike a chord"
+   },
+   {
+    "n": 85,
+    "word": "dormant",
+    "pos": "adj.",
+    "meaning": "asleep; inactive for now"
+   },
+   {
+    "n": 86,
+    "word": "reverberate",
+    "pos": "v.",
+    "meaning": "to echo repeatedly"
+   },
+   {
+    "n": 87,
+    "word": "stifle",
+    "pos": "v.",
+    "meaning": "to smother; to hold back"
+   },
+   {
+    "n": 88,
+    "word": "inaudible",
+    "pos": "adj.",
+    "meaning": "impossible to hear"
+   },
+   {
+    "n": 89,
+    "word": "clamor",
+    "pos": "n.",
+    "meaning": "loud, confused noise or demand"
+   },
+   {
+    "n": 90,
+    "word": "sonorous",
+    "pos": "adj.",
+    "meaning": "deep and full-sounding"
+   }
+  ],
+  "look": "a tall square tower with a great bronze bell and a signal-flag balcony",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 10,
+  "title": "Breaking the Chain",
+  "locus": "The Chain Gate",
+  "words": [
+   {
+    "n": 91,
+    "word": "emancipate",
+    "pos": "v.",
+    "meaning": "to set free"
+   },
+   {
+    "n": 92,
+    "word": "fetter",
+    "pos": "n./v.",
+    "meaning": "a chain; to restrain"
+   },
+   {
+    "n": 93,
+    "word": "impede",
+    "pos": "v.",
+    "meaning": "to block or slow down"
+   },
+   {
+    "n": 94,
+    "word": "triumph",
+    "pos": "n.",
+    "meaning": "a great victory"
+   },
+   {
+    "n": 95,
+    "word": "exult",
+    "pos": "v.",
+    "meaning": "to rejoice greatly"
+   },
+   {
+    "n": 96,
+    "word": "momentum",
+    "pos": "n.",
+    "meaning": "force gained by motion"
+   },
+   {
+    "n": 97,
+    "word": "catalyst",
+    "pos": "n.",
+    "meaning": "something that sparks change"
+   },
+   {
+    "n": 98,
+    "word": "defiance",
+    "pos": "n.",
+    "meaning": "bold refusal to obey"
+   },
+   {
+    "n": 99,
+    "word": "unyielding",
+    "pos": "adj.",
+    "meaning": "not giving way"
+   },
+   {
+    "n": 100,
+    "word": "culminate",
+    "pos": "v.",
+    "meaning": "to reach a climax or final point"
+   }
+  ],
+  "look": "two towers across the river holding a massive iron chain that blocks ships",
+  "district": "Harbor of a Thousand Sails"
+ },
+ {
+  "chapter": 11,
+  "title": "The Bridge That Floats",
+  "locus": "The Bridge of Boats (East End)",
+  "words": [
+   {
+    "n": 101,
+    "word": "tenuous",
+    "pos": "adj.",
+    "meaning": "very thin or weak"
+   },
+   {
+    "n": 102,
+    "word": "traverse",
+    "pos": "v.",
+    "meaning": "to travel across"
+   },
+   {
+    "n": 103,
+    "word": "vacillate",
+    "pos": "v.",
+    "meaning": "to swing back and forth in opinion"
+   },
+   {
+    "n": 104,
+    "word": "equilibrium",
+    "pos": "n.",
+    "meaning": "a state of balance"
+   },
+   {
+    "n": 105,
+    "word": "apprehensive",
+    "pos": "adj.",
+    "meaning": "anxious about the future"
+   },
+   {
+    "n": 106,
+    "word": "steadfast",
+    "pos": "adj.",
+    "meaning": "firm and loyal"
+   },
+   {
+    "n": 107,
+    "word": "trepidation",
+    "pos": "n.",
+    "meaning": "nervous fear"
+   },
+   {
+    "n": 108,
+    "word": "navigate",
+    "pos": "v.",
+    "meaning": "to find one's way"
+   },
+   {
+    "n": 109,
+    "word": "fluctuate",
+    "pos": "v.",
+    "meaning": "to rise and fall irregularly"
+   },
+   {
+    "n": 110,
+    "word": "collaborate",
+    "pos": "v.",
+    "meaning": "to work together"
+   }
+  ],
+  "look": "a bridge made of boats tied side-by-side, planks between them, wobbling",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 12,
+  "title": "Mills of Midnight",
+  "locus": "The Water-Mill Barges",
+  "words": [
+   {
+    "n": 111,
+    "word": "perpetual",
+    "pos": "adj.",
+    "meaning": "never-ending"
+   },
+   {
+    "n": 112,
+    "word": "monotonous",
+    "pos": "adj.",
+    "meaning": "dull and unchanging"
+   },
+   {
+    "n": 113,
+    "word": "industrious",
+    "pos": "adj.",
+    "meaning": "hard-working"
+   },
+   {
+    "n": 114,
+    "word": "tedious",
+    "pos": "adj.",
+    "meaning": "boring and tiring"
+   },
+   {
+    "n": 115,
+    "word": "laborious",
+    "pos": "adj.",
+    "meaning": "needing lots of effort"
+   },
+   {
+    "n": 116,
+    "word": "nocturnal",
+    "pos": "adj.",
+    "meaning": "active at night"
+   },
+   {
+    "n": 117,
+    "word": "cyclical",
+    "pos": "adj.",
+    "meaning": "happening in repeating cycles"
+   },
+   {
+    "n": 118,
+    "word": "efficient",
+    "pos": "adj.",
+    "meaning": "getting results without waste"
+   },
+   {
+    "n": 119,
+    "word": "stagnant",
+    "pos": "adj.",
+    "meaning": "not moving; not growing"
+   },
+   {
+    "n": 120,
+    "word": "harness",
+    "pos": "v.",
+    "meaning": "to control and use (power)"
+   }
+  ],
+  "look": "floating barges with waterwheels turning millstones day and night",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 13,
+  "title": "Steam and Secrets",
+  "locus": "The Floating Bathhouse",
+  "words": [
+   {
+    "n": 121,
+    "word": "clandestine",
+    "pos": "adj.",
+    "meaning": "secret, often illicit"
+   },
+   {
+    "n": 122,
+    "word": "covert",
+    "pos": "adj.",
+    "meaning": "hidden; undercover"
+   },
+   {
+    "n": 123,
+    "word": "eavesdrop",
+    "pos": "v.",
+    "meaning": "to secretly listen in"
+   },
+   {
+    "n": 124,
+    "word": "surreptitious",
+    "pos": "adj.",
+    "meaning": "done sneakily"
+   },
+   {
+    "n": 125,
+    "word": "conspire",
+    "pos": "v.",
+    "meaning": "to secretly plan together"
+   },
+   {
+    "n": 126,
+    "word": "obscure",
+    "pos": "adj./v.",
+    "meaning": "unclear or unknown; to hide"
+   },
+   {
+    "n": 127,
+    "word": "divulge",
+    "pos": "v.",
+    "meaning": "to reveal a secret"
+   },
+   {
+    "n": 128,
+    "word": "insinuate",
+    "pos": "v.",
+    "meaning": "to hint something unpleasant"
+   },
+   {
+    "n": 129,
+    "word": "furtive",
+    "pos": "adj.",
+    "meaning": "sly, trying not to be seen"
+   },
+   {
+    "n": 130,
+    "word": "discreet",
+    "pos": "adj.",
+    "meaning": "careful to keep things private"
+   }
+  ],
+  "look": "a bathhouse on a raft, domed roof with glass star-holes, steam leaking out",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 14,
+  "title": "The Girl with Heron Feathers",
+  "locus": "Heron Island",
+  "words": [
+   {
+    "n": 131,
+    "word": "enigmatic",
+    "pos": "adj.",
+    "meaning": "mysterious and puzzling"
+   },
+   {
+    "n": 132,
+    "word": "charismatic",
+    "pos": "adj.",
+    "meaning": "charmingly magnetic"
+   },
+   {
+    "n": 133,
+    "word": "aloof",
+    "pos": "adj.",
+    "meaning": "distant; cool and uninvolved"
+   },
+   {
+    "n": 134,
+    "word": "inscrutable",
+    "pos": "adj.",
+    "meaning": "impossible to read or understand"
+   },
+   {
+    "n": 135,
+    "word": "beguile",
+    "pos": "v.",
+    "meaning": "to charm, often deceptively"
+   },
+   {
+    "n": 136,
+    "word": "poised",
+    "pos": "adj.",
+    "meaning": "calm and composed; ready"
+   },
+   {
+    "n": 137,
+    "word": "guile",
+    "pos": "n.",
+    "meaning": "sly cunning"
+   },
+   {
+    "n": 138,
+    "word": "feign",
+    "pos": "v.",
+    "meaning": "to pretend"
+   },
+   {
+    "n": 139,
+    "word": "elegant",
+    "pos": "adj.",
+    "meaning": "gracefully stylish"
+   },
+   {
+    "n": 140,
+    "word": "wary",
+    "pos": "adj.",
+    "meaning": "cautious; on guard"
+   }
+  ],
+  "look": "a reedy island covered in white herons, a single leaning palm",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 15,
+  "title": "The Ferryman's Price",
+  "locus": "The Ferryman's Hut",
+  "words": [
+   {
+    "n": 141,
+    "word": "frugal",
+    "pos": "adj.",
+    "meaning": "careful with money"
+   },
+   {
+    "n": 142,
+    "word": "exorbitant",
+    "pos": "adj.",
+    "meaning": "far too expensive"
+   },
+   {
+    "n": 143,
+    "word": "avarice",
+    "pos": "n.",
+    "meaning": "extreme greed for wealth"
+   },
+   {
+    "n": 144,
+    "word": "barter",
+    "pos": "v.",
+    "meaning": "to trade goods without money"
+   },
+   {
+    "n": 145,
+    "word": "negotiate",
+    "pos": "v.",
+    "meaning": "to bargain to reach agreement"
+   },
+   {
+    "n": 146,
+    "word": "miserly",
+    "pos": "adj.",
+    "meaning": "stingy like a miser"
+   },
+   {
+    "n": 147,
+    "word": "parsimonious",
+    "pos": "adj.",
+    "meaning": "extremely unwilling to spend"
+   },
+   {
+    "n": 148,
+    "word": "compensate",
+    "pos": "v.",
+    "meaning": "to pay back; to make up for"
+   },
+   {
+    "n": 149,
+    "word": "lucrative",
+    "pos": "adj.",
+    "meaning": "producing lots of money"
+   },
+   {
+    "n": 150,
+    "word": "haggle",
+    "pos": "v.",
+    "meaning": "to argue over a price"
+   }
+  ],
+  "look": "a crooked hut on stilts with a lantern and a long pole, bells on the doorframe",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 16,
+  "title": "The Watermelon War",
+  "locus": "Island of the Watermelon Farmers",
+  "words": [
+   {
+    "n": 151,
+    "word": "feud",
+    "pos": "n.",
+    "meaning": "a long bitter quarrel"
+   },
+   {
+    "n": 152,
+    "word": "petty",
+    "pos": "adj.",
+    "meaning": "small-minded; unimportant"
+   },
+   {
+    "n": 153,
+    "word": "belligerent",
+    "pos": "adj.",
+    "meaning": "eager to fight; hostile"
+   },
+   {
+    "n": 154,
+    "word": "truce",
+    "pos": "n.",
+    "meaning": "an agreement to stop fighting"
+   },
+   {
+    "n": 155,
+    "word": "absurd",
+    "pos": "adj.",
+    "meaning": "ridiculous"
+   },
+   {
+    "n": 156,
+    "word": "reconcile",
+    "pos": "v.",
+    "meaning": "to make friends again"
+   },
+   {
+    "n": 157,
+    "word": "animosity",
+    "pos": "n.",
+    "meaning": "strong hostility"
+   },
+   {
+    "n": 158,
+    "word": "trivial",
+    "pos": "adj.",
+    "meaning": "of little importance"
+   },
+   {
+    "n": 159,
+    "word": "squabble",
+    "pos": "n./v.",
+    "meaning": "a noisy quarrel about small things"
+   },
+   {
+    "n": 160,
+    "word": "arbitrate",
+    "pos": "v.",
+    "meaning": "to settle a dispute as a judge"
+   }
+  ],
+  "look": "an island split by a fence, striped watermelons piled on both sides",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 17,
+  "title": "The Palace Beneath the River",
+  "locus": "The Sunken Palace",
+  "words": [
+   {
+    "n": 161,
+    "word": "antiquity",
+    "pos": "n.",
+    "meaning": "ancient times"
+   },
+   {
+    "n": 162,
+    "word": "relic",
+    "pos": "n.",
+    "meaning": "an object surviving from the past"
+   },
+   {
+    "n": 163,
+    "word": "vestige",
+    "pos": "n.",
+    "meaning": "a trace of something gone"
+   },
+   {
+    "n": 164,
+    "word": "archaic",
+    "pos": "adj.",
+    "meaning": "very old; outdated"
+   },
+   {
+    "n": 165,
+    "word": "opulent",
+    "pos": "adj.",
+    "meaning": "richly luxurious"
+   },
+   {
+    "n": 166,
+    "word": "grandeur",
+    "pos": "n.",
+    "meaning": "splendor and greatness"
+   },
+   {
+    "n": 167,
+    "word": "ornate",
+    "pos": "adj.",
+    "meaning": "heavily decorated"
+   },
+   {
+    "n": 168,
+    "word": "ephemeral",
+    "pos": "adj.",
+    "meaning": "lasting a very short time"
+   },
+   {
+    "n": 169,
+    "word": "obsolete",
+    "pos": "adj.",
+    "meaning": "no longer used"
+   },
+   {
+    "n": 170,
+    "word": "excavate",
+    "pos": "v.",
+    "meaning": "to dig out"
+   }
+  ],
+  "look": "an old palace lying underwater, its domes just below the surface, fish in the windows",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 18,
+  "title": "Belly of the Tanin",
+  "locus": "The Tanin's Whirlpool",
+  "words": [
+   {
+    "n": 171,
+    "word": "voracious",
+    "pos": "adj.",
+    "meaning": "hungry for huge amounts"
+   },
+   {
+    "n": 172,
+    "word": "engulf",
+    "pos": "v.",
+    "meaning": "to swallow up completely"
+   },
+   {
+    "n": 173,
+    "word": "colossal",
+    "pos": "adj.",
+    "meaning": "enormous"
+   },
+   {
+    "n": 174,
+    "word": "claustrophobic",
+    "pos": "adj.",
+    "meaning": "afraid of tight spaces; cramped"
+   },
+   {
+    "n": 175,
+    "word": "revulsion",
+    "pos": "n.",
+    "meaning": "strong disgust"
+   },
+   {
+    "n": 176,
+    "word": "loathe",
+    "pos": "v.",
+    "meaning": "to hate intensely"
+   },
+   {
+    "n": 177,
+    "word": "desperate",
+    "pos": "adj.",
+    "meaning": "hopeless and ready to try anything"
+   },
+   {
+    "n": 178,
+    "word": "improvise",
+    "pos": "v.",
+    "meaning": "to make it up on the spot"
+   },
+   {
+    "n": 179,
+    "word": "expel",
+    "pos": "v.",
+    "meaning": "to force out"
+   },
+   {
+    "n": 180,
+    "word": "grotesque",
+    "pos": "adj.",
+    "meaning": "ugly in a bizarre way"
+   }
+  ],
+  "look": "a spinning whirlpool with a stone pillar in its center, the Tanin's lair",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 19,
+  "title": "Lost in the Reeds",
+  "locus": "The Reed Maze",
+  "words": [
+   {
+    "n": 181,
+    "word": "disoriented",
+    "pos": "adj.",
+    "meaning": "confused about direction"
+   },
+   {
+    "n": 182,
+    "word": "labyrinthine",
+    "pos": "adj.",
+    "meaning": "maze-like; complicated"
+   },
+   {
+    "n": 183,
+    "word": "meander",
+    "pos": "v.",
+    "meaning": "to wander in a winding way"
+   },
+   {
+    "n": 184,
+    "word": "circuitous",
+    "pos": "adj.",
+    "meaning": "roundabout; indirect"
+   },
+   {
+    "n": 185,
+    "word": "bewilder",
+    "pos": "v.",
+    "meaning": "to confuse completely"
+   },
+   {
+    "n": 186,
+    "word": "impenetrable",
+    "pos": "adj.",
+    "meaning": "impossible to get through"
+   },
+   {
+    "n": 187,
+    "word": "intuition",
+    "pos": "n.",
+    "meaning": "knowing by instinct"
+   },
+   {
+    "n": 188,
+    "word": "perseverance",
+    "pos": "n.",
+    "meaning": "keeping on despite difficulty"
+   },
+   {
+    "n": 189,
+    "word": "dense",
+    "pos": "adj.",
+    "meaning": "thick; packed closely; slow to understand"
+   },
+   {
+    "n": 190,
+    "word": "elusive",
+    "pos": "adj.",
+    "meaning": "hard to catch or grasp"
+   }
+  ],
+  "look": "tall reeds higher than a man, a maze of narrow water channels",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 20,
+  "title": "Toll of the Traitor",
+  "locus": "The Toll Post (Bridge of Boats, West End)",
+  "words": [
+   {
+    "n": 191,
+    "word": "betray",
+    "pos": "v.",
+    "meaning": "to be disloyal to"
+   },
+   {
+    "n": 192,
+    "word": "treacherous",
+    "pos": "adj.",
+    "meaning": "untrustworthy; dangerous"
+   },
+   {
+    "n": 193,
+    "word": "duplicity",
+    "pos": "n.",
+    "meaning": "two-faced deceit"
+   },
+   {
+    "n": 194,
+    "word": "perfidious",
+    "pos": "adj.",
+    "meaning": "deliberately faithless"
+   },
+   {
+    "n": 195,
+    "word": "deceit",
+    "pos": "n.",
+    "meaning": "dishonest trickery"
+   },
+   {
+    "n": 196,
+    "word": "gullible",
+    "pos": "adj.",
+    "meaning": "easily fooled"
+   },
+   {
+    "n": 197,
+    "word": "naive",
+    "pos": "adj.",
+    "meaning": "innocent and inexperienced"
+   },
+   {
+    "n": 198,
+    "word": "vindictive",
+    "pos": "adj.",
+    "meaning": "wanting revenge"
+   },
+   {
+    "n": 199,
+    "word": "ultimatum",
+    "pos": "n.",
+    "meaning": "a final demand with a threat"
+   },
+   {
+    "n": 200,
+    "word": "disillusioned",
+    "pos": "adj.",
+    "meaning": "disappointed after learning the truth"
+   }
+  ],
+  "look": "a toll gate at the west end of the bridge, a striped barrier pole and a coin box",
+  "district": "Bridge of Boats & River Islands"
+ },
+ {
+  "chapter": 21,
+  "title": "The Copper Arch",
+  "locus": "The Copper Arch (Bazaar Gate)",
+  "words": [
+   {
+    "n": 201,
+    "word": "bustling",
+    "pos": "adj.",
+    "meaning": "full of busy activity"
+   },
+   {
+    "n": 202,
+    "word": "throng",
+    "pos": "n.",
+    "meaning": "a large crowd"
+   },
+   {
+    "n": 203,
+    "word": "diverse",
+    "pos": "adj.",
+    "meaning": "varied; of many kinds"
+   },
+   {
+    "n": 204,
+    "word": "eclectic",
+    "pos": "adj.",
+    "meaning": "drawn from many sources"
+   },
+   {
+    "n": 205,
+    "word": "vibrant",
+    "pos": "adj.",
+    "meaning": "full of energy and color"
+   },
+   {
+    "n": 206,
+    "word": "cosmopolitan",
+    "pos": "adj.",
+    "meaning": "from or at home in many cultures"
+   },
+   {
+    "n": 207,
+    "word": "commerce",
+    "pos": "n.",
+    "meaning": "buying and selling"
+   },
+   {
+    "n": 208,
+    "word": "mercantile",
+    "pos": "adj.",
+    "meaning": "relating to trade and merchants"
+   },
+   {
+    "n": 209,
+    "word": "ubiquitous",
+    "pos": "adj.",
+    "meaning": "found everywhere"
+   },
+   {
+    "n": 210,
+    "word": "tumult",
+    "pos": "n.",
+    "meaning": "noisy commotion"
+   }
+  ],
+  "look": "a huge copper arch covered in engraved camels, the entrance to the bazaar",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 22,
+  "title": "Saffron and Sabotage",
+  "locus": "The Street of Spices",
+  "words": [
+   {
+    "n": 211,
+    "word": "sabotage",
+    "pos": "v./n.",
+    "meaning": "to deliberately destroy or wreck"
+   },
+   {
+    "n": 212,
+    "word": "sinister",
+    "pos": "adj.",
+    "meaning": "seeming evil"
+   },
+   {
+    "n": 213,
+    "word": "subvert",
+    "pos": "v.",
+    "meaning": "to undermine secretly"
+   },
+   {
+    "n": 214,
+    "word": "meddle",
+    "pos": "v.",
+    "meaning": "to interfere"
+   },
+   {
+    "n": 215,
+    "word": "undermine",
+    "pos": "v.",
+    "meaning": "to weaken from below"
+   },
+   {
+    "n": 216,
+    "word": "tamper",
+    "pos": "v.",
+    "meaning": "to interfere harmfully"
+   },
+   {
+    "n": 217,
+    "word": "malicious",
+    "pos": "adj.",
+    "meaning": "intending to harm"
+   },
+   {
+    "n": 218,
+    "word": "culprit",
+    "pos": "n.",
+    "meaning": "the one guilty"
+   },
+   {
+    "n": 219,
+    "word": "cunning",
+    "pos": "adj.",
+    "meaning": "cleverly deceitful"
+   },
+   {
+    "n": 220,
+    "word": "thwart",
+    "pos": "v.",
+    "meaning": "to block someone's plans"
+   }
+  ],
+  "look": "stalls of spice cones: red, yellow, orange pyramids, sneezing customers",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 23,
+  "title": "The Carpet That Ran Away",
+  "locus": "Carpet Weavers' Alley",
+  "words": [
+   {
+    "n": 221,
+    "word": "erratic",
+    "pos": "adj.",
+    "meaning": "unpredictable; irregular"
+   },
+   {
+    "n": 222,
+    "word": "capricious",
+    "pos": "adj.",
+    "meaning": "changing mood suddenly"
+   },
+   {
+    "n": 223,
+    "word": "agile",
+    "pos": "adj.",
+    "meaning": "moving quickly and easily"
+   },
+   {
+    "n": 224,
+    "word": "frenetic",
+    "pos": "adj.",
+    "meaning": "wildly energetic"
+   },
+   {
+    "n": 225,
+    "word": "wayward",
+    "pos": "adj.",
+    "meaning": "hard to control; straying"
+   },
+   {
+    "n": 226,
+    "word": "unruly",
+    "pos": "adj.",
+    "meaning": "disorderly; wild"
+   },
+   {
+    "n": 227,
+    "word": "careen",
+    "pos": "v.",
+    "meaning": "to rush wildly, swaying"
+   },
+   {
+    "n": 228,
+    "word": "pursue",
+    "pos": "v.",
+    "meaning": "to chase"
+   },
+   {
+    "n": 229,
+    "word": "exasperate",
+    "pos": "v.",
+    "meaning": "to annoy greatly"
+   },
+   {
+    "n": 230,
+    "word": "nimble",
+    "pos": "adj.",
+    "meaning": "quick and light in movement"
+   }
+  ],
+  "look": "carpets hanging across the alley like flags, looms clacking",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 24,
+  "title": "A Scent of Lies",
+  "locus": "Perfumers' Row",
+  "words": [
+   {
+    "n": 231,
+    "word": "fragrant",
+    "pos": "adj.",
+    "meaning": "sweet-smelling"
+   },
+   {
+    "n": 232,
+    "word": "aromatic",
+    "pos": "adj.",
+    "meaning": "having a strong pleasant smell"
+   },
+   {
+    "n": 233,
+    "word": "pervasive",
+    "pos": "adj.",
+    "meaning": "spreading everywhere"
+   },
+   {
+    "n": 234,
+    "word": "subtle",
+    "pos": "adj.",
+    "meaning": "delicate; hard to notice"
+   },
+   {
+    "n": 235,
+    "word": "allure",
+    "pos": "n.",
+    "meaning": "attractive charm"
+   },
+   {
+    "n": 236,
+    "word": "potent",
+    "pos": "adj.",
+    "meaning": "powerful"
+   },
+   {
+    "n": 237,
+    "word": "cloying",
+    "pos": "adj.",
+    "meaning": "sickeningly sweet"
+   },
+   {
+    "n": 238,
+    "word": "deceptive",
+    "pos": "adj.",
+    "meaning": "misleading"
+   },
+   {
+    "n": 239,
+    "word": "facade",
+    "pos": "n.",
+    "meaning": "a false front"
+   },
+   {
+    "n": 240,
+    "word": "redolent",
+    "pos": "adj.",
+    "meaning": "strongly smelling of; suggestive of"
+   }
+  ],
+  "look": "crystal perfume bottles on shelves, clouds of scented smoke",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 25,
+  "title": "The Book That Bit Back",
+  "locus": "The Booksellers' Souq",
+  "words": [
+   {
+    "n": 241,
+    "word": "erudite",
+    "pos": "adj.",
+    "meaning": "very learned"
+   },
+   {
+    "n": 242,
+    "word": "pedantic",
+    "pos": "adj.",
+    "meaning": "fussy about small rules of learning"
+   },
+   {
+    "n": 243,
+    "word": "esoteric",
+    "pos": "adj.",
+    "meaning": "understood by only a few"
+   },
+   {
+    "n": 244,
+    "word": "tome",
+    "pos": "n.",
+    "meaning": "a large, heavy book"
+   },
+   {
+    "n": 245,
+    "word": "annotate",
+    "pos": "v.",
+    "meaning": "to add notes to a text"
+   },
+   {
+    "n": 246,
+    "word": "archive",
+    "pos": "n.",
+    "meaning": "a collection of records"
+   },
+   {
+    "n": 247,
+    "word": "scholarly",
+    "pos": "adj.",
+    "meaning": "academic; learned"
+   },
+   {
+    "n": 248,
+    "word": "prolific",
+    "pos": "adj.",
+    "meaning": "producing a lot"
+   },
+   {
+    "n": 249,
+    "word": "verbose",
+    "pos": "adj.",
+    "meaning": "using too many words"
+   },
+   {
+    "n": 250,
+    "word": "literate",
+    "pos": "adj.",
+    "meaning": "able to read and write"
+   }
+  ],
+  "look": "the booksellers' street, books stacked to the ceiling, ladders on wheels",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 26,
+  "title": "Hammer and Echo",
+  "locus": "Coppersmiths' Lane",
+  "words": [
+   {
+    "n": 251,
+    "word": "malleable",
+    "pos": "adj.",
+    "meaning": "easily shaped"
+   },
+   {
+    "n": 252,
+    "word": "strident",
+    "pos": "adj.",
+    "meaning": "loud and harsh"
+   },
+   {
+    "n": 253,
+    "word": "discordant",
+    "pos": "adj.",
+    "meaning": "clashing; out of harmony"
+   },
+   {
+    "n": 254,
+    "word": "vigorous",
+    "pos": "adj.",
+    "meaning": "strong and energetic"
+   },
+   {
+    "n": 255,
+    "word": "raucous",
+    "pos": "adj.",
+    "meaning": "loud and rowdy"
+   },
+   {
+    "n": 256,
+    "word": "incessant",
+    "pos": "adj.",
+    "meaning": "never stopping"
+   },
+   {
+    "n": 257,
+    "word": "din",
+    "pos": "n.",
+    "meaning": "a loud continuous noise"
+   },
+   {
+    "n": 258,
+    "word": "temper",
+    "pos": "v.",
+    "meaning": "to toughen (metal); to soften (a harsh effect)"
+   },
+   {
+    "n": 259,
+    "word": "ductile",
+    "pos": "adj.",
+    "meaning": "able to be stretched into wire"
+   },
+   {
+    "n": 260,
+    "word": "robust",
+    "pos": "adj.",
+    "meaning": "strong and sturdy"
+   }
+  ],
+  "look": "a lane of coppersmiths hammering pots, sparks and clangs, shining pans on walls",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 27,
+  "title": "Sweet Deception",
+  "locus": "The Sweets Shop of Abu Hasan",
+  "words": [
+   {
+    "n": 261,
+    "word": "jovial",
+    "pos": "adj.",
+    "meaning": "cheerful and jolly"
+   },
+   {
+    "n": 262,
+    "word": "glutton",
+    "pos": "n.",
+    "meaning": "someone who eats too much"
+   },
+   {
+    "n": 263,
+    "word": "indulgent",
+    "pos": "adj.",
+    "meaning": "giving in to wishes"
+   },
+   {
+    "n": 264,
+    "word": "affluent",
+    "pos": "adj.",
+    "meaning": "wealthy"
+   },
+   {
+    "n": 265,
+    "word": "genial",
+    "pos": "adj.",
+    "meaning": "warm and friendly"
+   },
+   {
+    "n": 266,
+    "word": "jocular",
+    "pos": "adj.",
+    "meaning": "joking"
+   },
+   {
+    "n": 267,
+    "word": "facetious",
+    "pos": "adj.",
+    "meaning": "joking at a wrong time"
+   },
+   {
+    "n": 268,
+    "word": "hospitable",
+    "pos": "adj.",
+    "meaning": "welcoming to guests"
+   },
+   {
+    "n": 269,
+    "word": "satiate",
+    "pos": "v.",
+    "meaning": "to fully satisfy"
+   },
+   {
+    "n": 270,
+    "word": "delectable",
+    "pos": "adj.",
+    "meaning": "delicious"
+   }
+  ],
+  "look": "Abu Hasan's sweet shop, towers of baklava, a honey fountain",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 28,
+  "title": "A Thousand Wings",
+  "locus": "The Bird Market",
+  "words": [
+   {
+    "n": 271,
+    "word": "migrate",
+    "pos": "v.",
+    "meaning": "to move from one region to another"
+   },
+   {
+    "n": 272,
+    "word": "plumage",
+    "pos": "n.",
+    "meaning": "a bird's feathers"
+   },
+   {
+    "n": 273,
+    "word": "captivity",
+    "pos": "n.",
+    "meaning": "being held prisoner"
+   },
+   {
+    "n": 274,
+    "word": "confine",
+    "pos": "v.",
+    "meaning": "to keep within limits"
+   },
+   {
+    "n": 275,
+    "word": "soar",
+    "pos": "v.",
+    "meaning": "to fly high"
+   },
+   {
+    "n": 276,
+    "word": "unfettered",
+    "pos": "adj.",
+    "meaning": "free; unrestrained"
+   },
+   {
+    "n": 277,
+    "word": "flit",
+    "pos": "v.",
+    "meaning": "to move quickly and lightly"
+   },
+   {
+    "n": 278,
+    "word": "flourish",
+    "pos": "v.",
+    "meaning": "to grow well; thrive"
+   },
+   {
+    "n": 279,
+    "word": "fledgling",
+    "pos": "n./adj.",
+    "meaning": "a young bird; new and inexperienced"
+   },
+   {
+    "n": 280,
+    "word": "cagey",
+    "pos": "adj.",
+    "meaning": "secretive and cautious"
+   }
+  ],
+  "look": "cages of parrots, canaries and peacocks stacked into a wall of feathers",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 29,
+  "title": "The Mirror Maze",
+  "locus": "The Hall of Mirrors",
+  "words": [
+   {
+    "n": 281,
+    "word": "illusion",
+    "pos": "n.",
+    "meaning": "a false appearance"
+   },
+   {
+    "n": 282,
+    "word": "distort",
+    "pos": "v.",
+    "meaning": "to twist out of shape"
+   },
+   {
+    "n": 283,
+    "word": "introspective",
+    "pos": "adj.",
+    "meaning": "looking inward at oneself"
+   },
+   {
+    "n": 284,
+    "word": "narcissistic",
+    "pos": "adj.",
+    "meaning": "in love with oneself"
+   },
+   {
+    "n": 285,
+    "word": "paradox",
+    "pos": "n.",
+    "meaning": "a self-contradicting truth"
+   },
+   {
+    "n": 286,
+    "word": "facsimile",
+    "pos": "n.",
+    "meaning": "an exact copy"
+   },
+   {
+    "n": 287,
+    "word": "replicate",
+    "pos": "v.",
+    "meaning": "to copy exactly"
+   },
+   {
+    "n": 288,
+    "word": "delusion",
+    "pos": "n.",
+    "meaning": "a false belief"
+   },
+   {
+    "n": 289,
+    "word": "perception",
+    "pos": "n.",
+    "meaning": "the way something is seen"
+   },
+   {
+    "n": 290,
+    "word": "vanity",
+    "pos": "n.",
+    "meaning": "excessive pride in appearance"
+   }
+  ],
+  "look": "a storyteller's theater full of mirrors, candles repeated forever",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 30,
+  "title": "Sold to the Shadow",
+  "locus": "The Auction Square",
+  "words": [
+   {
+    "n": 291,
+    "word": "coerce",
+    "pos": "v.",
+    "meaning": "to force by threats"
+   },
+   {
+    "n": 292,
+    "word": "ruthless",
+    "pos": "adj.",
+    "meaning": "without pity"
+   },
+   {
+    "n": 293,
+    "word": "despair",
+    "pos": "n.",
+    "meaning": "total loss of hope"
+   },
+   {
+    "n": 294,
+    "word": "anguish",
+    "pos": "n.",
+    "meaning": "severe pain or distress"
+   },
+   {
+    "n": 295,
+    "word": "abduct",
+    "pos": "v.",
+    "meaning": "to kidnap"
+   },
+   {
+    "n": 296,
+    "word": "ransom",
+    "pos": "n.",
+    "meaning": "payment demanded to free a captive"
+   },
+   {
+    "n": 297,
+    "word": "callous",
+    "pos": "adj.",
+    "meaning": "cold; unfeeling"
+   },
+   {
+    "n": 298,
+    "word": "despot",
+    "pos": "n.",
+    "meaning": "a cruel ruler with total power"
+   },
+   {
+    "n": 299,
+    "word": "tyranny",
+    "pos": "n.",
+    "meaning": "cruel, unfair rule"
+   },
+   {
+    "n": 300,
+    "word": "oppress",
+    "pos": "v.",
+    "meaning": "to keep down by force"
+   }
+  ],
+  "look": "a domed square with a high auction stage, a gong and a bidding crowd",
+  "district": "Karkh Bazaar"
+ },
+ {
+  "chapter": 31,
+  "title": "Over the Sarat",
+  "locus": "The Sarat Canal Bridge",
+  "words": [
+   {
+    "n": 301,
+    "word": "melancholy",
+    "pos": "n./adj.",
+    "meaning": "deep, lasting sadness"
+   },
+   {
+    "n": 302,
+    "word": "somber",
+    "pos": "adj.",
+    "meaning": "dark and gloomy; serious"
+   },
+   {
+    "n": 303,
+    "word": "solace",
+    "pos": "n.",
+    "meaning": "comfort in sorrow"
+   },
+   {
+    "n": 304,
+    "word": "console",
+    "pos": "v.",
+    "meaning": "to comfort"
+   },
+   {
+    "n": 305,
+    "word": "lament",
+    "pos": "v./n.",
+    "meaning": "to express grief"
+   },
+   {
+    "n": 306,
+    "word": "serene",
+    "pos": "adj.",
+    "meaning": "calm and peaceful"
+   },
+   {
+    "n": 307,
+    "word": "tranquil",
+    "pos": "adj.",
+    "meaning": "quiet and still"
+   },
+   {
+    "n": 308,
+    "word": "placid",
+    "pos": "adj.",
+    "meaning": "calm; not easily upset"
+   },
+   {
+    "n": 309,
+    "word": "wistful",
+    "pos": "adj.",
+    "meaning": "sadly longing"
+   },
+   {
+    "n": 310,
+    "word": "forlorn",
+    "pos": "adj.",
+    "meaning": "lonely and hopeless"
+   }
+  ],
+  "look": "a humpbacked stone bridge over the Sarat canal, weeping willows",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 32,
+  "title": "The Wheel of Fortune",
+  "locus": "The Great Waterwheel",
+  "words": [
+   {
+    "n": 311,
+    "word": "fortuitous",
+    "pos": "adj.",
+    "meaning": "happening by lucky chance"
+   },
+   {
+    "n": 312,
+    "word": "serendipity",
+    "pos": "n.",
+    "meaning": "finding good things by accident"
+   },
+   {
+    "n": 313,
+    "word": "inevitable",
+    "pos": "adj.",
+    "meaning": "certain to happen"
+   },
+   {
+    "n": 314,
+    "word": "adversity",
+    "pos": "n.",
+    "meaning": "hardship"
+   },
+   {
+    "n": 315,
+    "word": "prosperity",
+    "pos": "n.",
+    "meaning": "success and wealth"
+   },
+   {
+    "n": 316,
+    "word": "vicissitude",
+    "pos": "n.",
+    "meaning": "an unwelcome change of fortune"
+   },
+   {
+    "n": 317,
+    "word": "fickle",
+    "pos": "adj.",
+    "meaning": "changing loyalty often"
+   },
+   {
+    "n": 318,
+    "word": "haphazard",
+    "pos": "adj.",
+    "meaning": "random; unplanned"
+   },
+   {
+    "n": 319,
+    "word": "providential",
+    "pos": "adj.",
+    "meaning": "lucky, as if arranged by fate"
+   },
+   {
+    "n": 320,
+    "word": "wane",
+    "pos": "v.",
+    "meaning": "to shrink; to decline"
+   }
+  ],
+  "look": "a giant wooden waterwheel lifting buckets, squealing as it turns",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 33,
+  "title": "Roses with Thorny Tongues",
+  "locus": "The Garden of Talking Roses",
+  "words": [
+   {
+    "n": 321,
+    "word": "acerbic",
+    "pos": "adj.",
+    "meaning": "sharp and biting in tone"
+   },
+   {
+    "n": 322,
+    "word": "caustic",
+    "pos": "adj.",
+    "meaning": "burning; bitterly sarcastic"
+   },
+   {
+    "n": 323,
+    "word": "sardonic",
+    "pos": "adj.",
+    "meaning": "mocking with scorn"
+   },
+   {
+    "n": 324,
+    "word": "scathing",
+    "pos": "adj.",
+    "meaning": "harshly critical"
+   },
+   {
+    "n": 325,
+    "word": "derisive",
+    "pos": "adj.",
+    "meaning": "mocking"
+   },
+   {
+    "n": 326,
+    "word": "insolent",
+    "pos": "adj.",
+    "meaning": "rudely disrespectful"
+   },
+   {
+    "n": 327,
+    "word": "sycophant",
+    "pos": "n.",
+    "meaning": "a flatterer who sucks up"
+   },
+   {
+    "n": 328,
+    "word": "vitriolic",
+    "pos": "adj.",
+    "meaning": "full of bitter hate"
+   },
+   {
+    "n": 329,
+    "word": "petulant",
+    "pos": "adj.",
+    "meaning": "childishly sulky"
+   },
+   {
+    "n": 330,
+    "word": "disparage",
+    "pos": "v.",
+    "meaning": "to belittle"
+   }
+  ],
+  "look": "a walled rose garden where the roses have tiny faces",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 34,
+  "title": "The Zoo of Silent Beasts",
+  "locus": "The Caliph's Menagerie",
+  "words": [
+   {
+    "n": 331,
+    "word": "docile",
+    "pos": "adj.",
+    "meaning": "easily managed; gentle"
+   },
+   {
+    "n": 332,
+    "word": "ferocious",
+    "pos": "adj.",
+    "meaning": "fierce and violent"
+   },
+   {
+    "n": 333,
+    "word": "feral",
+    "pos": "adj.",
+    "meaning": "wild; untamed"
+   },
+   {
+    "n": 334,
+    "word": "domesticate",
+    "pos": "v.",
+    "meaning": "to tame"
+   },
+   {
+    "n": 335,
+    "word": "predatory",
+    "pos": "adj.",
+    "meaning": "hunting others"
+   },
+   {
+    "n": 336,
+    "word": "lethargic",
+    "pos": "adj.",
+    "meaning": "sluggish and sleepy"
+   },
+   {
+    "n": 337,
+    "word": "placate",
+    "pos": "v.",
+    "meaning": "to calm someone's anger"
+   },
+   {
+    "n": 338,
+    "word": "menagerie",
+    "pos": "n.",
+    "meaning": "a collection of wild animals"
+   },
+   {
+    "n": 339,
+    "word": "timid",
+    "pos": "adj.",
+    "meaning": "shy and fearful"
+   },
+   {
+    "n": 340,
+    "word": "primal",
+    "pos": "adj.",
+    "meaning": "basic; instinctive; original"
+   }
+  ],
+  "look": "the caliph's zoo: giraffe, elephants and lions in marble pens",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 35,
+  "title": "Duel of Poets",
+  "locus": "The Poets' Café",
+  "words": [
+   {
+    "n": 341,
+    "word": "rhetoric",
+    "pos": "n.",
+    "meaning": "the art of persuasive speech"
+   },
+   {
+    "n": 342,
+    "word": "articulate",
+    "pos": "adj./v.",
+    "meaning": "speaking clearly; to express"
+   },
+   {
+    "n": 343,
+    "word": "lyrical",
+    "pos": "adj.",
+    "meaning": "expressive like a song"
+   },
+   {
+    "n": 344,
+    "word": "cadence",
+    "pos": "n.",
+    "meaning": "the rhythm of speech"
+   },
+   {
+    "n": 345,
+    "word": "metaphor",
+    "pos": "n.",
+    "meaning": "a comparison without \"like\" or \"as\""
+   },
+   {
+    "n": 346,
+    "word": "allegory",
+    "pos": "n.",
+    "meaning": "a story with a hidden meaning"
+   },
+   {
+    "n": 347,
+    "word": "satire",
+    "pos": "n.",
+    "meaning": "humor that mocks to criticize"
+   },
+   {
+    "n": 348,
+    "word": "rebuttal",
+    "pos": "n.",
+    "meaning": "an argument against"
+   },
+   {
+    "n": 349,
+    "word": "banter",
+    "pos": "n.",
+    "meaning": "playful teasing talk"
+   },
+   {
+    "n": 350,
+    "word": "oratory",
+    "pos": "n.",
+    "meaning": "skilled public speaking"
+   }
+  ],
+  "look": "a café with cushions, a poetry stage and brass coffee pots",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 36,
+  "title": "Tears of Roses",
+  "locus": "The Rosewater Distillery",
+  "words": [
+   {
+    "n": 351,
+    "word": "distill",
+    "pos": "v.",
+    "meaning": "to purify; to boil down to essentials"
+   },
+   {
+    "n": 352,
+    "word": "essence",
+    "pos": "n.",
+    "meaning": "the core nature of something"
+   },
+   {
+    "n": 353,
+    "word": "poignant",
+    "pos": "adj.",
+    "meaning": "deeply moving; touching"
+   },
+   {
+    "n": 354,
+    "word": "sentimental",
+    "pos": "adj.",
+    "meaning": "full of tender feelings"
+   },
+   {
+    "n": 355,
+    "word": "nostalgia",
+    "pos": "n.",
+    "meaning": "longing for the past"
+   },
+   {
+    "n": 356,
+    "word": "evoke",
+    "pos": "v.",
+    "meaning": "to call up (a feeling or memory)"
+   },
+   {
+    "n": 357,
+    "word": "empathy",
+    "pos": "n.",
+    "meaning": "feeling what another feels"
+   },
+   {
+    "n": 358,
+    "word": "compassion",
+    "pos": "n.",
+    "meaning": "deep caring for others' suffering"
+   },
+   {
+    "n": 359,
+    "word": "vulnerable",
+    "pos": "adj.",
+    "meaning": "open to harm"
+   },
+   {
+    "n": 360,
+    "word": "catharsis",
+    "pos": "n.",
+    "meaning": "release of strong emotion"
+   }
+  ],
+  "look": "copper stills bubbling, rose petals piled like snowdrifts",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 37,
+  "title": "The Pomegranate Oath",
+  "locus": "The Orchard of Pomegranates",
+  "words": [
+   {
+    "n": 361,
+    "word": "allegiance",
+    "pos": "n.",
+    "meaning": "loyalty"
+   },
+   {
+    "n": 362,
+    "word": "fidelity",
+    "pos": "n.",
+    "meaning": "faithfulness"
+   },
+   {
+    "n": 363,
+    "word": "vow",
+    "pos": "n./v.",
+    "meaning": "a solemn promise"
+   },
+   {
+    "n": 364,
+    "word": "solemn",
+    "pos": "adj.",
+    "meaning": "serious and formal"
+   },
+   {
+    "n": 365,
+    "word": "covenant",
+    "pos": "n.",
+    "meaning": "a binding agreement"
+   },
+   {
+    "n": 366,
+    "word": "unanimous",
+    "pos": "adj.",
+    "meaning": "fully agreed by all"
+   },
+   {
+    "n": 367,
+    "word": "solidarity",
+    "pos": "n.",
+    "meaning": "unity of a group"
+   },
+   {
+    "n": 368,
+    "word": "camaraderie",
+    "pos": "n.",
+    "meaning": "friendship among a team"
+   },
+   {
+    "n": 369,
+    "word": "alliance",
+    "pos": "n.",
+    "meaning": "a union for a shared goal"
+   },
+   {
+    "n": 370,
+    "word": "reciprocate",
+    "pos": "v.",
+    "meaning": "to give back in return"
+   }
+  ],
+  "look": "rows of pomegranate trees, a stone table where oaths are sworn",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 38,
+  "title": "Maze of Green Doubts",
+  "locus": "The Hedge Labyrinth",
+  "words": [
+   {
+    "n": 371,
+    "word": "ambivalent",
+    "pos": "adj.",
+    "meaning": "having mixed feelings"
+   },
+   {
+    "n": 372,
+    "word": "ambiguous",
+    "pos": "adj.",
+    "meaning": "having more than one meaning"
+   },
+   {
+    "n": 373,
+    "word": "indecisive",
+    "pos": "adj.",
+    "meaning": "unable to decide"
+   },
+   {
+    "n": 374,
+    "word": "dilemma",
+    "pos": "n.",
+    "meaning": "a hard choice between two options"
+   },
+   {
+    "n": 375,
+    "word": "quandary",
+    "pos": "n.",
+    "meaning": "a state of confusion over what to do"
+   },
+   {
+    "n": 376,
+    "word": "hesitate",
+    "pos": "v.",
+    "meaning": "to pause before acting"
+   },
+   {
+    "n": 377,
+    "word": "conundrum",
+    "pos": "n.",
+    "meaning": "a confusing problem"
+   },
+   {
+    "n": 378,
+    "word": "perplex",
+    "pos": "v.",
+    "meaning": "to puzzle"
+   },
+   {
+    "n": 379,
+    "word": "deliberate",
+    "pos": "v./adj.",
+    "meaning": "to think carefully; on purpose"
+   },
+   {
+    "n": 380,
+    "word": "equivocate",
+    "pos": "v.",
+    "meaning": "to speak vaguely to avoid commitment"
+   }
+  ],
+  "look": "a tall green hedge maze with a sundial at the center",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 39,
+  "title": "The Lotus Secret",
+  "locus": "The Lotus Pond Pavilion",
+  "words": [
+   {
+    "n": 381,
+    "word": "reminisce",
+    "pos": "v.",
+    "meaning": "to recall the past fondly"
+   },
+   {
+    "n": 382,
+    "word": "profound",
+    "pos": "adj.",
+    "meaning": "very deep"
+   },
+   {
+    "n": 383,
+    "word": "revelation",
+    "pos": "n.",
+    "meaning": "a surprising discovery"
+   },
+   {
+    "n": 384,
+    "word": "epiphany",
+    "pos": "n.",
+    "meaning": "a sudden realization"
+   },
+   {
+    "n": 385,
+    "word": "venerable",
+    "pos": "adj.",
+    "meaning": "respected because of age and wisdom"
+   },
+   {
+    "n": 386,
+    "word": "sagacious",
+    "pos": "adj.",
+    "meaning": "wise"
+   },
+   {
+    "n": 387,
+    "word": "legacy",
+    "pos": "n.",
+    "meaning": "something handed down"
+   },
+   {
+    "n": 388,
+    "word": "enlighten",
+    "pos": "v.",
+    "meaning": "to give understanding"
+   },
+   {
+    "n": 389,
+    "word": "illuminate",
+    "pos": "v.",
+    "meaning": "to light up; to explain"
+   },
+   {
+    "n": 390,
+    "word": "mentor",
+    "pos": "n.",
+    "meaning": "a trusted guide or teacher"
+   }
+  ],
+  "look": "a lotus pond with a round pavilion on stilts, fireflies at night",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 40,
+  "title": "The Lion Opens One Eye",
+  "locus": "The Garden Wall Tower",
+  "words": [
+   {
+    "n": 391,
+    "word": "foreboding",
+    "pos": "n.",
+    "meaning": "a feeling that evil is coming"
+   },
+   {
+    "n": 392,
+    "word": "imminent",
+    "pos": "adj.",
+    "meaning": "about to happen"
+   },
+   {
+    "n": 393,
+    "word": "vigilant",
+    "pos": "adj.",
+    "meaning": "watchful"
+   },
+   {
+    "n": 394,
+    "word": "sentinel",
+    "pos": "n.",
+    "meaning": "a guard"
+   },
+   {
+    "n": 395,
+    "word": "latent",
+    "pos": "adj.",
+    "meaning": "hidden but present"
+   },
+   {
+    "n": 396,
+    "word": "portent",
+    "pos": "n.",
+    "meaning": "a sign of what's to come"
+   },
+   {
+    "n": 397,
+    "word": "menace",
+    "pos": "n.",
+    "meaning": "a threat"
+   },
+   {
+    "n": 398,
+    "word": "stealthy",
+    "pos": "adj.",
+    "meaning": "quiet and secret"
+   },
+   {
+    "n": 399,
+    "word": "impending",
+    "pos": "adj.",
+    "meaning": "about to happen"
+   },
+   {
+    "n": 400,
+    "word": "harbinger",
+    "pos": "n.",
+    "meaning": "a forerunner; sign of what's coming"
+   }
+  ],
+  "look": "a tower in the garden wall with a view of the Basra Gate and its Brass Lion",
+  "district": "Garden Quarter & Sarat Canal"
+ },
+ {
+  "chapter": 41,
+  "title": "Riddle of the Brass Lion",
+  "locus": "The Basra Gate",
+  "words": [
+   {
+    "n": 401,
+    "word": "deduce",
+    "pos": "v.",
+    "meaning": "to reach a conclusion by reasoning"
+   },
+   {
+    "n": 402,
+    "word": "infer",
+    "pos": "v.",
+    "meaning": "to conclude from evidence"
+   },
+   {
+    "n": 403,
+    "word": "premise",
+    "pos": "n.",
+    "meaning": "a statement an argument is built on"
+   },
+   {
+    "n": 404,
+    "word": "fallacy",
+    "pos": "n.",
+    "meaning": "a mistaken belief or faulty reasoning"
+   },
+   {
+    "n": 405,
+    "word": "rational",
+    "pos": "adj.",
+    "meaning": "based on reason"
+   },
+   {
+    "n": 406,
+    "word": "valid",
+    "pos": "adj.",
+    "meaning": "logically sound; acceptable"
+   },
+   {
+    "n": 407,
+    "word": "hypothesis",
+    "pos": "n.",
+    "meaning": "an educated guess to be tested"
+   },
+   {
+    "n": 408,
+    "word": "conclusive",
+    "pos": "adj.",
+    "meaning": "settling a question for good"
+   },
+   {
+    "n": 409,
+    "word": "acumen",
+    "pos": "n.",
+    "meaning": "sharpness of judgment"
+   },
+   {
+    "n": 410,
+    "word": "astute",
+    "pos": "adj.",
+    "meaning": "clever at seeing what matters"
+   }
+  ],
+  "look": "the south-eastern gate, a massive brass lion lying across the arch",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 42,
+  "title": "Moat of Monsters",
+  "locus": "The Moat Bridge",
+  "words": [
+   {
+    "n": 411,
+    "word": "loom",
+    "pos": "v.",
+    "meaning": "to appear large and threatening"
+   },
+   {
+    "n": 412,
+    "word": "lurk",
+    "pos": "v.",
+    "meaning": "to wait hidden"
+   },
+   {
+    "n": 413,
+    "word": "daunting",
+    "pos": "adj.",
+    "meaning": "intimidating"
+   },
+   {
+    "n": 414,
+    "word": "valor",
+    "pos": "n.",
+    "meaning": "great courage"
+   },
+   {
+    "n": 415,
+    "word": "cower",
+    "pos": "v.",
+    "meaning": "to crouch in fear"
+   },
+   {
+    "n": 416,
+    "word": "intimidate",
+    "pos": "v.",
+    "meaning": "to frighten into obeying"
+   },
+   {
+    "n": 417,
+    "word": "hideous",
+    "pos": "adj.",
+    "meaning": "extremely ugly"
+   },
+   {
+    "n": 418,
+    "word": "gallant",
+    "pos": "adj.",
+    "meaning": "brave and noble"
+   },
+   {
+    "n": 419,
+    "word": "repel",
+    "pos": "v.",
+    "meaning": "to drive back"
+   },
+   {
+    "n": 420,
+    "word": "plunge",
+    "pos": "v.",
+    "meaning": "to dive or fall suddenly"
+   }
+  ],
+  "look": "a drawbridge over a moat full of glowing eyes",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 43,
+  "title": "Soldiers of Stone",
+  "locus": "The Guard Barracks",
+  "words": [
+   {
+    "n": 421,
+    "word": "rigid",
+    "pos": "adj.",
+    "meaning": "stiff; unbending"
+   },
+   {
+    "n": 422,
+    "word": "stoic",
+    "pos": "adj.",
+    "meaning": "enduring pain without complaint"
+   },
+   {
+    "n": 423,
+    "word": "impassive",
+    "pos": "adj.",
+    "meaning": "showing no emotion"
+   },
+   {
+    "n": 424,
+    "word": "discipline",
+    "pos": "n.",
+    "meaning": "controlled behavior; training"
+   },
+   {
+    "n": 425,
+    "word": "regiment",
+    "pos": "n.",
+    "meaning": "a military unit"
+   },
+   {
+    "n": 426,
+    "word": "hierarchy",
+    "pos": "n.",
+    "meaning": "a ranked order"
+   },
+   {
+    "n": 427,
+    "word": "subordinate",
+    "pos": "n./adj.",
+    "meaning": "lower in rank"
+   },
+   {
+    "n": 428,
+    "word": "compliant",
+    "pos": "adj.",
+    "meaning": "obedient"
+   },
+   {
+    "n": 429,
+    "word": "insubordinate",
+    "pos": "adj.",
+    "meaning": "refusing to obey authority"
+   },
+   {
+    "n": 430,
+    "word": "martial",
+    "pos": "adj.",
+    "meaning": "relating to war"
+   }
+  ],
+  "look": "stone barracks, rows of helmets on pegs, a drill yard",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 44,
+  "title": "The Healer's Gamble",
+  "locus": "The Bimaristan (Hospital)",
+  "words": [
+   {
+    "n": 431,
+    "word": "remedy",
+    "pos": "n.",
+    "meaning": "a cure"
+   },
+   {
+    "n": 432,
+    "word": "ailment",
+    "pos": "n.",
+    "meaning": "an illness"
+   },
+   {
+    "n": 433,
+    "word": "malady",
+    "pos": "n.",
+    "meaning": "a disease or disorder"
+   },
+   {
+    "n": 434,
+    "word": "benign",
+    "pos": "adj.",
+    "meaning": "harmless; kindly"
+   },
+   {
+    "n": 435,
+    "word": "lethal",
+    "pos": "adj.",
+    "meaning": "deadly"
+   },
+   {
+    "n": 436,
+    "word": "antidote",
+    "pos": "n.",
+    "meaning": "a cure for poison"
+   },
+   {
+    "n": 437,
+    "word": "contagious",
+    "pos": "adj.",
+    "meaning": "spreading from person to person"
+   },
+   {
+    "n": 438,
+    "word": "alleviate",
+    "pos": "v.",
+    "meaning": "to ease (pain)"
+   },
+   {
+    "n": 439,
+    "word": "mitigate",
+    "pos": "v.",
+    "meaning": "to make less severe"
+   },
+   {
+    "n": 440,
+    "word": "convalesce",
+    "pos": "v.",
+    "meaning": "to recover health"
+   }
+  ],
+  "look": "a great hospital (bimaristan) with herb gardens and a fountain courtyard",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 45,
+  "title": "Counterfeit Kingdom",
+  "locus": "The Mint",
+  "words": [
+   {
+    "n": 441,
+    "word": "counterfeit",
+    "pos": "adj./n.",
+    "meaning": "fake; a forgery"
+   },
+   {
+    "n": 442,
+    "word": "authentic",
+    "pos": "adj.",
+    "meaning": "real; genuine"
+   },
+   {
+    "n": 443,
+    "word": "spurious",
+    "pos": "adj.",
+    "meaning": "false; fake"
+   },
+   {
+    "n": 444,
+    "word": "currency",
+    "pos": "n.",
+    "meaning": "money in use"
+   },
+   {
+    "n": 445,
+    "word": "fiscal",
+    "pos": "adj.",
+    "meaning": "relating to public money"
+   },
+   {
+    "n": 446,
+    "word": "debase",
+    "pos": "v.",
+    "meaning": "to lower in value"
+   },
+   {
+    "n": 447,
+    "word": "hoard",
+    "pos": "v./n.",
+    "meaning": "to secretly store up"
+   },
+   {
+    "n": 448,
+    "word": "squander",
+    "pos": "v.",
+    "meaning": "to waste"
+   },
+   {
+    "n": 449,
+    "word": "austerity",
+    "pos": "n.",
+    "meaning": "strict saving; plainness"
+   },
+   {
+    "n": 450,
+    "word": "impoverished",
+    "pos": "adj.",
+    "meaning": "very poor"
+   }
+  ],
+  "look": "the mint, coin presses stamping gold, stacked sacks of coins",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 46,
+  "title": "Fog of the Hammam",
+  "locus": "The Steam Bathhouse",
+  "words": [
+   {
+    "n": 451,
+    "word": "nebulous",
+    "pos": "adj.",
+    "meaning": "cloudy; vague"
+   },
+   {
+    "n": 452,
+    "word": "opaque",
+    "pos": "adj.",
+    "meaning": "not see-through; hard to understand"
+   },
+   {
+    "n": 453,
+    "word": "vague",
+    "pos": "adj.",
+    "meaning": "unclear"
+   },
+   {
+    "n": 454,
+    "word": "lucid",
+    "pos": "adj.",
+    "meaning": "clear; easy to understand"
+   },
+   {
+    "n": 455,
+    "word": "diffuse",
+    "pos": "v./adj.",
+    "meaning": "to spread out; scattered"
+   },
+   {
+    "n": 456,
+    "word": "condense",
+    "pos": "v.",
+    "meaning": "to make denser or shorter"
+   },
+   {
+    "n": 457,
+    "word": "evaporate",
+    "pos": "v.",
+    "meaning": "to turn to vapor; to vanish"
+   },
+   {
+    "n": 458,
+    "word": "saturate",
+    "pos": "v.",
+    "meaning": "to soak completely"
+   },
+   {
+    "n": 459,
+    "word": "permeate",
+    "pos": "v.",
+    "meaning": "to spread through"
+   },
+   {
+    "n": 460,
+    "word": "transparent",
+    "pos": "adj.",
+    "meaning": "see-through; obvious"
+   }
+  ],
+  "look": "a steam bathhouse (hammam), marble slabs and thick fog",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 47,
+  "title": "Forged in Fire",
+  "locus": "The Blacksmiths' Forge",
+  "words": [
+   {
+    "n": 461,
+    "word": "forge",
+    "pos": "v.",
+    "meaning": "to shape metal by heat; to fake"
+   },
+   {
+    "n": 462,
+    "word": "crucible",
+    "pos": "n.",
+    "meaning": "a severe test; a melting pot"
+   },
+   {
+    "n": 463,
+    "word": "fervent",
+    "pos": "adj.",
+    "meaning": "passionate"
+   },
+   {
+    "n": 464,
+    "word": "ardent",
+    "pos": "adj.",
+    "meaning": "enthusiastic; burning"
+   },
+   {
+    "n": 465,
+    "word": "zeal",
+    "pos": "n.",
+    "meaning": "great energy for a cause"
+   },
+   {
+    "n": 466,
+    "word": "incandescent",
+    "pos": "adj.",
+    "meaning": "glowing with heat; brilliant"
+   },
+   {
+    "n": 467,
+    "word": "smolder",
+    "pos": "v.",
+    "meaning": "to burn slowly without flame"
+   },
+   {
+    "n": 468,
+    "word": "kindle",
+    "pos": "v.",
+    "meaning": "to light; to stir up"
+   },
+   {
+    "n": 469,
+    "word": "arduous",
+    "pos": "adj.",
+    "meaning": "very difficult"
+   },
+   {
+    "n": 470,
+    "word": "fortitude",
+    "pos": "n.",
+    "meaning": "courage in pain"
+   }
+  ],
+  "look": "blacksmiths' forge, glowing anvils, bellows breathing fire",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 48,
+  "title": "The Arrow Knows",
+  "locus": "The Archery Range",
+  "words": [
+   {
+    "n": 471,
+    "word": "precise",
+    "pos": "adj.",
+    "meaning": "exact"
+   },
+   {
+    "n": 472,
+    "word": "adroit",
+    "pos": "adj.",
+    "meaning": "skillful"
+   },
+   {
+    "n": 473,
+    "word": "trajectory",
+    "pos": "n.",
+    "meaning": "the path of a flying object"
+   },
+   {
+    "n": 474,
+    "word": "unerring",
+    "pos": "adj.",
+    "meaning": "never missing"
+   },
+   {
+    "n": 475,
+    "word": "deviate",
+    "pos": "v.",
+    "meaning": "to turn aside from a course"
+   },
+   {
+    "n": 476,
+    "word": "calibrate",
+    "pos": "v.",
+    "meaning": "to adjust precisely"
+   },
+   {
+    "n": 477,
+    "word": "objective",
+    "pos": "adj./n.",
+    "meaning": "unbiased; a goal"
+   },
+   {
+    "n": 478,
+    "word": "composure",
+    "pos": "n.",
+    "meaning": "calmness"
+   },
+   {
+    "n": 479,
+    "word": "converge",
+    "pos": "v.",
+    "meaning": "to come together"
+   },
+   {
+    "n": 480,
+    "word": "diverge",
+    "pos": "v.",
+    "meaning": "to separate; to split off"
+   }
+  ],
+  "look": "an archery range with straw targets and a tower of arrows",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 49,
+  "title": "Echoes in the Cistern",
+  "locus": "The Underground Cistern",
+  "words": [
+   {
+    "n": 481,
+    "word": "cavernous",
+    "pos": "adj.",
+    "meaning": "huge and hollow like a cave"
+   },
+   {
+    "n": 482,
+    "word": "subterranean",
+    "pos": "adj.",
+    "meaning": "underground"
+   },
+   {
+    "n": 483,
+    "word": "dank",
+    "pos": "adj.",
+    "meaning": "cold and damp"
+   },
+   {
+    "n": 484,
+    "word": "desolate",
+    "pos": "adj.",
+    "meaning": "empty and bleak"
+   },
+   {
+    "n": 485,
+    "word": "secluded",
+    "pos": "adj.",
+    "meaning": "hidden away"
+   },
+   {
+    "n": 486,
+    "word": "isolate",
+    "pos": "v.",
+    "meaning": "to set apart"
+   },
+   {
+    "n": 487,
+    "word": "solitude",
+    "pos": "n.",
+    "meaning": "being alone"
+   },
+   {
+    "n": 488,
+    "word": "recluse",
+    "pos": "n.",
+    "meaning": "a person who lives alone"
+   },
+   {
+    "n": 489,
+    "word": "sanctuary",
+    "pos": "n.",
+    "meaning": "a safe place"
+   },
+   {
+    "n": 490,
+    "word": "refuge",
+    "pos": "n.",
+    "meaning": "shelter from danger"
+   }
+  ],
+  "look": "a vast underground cistern of stone pillars standing in dark water",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 50,
+  "title": "Sinbad Falls",
+  "locus": "The Southeast Watchtower",
+  "words": [
+   {
+    "n": 491,
+    "word": "valiant",
+    "pos": "adj.",
+    "meaning": "brave"
+   },
+   {
+    "n": 492,
+    "word": "altruistic",
+    "pos": "adj.",
+    "meaning": "selflessly helping others"
+   },
+   {
+    "n": 493,
+    "word": "selfless",
+    "pos": "adj.",
+    "meaning": "caring for others first"
+   },
+   {
+    "n": 494,
+    "word": "grievous",
+    "pos": "adj.",
+    "meaning": "very serious; causing grief"
+   },
+   {
+    "n": 495,
+    "word": "mourn",
+    "pos": "v.",
+    "meaning": "to feel grief"
+   },
+   {
+    "n": 496,
+    "word": "stalwart",
+    "pos": "adj.",
+    "meaning": "loyal and dependable"
+   },
+   {
+    "n": 497,
+    "word": "magnanimous",
+    "pos": "adj.",
+    "meaning": "generous in forgiving"
+   },
+   {
+    "n": 498,
+    "word": "bereft",
+    "pos": "adj.",
+    "meaning": "deprived; lonely after loss"
+   },
+   {
+    "n": 499,
+    "word": "retribution",
+    "pos": "n.",
+    "meaning": "punishment in return"
+   },
+   {
+    "n": 500,
+    "word": "captive",
+    "pos": "n.",
+    "meaning": "a prisoner"
+   }
+  ],
+  "look": "a tall watchtower at the south-east corner of the wall, a signal fire on top",
+  "district": "Basra Gate (Brass Lion)"
+ },
+ {
+  "chapter": 51,
+  "title": "The Elephant Who Remembered",
+  "locus": "The Kufa Gate",
+  "words": [
+   {
+    "n": 501,
+    "word": "retain",
+    "pos": "v.",
+    "meaning": "to keep"
+   },
+   {
+    "n": 502,
+    "word": "recollect",
+    "pos": "v.",
+    "meaning": "to remember"
+   },
+   {
+    "n": 503,
+    "word": "commemorate",
+    "pos": "v.",
+    "meaning": "to honor the memory of"
+   },
+   {
+    "n": 504,
+    "word": "mnemonic",
+    "pos": "n./adj.",
+    "meaning": "a memory aid"
+   },
+   {
+    "n": 505,
+    "word": "oblivion",
+    "pos": "n.",
+    "meaning": "being forgotten"
+   },
+   {
+    "n": 506,
+    "word": "indelible",
+    "pos": "adj.",
+    "meaning": "impossible to erase"
+   },
+   {
+    "n": 507,
+    "word": "chronicle",
+    "pos": "n./v.",
+    "meaning": "a record of events"
+   },
+   {
+    "n": 508,
+    "word": "posterity",
+    "pos": "n.",
+    "meaning": "future generations"
+   },
+   {
+    "n": 509,
+    "word": "ponderous",
+    "pos": "adj.",
+    "meaning": "slow and heavy; dull"
+   },
+   {
+    "n": 510,
+    "word": "venerate",
+    "pos": "v.",
+    "meaning": "to deeply respect"
+   }
+  ],
+  "look": "the south-western gate, a brass elephant standing with raised trunk",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 52,
+  "title": "Paper Wings",
+  "locus": "The Paper Mill",
+  "words": [
+   {
+    "n": 511,
+    "word": "fragile",
+    "pos": "adj.",
+    "meaning": "easily broken"
+   },
+   {
+    "n": 512,
+    "word": "flimsy",
+    "pos": "adj.",
+    "meaning": "thin and weak"
+   },
+   {
+    "n": 513,
+    "word": "frail",
+    "pos": "adj.",
+    "meaning": "weak"
+   },
+   {
+    "n": 514,
+    "word": "brittle",
+    "pos": "adj.",
+    "meaning": "hard but easily snapped"
+   },
+   {
+    "n": 515,
+    "word": "aloft",
+    "pos": "adv.",
+    "meaning": "up in the air"
+   },
+   {
+    "n": 516,
+    "word": "levitate",
+    "pos": "v.",
+    "meaning": "to float in the air"
+   },
+   {
+    "n": 517,
+    "word": "delicate",
+    "pos": "adj.",
+    "meaning": "fine and easily damaged"
+   },
+   {
+    "n": 518,
+    "word": "durable",
+    "pos": "adj.",
+    "meaning": "long-lasting"
+   },
+   {
+    "n": 519,
+    "word": "innovate",
+    "pos": "v.",
+    "meaning": "to introduce new ideas"
+   },
+   {
+    "n": 520,
+    "word": "novel",
+    "pos": "adj.",
+    "meaning": "new and original"
+   }
+  ],
+  "look": "a paper mill, pulp vats and sheets drying on lines like laundry",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 53,
+  "title": "Glass Hearts",
+  "locus": "The Glassblowers' Kiln",
+  "words": [
+   {
+    "n": 521,
+    "word": "translucent",
+    "pos": "adj.",
+    "meaning": "letting light through"
+   },
+   {
+    "n": 522,
+    "word": "sincere",
+    "pos": "adj.",
+    "meaning": "genuine; honest"
+   },
+   {
+    "n": 523,
+    "word": "earnest",
+    "pos": "adj.",
+    "meaning": "serious and sincere"
+   },
+   {
+    "n": 524,
+    "word": "genuine",
+    "pos": "adj.",
+    "meaning": "real; true"
+   },
+   {
+    "n": 525,
+    "word": "pretense",
+    "pos": "n.",
+    "meaning": "a false show"
+   },
+   {
+    "n": 526,
+    "word": "hypocrite",
+    "pos": "n.",
+    "meaning": "someone who preaches what they don't practice"
+   },
+   {
+    "n": 527,
+    "word": "affectation",
+    "pos": "n.",
+    "meaning": "an unnatural, showy behavior"
+   },
+   {
+    "n": 528,
+    "word": "brazen",
+    "pos": "adj.",
+    "meaning": "shamelessly bold"
+   },
+   {
+    "n": 529,
+    "word": "profess",
+    "pos": "v.",
+    "meaning": "to claim openly"
+   },
+   {
+    "n": 530,
+    "word": "impeccable",
+    "pos": "adj.",
+    "meaning": "flawless"
+   }
+  ],
+  "look": "glassblowers' kilns, glowing bubbles of glass on long pipes",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 54,
+  "title": "Map of the Heavens",
+  "locus": "The Astrolabe Workshop",
+  "words": [
+   {
+    "n": 531,
+    "word": "celestial",
+    "pos": "adj.",
+    "meaning": "of the sky or heavens"
+   },
+   {
+    "n": 532,
+    "word": "terrestrial",
+    "pos": "adj.",
+    "meaning": "of the earth"
+   },
+   {
+    "n": 533,
+    "word": "cosmic",
+    "pos": "adj.",
+    "meaning": "of the universe; vast"
+   },
+   {
+    "n": 534,
+    "word": "infinite",
+    "pos": "adj.",
+    "meaning": "without end"
+   },
+   {
+    "n": 535,
+    "word": "orbit",
+    "pos": "n./v.",
+    "meaning": "a curved path around a body"
+   },
+   {
+    "n": 536,
+    "word": "vast",
+    "pos": "adj.",
+    "meaning": "huge"
+   },
+   {
+    "n": 537,
+    "word": "empirical",
+    "pos": "adj.",
+    "meaning": "based on observation"
+   },
+   {
+    "n": 538,
+    "word": "theoretical",
+    "pos": "adj.",
+    "meaning": "based on theory"
+   },
+   {
+    "n": 539,
+    "word": "phenomenon",
+    "pos": "n.",
+    "meaning": "an observable event"
+   },
+   {
+    "n": 540,
+    "word": "speculate",
+    "pos": "v.",
+    "meaning": "to guess; to theorize"
+   }
+  ],
+  "look": "a workshop filled with astrolabes, star-globes and brass rings",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 55,
+  "title": "The Clockwork Army",
+  "locus": "The Clocktower of the Automata",
+  "words": [
+   {
+    "n": 541,
+    "word": "automaton",
+    "pos": "n.",
+    "meaning": "a self-operating machine"
+   },
+   {
+    "n": 542,
+    "word": "systematic",
+    "pos": "adj.",
+    "meaning": "done by a method"
+   },
+   {
+    "n": 543,
+    "word": "synchronize",
+    "pos": "v.",
+    "meaning": "to make happen at the same time"
+   },
+   {
+    "n": 544,
+    "word": "methodical",
+    "pos": "adj.",
+    "meaning": "orderly and careful"
+   },
+   {
+    "n": 545,
+    "word": "uniform",
+    "pos": "adj.",
+    "meaning": "all the same"
+   },
+   {
+    "n": 546,
+    "word": "conformity",
+    "pos": "n.",
+    "meaning": "following the crowd"
+   },
+   {
+    "n": 547,
+    "word": "autonomous",
+    "pos": "adj.",
+    "meaning": "self-governing"
+   },
+   {
+    "n": 548,
+    "word": "sequence",
+    "pos": "n.",
+    "meaning": "an order of things"
+   },
+   {
+    "n": 549,
+    "word": "intricate",
+    "pos": "adj.",
+    "meaning": "very detailed and complex"
+   },
+   {
+    "n": 550,
+    "word": "redundant",
+    "pos": "adj.",
+    "meaning": "unnecessary; repetitive"
+   }
+  ],
+  "look": "a clocktower with mechanical figures that march out each hour",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 56,
+  "title": "Bound in Leather",
+  "locus": "The Bookbinders' Hall",
+  "words": [
+   {
+    "n": 551,
+    "word": "compile",
+    "pos": "v.",
+    "meaning": "to collect into one"
+   },
+   {
+    "n": 552,
+    "word": "anthology",
+    "pos": "n.",
+    "meaning": "a collection of works"
+   },
+   {
+    "n": 553,
+    "word": "compendium",
+    "pos": "n.",
+    "meaning": "a complete summary collection"
+   },
+   {
+    "n": 554,
+    "word": "comprehensive",
+    "pos": "adj.",
+    "meaning": "including everything"
+   },
+   {
+    "n": 555,
+    "word": "concise",
+    "pos": "adj.",
+    "meaning": "brief but complete"
+   },
+   {
+    "n": 556,
+    "word": "succinct",
+    "pos": "adj.",
+    "meaning": "short and clear"
+   },
+   {
+    "n": 557,
+    "word": "abridge",
+    "pos": "v.",
+    "meaning": "to shorten"
+   },
+   {
+    "n": 558,
+    "word": "cohesive",
+    "pos": "adj.",
+    "meaning": "sticking together"
+   },
+   {
+    "n": 559,
+    "word": "coherent",
+    "pos": "adj.",
+    "meaning": "logical and clear"
+   },
+   {
+    "n": 560,
+    "word": "digress",
+    "pos": "v.",
+    "meaning": "to wander off topic"
+   }
+  ],
+  "look": "a hall of bookbinders, leather stacks and gold-tooling presses",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 57,
+  "title": "Ink of the First Night",
+  "locus": "The Ink-Makers' Vats",
+  "words": [
+   {
+    "n": 561,
+    "word": "primordial",
+    "pos": "adj.",
+    "meaning": "existing from the very beginning"
+   },
+   {
+    "n": 562,
+    "word": "genesis",
+    "pos": "n.",
+    "meaning": "the origin"
+   },
+   {
+    "n": 563,
+    "word": "inception",
+    "pos": "n.",
+    "meaning": "the beginning"
+   },
+   {
+    "n": 564,
+    "word": "nascent",
+    "pos": "adj.",
+    "meaning": "just beginning to exist"
+   },
+   {
+    "n": 565,
+    "word": "embryonic",
+    "pos": "adj.",
+    "meaning": "in an early stage"
+   },
+   {
+    "n": 566,
+    "word": "archetype",
+    "pos": "n.",
+    "meaning": "a perfect original model"
+   },
+   {
+    "n": 567,
+    "word": "prototype",
+    "pos": "n.",
+    "meaning": "a first model"
+   },
+   {
+    "n": 568,
+    "word": "indigenous",
+    "pos": "adj.",
+    "meaning": "native to a place"
+   },
+   {
+    "n": 569,
+    "word": "innate",
+    "pos": "adj.",
+    "meaning": "inborn"
+   },
+   {
+    "n": 570,
+    "word": "inherent",
+    "pos": "adj.",
+    "meaning": "built-in; essential"
+   }
+  ],
+  "look": "vats of black ink as big as ponds, soot chimneys",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 58,
+  "title": "Clay Soldiers",
+  "locus": "The Potters' Kilns",
+  "words": [
+   {
+    "n": 571,
+    "word": "pliable",
+    "pos": "adj.",
+    "meaning": "easily bent"
+   },
+   {
+    "n": 572,
+    "word": "impressionable",
+    "pos": "adj.",
+    "meaning": "easily influenced"
+   },
+   {
+    "n": 573,
+    "word": "mundane",
+    "pos": "adj.",
+    "meaning": "ordinary; dull"
+   },
+   {
+    "n": 574,
+    "word": "crude",
+    "pos": "adj.",
+    "meaning": "rough; unrefined"
+   },
+   {
+    "n": 575,
+    "word": "refine",
+    "pos": "v.",
+    "meaning": "to improve; to purify"
+   },
+   {
+    "n": 576,
+    "word": "artisan",
+    "pos": "n.",
+    "meaning": "a skilled craftsperson"
+   },
+   {
+    "n": 577,
+    "word": "utilitarian",
+    "pos": "adj.",
+    "meaning": "useful rather than pretty"
+   },
+   {
+    "n": 578,
+    "word": "aesthetic",
+    "pos": "adj.",
+    "meaning": "about beauty"
+   },
+   {
+    "n": 579,
+    "word": "fragment",
+    "pos": "n.",
+    "meaning": "a broken piece"
+   },
+   {
+    "n": 580,
+    "word": "amorphous",
+    "pos": "adj.",
+    "meaning": "shapeless"
+   }
+  ],
+  "look": "potters' kilns, shelves of clay jars and figurines",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 59,
+  "title": "Colors of Rebellion",
+  "locus": "The Dyers' Pools",
+  "words": [
+   {
+    "n": 581,
+    "word": "dissent",
+    "pos": "n./v.",
+    "meaning": "disagreement"
+   },
+   {
+    "n": 582,
+    "word": "insurgent",
+    "pos": "n.",
+    "meaning": "a rebel"
+   },
+   {
+    "n": 583,
+    "word": "mutiny",
+    "pos": "n.",
+    "meaning": "a revolt against authority"
+   },
+   {
+    "n": 584,
+    "word": "radical",
+    "pos": "adj.",
+    "meaning": "extreme; fundamental"
+   },
+   {
+    "n": 585,
+    "word": "upheaval",
+    "pos": "n.",
+    "meaning": "a sudden violent change"
+   },
+   {
+    "n": 586,
+    "word": "vivid",
+    "pos": "adj.",
+    "meaning": "bright and intense"
+   },
+   {
+    "n": 587,
+    "word": "garish",
+    "pos": "adj.",
+    "meaning": "tastelessly bright"
+   },
+   {
+    "n": 588,
+    "word": "iconoclast",
+    "pos": "n.",
+    "meaning": "one who attacks cherished beliefs"
+   },
+   {
+    "n": 589,
+    "word": "nonconformist",
+    "pos": "n.",
+    "meaning": "one who refuses to follow norms"
+   },
+   {
+    "n": 590,
+    "word": "provocative",
+    "pos": "adj.",
+    "meaning": "causing strong reaction"
+   }
+  ],
+  "look": "dyers' pools in rainbow colors, cloth hanging to dry",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 60,
+  "title": "The Pen Reborn",
+  "locus": "The Calligraphers' School",
+  "words": [
+   {
+    "n": 591,
+    "word": "rejuvenate",
+    "pos": "v.",
+    "meaning": "to make young again"
+   },
+   {
+    "n": 592,
+    "word": "revive",
+    "pos": "v.",
+    "meaning": "to bring back to life"
+   },
+   {
+    "n": 593,
+    "word": "renaissance",
+    "pos": "n.",
+    "meaning": "a rebirth"
+   },
+   {
+    "n": 594,
+    "word": "resurgence",
+    "pos": "n.",
+    "meaning": "a rising again"
+   },
+   {
+    "n": 595,
+    "word": "invigorate",
+    "pos": "v.",
+    "meaning": "to fill with energy"
+   },
+   {
+    "n": 596,
+    "word": "metamorphosis",
+    "pos": "n.",
+    "meaning": "a complete transformation"
+   },
+   {
+    "n": 597,
+    "word": "redemption",
+    "pos": "n.",
+    "meaning": "being saved from wrong"
+   },
+   {
+    "n": 598,
+    "word": "salvage",
+    "pos": "v.",
+    "meaning": "to rescue from ruin"
+   },
+   {
+    "n": 599,
+    "word": "rehabilitate",
+    "pos": "v.",
+    "meaning": "to restore to good condition"
+   },
+   {
+    "n": 600,
+    "word": "amend",
+    "pos": "v.",
+    "meaning": "to change for the better"
+   }
+  ],
+  "look": "a calligraphy school with long desks and giant brush-letters on the walls",
+  "district": "Kufa Gate (Brass Elephant)"
+ },
+ {
+  "chapter": 61,
+  "title": "The Eagle's Judgment",
+  "locus": "The Syrian Gate",
+  "words": [
+   {
+    "n": 601,
+    "word": "judicious",
+    "pos": "adj.",
+    "meaning": "showing good judgment"
+   },
+   {
+    "n": 602,
+    "word": "impartial",
+    "pos": "adj.",
+    "meaning": "fair; not taking sides"
+   },
+   {
+    "n": 603,
+    "word": "verdict",
+    "pos": "n.",
+    "meaning": "a decision"
+   },
+   {
+    "n": 604,
+    "word": "prudent",
+    "pos": "adj.",
+    "meaning": "wisely careful"
+   },
+   {
+    "n": 605,
+    "word": "discerning",
+    "pos": "adj.",
+    "meaning": "showing good judgment"
+   },
+   {
+    "n": 606,
+    "word": "biased",
+    "pos": "adj.",
+    "meaning": "unfairly favoring one side"
+   },
+   {
+    "n": 607,
+    "word": "prejudice",
+    "pos": "n.",
+    "meaning": "unfair opinion formed beforehand"
+   },
+   {
+    "n": 608,
+    "word": "equitable",
+    "pos": "adj.",
+    "meaning": "fair to all"
+   },
+   {
+    "n": 609,
+    "word": "adjudicate",
+    "pos": "v.",
+    "meaning": "to judge officially"
+   },
+   {
+    "n": 610,
+    "word": "partisan",
+    "pos": "adj./n.",
+    "meaning": "strongly supporting one side"
+   }
+  ],
+  "look": "the north-western gate, a brass eagle with wings spread over the arch",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 62,
+  "title": "Crossroads of Caravans",
+  "locus": "The Great Caravanserai",
+  "words": [
+   {
+    "n": 611,
+    "word": "itinerant",
+    "pos": "adj.",
+    "meaning": "traveling from place to place"
+   },
+   {
+    "n": 612,
+    "word": "nomadic",
+    "pos": "adj.",
+    "meaning": "wandering; with no fixed home"
+   },
+   {
+    "n": 613,
+    "word": "peripatetic",
+    "pos": "adj.",
+    "meaning": "traveling around"
+   },
+   {
+    "n": 614,
+    "word": "sojourn",
+    "pos": "n.",
+    "meaning": "a temporary stay"
+   },
+   {
+    "n": 615,
+    "word": "transient",
+    "pos": "adj.",
+    "meaning": "temporary; passing"
+   },
+   {
+    "n": 616,
+    "word": "expedition",
+    "pos": "n.",
+    "meaning": "a journey with a purpose"
+   },
+   {
+    "n": 617,
+    "word": "odyssey",
+    "pos": "n.",
+    "meaning": "a long adventurous journey"
+   },
+   {
+    "n": 618,
+    "word": "vagabond",
+    "pos": "n.",
+    "meaning": "a wanderer"
+   },
+   {
+    "n": 619,
+    "word": "embark",
+    "pos": "v.",
+    "meaning": "to start; to board"
+   },
+   {
+    "n": 620,
+    "word": "emigrate",
+    "pos": "v.",
+    "meaning": "to leave one's country"
+   }
+  ],
+  "look": "a huge caravanserai, square courtyard full of camels and bales",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 63,
+  "title": "The Great Camel Race",
+  "locus": "The Camel Racetrack",
+  "words": [
+   {
+    "n": 621,
+    "word": "rival",
+    "pos": "n.",
+    "meaning": "a competitor"
+   },
+   {
+    "n": 622,
+    "word": "vie",
+    "pos": "v.",
+    "meaning": "to compete"
+   },
+   {
+    "n": 623,
+    "word": "adversary",
+    "pos": "n.",
+    "meaning": "an opponent"
+   },
+   {
+    "n": 624,
+    "word": "tactic",
+    "pos": "n.",
+    "meaning": "a planned move"
+   },
+   {
+    "n": 625,
+    "word": "exert",
+    "pos": "v.",
+    "meaning": "to put forth (effort)"
+   },
+   {
+    "n": 626,
+    "word": "surpass",
+    "pos": "v.",
+    "meaning": "to go beyond"
+   },
+   {
+    "n": 627,
+    "word": "outstrip",
+    "pos": "v.",
+    "meaning": "to outrun; to exceed"
+   },
+   {
+    "n": 628,
+    "word": "stamina",
+    "pos": "n.",
+    "meaning": "staying power"
+   },
+   {
+    "n": 629,
+    "word": "jubilant",
+    "pos": "adj.",
+    "meaning": "joyful"
+   },
+   {
+    "n": 630,
+    "word": "vanquish",
+    "pos": "v.",
+    "meaning": "to defeat"
+   }
+  ],
+  "look": "a dusty racetrack with camels in colored saddles",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 64,
+  "title": "The Nomad Queen",
+  "locus": "The Nomad Tents",
+  "words": [
+   {
+    "n": 631,
+    "word": "sovereign",
+    "pos": "n./adj.",
+    "meaning": "a ruler; supreme"
+   },
+   {
+    "n": 632,
+    "word": "regal",
+    "pos": "adj.",
+    "meaning": "royal"
+   },
+   {
+    "n": 633,
+    "word": "majestic",
+    "pos": "adj.",
+    "meaning": "grand"
+   },
+   {
+    "n": 634,
+    "word": "autocrat",
+    "pos": "n.",
+    "meaning": "a ruler with total power"
+   },
+   {
+    "n": 635,
+    "word": "dignified",
+    "pos": "adj.",
+    "meaning": "calm and respectable"
+   },
+   {
+    "n": 636,
+    "word": "decree",
+    "pos": "n.",
+    "meaning": "an official order"
+   },
+   {
+    "n": 637,
+    "word": "matriarch",
+    "pos": "n.",
+    "meaning": "a female head of a family"
+   },
+   {
+    "n": 638,
+    "word": "authoritative",
+    "pos": "adj.",
+    "meaning": "commanding; reliable"
+   },
+   {
+    "n": 639,
+    "word": "imperious",
+    "pos": "adj.",
+    "meaning": "bossy; arrogant"
+   },
+   {
+    "n": 640,
+    "word": "clemency",
+    "pos": "n.",
+    "meaning": "mercy"
+   }
+  ],
+  "look": "black goat-hair tents of the nomads, a tall royal tent in the middle",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 65,
+  "title": "Wells of Illusion",
+  "locus": "The Mirage Wells",
+  "words": [
+   {
+    "n": 641,
+    "word": "chimera",
+    "pos": "n.",
+    "meaning": "an impossible fantasy"
+   },
+   {
+    "n": 642,
+    "word": "hallucinate",
+    "pos": "v.",
+    "meaning": "to see what is not there"
+   },
+   {
+    "n": 643,
+    "word": "phantom",
+    "pos": "n.",
+    "meaning": "a ghost; an illusion"
+   },
+   {
+    "n": 644,
+    "word": "specter",
+    "pos": "n.",
+    "meaning": "a ghost; a threatening image"
+   },
+   {
+    "n": 645,
+    "word": "apparition",
+    "pos": "n.",
+    "meaning": "a ghostly figure"
+   },
+   {
+    "n": 646,
+    "word": "surreal",
+    "pos": "adj.",
+    "meaning": "dream-like; bizarre"
+   },
+   {
+    "n": 647,
+    "word": "figment",
+    "pos": "n.",
+    "meaning": "something imagined"
+   },
+   {
+    "n": 648,
+    "word": "tantalize",
+    "pos": "v.",
+    "meaning": "to tease with something out of reach"
+   },
+   {
+    "n": 649,
+    "word": "quench",
+    "pos": "v.",
+    "meaning": "to satisfy thirst; to put out"
+   },
+   {
+    "n": 650,
+    "word": "parched",
+    "pos": "adj.",
+    "meaning": "very dry"
+   }
+  ],
+  "look": "stone wells in the sand where the air shimmers with mirages",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 66,
+  "title": "Ruins of the Ghoul",
+  "locus": "The Ghoul's Ruins",
+  "words": [
+   {
+    "n": 651,
+    "word": "macabre",
+    "pos": "adj.",
+    "meaning": "gruesome; about death"
+   },
+   {
+    "n": 652,
+    "word": "morbid",
+    "pos": "adj.",
+    "meaning": "gloomy; interested in death"
+   },
+   {
+    "n": 653,
+    "word": "gruesome",
+    "pos": "adj.",
+    "meaning": "horrible to see"
+   },
+   {
+    "n": 654,
+    "word": "ghastly",
+    "pos": "adj.",
+    "meaning": "shockingly frightful"
+   },
+   {
+    "n": 655,
+    "word": "dread",
+    "pos": "n.",
+    "meaning": "great fear"
+   },
+   {
+    "n": 656,
+    "word": "petrify",
+    "pos": "v.",
+    "meaning": "to terrify; to turn to stone"
+   },
+   {
+    "n": 657,
+    "word": "harrowing",
+    "pos": "adj.",
+    "meaning": "very distressing"
+   },
+   {
+    "n": 658,
+    "word": "grim",
+    "pos": "adj.",
+    "meaning": "stern; gloomy"
+   },
+   {
+    "n": 659,
+    "word": "decrepit",
+    "pos": "adj.",
+    "meaning": "worn out by age"
+   },
+   {
+    "n": 660,
+    "word": "desecrate",
+    "pos": "v.",
+    "meaning": "to damage something sacred"
+   }
+  ],
+  "look": "a ruined fortress full of broken arches and owls",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 67,
+  "title": "The Salt Truce",
+  "locus": "The Salt Flats",
+  "words": [
+   {
+    "n": 661,
+    "word": "concede",
+    "pos": "v.",
+    "meaning": "to admit; to give up"
+   },
+   {
+    "n": 662,
+    "word": "compromise",
+    "pos": "n./v.",
+    "meaning": "a middle-ground agreement"
+   },
+   {
+    "n": 663,
+    "word": "diplomacy",
+    "pos": "n.",
+    "meaning": "skill in handling relations"
+   },
+   {
+    "n": 664,
+    "word": "mediate",
+    "pos": "v.",
+    "meaning": "to help settle a dispute"
+   },
+   {
+    "n": 665,
+    "word": "conciliatory",
+    "pos": "adj.",
+    "meaning": "trying to make peace"
+   },
+   {
+    "n": 666,
+    "word": "amicable",
+    "pos": "adj.",
+    "meaning": "friendly"
+   },
+   {
+    "n": 667,
+    "word": "cordial",
+    "pos": "adj.",
+    "meaning": "warm and polite"
+   },
+   {
+    "n": 668,
+    "word": "rapport",
+    "pos": "n.",
+    "meaning": "a friendly connection"
+   },
+   {
+    "n": 669,
+    "word": "consensus",
+    "pos": "n.",
+    "meaning": "general agreement"
+   },
+   {
+    "n": 670,
+    "word": "accord",
+    "pos": "n.",
+    "meaning": "an agreement"
+   }
+  ],
+  "look": "white salt flats that crunch underfoot, blinding bright",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 68,
+  "title": "Towers That Breathe",
+  "locus": "The Windcatcher Towers",
+  "words": [
+   {
+    "n": 671,
+    "word": "ventilate",
+    "pos": "v.",
+    "meaning": "to let fresh air in"
+   },
+   {
+    "n": 672,
+    "word": "sustainable",
+    "pos": "adj.",
+    "meaning": "able to last without harm"
+   },
+   {
+    "n": 673,
+    "word": "arid",
+    "pos": "adj.",
+    "meaning": "very dry"
+   },
+   {
+    "n": 674,
+    "word": "humid",
+    "pos": "adj.",
+    "meaning": "damp and muggy"
+   },
+   {
+    "n": 675,
+    "word": "temperate",
+    "pos": "adj.",
+    "meaning": "mild; moderate"
+   },
+   {
+    "n": 676,
+    "word": "sweltering",
+    "pos": "adj.",
+    "meaning": "uncomfortably hot"
+   },
+   {
+    "n": 677,
+    "word": "respite",
+    "pos": "n.",
+    "meaning": "a short rest or relief"
+   },
+   {
+    "n": 678,
+    "word": "sultry",
+    "pos": "adj.",
+    "meaning": "hot and humid"
+   },
+   {
+    "n": 679,
+    "word": "frigid",
+    "pos": "adj.",
+    "meaning": "very cold"
+   },
+   {
+    "n": 680,
+    "word": "torrid",
+    "pos": "adj.",
+    "meaning": "scorching hot; intense"
+   }
+  ],
+  "look": "a row of windcatcher towers that breathe cool air into houses",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 69,
+  "title": "Song of the Dunes",
+  "locus": "The Singing Dunes",
+  "words": [
+   {
+    "n": 681,
+    "word": "melodious",
+    "pos": "adj.",
+    "meaning": "tuneful"
+   },
+   {
+    "n": 682,
+    "word": "harmonious",
+    "pos": "adj.",
+    "meaning": "in agreement; tuneful together"
+   },
+   {
+    "n": 683,
+    "word": "dulcet",
+    "pos": "adj.",
+    "meaning": "sweet-sounding"
+   },
+   {
+    "n": 684,
+    "word": "serenade",
+    "pos": "n./v.",
+    "meaning": "a song sung to someone"
+   },
+   {
+    "n": 685,
+    "word": "rhapsody",
+    "pos": "n.",
+    "meaning": "an outburst of enthusiasm"
+   },
+   {
+    "n": 686,
+    "word": "crescendo",
+    "pos": "n.",
+    "meaning": "a gradual rise to a peak"
+   },
+   {
+    "n": 687,
+    "word": "timbre",
+    "pos": "n.",
+    "meaning": "the quality of a sound"
+   },
+   {
+    "n": 688,
+    "word": "lilting",
+    "pos": "adj.",
+    "meaning": "gently rising and falling"
+   },
+   {
+    "n": 689,
+    "word": "euphoric",
+    "pos": "adj.",
+    "meaning": "intensely happy"
+   },
+   {
+    "n": 690,
+    "word": "mesmerize",
+    "pos": "v.",
+    "meaning": "to hold spellbound"
+   }
+  ],
+  "look": "tall golden dunes that hum when the wind blows",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 70,
+  "title": "Oasis of Second Chances",
+  "locus": "The Oasis of Date Palms",
+  "words": [
+   {
+    "n": 691,
+    "word": "repent",
+    "pos": "v.",
+    "meaning": "to feel regret for wrongdoing"
+   },
+   {
+    "n": 692,
+    "word": "contrite",
+    "pos": "adj.",
+    "meaning": "sorry"
+   },
+   {
+    "n": 693,
+    "word": "remorse",
+    "pos": "n.",
+    "meaning": "deep regret"
+   },
+   {
+    "n": 694,
+    "word": "absolve",
+    "pos": "v.",
+    "meaning": "to free from blame"
+   },
+   {
+    "n": 695,
+    "word": "atone",
+    "pos": "v.",
+    "meaning": "to make amends"
+   },
+   {
+    "n": 696,
+    "word": "amnesty",
+    "pos": "n.",
+    "meaning": "an official pardon"
+   },
+   {
+    "n": 697,
+    "word": "reprieve",
+    "pos": "n.",
+    "meaning": "a delay of punishment"
+   },
+   {
+    "n": 698,
+    "word": "vindicate",
+    "pos": "v.",
+    "meaning": "to clear of blame"
+   },
+   {
+    "n": 699,
+    "word": "exonerate",
+    "pos": "v.",
+    "meaning": "to declare not guilty"
+   },
+   {
+    "n": 700,
+    "word": "reform",
+    "pos": "v./n.",
+    "meaning": "to improve by change"
+   }
+  ],
+  "look": "an oasis of date palms around a turquoise pool",
+  "district": "Syrian Gate (Brass Eagle)"
+ },
+ {
+  "chapter": 71,
+  "title": "The Horse of Brass",
+  "locus": "The Khurasan Gate",
+  "words": [
+   {
+    "n": 701,
+    "word": "equestrian",
+    "pos": "adj.",
+    "meaning": "relating to horse riding"
+   },
+   {
+    "n": 702,
+    "word": "unbridled",
+    "pos": "adj.",
+    "meaning": "uncontrolled"
+   },
+   {
+    "n": 703,
+    "word": "spirited",
+    "pos": "adj.",
+    "meaning": "lively and bold"
+   },
+   {
+    "n": 704,
+    "word": "headstrong",
+    "pos": "adj.",
+    "meaning": "stubborn"
+   },
+   {
+    "n": 705,
+    "word": "obstinate",
+    "pos": "adj.",
+    "meaning": "stubbornly refusing to change"
+   },
+   {
+    "n": 706,
+    "word": "intractable",
+    "pos": "adj.",
+    "meaning": "hard to manage"
+   },
+   {
+    "n": 707,
+    "word": "subdue",
+    "pos": "v.",
+    "meaning": "to overpower; to calm"
+   },
+   {
+    "n": 708,
+    "word": "wield",
+    "pos": "v.",
+    "meaning": "to hold and use (power or a weapon)"
+   },
+   {
+    "n": 709,
+    "word": "mettle",
+    "pos": "n.",
+    "meaning": "courage and spirit"
+   },
+   {
+    "n": 710,
+    "word": "tractable",
+    "pos": "adj.",
+    "meaning": "easy to manage"
+   }
+  ],
+  "look": "the north-eastern gate, a brass horse rearing above the arch",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 72,
+  "title": "The Wild Stallion",
+  "locus": "The Horse Stables",
+  "words": [
+   {
+    "n": 711,
+    "word": "impulsive",
+    "pos": "adj.",
+    "meaning": "acting on sudden urges"
+   },
+   {
+    "n": 712,
+    "word": "rash",
+    "pos": "adj.",
+    "meaning": "hasty; reckless"
+   },
+   {
+    "n": 713,
+    "word": "spontaneous",
+    "pos": "adj.",
+    "meaning": "unplanned"
+   },
+   {
+    "n": 714,
+    "word": "restive",
+    "pos": "adj.",
+    "meaning": "restless; resisting control"
+   },
+   {
+    "n": 715,
+    "word": "temperamental",
+    "pos": "adj.",
+    "meaning": "moody"
+   },
+   {
+    "n": 716,
+    "word": "vehement",
+    "pos": "adj.",
+    "meaning": "forceful; intense"
+   },
+   {
+    "n": 717,
+    "word": "exuberant",
+    "pos": "adj.",
+    "meaning": "overflowing with joy"
+   },
+   {
+    "n": 718,
+    "word": "boisterous",
+    "pos": "adj.",
+    "meaning": "noisy and lively"
+   },
+   {
+    "n": 719,
+    "word": "rambunctious",
+    "pos": "adj.",
+    "meaning": "wild and unruly"
+   },
+   {
+    "n": 720,
+    "word": "restrain",
+    "pos": "v.",
+    "meaning": "to hold back"
+   }
+  ],
+  "look": "royal stables, stalls of Arabian horses, hay lofts",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 73,
+  "title": "War of the Kites",
+  "locus": "The Kite-Flyers' Hill",
+  "words": [
+   {
+    "n": 721,
+    "word": "altitude",
+    "pos": "n.",
+    "meaning": "height"
+   },
+   {
+    "n": 722,
+    "word": "plummet",
+    "pos": "v.",
+    "meaning": "to fall straight down"
+   },
+   {
+    "n": 723,
+    "word": "hover",
+    "pos": "v.",
+    "meaning": "to stay in one place in the air"
+   },
+   {
+    "n": 724,
+    "word": "entangle",
+    "pos": "v.",
+    "meaning": "to tangle up"
+   },
+   {
+    "n": 725,
+    "word": "skirmish",
+    "pos": "n.",
+    "meaning": "a small fight"
+   },
+   {
+    "n": 726,
+    "word": "zenith",
+    "pos": "n.",
+    "meaning": "the highest point"
+   },
+   {
+    "n": 727,
+    "word": "nadir",
+    "pos": "n.",
+    "meaning": "the lowest point"
+   },
+   {
+    "n": 728,
+    "word": "apex",
+    "pos": "n.",
+    "meaning": "the peak"
+   },
+   {
+    "n": 729,
+    "word": "descend",
+    "pos": "v.",
+    "meaning": "to go down"
+   },
+   {
+    "n": 730,
+    "word": "buffet",
+    "pos": "v.",
+    "meaning": "to strike repeatedly (like wind)"
+   }
+  ],
+  "look": "a windy hill full of kite-flyers, strings crisscrossing the sky",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 74,
+  "title": "Whispers on the Wind",
+  "locus": "The Tower of Winds",
+  "words": [
+   {
+    "n": 731,
+    "word": "hearsay",
+    "pos": "n.",
+    "meaning": "rumor"
+   },
+   {
+    "n": 732,
+    "word": "slander",
+    "pos": "n./v.",
+    "meaning": "a false spoken statement that harms"
+   },
+   {
+    "n": 733,
+    "word": "libel",
+    "pos": "n.",
+    "meaning": "a false written statement that harms"
+   },
+   {
+    "n": 734,
+    "word": "defame",
+    "pos": "v.",
+    "meaning": "to damage a reputation"
+   },
+   {
+    "n": 735,
+    "word": "malign",
+    "pos": "v.",
+    "meaning": "to speak evil of"
+   },
+   {
+    "n": 736,
+    "word": "innuendo",
+    "pos": "n.",
+    "meaning": "a sly hint"
+   },
+   {
+    "n": 737,
+    "word": "propaganda",
+    "pos": "n.",
+    "meaning": "biased information to persuade"
+   },
+   {
+    "n": 738,
+    "word": "credible",
+    "pos": "adj.",
+    "meaning": "believable"
+   },
+   {
+    "n": 739,
+    "word": "allege",
+    "pos": "v.",
+    "meaning": "to claim without proof"
+   },
+   {
+    "n": 740,
+    "word": "substantiate",
+    "pos": "v.",
+    "meaning": "to prove with evidence"
+   }
+  ],
+  "look": "an eight-sided tower with a weather vane and whistling holes",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 75,
+  "title": "Eyes on the Stars",
+  "locus": "The Great Observatory",
+  "words": [
+   {
+    "n": 741,
+    "word": "aspire",
+    "pos": "v.",
+    "meaning": "to aim high"
+   },
+   {
+    "n": 742,
+    "word": "ambitious",
+    "pos": "adj.",
+    "meaning": "eager to succeed"
+   },
+   {
+    "n": 743,
+    "word": "visionary",
+    "pos": "adj./n.",
+    "meaning": "imaginative about the future"
+   },
+   {
+    "n": 744,
+    "word": "idealistic",
+    "pos": "adj.",
+    "meaning": "believing in perfection"
+   },
+   {
+    "n": 745,
+    "word": "utopia",
+    "pos": "n.",
+    "meaning": "a perfect place"
+   },
+   {
+    "n": 746,
+    "word": "optimistic",
+    "pos": "adj.",
+    "meaning": "hopeful"
+   },
+   {
+    "n": 747,
+    "word": "pessimistic",
+    "pos": "adj.",
+    "meaning": "expecting the worst"
+   },
+   {
+    "n": 748,
+    "word": "yearn",
+    "pos": "v.",
+    "meaning": "to long for"
+   },
+   {
+    "n": 749,
+    "word": "lofty",
+    "pos": "adj.",
+    "meaning": "very high; noble"
+   },
+   {
+    "n": 750,
+    "word": "cynical",
+    "pos": "adj.",
+    "meaning": "believing everyone is selfish"
+   }
+  ],
+  "look": "the great observatory with a giant sextant carved into the hill",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 76,
+  "title": "The Map That Moved",
+  "locus": "The Star-Map Hall",
+  "words": [
+   {
+    "n": 751,
+    "word": "dynamic",
+    "pos": "adj.",
+    "meaning": "energetic; changing"
+   },
+   {
+    "n": 752,
+    "word": "static",
+    "pos": "adj.",
+    "meaning": "unchanging"
+   },
+   {
+    "n": 753,
+    "word": "flux",
+    "pos": "n.",
+    "meaning": "constant change"
+   },
+   {
+    "n": 754,
+    "word": "mutable",
+    "pos": "adj.",
+    "meaning": "changeable"
+   },
+   {
+    "n": 755,
+    "word": "immutable",
+    "pos": "adj.",
+    "meaning": "unchangeable"
+   },
+   {
+    "n": 756,
+    "word": "evolve",
+    "pos": "v.",
+    "meaning": "to develop gradually"
+   },
+   {
+    "n": 757,
+    "word": "adapt",
+    "pos": "v.",
+    "meaning": "to adjust"
+   },
+   {
+    "n": 758,
+    "word": "fluid",
+    "pos": "adj.",
+    "meaning": "flowing; changeable"
+   },
+   {
+    "n": 759,
+    "word": "variable",
+    "pos": "adj./n.",
+    "meaning": "likely to change"
+   },
+   {
+    "n": 760,
+    "word": "versatile",
+    "pos": "adj.",
+    "meaning": "able to do many things"
+   }
+  ],
+  "look": "a hall whose ceiling is a painted star-map that slowly moves",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 77,
+  "title": "Wings of the Messenger",
+  "locus": "The Pigeon Post Tower",
+  "words": [
+   {
+    "n": 761,
+    "word": "convey",
+    "pos": "v.",
+    "meaning": "to communicate; to carry"
+   },
+   {
+    "n": 762,
+    "word": "correspondence",
+    "pos": "n.",
+    "meaning": "letters exchanged"
+   },
+   {
+    "n": 763,
+    "word": "dispatch",
+    "pos": "v./n.",
+    "meaning": "to send off quickly"
+   },
+   {
+    "n": 764,
+    "word": "expedite",
+    "pos": "v.",
+    "meaning": "to speed up"
+   },
+   {
+    "n": 765,
+    "word": "prompt",
+    "pos": "adj./v.",
+    "meaning": "on time; to cause"
+   },
+   {
+    "n": 766,
+    "word": "relay",
+    "pos": "v.",
+    "meaning": "to pass along"
+   },
+   {
+    "n": 767,
+    "word": "missive",
+    "pos": "n.",
+    "meaning": "a letter"
+   },
+   {
+    "n": 768,
+    "word": "transmit",
+    "pos": "v.",
+    "meaning": "to send"
+   },
+   {
+    "n": 769,
+    "word": "brevity",
+    "pos": "n.",
+    "meaning": "shortness"
+   },
+   {
+    "n": 770,
+    "word": "terse",
+    "pos": "adj.",
+    "meaning": "abrupt and short"
+   }
+  ],
+  "look": "a tower of pigeon-holes where carrier pigeons land with messages",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 78,
+  "title": "Shadow of the Sundial",
+  "locus": "The Sundial Plaza",
+  "words": [
+   {
+    "n": 771,
+    "word": "punctual",
+    "pos": "adj.",
+    "meaning": "on time"
+   },
+   {
+    "n": 772,
+    "word": "chronological",
+    "pos": "adj.",
+    "meaning": "in time order"
+   },
+   {
+    "n": 773,
+    "word": "anachronism",
+    "pos": "n.",
+    "meaning": "something out of its time"
+   },
+   {
+    "n": 774,
+    "word": "contemporary",
+    "pos": "adj./n.",
+    "meaning": "modern; living at the same time"
+   },
+   {
+    "n": 775,
+    "word": "temporal",
+    "pos": "adj.",
+    "meaning": "relating to time"
+   },
+   {
+    "n": 776,
+    "word": "belated",
+    "pos": "adj.",
+    "meaning": "late"
+   },
+   {
+    "n": 777,
+    "word": "procrastinate",
+    "pos": "v.",
+    "meaning": "to put off"
+   },
+   {
+    "n": 778,
+    "word": "dawdle",
+    "pos": "v.",
+    "meaning": "to waste time"
+   },
+   {
+    "n": 779,
+    "word": "perennial",
+    "pos": "adj.",
+    "meaning": "lasting; recurring every year"
+   },
+   {
+    "n": 780,
+    "word": "hasten",
+    "pos": "v.",
+    "meaning": "to hurry"
+   }
+  ],
+  "look": "a plaza with an enormous sundial, the shadow as long as a street",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 79,
+  "title": "The Moon Well's Warning",
+  "locus": "The Moon Well",
+  "words": [
+   {
+    "n": 781,
+    "word": "premonition",
+    "pos": "n.",
+    "meaning": "a feeling of what's to come"
+   },
+   {
+    "n": 782,
+    "word": "prophecy",
+    "pos": "n.",
+    "meaning": "a prediction"
+   },
+   {
+    "n": 783,
+    "word": "clairvoyant",
+    "pos": "adj./n.",
+    "meaning": "able to see the future"
+   },
+   {
+    "n": 784,
+    "word": "augur",
+    "pos": "v.",
+    "meaning": "to predict"
+   },
+   {
+    "n": 785,
+    "word": "omen",
+    "pos": "n.",
+    "meaning": "a sign of the future"
+   },
+   {
+    "n": 786,
+    "word": "prescient",
+    "pos": "adj.",
+    "meaning": "knowing beforehand"
+   },
+   {
+    "n": 787,
+    "word": "admonish",
+    "pos": "v.",
+    "meaning": "to warn firmly"
+   },
+   {
+    "n": 788,
+    "word": "heed",
+    "pos": "v.",
+    "meaning": "to pay attention to"
+   },
+   {
+    "n": 789,
+    "word": "exhort",
+    "pos": "v.",
+    "meaning": "to urge strongly"
+   },
+   {
+    "n": 790,
+    "word": "dire",
+    "pos": "adj.",
+    "meaning": "dreadful; urgent"
+   }
+  ],
+  "look": "a moonlit well that reflects the moon even at noon",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 80,
+  "title": "The Great Betrayal",
+  "locus": "The Eastern Ramparts",
+  "words": [
+   {
+    "n": 791,
+    "word": "usurp",
+    "pos": "v.",
+    "meaning": "to seize power wrongfully"
+   },
+   {
+    "n": 792,
+    "word": "confiscate",
+    "pos": "v.",
+    "meaning": "to take by authority"
+   },
+   {
+    "n": 793,
+    "word": "plunder",
+    "pos": "v./n.",
+    "meaning": "to steal by force"
+   },
+   {
+    "n": 794,
+    "word": "machination",
+    "pos": "n.",
+    "meaning": "a scheming plot"
+   },
+   {
+    "n": 795,
+    "word": "nefarious",
+    "pos": "adj.",
+    "meaning": "wicked"
+   },
+   {
+    "n": 796,
+    "word": "diabolical",
+    "pos": "adj.",
+    "meaning": "devilish"
+   },
+   {
+    "n": 797,
+    "word": "gloat",
+    "pos": "v.",
+    "meaning": "to delight in others' misfortune"
+   },
+   {
+    "n": 798,
+    "word": "devastate",
+    "pos": "v.",
+    "meaning": "to destroy; to crush emotionally"
+   },
+   {
+    "n": 799,
+    "word": "despondent",
+    "pos": "adj.",
+    "meaning": "hopeless"
+   },
+   {
+    "n": 800,
+    "word": "sly",
+    "pos": "adj.",
+    "meaning": "sneaky"
+   }
+  ],
+  "look": "the eastern ramparts, a walkway along the top of the wall",
+  "district": "Khurasan Gate (Brass Horse)"
+ },
+ {
+  "chapter": 81,
+  "title": "Behind the Inner Wall",
+  "locus": "The Inner Ring Gate",
+  "words": [
+   {
+    "n": 801,
+    "word": "infiltrate",
+    "pos": "v.",
+    "meaning": "to secretly enter"
+   },
+   {
+    "n": 802,
+    "word": "breach",
+    "pos": "n./v.",
+    "meaning": "a break or gap; to break through"
+   },
+   {
+    "n": 803,
+    "word": "surveillance",
+    "pos": "n.",
+    "meaning": "close watch"
+   },
+   {
+    "n": 804,
+    "word": "camouflage",
+    "pos": "n.",
+    "meaning": "disguise that blends in"
+   },
+   {
+    "n": 805,
+    "word": "incognito",
+    "pos": "adj.",
+    "meaning": "in disguise"
+   },
+   {
+    "n": 806,
+    "word": "guise",
+    "pos": "n.",
+    "meaning": "an outward appearance"
+   },
+   {
+    "n": 807,
+    "word": "espionage",
+    "pos": "n.",
+    "meaning": "spying"
+   },
+   {
+    "n": 808,
+    "word": "circumvent",
+    "pos": "v.",
+    "meaning": "to find a way around"
+   },
+   {
+    "n": 809,
+    "word": "evasive",
+    "pos": "adj.",
+    "meaning": "avoiding directness"
+   },
+   {
+    "n": 810,
+    "word": "decoy",
+    "pos": "n.",
+    "meaning": "a lure; a fake target"
+   }
+  ],
+  "look": "a small arched gate in the inner wall, guarded, with iron spikes",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 82,
+  "title": "Princes of Dust",
+  "locus": "The Palace of the Princes",
+  "words": [
+   {
+    "n": 811,
+    "word": "indolent",
+    "pos": "adj.",
+    "meaning": "lazy"
+   },
+   {
+    "n": 812,
+    "word": "apathy",
+    "pos": "n.",
+    "meaning": "lack of interest"
+   },
+   {
+    "n": 813,
+    "word": "complacent",
+    "pos": "adj.",
+    "meaning": "smugly satisfied"
+   },
+   {
+    "n": 814,
+    "word": "decadent",
+    "pos": "adj.",
+    "meaning": "indulgent and declining"
+   },
+   {
+    "n": 815,
+    "word": "hedonist",
+    "pos": "n.",
+    "meaning": "a pleasure-seeker"
+   },
+   {
+    "n": 816,
+    "word": "listless",
+    "pos": "adj.",
+    "meaning": "lacking energy"
+   },
+   {
+    "n": 817,
+    "word": "torpor",
+    "pos": "n.",
+    "meaning": "sluggish inactivity"
+   },
+   {
+    "n": 818,
+    "word": "languid",
+    "pos": "adj.",
+    "meaning": "slow and relaxed"
+   },
+   {
+    "n": 819,
+    "word": "lackadaisical",
+    "pos": "adj.",
+    "meaning": "lazy and careless"
+   },
+   {
+    "n": 820,
+    "word": "nonchalant",
+    "pos": "adj.",
+    "meaning": "casually calm"
+   }
+  ],
+  "look": "marble palaces of the spoiled princes, cushions and peacocks",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 83,
+  "title": "The Empty Treasury",
+  "locus": "The Treasury Vault",
+  "words": [
+   {
+    "n": 821,
+    "word": "embezzle",
+    "pos": "v.",
+    "meaning": "to steal money in one's care"
+   },
+   {
+    "n": 822,
+    "word": "deplete",
+    "pos": "v.",
+    "meaning": "to use up"
+   },
+   {
+    "n": 823,
+    "word": "bankrupt",
+    "pos": "adj.",
+    "meaning": "out of money"
+   },
+   {
+    "n": 824,
+    "word": "destitute",
+    "pos": "adj.",
+    "meaning": "extremely poor"
+   },
+   {
+    "n": 825,
+    "word": "penury",
+    "pos": "n.",
+    "meaning": "extreme poverty"
+   },
+   {
+    "n": 826,
+    "word": "meager",
+    "pos": "adj.",
+    "meaning": "scanty; too little"
+   },
+   {
+    "n": 827,
+    "word": "scant",
+    "pos": "adj.",
+    "meaning": "barely enough"
+   },
+   {
+    "n": 828,
+    "word": "paltry",
+    "pos": "adj.",
+    "meaning": "tiny; worthless"
+   },
+   {
+    "n": 829,
+    "word": "abundant",
+    "pos": "adj.",
+    "meaning": "plentiful"
+   },
+   {
+    "n": 830,
+    "word": "surplus",
+    "pos": "n.",
+    "meaning": "an extra amount"
+   }
+  ],
+  "look": "a vault with a round steel door, piles of treasure chests",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 84,
+  "title": "Ashes of Wisdom",
+  "locus": "The House of Wisdom (Ruins)",
+  "words": [
+   {
+    "n": 831,
+    "word": "raze",
+    "pos": "v.",
+    "meaning": "to demolish completely"
+   },
+   {
+    "n": 832,
+    "word": "obliterate",
+    "pos": "v.",
+    "meaning": "to wipe out"
+   },
+   {
+    "n": 833,
+    "word": "annihilate",
+    "pos": "v.",
+    "meaning": "to destroy completely"
+   },
+   {
+    "n": 834,
+    "word": "eradicate",
+    "pos": "v.",
+    "meaning": "to root out"
+   },
+   {
+    "n": 835,
+    "word": "decimate",
+    "pos": "v.",
+    "meaning": "to destroy a large part of"
+   },
+   {
+    "n": 836,
+    "word": "irrevocable",
+    "pos": "adj.",
+    "meaning": "cannot be undone"
+   },
+   {
+    "n": 837,
+    "word": "irreparable",
+    "pos": "adj.",
+    "meaning": "cannot be repaired"
+   },
+   {
+    "n": 838,
+    "word": "ravage",
+    "pos": "v.",
+    "meaning": "to wreck"
+   },
+   {
+    "n": 839,
+    "word": "debris",
+    "pos": "n.",
+    "meaning": "scattered remains"
+   },
+   {
+    "n": 840,
+    "word": "remnant",
+    "pos": "n.",
+    "meaning": "a remaining part"
+   }
+  ],
+  "look": "the House of Wisdom, now burned ruins, charred scrolls floating",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 85,
+  "title": "The Stacks Remember",
+  "locus": "The Library Stacks",
+  "words": [
+   {
+    "n": 841,
+    "word": "categorize",
+    "pos": "v.",
+    "meaning": "to sort into groups"
+   },
+   {
+    "n": 842,
+    "word": "classify",
+    "pos": "v.",
+    "meaning": "to arrange by type"
+   },
+   {
+    "n": 843,
+    "word": "curate",
+    "pos": "v.",
+    "meaning": "to select and organize"
+   },
+   {
+    "n": 844,
+    "word": "cite",
+    "pos": "v.",
+    "meaning": "to quote as evidence"
+   },
+   {
+    "n": 845,
+    "word": "peruse",
+    "pos": "v.",
+    "meaning": "to read carefully"
+   },
+   {
+    "n": 846,
+    "word": "skim",
+    "pos": "v.",
+    "meaning": "to read quickly"
+   },
+   {
+    "n": 847,
+    "word": "glean",
+    "pos": "v.",
+    "meaning": "to gather bit by bit"
+   },
+   {
+    "n": 848,
+    "word": "decipher",
+    "pos": "v.",
+    "meaning": "to decode"
+   },
+   {
+    "n": 849,
+    "word": "comprehend",
+    "pos": "v.",
+    "meaning": "to understand"
+   },
+   {
+    "n": 850,
+    "word": "assimilate",
+    "pos": "v.",
+    "meaning": "to absorb"
+   }
+  ],
+  "look": "endless library stacks, rolling ladders, dusty scrolls",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 86,
+  "title": "Many Tongues, One Truth",
+  "locus": "The Translators' Hall",
+  "words": [
+   {
+    "n": 851,
+    "word": "paraphrase",
+    "pos": "v.",
+    "meaning": "to restate in other words"
+   },
+   {
+    "n": 852,
+    "word": "interpret",
+    "pos": "v.",
+    "meaning": "to explain the meaning"
+   },
+   {
+    "n": 853,
+    "word": "vernacular",
+    "pos": "n.",
+    "meaning": "everyday language"
+   },
+   {
+    "n": 854,
+    "word": "dialect",
+    "pos": "n.",
+    "meaning": "a regional form of language"
+   },
+   {
+    "n": 855,
+    "word": "colloquial",
+    "pos": "adj.",
+    "meaning": "informal speech"
+   },
+   {
+    "n": 856,
+    "word": "lexicon",
+    "pos": "n.",
+    "meaning": "vocabulary; a dictionary"
+   },
+   {
+    "n": 857,
+    "word": "semantics",
+    "pos": "n.",
+    "meaning": "the study of meaning"
+   },
+   {
+    "n": 858,
+    "word": "nuance",
+    "pos": "n.",
+    "meaning": "a subtle difference"
+   },
+   {
+    "n": 859,
+    "word": "idiom",
+    "pos": "n.",
+    "meaning": "an expression not meant literally"
+   },
+   {
+    "n": 860,
+    "word": "universal",
+    "pos": "adj.",
+    "meaning": "true for all"
+   }
+  ],
+  "look": "a hall where translators sit at desks labeled with many languages",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 87,
+  "title": "The Well of Echoes",
+  "locus": "The Well of Echoes",
+  "words": [
+   {
+    "n": 861,
+    "word": "reiterate",
+    "pos": "v.",
+    "meaning": "to repeat"
+   },
+   {
+    "n": 862,
+    "word": "mimic",
+    "pos": "v.",
+    "meaning": "to imitate"
+   },
+   {
+    "n": 863,
+    "word": "plagiarize",
+    "pos": "v.",
+    "meaning": "to copy someone's work as your own"
+   },
+   {
+    "n": 864,
+    "word": "derivative",
+    "pos": "adj.",
+    "meaning": "copied; unoriginal"
+   },
+   {
+    "n": 865,
+    "word": "cliché",
+    "pos": "n.",
+    "meaning": "an overused phrase"
+   },
+   {
+    "n": 866,
+    "word": "hackneyed",
+    "pos": "adj.",
+    "meaning": "overused"
+   },
+   {
+    "n": 867,
+    "word": "banal",
+    "pos": "adj.",
+    "meaning": "boringly ordinary"
+   },
+   {
+    "n": 868,
+    "word": "trite",
+    "pos": "adj.",
+    "meaning": "stale from overuse"
+   },
+   {
+    "n": 869,
+    "word": "tautology",
+    "pos": "n.",
+    "meaning": "needless repetition"
+   },
+   {
+    "n": 870,
+    "word": "verbatim",
+    "pos": "adv.",
+    "meaning": "word for word"
+   }
+  ],
+  "look": "a deep stone well that repeats every word three times",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 88,
+  "title": "Prison of Silence",
+  "locus": "The Dungeon Beneath",
+  "words": [
+   {
+    "n": 871,
+    "word": "incarcerate",
+    "pos": "v.",
+    "meaning": "to imprison"
+   },
+   {
+    "n": 872,
+    "word": "detain",
+    "pos": "v.",
+    "meaning": "to hold back; to keep in custody"
+   },
+   {
+    "n": 873,
+    "word": "suppress",
+    "pos": "v.",
+    "meaning": "to put down by force"
+   },
+   {
+    "n": 874,
+    "word": "repress",
+    "pos": "v.",
+    "meaning": "to hold down (feelings)"
+   },
+   {
+    "n": 875,
+    "word": "censor",
+    "pos": "v.",
+    "meaning": "to remove objectionable content"
+   },
+   {
+    "n": 876,
+    "word": "muzzle",
+    "pos": "v.",
+    "meaning": "to silence"
+   },
+   {
+    "n": 877,
+    "word": "persecute",
+    "pos": "v.",
+    "meaning": "to harass cruelly"
+   },
+   {
+    "n": 878,
+    "word": "subjugate",
+    "pos": "v.",
+    "meaning": "to conquer and control"
+   },
+   {
+    "n": 879,
+    "word": "endure",
+    "pos": "v.",
+    "meaning": "to bear; to last"
+   },
+   {
+    "n": 880,
+    "word": "bleak",
+    "pos": "adj.",
+    "meaning": "cold and hopeless"
+   }
+  ],
+  "look": "the prison beneath, iron cells and a long dark corridor",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 89,
+  "title": "Mapping the Final Battle",
+  "locus": "The Hall of Maps",
+  "words": [
+   {
+    "n": 881,
+    "word": "strategic",
+    "pos": "adj.",
+    "meaning": "part of a plan"
+   },
+   {
+    "n": 882,
+    "word": "contingency",
+    "pos": "n.",
+    "meaning": "a possible future event; a backup plan"
+   },
+   {
+    "n": 883,
+    "word": "logistics",
+    "pos": "n.",
+    "meaning": "organizing supplies and movement"
+   },
+   {
+    "n": 884,
+    "word": "feasible",
+    "pos": "adj.",
+    "meaning": "possible"
+   },
+   {
+    "n": 885,
+    "word": "viable",
+    "pos": "adj.",
+    "meaning": "workable"
+   },
+   {
+    "n": 886,
+    "word": "coordinate",
+    "pos": "v.",
+    "meaning": "to organize together"
+   },
+   {
+    "n": 887,
+    "word": "deploy",
+    "pos": "v.",
+    "meaning": "to send into action"
+   },
+   {
+    "n": 888,
+    "word": "mobilize",
+    "pos": "v.",
+    "meaning": "to prepare for action"
+   },
+   {
+    "n": 889,
+    "word": "anticipate",
+    "pos": "v.",
+    "meaning": "to expect"
+   },
+   {
+    "n": 890,
+    "word": "prioritize",
+    "pos": "v.",
+    "meaning": "to rank by importance"
+   }
+  ],
+  "look": "a hall with a giant table-map of the city and moving pieces",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 90,
+  "title": "The City Rises",
+  "locus": "The Parade Ground",
+  "words": [
+   {
+    "n": 891,
+    "word": "galvanize",
+    "pos": "v.",
+    "meaning": "to shock into action"
+   },
+   {
+    "n": 892,
+    "word": "unify",
+    "pos": "v.",
+    "meaning": "to bring together"
+   },
+   {
+    "n": 893,
+    "word": "rouse",
+    "pos": "v.",
+    "meaning": "to wake; to stir up"
+   },
+   {
+    "n": 894,
+    "word": "incite",
+    "pos": "v.",
+    "meaning": "to provoke to action"
+   },
+   {
+    "n": 895,
+    "word": "morale",
+    "pos": "n.",
+    "meaning": "a group's spirit"
+   },
+   {
+    "n": 896,
+    "word": "populace",
+    "pos": "n.",
+    "meaning": "the people"
+   },
+   {
+    "n": 897,
+    "word": "collective",
+    "pos": "adj.",
+    "meaning": "shared by a group"
+   },
+   {
+    "n": 898,
+    "word": "egalitarian",
+    "pos": "adj.",
+    "meaning": "believing all are equal"
+   },
+   {
+    "n": 899,
+    "word": "empower",
+    "pos": "v.",
+    "meaning": "to give power to"
+   },
+   {
+    "n": 900,
+    "word": "multitude",
+    "pos": "n.",
+    "meaning": "a great number"
+   }
+  ],
+  "look": "a vast parade ground where armies (or crowds) gather",
+  "district": "The Inner Ring"
+ },
+ {
+  "chapter": 91,
+  "title": "The Golden Gate",
+  "locus": "The Golden Gate",
+  "words": [
+   {
+    "n": 901,
+    "word": "resplendent",
+    "pos": "adj.",
+    "meaning": "dazzling"
+   },
+   {
+    "n": 902,
+    "word": "gilded",
+    "pos": "adj.",
+    "meaning": "covered in gold"
+   },
+   {
+    "n": 903,
+    "word": "ostentatious",
+    "pos": "adj.",
+    "meaning": "showing off"
+   },
+   {
+    "n": 904,
+    "word": "lavish",
+    "pos": "adj.",
+    "meaning": "extravagant"
+   },
+   {
+    "n": 905,
+    "word": "extravagant",
+    "pos": "adj.",
+    "meaning": "excessive"
+   },
+   {
+    "n": 906,
+    "word": "gaudy",
+    "pos": "adj.",
+    "meaning": "cheaply showy"
+   },
+   {
+    "n": 907,
+    "word": "sumptuous",
+    "pos": "adj.",
+    "meaning": "splendid and costly"
+   },
+   {
+    "n": 908,
+    "word": "pretentious",
+    "pos": "adj.",
+    "meaning": "trying to seem important"
+   },
+   {
+    "n": 909,
+    "word": "splendor",
+    "pos": "n.",
+    "meaning": "magnificence"
+   },
+   {
+    "n": 910,
+    "word": "pompous",
+    "pos": "adj.",
+    "meaning": "self-important"
+   }
+  ],
+  "look": "the gold-plated gate of the palace, glittering too bright to look at",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 92,
+  "title": "Fountains of Fury",
+  "locus": "The Courtyard of Fountains",
+  "words": [
+   {
+    "n": 911,
+    "word": "irate",
+    "pos": "adj.",
+    "meaning": "very angry"
+   },
+   {
+    "n": 912,
+    "word": "livid",
+    "pos": "adj.",
+    "meaning": "furious"
+   },
+   {
+    "n": 913,
+    "word": "wrath",
+    "pos": "n.",
+    "meaning": "fierce anger"
+   },
+   {
+    "n": 914,
+    "word": "incensed",
+    "pos": "adj.",
+    "meaning": "enraged"
+   },
+   {
+    "n": 915,
+    "word": "rancor",
+    "pos": "n.",
+    "meaning": "bitter resentment"
+   },
+   {
+    "n": 916,
+    "word": "enmity",
+    "pos": "n.",
+    "meaning": "hostility"
+   },
+   {
+    "n": 917,
+    "word": "hostile",
+    "pos": "adj.",
+    "meaning": "unfriendly; aggressive"
+   },
+   {
+    "n": 918,
+    "word": "tirade",
+    "pos": "n.",
+    "meaning": "a long angry speech"
+   },
+   {
+    "n": 919,
+    "word": "retaliate",
+    "pos": "v.",
+    "meaning": "to strike back"
+   },
+   {
+    "n": 920,
+    "word": "irascible",
+    "pos": "adj.",
+    "meaning": "easily angered"
+   }
+  ],
+  "look": "a courtyard of fountains with water jets in the shape of lions",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 93,
+  "title": "The Tree of Silver Birds",
+  "locus": "The Tree of Silver Birds",
+  "words": [
+   {
+    "n": 921,
+    "word": "artifice",
+    "pos": "n.",
+    "meaning": "clever trickery; skill"
+   },
+   {
+    "n": 922,
+    "word": "contrivance",
+    "pos": "n.",
+    "meaning": "a clever device"
+   },
+   {
+    "n": 923,
+    "word": "marvel",
+    "pos": "n./v.",
+    "meaning": "a wonder; to be amazed"
+   },
+   {
+    "n": 924,
+    "word": "exquisite",
+    "pos": "adj.",
+    "meaning": "beautifully made"
+   },
+   {
+    "n": 925,
+    "word": "elaborate",
+    "pos": "adj.",
+    "meaning": "detailed"
+   },
+   {
+    "n": 926,
+    "word": "virtuoso",
+    "pos": "n.",
+    "meaning": "a master performer"
+   },
+   {
+    "n": 927,
+    "word": "dexterity",
+    "pos": "n.",
+    "meaning": "skill with hands"
+   },
+   {
+    "n": 928,
+    "word": "sublime",
+    "pos": "adj.",
+    "meaning": "awe-inspiring"
+   },
+   {
+    "n": 929,
+    "word": "enthrall",
+    "pos": "v.",
+    "meaning": "to captivate"
+   },
+   {
+    "n": 930,
+    "word": "facile",
+    "pos": "adj.",
+    "meaning": "too easy; superficial"
+   }
+  ],
+  "look": "a tree made of silver whose mechanical birds sing when wound",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 94,
+  "title": "The Empty Throne",
+  "locus": "The Throne Hall",
+  "words": [
+   {
+    "n": 931,
+    "word": "abdicate",
+    "pos": "v.",
+    "meaning": "to give up a throne"
+   },
+   {
+    "n": 932,
+    "word": "successor",
+    "pos": "n.",
+    "meaning": "one who follows another"
+   },
+   {
+    "n": 933,
+    "word": "legitimate",
+    "pos": "adj.",
+    "meaning": "lawful; valid"
+   },
+   {
+    "n": 934,
+    "word": "regime",
+    "pos": "n.",
+    "meaning": "a government"
+   },
+   {
+    "n": 935,
+    "word": "dynasty",
+    "pos": "n.",
+    "meaning": "a ruling family line"
+   },
+   {
+    "n": 936,
+    "word": "hegemony",
+    "pos": "n.",
+    "meaning": "dominance"
+   },
+   {
+    "n": 937,
+    "word": "preside",
+    "pos": "v.",
+    "meaning": "to be in charge"
+   },
+   {
+    "n": 938,
+    "word": "anarchy",
+    "pos": "n.",
+    "meaning": "lawless chaos"
+   },
+   {
+    "n": 939,
+    "word": "precedent",
+    "pos": "n.",
+    "meaning": "an earlier example"
+   },
+   {
+    "n": 940,
+    "word": "mandate",
+    "pos": "n.",
+    "meaning": "an official order; authority"
+   }
+  ],
+  "look": "the throne hall, a raised empty throne under a canopy",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 95,
+  "title": "Envoys of Every Land",
+  "locus": "The Hall of Ambassadors",
+  "words": [
+   {
+    "n": 941,
+    "word": "emissary",
+    "pos": "n.",
+    "meaning": "a messenger on a mission"
+   },
+   {
+    "n": 942,
+    "word": "delegate",
+    "pos": "n./v.",
+    "meaning": "a representative; to assign"
+   },
+   {
+    "n": 943,
+    "word": "protocol",
+    "pos": "n.",
+    "meaning": "official rules of conduct"
+   },
+   {
+    "n": 944,
+    "word": "etiquette",
+    "pos": "n.",
+    "meaning": "polite behavior rules"
+   },
+   {
+    "n": 945,
+    "word": "decorum",
+    "pos": "n.",
+    "meaning": "proper behavior"
+   },
+   {
+    "n": 946,
+    "word": "courteous",
+    "pos": "adj.",
+    "meaning": "polite"
+   },
+   {
+    "n": 947,
+    "word": "tactful",
+    "pos": "adj.",
+    "meaning": "sensitive in dealing with others"
+   },
+   {
+    "n": 948,
+    "word": "xenophobia",
+    "pos": "n.",
+    "meaning": "fear of foreigners"
+   },
+   {
+    "n": 949,
+    "word": "tolerance",
+    "pos": "n.",
+    "meaning": "acceptance of differences"
+   },
+   {
+    "n": 950,
+    "word": "pluralism",
+    "pos": "n.",
+    "meaning": "many groups living together"
+   }
+  ],
+  "look": "a hall of ambassadors with flags of every land",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 96,
+  "title": "Wake the Caliph",
+  "locus": "The Caliph's Sleeping Chamber",
+  "words": [
+   {
+    "n": 951,
+    "word": "stupor",
+    "pos": "n.",
+    "meaning": "a dazed state"
+   },
+   {
+    "n": 952,
+    "word": "somnolent",
+    "pos": "adj.",
+    "meaning": "sleepy"
+   },
+   {
+    "n": 953,
+    "word": "slumber",
+    "pos": "n./v.",
+    "meaning": "sleep"
+   },
+   {
+    "n": 954,
+    "word": "comatose",
+    "pos": "adj.",
+    "meaning": "in a deep unconscious state"
+   },
+   {
+    "n": 955,
+    "word": "insomnia",
+    "pos": "n.",
+    "meaning": "inability to sleep"
+   },
+   {
+    "n": 956,
+    "word": "vigil",
+    "pos": "n.",
+    "meaning": "a watch kept at night"
+   },
+   {
+    "n": 957,
+    "word": "soporific",
+    "pos": "adj.",
+    "meaning": "causing sleep"
+   },
+   {
+    "n": 958,
+    "word": "oblivious",
+    "pos": "adj.",
+    "meaning": "unaware"
+   },
+   {
+    "n": 959,
+    "word": "startle",
+    "pos": "v.",
+    "meaning": "to surprise suddenly"
+   },
+   {
+    "n": 960,
+    "word": "cognizant",
+    "pos": "adj.",
+    "meaning": "aware"
+   }
+  ],
+  "look": "the caliph's bedchamber, a huge canopy bed and snoring bubbles",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 97,
+  "title": "A Thousand Steps",
+  "locus": "The Stair of a Thousand Steps",
+  "words": [
+   {
+    "n": 961,
+    "word": "grueling",
+    "pos": "adj.",
+    "meaning": "exhausting"
+   },
+   {
+    "n": 962,
+    "word": "strenuous",
+    "pos": "adj.",
+    "meaning": "requiring great effort"
+   },
+   {
+    "n": 963,
+    "word": "fatigue",
+    "pos": "n.",
+    "meaning": "tiredness"
+   },
+   {
+    "n": 964,
+    "word": "indefatigable",
+    "pos": "adj.",
+    "meaning": "tireless"
+   },
+   {
+    "n": 965,
+    "word": "undeterred",
+    "pos": "adj.",
+    "meaning": "not discouraged"
+   },
+   {
+    "n": 966,
+    "word": "persistent",
+    "pos": "adj.",
+    "meaning": "continuing firmly"
+   },
+   {
+    "n": 967,
+    "word": "incremental",
+    "pos": "adj.",
+    "meaning": "increasing step by step"
+   },
+   {
+    "n": 968,
+    "word": "gradual",
+    "pos": "adj.",
+    "meaning": "slow and steady"
+   },
+   {
+    "n": 969,
+    "word": "surmount",
+    "pos": "v.",
+    "meaning": "to overcome"
+   },
+   {
+    "n": 970,
+    "word": "pinnacle",
+    "pos": "n.",
+    "meaning": "the highest point"
+   }
+  ],
+  "look": "a spiraling stair of a thousand steps up to the dome",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 98,
+  "title": "Under the Green Dome",
+  "locus": "The Green Dome",
+  "words": [
+   {
+    "n": 971,
+    "word": "confront",
+    "pos": "v.",
+    "meaning": "to face boldly"
+   },
+   {
+    "n": 972,
+    "word": "nemesis",
+    "pos": "n.",
+    "meaning": "an archenemy"
+   },
+   {
+    "n": 973,
+    "word": "antagonist",
+    "pos": "n.",
+    "meaning": "an opponent; the villain"
+   },
+   {
+    "n": 974,
+    "word": "protagonist",
+    "pos": "n.",
+    "meaning": "the main character"
+   },
+   {
+    "n": 975,
+    "word": "unflinching",
+    "pos": "adj.",
+    "meaning": "not shrinking back"
+   },
+   {
+    "n": 976,
+    "word": "resolute",
+    "pos": "adj.",
+    "meaning": "determined"
+   },
+   {
+    "n": 977,
+    "word": "brink",
+    "pos": "n.",
+    "meaning": "the edge"
+   },
+   {
+    "n": 978,
+    "word": "verge",
+    "pos": "n.",
+    "meaning": "the edge; about to"
+   },
+   {
+    "n": 979,
+    "word": "climactic",
+    "pos": "adj.",
+    "meaning": "forming the climax"
+   },
+   {
+    "n": 980,
+    "word": "imperative",
+    "pos": "adj./n.",
+    "meaning": "absolutely necessary"
+   }
+  ],
+  "look": "the inside of the Green Dome, the empty stand where the Lexicon floated",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 99,
+  "title": "The Horseman Turns",
+  "locus": "The Bronze Horseman atop the Dome",
+  "words": [
+   {
+    "n": 981,
+    "word": "pivotal",
+    "pos": "adj.",
+    "meaning": "crucial; central"
+   },
+   {
+    "n": 982,
+    "word": "crucial",
+    "pos": "adj.",
+    "meaning": "extremely important"
+   },
+   {
+    "n": 983,
+    "word": "decisive",
+    "pos": "adj.",
+    "meaning": "settling the result"
+   },
+   {
+    "n": 984,
+    "word": "paradigm",
+    "pos": "n.",
+    "meaning": "a model or pattern"
+   },
+   {
+    "n": 985,
+    "word": "revert",
+    "pos": "v.",
+    "meaning": "to go back"
+   },
+   {
+    "n": 986,
+    "word": "ironic",
+    "pos": "adj.",
+    "meaning": "the opposite of what's expected"
+   },
+   {
+    "n": 987,
+    "word": "unprecedented",
+    "pos": "adj.",
+    "meaning": "never happened before"
+   },
+   {
+    "n": 988,
+    "word": "watershed",
+    "pos": "n.",
+    "meaning": "a turning point"
+   },
+   {
+    "n": 989,
+    "word": "transition",
+    "pos": "n.",
+    "meaning": "a change from one state to another"
+   },
+   {
+    "n": 990,
+    "word": "juncture",
+    "pos": "n.",
+    "meaning": "a critical point in time"
+   }
+  ],
+  "look": "the bronze horseman statue that stands on top of the dome and turns with the wind",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ },
+ {
+  "chapter": 100,
+  "title": "The Thousand and First Word",
+  "locus": "The Crown of Stars",
+  "words": [
+   {
+    "n": 991,
+    "word": "denouement",
+    "pos": "n.",
+    "meaning": "the final resolution of a story"
+   },
+   {
+    "n": 992,
+    "word": "epilogue",
+    "pos": "n.",
+    "meaning": "a closing section"
+   },
+   {
+    "n": 993,
+    "word": "consummate",
+    "pos": "adj.",
+    "meaning": "complete; perfect"
+   },
+   {
+    "n": 994,
+    "word": "quintessential",
+    "pos": "adj.",
+    "meaning": "the purest example"
+   },
+   {
+    "n": 995,
+    "word": "ineffable",
+    "pos": "adj.",
+    "meaning": "too great for words"
+   },
+   {
+    "n": 996,
+    "word": "perpetuate",
+    "pos": "v.",
+    "meaning": "to keep going"
+   },
+   {
+    "n": 997,
+    "word": "gratitude",
+    "pos": "n.",
+    "meaning": "thankfulness"
+   },
+   {
+    "n": 998,
+    "word": "humility",
+    "pos": "n.",
+    "meaning": "modesty"
+   },
+   {
+    "n": 999,
+    "word": "enduring",
+    "pos": "adj.",
+    "meaning": "lasting"
+   },
+   {
+    "n": 1000,
+    "word": "transcend",
+    "pos": "v.",
+    "meaning": "to go beyond limits"
+   }
+  ],
+  "look": "the sky above the dome, a crown of stars where the words come home",
+  "district": "The Heart (Golden Gate Palace & Green Dome)"
+ }
+]

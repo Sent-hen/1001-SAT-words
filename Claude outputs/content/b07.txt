@@ -1,0 +1,729 @@
+## 31
+ST: the humpbacked stone arch of the bridge | the moss-covered first step | the lantern on a willow branch on the left | the flat top of the bridge | the carved lion-head fountain at the bridge's center | the willow-tree pillar on the right | the window of the bridge-keeper's hut | the stair down to the water | the little balcony overlooking the canal | the tip of the willow tree
+
+== melancholy
+T: The Sarat Canal is quiet under the willows. Zayn sits on the bridge staring at the water. He feels melancholy: a deep, lasting sadness. Tariq is gone.
+H: MEL-an-chol-y ≈ “MELON-COLLIE”: a sad collie in a melon hat
+L: 301→302 · The sad melon-collie (melancholy) attends a SOMBER “SOME-BEAR” funeral, where a bear in a black suit plays a slow, gloomy trumpet (Substitution: SOM-ber ≈ some-bear).
+C: Station 1 · ARCH. Under the bridge arch, a collie in a melon hat sighs into the water = MELANCHOLY.
+P: A humpbacked stone bridge over a quiet canal under weeping willows at night; a boy with an orange headband sitting alone staring sadly at the water
+
+== somber
+T: No one speaks. Even Sinbad has no stories. The mood is somber: dark, gloomy, serious. Qalam has turned grey at the edges.
+H: SOM-ber ≈ “SOME-BEAR”: a bear playing a gloomy funeral trumpet
+L: 302→303 · The gloomy bear (somber) is comforted by a SOLACE “SOLE-LACE” shoe that ties its laces around you like a warm hug (Substitution: SOL-ace ≈ sole-lace).
+C: Station 2 · STEP. On the mossy step, a bear in a black suit plays a slow, sad trumpet = SOMBER.
+P: A gloomy group of kids, an old sailor and a baby roc sitting in silence on a canal bank; a small ink djinn turning grey at its edges
+
+== solace
+T: Pebble waddles over and lays his fluffy head on Zayn's lap. It's a small solace, comfort in sorrow. Zayn strokes his feathers.
+H: SOL-ace ≈ “SOLE-LACE”: a shoe hugging you with its laces
+L: 303→304 · The hugging shoe (solace) CONSOLES a crying cone: a “CONE-SOLE” ice-cream cone gets a warm sock-hug to stop it melting in sadness (Substitution: con-SOLE ≈ cone-sole).
+C: Station 3 · LAMP. The willow lantern on the left glows warm like a hug in the dark = SOLACE.
+P: A fluffy baby roc laying its head on a sad boy's lap; the boy gently stroking its feathers; warm glow
+
+== console
+T: Layla sits beside him. “It was my plan. My fault.” Zayn snaps, “Yeah, it was!” Then he sees her tears and tries to console her, to comfort her. “No. It was all of us.”
+H: con-SOLE ≈ “CONE-SOLE”: a sock-hug for a crying ice-cream cone
+L: 304→305 · The comforted cone (console) joins a LAMENT choir: “LAMB-MENT,” lambs singing a sad song about their lost wool (Substitution: la-MENT ≈ lamb-meant).
+C: Station 4 · RUG. On the bridge top, a sock hugs a melting ice-cream cone to comfort it = CONSOLE.
+P: A girl scholar in tears beside a boy who snaps at her, then softens and puts a hand on her shoulder to comfort her
+
+== lament
+T: Sinbad sings an old sailor's lament, a song expressing grief, for friends lost at sea. His voice cracks. Everyone listens.
+H: la-MENT ≈ “LAMB-MENT”: lambs singing a sad song
+L: 305→306 · The sad lamb choir (lament) floats into a SERENE “SERENA” sea, calm and peaceful as glass, with a mermaid named Serena asleep (Substitution: se-RENE ≈ Serena).
+C: Station 5 · HEART. At the lion-head fountain, lambs sing a slow, grieving song = LAMENT.
+P: An old sailor singing a mournful song with eyes closed; kids listening quietly; willow branches swaying
+
+== serene
+T: The song ends. The canal is serene: calm and peaceful. Fireflies drift across the water like floating stars.
+H: se-RENE ≈ “SERENA”: a peaceful mermaid named Serena
+L: 306→307 · The peaceful sea (serene) becomes TRANQUIL: a “TRAN-QUILL” feather-pen floats on it so still that it doesn't even ripple (Substitution: TRAN-quil ≈ tran-quill).
+C: Station 6 · PILLAR. The willow pillar stands perfectly still over a mirror-calm canal = SERENE.
+P: A perfectly calm moonlit canal with fireflies drifting like floating stars; willows reflected in glassy water
+
+== tranquil
+T: Layla opens a book and whispers, “Let's use this time. Reading lesson.” In the tranquil night, quiet and still, Zayn sounds out his first full sentence.
+H: TRAN-quil ≈ “TRAN-QUILL”: a quill floating perfectly still
+L: 307→308 · The still quill (tranquil) rests on a PLACID “PLACE-ID” cow whose ID card says “CALM,” and she never gets upset (Substitution: PLAC-id ≈ place-ID).
+C: Station 7 · WINDOW. At the bridge-keeper's window, a quill pen floats in midair, perfectly still = TRANQUIL.
+P: A girl scholar teaching a boy to read by lantern light on a quiet bridge; the boy sounding out words with his finger on the page
+
+== placid
+T: Marjana watches the placid water, calm and not easily upset, and says quietly, “I lost a brother too, once. You get him back by not stopping.”
+H: PLAC-id ≈ “PLACE-ID”: a cow whose ID card says CALM
+L: 308→309 · The calm cow (placid) gazes WISTFULLY at the moon: a “WIST-FULL” wishing well full of wishes, longing sadly for what's gone (Substitution: WIST-ful ≈ wish-full).
+C: Station 8 · STAIR. On the stair to the water, a calm cow chews grass, not bothered by anything = PLACID.
+P: A girl in a crimson bandana sitting by calm water, speaking quietly to a boy with an orange headband; her face calm but sad
+
+== wistful
+T: Zayn looks at the Round City's walls across the gardens. He feels wistful: sadly longing. He remembers flying kites with Tariq on rooftops.
+H: WIST-ful ≈ “WISH-FULL”: full of wishes for what's gone
+L: 309→310 · The wishing well (wistful) is left FORLORN: “FOR-LAWN,” a lonely garden gnome abandoned on an empty lawn, hopeless (Substitution: for-LORN ≈ for-lawn).
+C: Station 9 · BALCONY. From the canal balcony, a boy stares at a wishing well full of old wishes = WISTFUL.
+P: A boy gazing longingly at distant round city walls in moonlight; a faint memory image of two brothers flying kites on rooftops
+
+== forlorn
+T: A forlorn figure, lonely and hopeless, sits under the willow: a grey, silent gardener, his roses dead. Layla kneels beside him. The waterwheel creaks nearby.
+H: for-LORN ≈ “FOR-LAWN”: a lonely gnome left on an empty lawn
+L: 310→311 · The lonely gnome (forlorn) finds a FORTUITOUS “FORTUNE-TWO-US” coin: two lucky coins land in his hat by chance (Substitution: for-TU-itous ≈ fortune-two-us).
+C: Station 10 · TOP. At the top of the willow, a lonely gnome sits alone on an empty lawn = FORLORN.
+P: A lonely grey gardener sitting under a willow with dead roses; a girl scholar kneeling beside him; a great waterwheel creaking in the background
+
+## 32
+ST: the archway of the wheel house | the step made of an old bucket | the lamp hanging from a spoke on the left | the wet stone floor | the giant waterwheel at the center | the axle pillar on the right | the window looking through the spokes | the stair beside the wheel | the platform balcony at the top of the wheel | the highest bucket at the top
+
+== fortuitous
+T: A lucky break! As they pass the Great Waterwheel, a bucket tips over and drops a spark right into Zayn's hand. Tariq would have loved it. It's fortuitous: happening by lucky chance.
+H: for-TU-itous ≈ “FORTUNE-TWO-US”: fortune smiles on two of us
+L: 311→312 · The lucky coins (fortuitous) fall into a SERENDIPITY “SERENE-DIP” pool where you dip for a spoon and accidentally find treasure (Substitution: ser-en-DIP-ity ≈ serene-dip).
+C: Station 1 · ARCH. Under the wheel-house arch, a four-leaf clover falls into your pocket by chance = FORTUITOUS.
+P: A giant wooden waterwheel lifting buckets; one bucket tipping and dropping a glowing spark straight into a boy's hand; surprised faces
+
+== serendipity
+T: Then, by serendipity (finding good things by accident), Layla trips over a root and discovers a hidden bucket full of sparks the gardener had saved. “Sometimes the good stuff finds you.”
+H: ser-en-DIP-ity ≈ “SERENE-DIP”: dip in by chance, find treasure
+L: 312→313 · The lucky treasure (serendipity) rolls into an INEVITABLE “IN-EVIT-ABLE” volcano: when you eat a volcano-pepper, it WILL blow, certain to happen (Substitution: in-EV-it-able ≈ in-heavy-table).
+C: Station 2 · STEP. You trip on the bucket step and find a diamond underneath = SERENDIPITY.
+P: A girl scholar tripping over a root and finding a hidden bucket of glowing sparks; everyone laughing in surprise
+
+== inevitable
+T: “Every wheel turns,” says the old gardener, waking a little. “Good times, bad times. Change is inevitable: certain to happen.”
+H: in-EV-it-able ≈ “IN-HEAVY-TABLE”: a table so heavy it WILL fall through the floor
+L: 313→314 · The certain volcano (inevitable) causes ADVERSITY: an “ADD-VERSE-CITY” city where every verse adds another problem, hardship after hardship (Substitution: ad-VER-sity ≈ add-verse).
+C: Station 3 · LAMP. The spoke lamp swings up, and you KNOW it will swing down again = INEVITABLE.
+P: An old grey gardener waking slightly, gesturing toward the turning wheel as he speaks wisely; kids listening
+
+== adversity
+T: “You've faced adversity (hardship): fires, betrayal, a stolen brother. But look at you. Still turning.”
+H: ad-VER-sity ≈ “ADD-VERSE-CITY”: each verse adds a new hardship
+L: 314→315 · The hardship city (adversity) turns into PROSPERITY: a “PROS-PARROT-Y” parrot counting gold coins in a rich, successful market (Substitution: pros-PER-ity ≈ pros-parrot).
+C: Station 4 · RUG. The wet floor is a storm of hailstones and potholes, one problem after another = ADVERSITY.
+P: Montage of past hardships in the waterwheel's buckets: fire, betrayal, a stolen brother; the kids reflecting
+
+== prosperity
+T: Layla gives the gardener a spark: “FLOURISH.” His roses bloom red and gold. Prosperity (success and wealth) returns to his garden.
+H: pros-PER-ity ≈ “PROS-PARROT”: a pro parrot rolling in coins
+L: 315→316 · The rich parrot (prosperity) is hit by VICISSITUDE: a “VICE-SIS-SIT-TUDE” vice-grip squeezes his fortune when his sister sits on it, an unwelcome change of luck (Substitution: vi-CIS-si-tude ≈ vice-sis-sit).
+C: Station 5 · HEART. The giant waterwheel at the center pours out golden coins with every turn = PROSPERITY.
+P: A girl scholar handing a glowing spark to an old gardener whose dead roses burst into red and gold bloom; color returning
+
+== vicissitude
+T: But life has its vicissitudes, unwelcome changes of fortune. Just as they celebrate, the waterwheel jams and a Hushling crawls out of the bucket.
+H: vi-CIS-si-tude ≈ “VICE-SIS-SIT”: your sister sits on your luck
+L: 316→317 · The luck-crushing sister (vicissitude) is FICKLE: a “FICK-PICKLE” who loves you on Monday, hates you on Tuesday, changes loyalty often (Substitution: FICK-le ≈ pickle).
+C: Station 6 · PILLAR. The axle pillar spins good luck, then bad, then good, then bad = VICISSITUDE.
+P: A celebration interrupted: the waterwheel jamming with a loud crack and a shadow creature crawling out of a bucket
+
+== fickle
+T: The Hushling grabs the spark and turns to run, but the wheel's buckets swing wildly. Luck is fickle: it changes loyalty often. A bucket smacks the Hushling into the canal.
+H: FICK-le ≈ “FICKLE PICKLE”: changes sides every day
+L: 317→318 · The mood-changing pickle (fickle) builds a HAPHAZARD “HAP-HAZARD” tower of random junk with no plan, random and unplanned (Substitution: hap-HAZ-ard ≈ hap-hazard).
+C: Station 7 · WINDOW. At the spoke window, a pickle waves at you, then sticks out its tongue = FICKLE.
+P: A shadow creature fleeing with a spark as a swinging bucket smacks it into the canal; kids cheering in surprise
+
+== haphazard
+T: Zayn grabs the wheel and wedges things in, haphazard: random and unplanned. A shoe, a stick, a turnip. Somehow it works.
+H: hap-HAZ-ard ≈ “HAP-HAZARD”: random junk, hazard everywhere
+L: 318→319 · The random junk tower (haphazard) is saved by PROVIDENTIAL luck: a “PRO-VIDEO” camera catches it just in time, as if arranged by fate (Substitution: pro-vi-DEN-tial ≈ pro-video).
+C: Station 8 · STAIR. The stair beside the wheel is built from random junk: a shoe, a turnip, a chair = HAPHAZARD.
+P: A boy wedging a random assortment of objects (a shoe, a stick, a turnip) into the gears of a jammed waterwheel; it somehow works
+
+== providential
+T: At that moment, a providential wind (lucky, as if arranged by fate) spins the wheel free and lifts Pebble into his first real flight, ten whole feet!
+H: pro-vi-DEN-tial ≈ “PRO-VIDEO”: caught on camera just in time
+L: 319→320 · The lucky wind (providential) blows out the moon until it WANES: a “WAIN-S” moon shrinking into a thin crescent (Substitution: WANE ≈ wane-thin).
+C: Station 9 · BALCONY. From the top balcony, a gust arrives at the perfect second = PROVIDENTIAL.
+P: A gust of wind freeing the waterwheel and lifting a fluffy baby roc into its first real flight, flapping joyfully ten feet in the air
+
+== wane
+T: As night passes, the moon wanes (shrinks, declines), and so does the gardener's sadness. He points: “The Rose Garden's next. But beware, the roses bite with words.”
+H: WANE ≈ “WANE-THIN”: the moon getting thinner
+L: 320→321 · The shrinking moon (wane) lands on an ACERBIC “A-SERB-BIC” lemon with a sharp, biting tongue who insults everyone (Substitution: a-CER-bic ≈ acid-lemon).
+C: Station 10 · TOP. In the highest bucket, the moon shrinks night by night = WANE.
+P: A shrinking moon over a garden; an old gardener pointing toward a walled rose garden where roses have tiny faces
+
+## 33
+ST: the rose-covered garden gate | the petal-strewn step | the thorn-lantern on the left | the grass floor between rose beds | the queen rose bush at the center | the trellis pillar on the right | the round window in the garden wall | the stair of stone terraces | the balcony of the gazebo | the tallest climbing rose on top
+
+== acerbic
+T: The roses have tiny faces, and they're rude! “Look at that headscarf. Who dressed you, a blind camel?” Their tone is acerbic: sharp and biting.
+H: a-CER-bic ≈ “ACID-BIC”: a lemon with an acid tongue
+L: 321→322 · The acid lemon (acerbic) spits CAUSTIC “CAUSE-STICK” acid that burns through a stick and melts it, bitterly sarcastic (Substitution: CAUS-tic ≈ cause-stick).
+C: Station 1 · ARCH. The rose gate has a lemon face that makes sharp, biting comments as you pass = ACERBIC.
+P: A walled rose garden where roses have tiny faces with sharp expressions, mocking three kids entering; biting speech bubbles
+
+== caustic
+T: “And you, boy, can't even read!” sneers another. The roses' words are caustic: burning, bitterly sarcastic. Zayn flinches.
+H: CAUS-tic ≈ “CAUSE-STICK”: acid that burns a stick
+L: 322→323 · The burning acid (caustic) is poured by a SARDONIC “SARDINE-IC” sardine with a mocking smirk, rolling his eyes at everything (Substitution: sar-DON-ic ≈ sardine).
+C: Station 2 · STEP. On the petal step, a stick burns and fizzles in acid = CAUSTIC.
+P: A rose with a sneering face insulting a boy who flinches; acid-green speech bubble
+
+== sardonic
+T: “Oh, how brave,” a rose says, with a sardonic smile, mocking with scorn. “A goat, an old liar and a chicken, here to save the world.”
+H: sar-DON-ic ≈ “SARDINE-IC”: a sardine with a scornful smirk
+L: 323→324 · The smirking sardine (sardonic) delivers a SCATHING “SKATE-THING” review, skating over your work and slicing it to pieces with harsh criticism (Substitution: SCATH-ing ≈ skate-thing).
+C: Station 3 · LAMP. The thorn-lantern has a sardine face rolling its eyes = SARDONIC.
+P: A rose with a scornful, sarcastic smile mocking an old sailor, a baby roc and a boy; the roses around it snickering
+
+== scathing
+T: The Queen Rose gives a scathing speech, harshly critical: “You failed your brother. You'll fail the city.” The words hit like whips.
+H: SCATH-ing ≈ “SKATE-THING”: a skate slicing your work into bits
+L: 324→325 · The harsh reviewer (scathing) cackles DERISIVE laughter: a “DERR-RISE” balloon rising up, mocking everyone below with a big “DERR!” (Substitution: de-RI-sive ≈ derr-rise).
+C: Station 4 · RUG. Across the grass, a skate slices through a painting, criticizing every stroke = SCATHING.
+P: A huge queen rose with a crown of thorns delivering a harsh speech; the words forming whip-like shapes; kids wincing
+
+== derisive
+T: All the roses burst into derisive laughter, mocking laughter. “HA! HA! Failures!”
+H: de-RI-sive ≈ “DERR-RISE”: a rising balloon that mocks you with DERR
+L: 325→326 · The mocking balloon (derisive) is popped by an INSOLENT “IN-SOLE-ENT” shoe insole that sticks out its tongue at a king, rudely disrespectful (Substitution: IN-so-lent ≈ in-sole).
+C: Station 5 · HEART. The queen rose bush at the center roars with mocking laughter = DERISIVE.
+P: A whole garden of roses bursting into mocking laughter, petals shaking; the kids surrounded
+
+== insolent
+T: Zayn shoots back: “At least I don't smell like old socks!” The roses gasp. “How insolent!” (rudely disrespectful). Layla stops him. “Don't sink to their level.”
+H: IN-so-lent ≈ “IN-SOLE-ENT”: a rude shoe insole sticking out its tongue
+L: 326→327 · The rude insole (insolent) is flattered by a SYCOPHANT “SICK-O-FAN” fan who fans the king and says “You're SO wonderful!” to get favors (Substitution: SYC-o-phant ≈ sick-o-fan).
+C: Station 6 · PILLAR. On the trellis pillar, a shoe insole sticks its tongue out at a king = INSOLENT.
+P: A boy with an orange headband yelling rudely back at the roses; roses gasping in shock; a girl scholar pulling him back
+
+== sycophant
+T: One small rose flatters the Queen Rose constantly: “Oh Majesty, your thorns are SO sharp! Your petals SO red!” It's a sycophant, a flatterer who sucks up.
+H: SYC-o-phant ≈ “SICK-O-FAN”: a fan who flatters till you're sick
+L: 327→328 · The flattering fan (sycophant) is splashed with VITRIOLIC “VITRIOL-IC” acid poison that burns with pure hate (Substitution: vit-ri-OL-ic ≈ vitriol-ick).
+C: Station 7 · WINDOW. At the round wall window, a small rose fans the queen and bows = SYCOPHANT.
+P: A small rose bowing and fanning a big queen rose with a leaf, flattering it; comic exaggeration
+
+== vitriolic
+T: The Queen Rose's words turn vitriolic, full of bitter hate. Black thorns shoot up around the kids, feeding on the cruelty.
+H: vit-ri-OL-ic ≈ “VITRIOL-ICK”: burning acid of hate
+L: 328→329 · The hateful acid (vitriolic) splashes a PETULANT “PET-YOU-LENT” pet poodle who sulks and pouts because it didn't get the last cookie (Substitution: PET-u-lant ≈ pet-sulk).
+C: Station 8 · STAIR. Down the terrace stair drips black acid that burns with hate = VITRIOLIC.
+P: Black thorny vines shooting up around the kids as a queen rose spits hateful words; menacing dark tones
+
+== petulant
+T: Layla does the unexpected: she compliments the Queen Rose's real beauty. Confused, the Queen goes petulant, childishly sulky. “Hmph! Not fair! You're supposed to fight!”
+H: PET-u-lant ≈ “PET-YOU-LANT”: a pet that sulks when you don't obey it
+L: 329→330 · The sulky poodle (petulant) DISPARAGES everyone: a “DIS-PARROT-AGE” parrot saying “DIS is bad, DAT is bad,” belittling everything (Substitution: dis-PAR-age ≈ dis-parrot).
+C: Station 9 · BALCONY. On the gazebo balcony, a poodle sulks with crossed paws after losing = PETULANT.
+P: A girl scholar giving a sincere compliment; the queen rose turning its head away, sulking with pouty petals
+
+== disparage
+T: The roses try to disparage them again, belittling them, but their thorns soften. The spark on the queen rose's stem falls loose. As they leave, Tariq's words echo in Zayn's mind: “You're my hero.” Beyond the wall, something ROARS in the menagerie.
+H: dis-PAR-age ≈ “DIS-PARROT”: a parrot belittling everything
+L: 330→331 · The belittling parrot (disparage) is sat on by a DOCILE “DOZE-SMILE” giant who is so gentle he just smiles and naps (Substitution: DOC-ile ≈ doze-smile).
+C: Station 10 · TOP. On the tallest climbing rose, a parrot shouts that everything is worthless = DISPARAGE.
+P: Softened roses dropping a glowing spark; kids leaving the garden; beyond the wall, a roar from a zoo with shadowy animal shapes
+
+## 34
+ST: the zoo gate with carved animal heads | the step of the giraffe enclosure | the lamp on the elephant house to the left | the sandy floor of the lion pit | the marble lion enclosure at the center | the giraffe-neck pillar on the right | the window of the reptile house | the stair up to the bird aviary | the viewing balcony over the pits | the top of the aviary dome
+
+== docile
+T: The Caliph's Menagerie is silent. The animals have gone grey. A giant elephant stands motionless, docile: easily managed, gentle. It lets Layla rest her hand on its trunk.
+H: DOC-ile ≈ “DOZE-SMILE”: a gentle giant who just smiles and dozes
+L: 331→332 · The gentle giant (docile) is roared at by a FEROCIOUS “FERRO-CIOUS” iron lion made of ferrous metal, fierce and violent (Substitution: fe-RO-cious ≈ ferro-lion).
+C: Station 1 · ARCH. Under the animal-head gate, a gentle elephant dozes and smiles = DOCILE.
+P: A grand zoo of marble pens where animals have turned grey and silent; a gentle grey elephant letting a girl scholar touch its trunk
+
+== ferocious
+T: Then a Hushling touches the lion, and it turns ferocious: fierce and violent. It snaps its chains and charges!
+H: fe-RO-cious ≈ “FERRO-CIOUS”: an iron lion, fierce and wild
+L: 332→333 · The fierce lion (ferocious) runs wild with a FERAL “FAIR-ALL” cat pack that lives in the woods, untamed (Substitution: FER-al ≈ fair-all wild).
+C: Station 2 · STEP. On the giraffe step, an iron lion roars, fierce and violent = FEROCIOUS.
+P: A shadow creature touching a lion that erupts into ferocity, snapping chains and charging; kids scattering
+
+== feral
+T: Other animals turn feral (wild, untamed): hyenas, wolves, a crocodile. The menagerie becomes a jungle.
+H: FER-al ≈ “FAIR-ALL”: wild as a fair where anything goes
+L: 333→334 · The wild pack (feral) is DOMESTICATED by a “DOME-STICK” trainer who puts a dome over them and teaches them to sit with a stick (Substitution: do-MES-ti-cate ≈ dome-stick).
+C: Station 3 · LAMP. The elephant-house lamp is surrounded by wild, untamed wolves = FERAL.
+P: A zoo turning into a jungle: wild hyenas, wolves and a crocodile running loose; kids climbing to safety
+
+== domesticate
+T: Marjana cracks her belt like a whip. “I grew up with street dogs. You can't domesticate (tame) a wild thing by force. You give it a reason to trust.” She offers a date.
+H: do-MES-ti-cate ≈ “DOME-STICK”: a dome and a stick to tame wild beasts
+L: 334→335 · The tamed pack (domesticate) is stalked by a PREDATORY “PREDATOR-Y” shark in a suit, hunting other fish for their lunch money (Substitution: PRED-a-tor-y ≈ predator).
+C: Station 4 · RUG. On the sand floor, a trainer puts a dome over wild wolves and they sit politely = DOMESTICATE.
+P: A girl in a crimson bandana offering a date calmly to a wild hyena, slowly calming it; kids watching tensely
+
+== predatory
+T: A Hushling slides up behind Zayn, predatory: hunting. It's not after the animals. It wants the Satchel.
+H: PRED-a-tor-y ≈ “PREDATOR”: hunting its prey
+L: 335→336 · The hunting shark (predatory) gets LETHARGIC: a “LETH-ARGIC” sloth in a hammock who's too sleepy to move (Substitution: le-THAR-gic ≈ lethal-sloth).
+C: Station 5 · HEART. In the lion enclosure at the center, a shark in a suit hunts the other animals = PREDATORY.
+P: A shadow creature slinking up behind a boy like a hunting predator, eyes on his satchel
+
+== lethargic
+T: Layla shouts “DOCILE!” and Qalam becomes a lullaby that makes the Hushling lethargic, sluggish and sleepy. It yawns and slumps.
+H: le-THAR-gic ≈ “LETH-ARGIC”: a sloth too sleepy to lift a toe
+L: 336→337 · The sleepy sloth (lethargic) is PLACATED by a “PLATE-CAKE”: a plate of cake calms an angry giant down (Substitution: PLA-cate ≈ plate-cake).
+C: Station 6 · PILLAR. On the giraffe pillar, a sloth hangs so sleepily it can't even blink = LETHARGIC.
+P: A small ink djinn transformed into floating musical notes of a lullaby; a shadow creature yawning and slumping lazily
+
+== placate
+T: The lion still roars. Sinbad steps forward with a leg of lamb and a lullaby. He placates it, calming its anger. The lion lies down and purrs.
+H: PLA-cate ≈ “PLATE-CAKE”: calm someone with a plate of cake
+L: 337→338 · The calmed lion (placate) returns home to the MENAGERIE: a “MANAGER-IE” manager in a top hat who runs a zoo of wild animals (Substitution: men-AG-er-ie ≈ manager).
+C: Station 7 · WINDOW. At the reptile house window, someone offers a plate of cake to a snarling crocodile, who calms = PLACATE.
+P: An old sailor offering a leg of lamb and singing to a snarling lion, which lies down and purrs
+
+== menagerie
+T: One by one, the animals return to the menagerie (a collection of wild animals), color flowing back into them: giraffes, peacocks, the elephant trumpeting.
+H: men-AG-er-ie ≈ “MANAGER-IE”: a zoo manager's collection
+L: 338→339 · The zoo manager (menagerie) has a TIMID “TIMMY-D” mouse assistant who's shy and afraid of his own shadow (Substitution: TIM-id ≈ Timmy).
+C: Station 8 · STAIR. Up the aviary stair walks a line of animals: giraffe, lion, peacock, elephant = MENAGERIE.
+P: A zoo bursting back into color: giraffes, peacocks, lions and a trumpeting elephant; kids cheering
+
+== timid
+T: A tiny timid gazelle (shy and fearful) hides behind the elephant. It holds the last spark in its mouth. Zayn kneels and waits, patient for once. It steps forward.
+H: TIM-id ≈ “TIMMY-D”: shy little Timmy the mouse
+L: 339→340 · The shy mouse (timid) awakens its PRIMAL instinct: a “PRIME-ALL” caveman roaring like the very first creature on Earth (Substitution: PRI-mal ≈ prime-all).
+C: Station 9 · BALCONY. On the viewing balcony, a tiny mouse hides behind a pillar, shaking = TIMID.
+P: A shy baby gazelle peeking out from behind an elephant with a spark in its mouth; a boy kneeling patiently, hand outstretched
+
+== primal
+T: The gazelle gives up the spark, and a primal roar (basic, instinctive) echoes from every animal at once, as if thanking them. From the Poets' Café across the path comes music and shouting: a duel is about to begin.
+H: PRI-mal ≈ “PRIME-ALL”: from the very beginning, pure instinct
+L: 340→341 · The ancient roar (primal) inspires RHETORIC: a “RHETT-ORIC” orator on a soapbox who persuades a crowd with his words (Substitution: RHET-o-ric ≈ rhet-oric).
+C: Station 10 · TOP. On the aviary dome, a caveman beats his chest and roars at the sky = PRIMAL.
+P: All the zoo animals raising their heads to roar together into the sky; kids amazed; in the distance a café glowing with lanterns and music
+
+## 35
+ST: the café's arched doorway hung with lanterns | the carpet step at the entrance | the brass coffee-pot lamp on the left | the cushioned floor | the poetry stage at the center | the pillar carved with famous verses on the right | the window where poets smoke long pipes | the stair to the upper cushions | the balcony of the judges | the café's rooftop with a crescent
+
+== rhetoric
+T: At the Poets' Café, a duel of words is underway. Tonight the prize is a spark. The champion, a smug poet named Jabir, wins with pure rhetoric: the art of persuasive speech.
+H: RHET-o-ric ≈ “RHETT's ORATORY”: Rhett's persuasive speech
+L: 341→342 · The persuasive speaker (rhetoric) meets an ARTICULATE “ART-TICKLE-ATE” artist who explains everything clearly while tickling the audience (Substitution: ar-TIC-u-late ≈ art-tickle).
+C: Station 1 · ARCH. Under the lantern arch, an orator on a soapbox persuades a whole crowd = RHETORIC.
+P: A lantern-lit poets' café with a small stage; a smug poet in fine clothes performing dramatically; a crowd of listeners on cushions; three kids entering
+
+== articulate
+T: Layla steps up. She's articulate, able to express herself clearly, and she wins the first round. Then Jabir points at Zayn. “Let the goat-boy try!”
+H: ar-TIC-u-late ≈ “ART-TICKLE-ATE”: an artist who explains clearly
+L: 342→343 · The clear artist (articulate) sings a LYRICAL “LYRIC-ALL” song where every word flows like music (Substitution: LYR-i-cal ≈ lyric-all).
+C: Station 2 · STEP. On the carpet step, an artist explains the whole universe in three clear sentences = ARTICULATE.
+P: A girl scholar performing clearly and confidently on a poetry stage; the smug poet then pointing mockingly at the boy with an orange headband
+
+== lyrical
+T: Zayn freezes. The crowd laughs. Then he remembers: rooftops, wind, running. He speaks from the heart, and it comes out lyrical, expressive like a song. The café goes quiet.
+H: LYR-i-cal ≈ “LYRIC-ALL”: all lyrics, like a song
+L: 343→344 · The flowing song (lyrical) has a CADENCE: a “CAD-DANCE,” a dance whose rhythm goes da-DUM, da-DUM (Substitution: CA-dence ≈ ca-dance).
+C: Station 3 · LAMP. The coffee-pot lamp sings instead of whistling = LYRICAL.
+P: A nervous boy on a stage finding his voice, speaking from the heart with visions of rooftops and wind swirling around him; the café going silent
+
+== cadence
+T: His words have cadence, the rhythm of speech, like feet running across roofs: da-DUM, da-DUM, da-DUM. The crowd starts tapping along.
+H: CA-dence ≈ “CA-DANCE”: the rhythm of a dance
+L: 344→345 · The rhythmic dance (cadence) turns into a METAPHOR: “MEET-A-FOUR,” a man who IS a lion (not LIKE a lion) roaring on four legs (Substitution: MET-a-phor ≈ meet-a-four).
+C: Station 4 · RUG. On the cushion floor, feet tap out a rhythm: da-DUM, da-DUM = CADENCE.
+P: A crowd in a café tapping their feet and hands in rhythm as a boy performs; rhythm lines
+
+== metaphor
+T: “My city is a bird with broken wings,” Zayn says. That's a metaphor: a comparison without “like” or “as.” Layla stares at him. Where did that come from?
+H: MET-a-phor ≈ “MEET-A-FOUR”: something IS something else
+L: 345→346 · The man who is a lion (metaphor) tells an ALLEGORY: an “ALLI-GATOR-Y” story where an alligator in a crown secretly represents a real greedy king (Substitution: AL-le-gory ≈ alligator-y).
+C: Station 5 · HEART. On the stage at the center stands a man who IS a lion (mane, tail and all) = METAPHOR.
+P: A boy performing with arms spread; above him a vision of a great city shaped like a bird with broken wings; a girl scholar staring amazed
+
+== allegory
+T: He tells a story about a mute king who stole all the songs in a kingdom. It's an allegory, a story with a hidden meaning. Everyone knows he means Zulmat.
+H: AL-le-gory ≈ “ALLI-GATOR-Y”: an alligator story with a secret meaning
+L: 346→347 · The secret-meaning alligator (allegory) is mocked in SATIRE: a “SAT-TIRE” comedian sits on a tire making fun of a pompous king to criticize him (Substitution: SAT-ire ≈ sat-tire).
+C: Station 6 · PILLAR. The verse pillar shows a story of animals that is really about the Vizier = ALLEGORY.
+P: A boy telling a story as images of a mute king stealing songs appear in the lamp smoke; listeners nodding knowingly
+
+== satire
+T: Jabir fires back with satire (humor that mocks to criticize), mocking Zayn: “A courier-poet? Next the donkeys will write sonnets!” The crowd laughs.
+H: SAT-ire ≈ “SAT-TIRE”: sitting on a tire mocking the king
+L: 347→348 · The mocking comedian (satire) is answered by a REBUTTAL: a “RE-BUTTER-ALL” chef who throws the argument back, covered in butter (Substitution: re-BUT-tal ≈ re-butter).
+C: Station 7 · WINDOW. At the pipe-smokers' window, a comedian sits on a tire mocking a king = SATIRE.
+P: A smug poet performing a mocking parody of the boy with exaggerated gestures; the crowd laughing
+
+== rebuttal
+T: Zayn's rebuttal, an argument against: “Donkeys carry what matters. So do couriers. What do YOU carry, Jabir? Just your own name.” The café roars.
+H: re-BUT-tal ≈ “RE-BUTTER”: throwing the argument back, buttered
+L: 348→349 · The buttered comeback (rebuttal) turns into BANTER: “BAN-TER” friends playfully tossing words like a ball, teasing each other (Substitution: BAN-ter ≈ ban-ter).
+C: Station 8 · STAIR. On the stair, a chef throws a buttered argument back at the one who threw it = REBUTTAL.
+P: A boy delivering a sharp comeback with a grin; the smug poet stunned; the crowd roaring with laughter
+
+== banter
+T: Jabir laughs too, and they fall into friendly banter, playful teasing talk. “Not bad, goat-boy.” “Not bad, peacock.”
+H: BAN-ter ≈ “BAN-TER”: playful word-tossing
+L: 349→350 · The playful teasing (banter) grows into ORATORY: an “ORE-A-TORY” orator standing on a mountain of gold ore, speaking to thousands (Substitution: OR-a-tory ≈ ore-atory).
+C: Station 9 · BALCONY. On the judges' balcony, two friends toss jokes back and forth like a ball = BANTER.
+P: Two rivals, the boy and the poet, laughing and playfully teasing each other; the crowd cheering
+
+== oratory
+T: The judges hand Zayn the spark for his oratory, skilled public speaking. An old waiter whispers: “Long ago, a stammering boy stood where you stand. They laughed him off this stage. His name was Idris.” Zayn shivers.
+H: OR-a-tory ≈ “ORE-A-TORY”: speaking from a mountain of gold ore
+L: 350→351 · The mountain speaker (oratory) DISTILLS his speech: a “DIS-STILL” machine boils it down until only one perfect drop is left (Substitution: dis-TILL ≈ dis-still).
+C: Station 10 · TOP. On the café rooftop, a speaker addresses a crowd of thousands = ORATORY.
+P: Judges handing a glowing spark to the boy; an old waiter leaning in to whisper; a faint ghostly image of a stammering boy on the same stage long ago
+
+## 36
+ST: the arch of copper stills | the step of rose-petal sacks | the flame-lamp under a still on the left | the petal-covered floor | the great copper still at the center | the pillar of glass bottles on the right | the steamy window | the stair up to the cooling tanks | the balcony where rosewater drips | the chimney venting pink steam
+
+== distill
+T: In the Rosewater Distillery, copper stills boil a mountain of petals down to a single drop. To distill is to purify, to boil down to essentials.
+H: dis-TILL ≈ “DIS-STILL”: a still that boils things down to one drop
+L: 351→352 · The one perfect drop (distill) is the ESSENCE: “ESS-SENSE,” the one sense that makes a rose a rose, bottled (Substitution: ES-sence ≈ ess-sense).
+C: Station 1 · ARCH. Walk under the arch of copper stills and a mountain of roses boils down to one drop = DISTILL.
+P: A distillery full of bubbling copper stills; mountains of rose petals; a single glowing pink drop falling into a small bottle; kids watching
+
+== essence
+T: “The essence of a rose, its core nature,” says the distiller, handing Layla a tiny bottle. “What's YOUR essence?” Layla thinks: curiosity. Zayn: speed. Marjana: loyalty.
+H: ES-sence ≈ “ESS-SENSE”: the one sense that makes you YOU
+L: 352→353 · The bottled essence (essence) makes everyone cry at a POIGNANT “POINT-ANT” ant who points at a photo of her lost family, deeply moving (Substitution: POIG-nant ≈ point-ant).
+C: Station 2 · STEP. On the petal-sack step, a whole rose shrinks into one glowing drop of what it really is = ESSENCE.
+P: A kind old distiller handing a tiny glowing bottle to a girl scholar; above each kid, a small glowing symbol of their core nature
+
+== poignant
+T: The smell reminds Zayn of Tariq's birthday. It's a poignant moment, deeply moving. His eyes fill. He finally tells them about his mom going grey.
+H: POIG-nant ≈ “POINT-ANT”: an ant pointing at a family photo
+L: 353→354 · The moving ant (poignant) cries SENTIMENTAL tears: “SENTI-MENTAL,” she saves every cent and every memory in a heart-shaped box (Substitution: sen-ti-MEN-tal ≈ cent-i-mental).
+C: Station 3 · LAMP. Beside the flame-lamp, an ant points at a family photo and cries = POIGNANT.
+P: A boy with an orange headband with tears in his eyes, telling his friends something painful; memory images of his brother and mother in the steam
+
+== sentimental
+T: Sinbad pulls out a dried flower from his first voyage. “Don't laugh. I'm sentimental,” meaning full of tender feelings. No one laughs.
+H: sen-ti-MEN-tal ≈ “CENT-I-MENTAL”: saving every memory like cents
+L: 354→355 · The memory box (sentimental) plays NOSTALGIA: a “NOSE-TALGIA” music box you smell that brings back the good old days (Substitution: nos-TAL-gia ≈ nose-tal).
+C: Station 4 · RUG. On the petal floor, a heart-shaped box full of old keepsakes sighs softly = SENTIMENTAL.
+P: An old sailor gently holding a dried flower, eyes soft; kids smiling kindly
+
+== nostalgia
+T: Marjana smells jasmine and feels nostalgia, longing for the past, for her mother's garden before the streets. Everyone shares one memory.
+H: nos-TAL-gia ≈ “NOSE-TALGIA”: a smell that takes you back
+L: 355→356 · The memory music-box (nostalgia) EVOKES a genie: “E-VOKE,” calling up a ghost of your childhood birthday with one note (Substitution: e-VOKE ≈ e-voice).
+C: Station 5 · HEART. The great copper still at the center puffs out steam shaped like old memories = NOSTALGIA.
+P: A girl in a crimson bandana smelling jasmine, eyes closed; a faint image of a childhood garden around her
+
+== evoke
+T: Qalam pours into the steam and shapes it into pictures that evoke (call up) each memory: Tariq laughing, Layla's grandmother reading, Marjana's garden.
+H: e-VOKE ≈ “E-VOICE”: calling up a memory with a voice
+L: 356→357 · The memory-calling genie (evoke) shares EMPATHY: “EM-PATH-Y,” he walks your path in your shoes and feels what you feel (Substitution: EM-pa-thy ≈ em-path).
+C: Station 6 · PILLAR. The bottle pillar glows as each bottle calls up a different memory = EVOKE.
+P: A small ink djinn shaping rising steam into images of memories: a laughing small boy, a grandmother reading, a jasmine garden
+
+== empathy
+T: For the first time, Zayn understands how Layla feels: alone, blaming herself. That's empathy: feeling what another feels.
+H: EM-pa-thy ≈ “EM-PATH”: walking someone else's path
+L: 357→358 · The walker in your shoes (empathy) acts with COMPASSION: a “COMPASS-SHUN” compass that points toward anyone who is suffering and goes to help (Substitution: com-PAS-sion ≈ compass).
+C: Station 7 · WINDOW. At the steamy window, a man walks in someone else's shoes, crying their tears = EMPATHY.
+P: A boy looking at a girl scholar with sudden understanding; the steam shows her standing alone in shadow
+
+== compassion
+T: He hugs her. “It's not your fault.” It's compassion: deep caring for another's suffering. Layla hugs back hard.
+H: com-PAS-sion ≈ “COMPASS-SHUN”: a compass pointing to people who hurt
+L: 358→359 · The helping compass (compassion) finds a VULNERABLE “VULTURE-ABLE” baby bird with no feathers, open to harm (Substitution: VUL-ner-able ≈ vulture-able).
+C: Station 8 · STAIR. Up the stair, a compass points you toward someone crying so you can help = COMPASSION.
+P: A boy hugging a girl scholar warmly; friends smiling; pink steam swirling like a heart
+
+== vulnerable
+T: Without the Satchel's glow, Layla feels vulnerable, open to harm. She admits it: “I'm scared all the time.” Zayn grins. “Me too. I just run faster.”
+H: VUL-ner-able ≈ “VULTURE-ABLE”: open for vultures to attack
+L: 359→360 · The unprotected bird (vulnerable) has a CATHARSIS: a “CAT-HARP-SIS” cat plays a harp and all the sad feelings burst out in one big cry, and it feels better (Substitution: ca-THAR-sis ≈ cat-harp).
+C: Station 9 · BALCONY. On the balcony, a featherless baby bird sits in the wind, unprotected = VULNERABLE.
+P: A girl scholar admitting her fear quietly; a boy grinning reassuringly; a soft emotional moment
+
+== catharsis
+T: They laugh, then cry, then laugh again. It's a catharsis: a release of strong emotion. They feel lighter than they have in days. Outside, the pomegranate trees glow red.
+H: ca-THAR-sis ≈ “CAT-HARP-SIS”: a cat's harp making you let it all out
+L: 360→361 · The cleansing cry (catharsis) leads to ALLEGIANCE: “ALLEY-GIANTS,” giants in an alley who pledge loyalty to each other with a handshake (Substitution: al-LE-giance ≈ alley-giants).
+C: Station 10 · TOP. From the chimney, a cat plays a harp and pink steam pours out like a big sigh of relief = CATHARSIS.
+P: Kids laughing and crying together in a pink steamy distillery; the mood lifting; through a window a pomegranate orchard glowing red at dawn
+
+## 37
+ST: the orchard gate of twisted branches | the step of fallen pomegranates | the lantern in a pomegranate tree on the left | the grass floor between rows | the stone oath-table at the center | the oldest tree trunk on the right | the gap in the branches like a window | the root-stair up the hill | the treehouse balcony | the crown of the tallest tree
+
+== allegiance
+T: At the stone table in the pomegranate orchard, Marjana says: “The Forty Sparrows pledge allegiance to you.” Allegiance means loyalty.
+H: al-LE-giance ≈ “ALLEY-GIANTS”: giants pledging loyalty in an alley
+L: 361→362 · The loyal giants (allegiance) swear FIDELITY: a “FIDO-LITY” dog named Fido who stays faithful to his owner forever (Substitution: fi-DEL-ity ≈ Fido).
+C: Station 1 · ARCH. Under the orchard gate, giants in an alley shake hands and pledge loyalty = ALLEGIANCE.
+P: A pomegranate orchard at sunrise; a girl in a crimson bandana with her hand on her heart, pledging loyalty; orphan kids with grey feathers behind her
+
+== fidelity
+T: Sinbad adds, “And I pledge fidelity (faithfulness), even if I'm old and full of tall tales.” Pebble squawks in agreement.
+H: fi-DEL-ity ≈ “FIDO-LITY”: faithful like Fido
+L: 362→363 · The faithful dog (fidelity) makes a VOW: a “WOW-VOW” promise so solemn that fireworks spell it in the sky (Substitution: VOW ≈ wow).
+C: Station 2 · STEP. On the pomegranate step sits a faithful dog, waiting for its owner for a hundred years = FIDELITY.
+P: An old sailor with his hand on his heart pledging faithfulness; a baby roc squawking beside him
+
+== vow
+T: Zayn cuts a pomegranate in half. “Then let's make a vow, a solemn promise. We find every word. We bring Tariq home. Together.”
+H: VOW ≈ “WOW”: a promise so big it's a wow
+L: 363→364 · The firework promise (vow) is SOLEMN: a “SOLE-EMN” shoe standing seriously at a funeral, not smiling (Substitution: SOL-emn ≈ sole).
+C: Station 3 · LAMP. The tree lantern on the left spells out a promise in fireworks = VOW.
+P: A boy cutting a pomegranate in half at a stone table, holding it up like a toast; friends gathering around
+
+== solemn
+T: Everyone places a hand on the pomegranate. Nobody jokes, not even Sinbad. The moment is solemn: serious and formal.
+H: SOL-emn ≈ “SOLE-EMN”: a serious shoe at a ceremony
+L: 364→365 · The serious shoe (solemn) signs a COVENANT: a “COVE-AND-ANT” agreement between a cove of whales and an ant, sealed with a giant stamp (Substitution: COV-e-nant ≈ cove-and-ant).
+C: Station 4 · RUG. On the grass floor, a shoe stands at attention, serious and formal = SOLEMN.
+P: Everyone placing hands on a split pomegranate in a serious, formal moment; soft sunrise light
+
+== covenant
+T: Layla writes their covenant, a binding agreement, in the Satchel's first page. Each of them signs. Zayn writes his own name for the first time.
+H: COV-e-nant ≈ “COVE-AND-ANT”: a binding deal between a cove and an ant
+L: 365→366 · The binding deal (covenant) is approved by a UNANIMOUS “YOU-NAN-IMOUS” vote: every grandma (nan) raises her hand at once (Substitution: u-NAN-i-mous ≈ you-nan).
+C: Station 5 · HEART. On the stone oath-table at the center, a whale and an ant sign a contract = COVENANT.
+P: A boy proudly writing his own name in a glowing book for the first time; others signing around him
+
+== unanimous
+T: “Everyone agrees?” Layla asks. Every hand goes up, even Pebble's wing. The vote is unanimous: fully agreed by all.
+H: u-NAN-i-mous ≈ “YOU-NAN”: every nan votes yes
+L: 366→367 · The all-hands vote (unanimous) forms SOLIDARITY: a “SOLID-ARITY” wall of people holding hands so tightly it turns solid as stone (Substitution: sol-i-DAR-ity ≈ solid).
+C: Station 6 · PILLAR. On the oldest tree trunk, every single branch raises a leaf at once = UNANIMOUS.
+P: Every hand raised, plus a baby roc's wing; smiling faces; unanimous agreement
+
+== solidarity
+T: The Forty Sparrows link arms with the kids. Their solidarity, the unity of a group, is so strong the Hushlings watching from the trees can't come near.
+H: sol-i-DAR-ity ≈ “SOLID-ARITY”: a group so united it's solid
+L: 367→368 · The solid human wall (solidarity) shares CAMARADERIE: a “CAMERA-DERIE” group photo where everyone hugs and jokes like old friends (Substitution: cam-a-RA-de-rie ≈ camera).
+C: Station 7 · WINDOW. At the branch window, a chain of hands grows so tight it turns to stone = SOLIDARITY.
+P: Orphan kids with grey feathers linking arms with the heroes; shadow creatures in the trees shrinking back
+
+== camaraderie
+T: Breakfast becomes a party: jokes, songs, arm-wrestling. The camaraderie, friendship among a team, fills the orchard.
+H: cam-a-RA-de-rie ≈ “CAMERA-DERIE”: a group photo of best friends
+L: 368→369 · The friendly group photo (camaraderie) signs an ALLIANCE: an “ALLY-ANTS” army of ants joining forces with elephants for a shared goal (Substitution: al-LI-ance ≈ ally-ants).
+C: Station 8 · STAIR. On the root-stair, friends pose arm in arm for a group photo = CAMARADERIE.
+P: A joyful breakfast party in an orchard: kids arm-wrestling, singing and laughing with an old sailor and a baby roc
+
+== alliance
+T: Now the kids, the Sparrows and Sinbad are an alliance, a union for a shared goal. Marjana draws a map to the Basra Gate.
+H: al-LI-ance ≈ “ALLY-ANTS”: ants and elephants allied
+L: 369→370 · The ant-elephant team (alliance) RECIPROCATES: a “RECIPE-ROCK-ATE” chef gives you a cake recipe, and you give him a rock-cake back (Substitution: re-CIP-ro-cate ≈ recipe).
+C: Station 9 · BALCONY. On the treehouse balcony, ants and elephants shake hands on a battle plan = ALLIANCE.
+P: A girl in a crimson bandana drawing a map in the dirt with a stick; the whole alliance gathered around; a round city in the distance
+
+== reciprocate
+T: Layla gives Marjana the spark for “LOYAL.” Marjana reciprocates, giving back in return: a grey Sparrow feather for Layla's scarf. “Now you're one of us.”
+H: re-CIP-ro-cate ≈ “RECIPE-ROCK”: trading a recipe for a rock-cake
+L: 370→371 · The exchange of gifts (reciprocate) leaves you AMBIVALENT: an “AMBI-VALENTINE” card with a heart on one side and a skull on the other, mixed feelings (Substitution: am-BIV-a-lent ≈ ambi-valentine).
+C: Station 10 · TOP. In the crown of the tallest tree, two birds trade a worm for a berry = RECIPROCATE.
+P: A girl scholar handing a spark to a girl in a crimson bandana, who tucks a grey feather into the scholar's headscarf in return; warm smiles
+
+## 38
+ST: the entrance archway cut in the hedge | the step of trimmed hedge | the lamp in the hedge wall on the left | the gravel path floor | the sundial at the heart of the maze | the topiary pillar shaped like a peacock on the right | the hole in the hedge like a window | the grass stair up to the viewing mound | the viewing platform balcony | the tallest topiary on top
+
+== ambivalent
+T: The Hedge Labyrinth splits in two paths: left to the Basra Gate, right toward the palace, where Tariq might be. Zayn is ambivalent, with mixed feelings. Duty or brother?
+H: am-BIV-a-lent ≈ “AMBI-VALENTINE”: a valentine with a heart AND a skull
+L: 371→372 · The mixed-feelings card (ambivalent) has an AMBIGUOUS “AM-BIG-YOU-US” message: “I LOVE YOU… NOT.” Two meanings at once (Substitution: am-BIG-u-ous ≈ am-big).
+C: Station 1 · ARCH. The hedge arch has a valentine hanging with a heart on one side and a skull on the other = AMBIVALENT.
+P: A tall green hedge maze with two paths splitting; a boy with an orange headband torn between them, looking both ways
+
+== ambiguous
+T: A sign in the hedge says “THIS WAY TO HOME.” But which home? Tariq's prison? The Lexicon? It's ambiguous: it has more than one meaning.
+H: am-BIG-u-ous ≈ “AM-BIG-YOU-US”: big enough for two meanings
+L: 372→373 · The double-meaning message (ambiguous) confuses an INDECISIVE “IN-DICE-ISIVE” gambler who can't choose which die to roll (Substitution: in-de-CI-sive ≈ in-dice).
+C: Station 2 · STEP. The hedge step has an arrow pointing both ways at once = AMBIGUOUS.
+P: A wooden sign in a hedge pointing in two directions at once reading nothing legible; kids scratching their heads
+
+== indecisive
+T: Zayn steps left, then right, then left. He's indecisive, unable to decide. The team waits. Nobody wants to push him.
+H: in-de-CI-sive ≈ “IN-DICE”: can't choose which die
+L: 373→374 · The dithering gambler (indecisive) faces a DILEMMA: a “DIE-LEMON” game where he must choose between two sour lemons (Substitution: di-LEM-ma ≈ die-lemon).
+C: Station 3 · LAMP. Under the hedge lamp, a gambler holds two dice and can't choose = INDECISIVE.
+P: A boy stepping left then right then left in the maze; friends waiting patiently
+
+== dilemma
+T: Layla lays it out: “It's a dilemma, a hard choice between two options. Save Tariq now and risk the city, or follow the route and trust he'll hold on.”
+H: di-LEM-ma ≈ “DIE-LEMON”: choosing between two sour lemons
+L: 374→375 · The two-lemon choice (dilemma) sinks into a QUANDARY: a “QUAN-DAIRY” cow stuck in a dairy maze, confused about what to do (Substitution: QUAN-da-ry ≈ quan-dairy).
+C: Station 4 · RUG. On the gravel path lie two sour lemons: you must eat one = DILEMMA.
+P: A girl scholar holding up two hands as if weighing two options; a boy listening intently
+
+== quandary
+T: Marjana is in a quandary too, a state of confusion over what to do. Her Sparrows want to storm the palace. She's not sure.
+H: QUAN-da-ry ≈ “QUAN-DAIRY”: a cow lost in a dairy maze
+L: 375→376 · The lost cow (quandary) HESITATES: a “HE-SIT-TATES” man sits down at every step and pauses before moving (Substitution: HES-i-tate ≈ he-sit-tate).
+C: Station 5 · HEART. At the sundial in the center, a cow wanders in circles, not sure what to do = QUANDARY.
+P: A girl in a crimson bandana biting her lip, orphan kids pulling her toward the palace path
+
+== hesitate
+T: Even Sinbad hesitates, pausing before acting. “In my day, I'd have charged. But charging got a good friend lost at sea.”
+H: HES-i-tate ≈ “HE-SIT-TATE”: he sits before each step
+L: 376→377 · The pausing man (hesitate) solves a CONUNDRUM: a “CONE-UN-DRUM” puzzle where you must fit an ice-cream cone into a drum without breaking it (Substitution: co-NUN-drum ≈ cone-drum).
+C: Station 6 · PILLAR. The peacock topiary on the right lifts a foot, pauses, and sets it back down = HESITATE.
+P: An old sailor pausing with a hand on his cane, thoughtful; memories of a lost friend at sea
+
+== conundrum
+T: Layla studies the sundial. The shadow points to both paths at once. It's a conundrum: a confusing problem.
+H: co-NUN-drum ≈ “CONE-UN-DRUM”: fitting a cone in a drum
+L: 377→378 · The cone-drum puzzle (conundrum) PERPLEXES a “PURR-PLEX” cat whose tail ties into a pretzel of confusion (Substitution: per-PLEX ≈ purr-plex).
+C: Station 7 · WINDOW. At the hedge window, a puzzle box of a cone and a drum can't be solved = CONUNDRUM.
+P: A girl scholar studying a sundial at the heart of a hedge maze, its shadow pointing two ways at once
+
+== perplex
+T: The Hushlings shift the hedges to perplex them, puzzling them. Paths close, open and swap. Everyone is lost.
+H: per-PLEX ≈ “PURR-PLEX”: a cat tied in a puzzle knot
+L: 378→379 · The puzzled cat (perplex) DELIBERATES: a “DELI-BERATE” deli owner thinks very carefully before slicing each salami (Substitution: de-LIB-er-ate ≈ deli-berate).
+C: Station 8 · STAIR. The grass stair keeps changing direction; the cat on it is totally puzzled = PERPLEX.
+P: Hedges moving and swapping on their own around confused kids; shadow creatures pulling at the hedge walls
+
+== deliberate
+T: Zayn stops running. For once, he deliberates, thinking carefully. Then he says: “Tariq would say ‘Save the city, dummy.’ We follow the route.”
+H: de-LIB-er-ate ≈ “DELI-BERATE”: a deli owner who thinks carefully
+L: 379→380 · The careful thinker (deliberate) is annoyed by an EQUIVOCATE “EQUAL-VOCAL” politician who gives vague answers to dodge the question (Substitution: e-QUIV-o-cate ≈ equal-vocal).
+C: Station 9 · BALCONY. On the viewing balcony, a deli owner thinks very slowly before slicing = DELIBERATE.
+P: A boy standing still with eyes closed, thinking carefully in a shifting maze; then pointing left with determination
+
+== equivocate
+T: A Hushling whispers in a sweet voice, “Maybe… maybe not… who knows?” It equivocates, speaking vaguely to avoid commitment. Zayn ignores it. The hedges open. Ahead, a lotus pond glows under the moon.
+H: e-QUIV-o-cate ≈ “EQUAL-VOCAL”: talking equally both ways
+L: 380→381 · The vague politician (equivocate) sits down to REMINISCE: a “REMEMBER-NICE” grandpa who remembers the nice old days with a smile (Substitution: rem-i-NISCE ≈ remember-nice).
+C: Station 10 · TOP. On the tallest topiary, a politician says “maybe yes, maybe no” forever = EQUIVOCATE.
+P: A shadow creature whispering vague words; a determined boy walking past it; hedges opening to reveal a glowing lotus pond
+
+## 39
+ST: the arch of the pavilion's carved roof | the stepping-stone into the pond | the firefly lantern on the left | the lily-pad floor | the pavilion's central pool with the great lotus | the carved pillar on the right | the round moon-window at the back | the stair of the pavilion | the pavilion balcony over the water | the golden finial on the pavilion roof
+
+== reminisce
+T: At the Lotus Pond, Layla's hand-mirror glows. Shahrazad's face appears! Her one minute of speech each night. She begins to reminisce, recalling the past fondly: “Qalam was with me every night…”
+H: rem-i-NISCE ≈ “REMEMBER-NICE”: remembering the nice times
+L: 381→382 · The remembering grandpa (reminisce) dives into a PROFOUND “PRO-FOUND” lake so deep a professional diver found the bottom only after a thousand years (Substitution: pro-FOUND ≈ pro-found).
+C: Station 1 · ARCH. Under the pavilion arch, a grandpa smiles, remembering the good old days = REMINISCE.
+P: A glowing silver hand-mirror in a girl scholar's hand, showing an elderly wise queen in a purple veil with a thin gold crown speaking fondly; a lotus pond with fireflies
+
+== profound
+T: “The Lexicon isn't just words. It's how people understand each other.” Her words are profound: very deep. Even Pebble is quiet.
+H: pro-FOUND ≈ “PRO-FOUND”: so deep only a pro could find the bottom
+L: 382→383 · The deep lake (profound) holds a REVELATION: a “REVEL-ATION” party where the curtain opens to reveal a surprise elephant (Substitution: rev-e-LA-tion ≈ revel).
+C: Station 2 · STEP. The stepping-stone leads into water so deep you can't see the bottom = PROFOUND.
+P: An elderly queen in a mirror speaking with deep wisdom; kids listening in awe; the lotus pond glowing
+
+== revelation
+T: Then the revelation, a surprising discovery: “Qalam was my pen. He wrote all 1001 stories. If the Lexicon dies, so does he.” Qalam's face falls.
+H: rev-e-LA-tion ≈ “REVEL-ATION”: a party reveal
+L: 383→384 · The surprise reveal (revelation) causes an EPIPHANY: an “EPI-PHONY” lightbulb that switches on with a phone ring, a sudden realization (Substitution: e-PIPH-a-ny ≈ epi-phone).
+C: Station 3 · LAMP. The firefly lantern suddenly opens, revealing a secret inside = REVELATION.
+P: A small ink djinn looking stunned and sad as it hears the truth; the queen in the mirror looking at it tenderly
+
+== epiphany
+T: Zayn has an epiphany, a sudden realization: “That's why he's always joking. He's scared.” He turns to Qalam: “You're not just a pen. You're our friend.”
+H: e-PIPH-a-ny ≈ “EPI-PHONE-Y”: a lightbulb that rings like a phone
+L: 384→385 · The lightbulb (epiphany) glows on a VENERABLE “VENER-ABLE” old turtle with a long white beard whom everyone bows to (Substitution: VEN-er-able ≈ vener-able).
+C: Station 4 · RUG. On the lily-pad floor, a lightbulb flashes on above someone's head = EPIPHANY.
+P: A boy with a sudden realization, a lightbulb glow; turning to comfort a small sad ink djinn
+
+== venerable
+T: Shahrazad, venerable (respected because of age and wisdom), bows to Qalam from the mirror. “Old friend. Be brave.”
+H: VEN-er-able ≈ “VENER-ABLE”: venerated because you're old and wise
+L: 385→386 · The ancient turtle (venerable) gives SAGACIOUS advice: a “SAGE-ACIOUS” owl made of sage leaves who knows the answer to everything (Substitution: sa-GA-cious ≈ sage).
+C: Station 5 · HEART. The great lotus at the center holds an ancient turtle everyone bows to = VENERABLE.
+P: An elderly queen bowing respectfully from within a mirror to a small ink djinn; lotus flowers glowing
+
+== sagacious
+T: Her sagacious (wise) advice: “When you reach the Green Dome, don't fight the silence. Fill it.” Then she fades. Minute over.
+H: sa-GA-cious ≈ “SAGE-ACIOUS”: wise as a sage
+L: 386→387 · The wise owl (sagacious) leaves a LEGACY: a “LEG-A-SEE” golden leg statue handed down from grandparents to grandchildren (Substitution: LEG-a-cy ≈ leg-a-see).
+C: Station 6 · PILLAR. On the carved pillar sits an owl made of sage leaves who knows everything = SAGACIOUS.
+P: The queen in the mirror giving a final wise message as her image fades; kids leaning close
+
+== legacy
+T: Layla holds the mirror tight. “This quest is Grandmother's legacy,” something handed down. “Now it's mine.”
+H: LEG-a-cy ≈ “LEG-A-SEE”: a golden leg handed down the family
+L: 387→388 · The family treasure (legacy) ENLIGHTENS a dark room: “EN-LIGHT-EN,” someone switches on a light inside your brain (Substitution: en-LIGHT-en ≈ in-light).
+C: Station 7 · WINDOW. At the moon window, a golden treasure is handed from grandma to granddaughter = LEGACY.
+P: A girl scholar holding a silver mirror to her chest, determined, the moon reflected in the pond behind her
+
+== enlighten
+T: Qalam, eyes bright again, enlightens them, giving them understanding: “The Brass Guardians at each gate will test you. The Lion first. Logic.”
+H: en-LIGHT-en ≈ “IN-LIGHT”: switching on a light inside your head
+L: 388→389 · The inner light (enlighten) ILLUMINATES the whole pond: an “ILL-LUMINATE” lamp so bright it lights up every corner and explains every mystery (Substitution: il-LU-mi-nate ≈ ill-lumi).
+C: Station 8 · STAIR. On the pavilion stair, a lamp switches on inside someone's head = ENLIGHTEN.
+P: A small ink djinn with bright eyes explaining; images of four brass animal guardians glowing in the air
+
+== illuminate
+T: The lotus flowers open and illuminate the water, lighting it up. A path of glowing pads leads toward the Garden Wall Tower.
+H: il-LU-mi-nate ≈ “ILL-LUMINATE”: lumens lighting everything up
+L: 389→390 · The lighting lamp (illuminate) is carried by a MENTOR: a “MEN-TORCH” wise man with a torch guiding a young traveler (Substitution: MEN-tor ≈ men-torch).
+C: Station 9 · BALCONY. From the pavilion balcony, lotus flowers open and light up the pond = ILLUMINATE.
+P: Lotus flowers opening and glowing, creating a path of illuminated lily pads across a pond toward a tower in a garden wall
+
+== mentor
+T: Sinbad claps Zayn's shoulder. “You're becoming a leader, lad. I've been proud to be your mentor,” a trusted guide. At the Garden Wall Tower, a brass lion's eye opens across the moat.
+H: MEN-tor ≈ “MEN-TORCH”: a wise man holding the torch for you
+L: 390→391 · The torch-holder (mentor) senses FOREBODING: a “FOUR-BOARDING” ship with four black flags that makes everyone feel something evil is coming (Substitution: fore-BOD-ing ≈ four-boarding).
+C: Station 10 · TOP. On the pavilion's golden finial stands a wise man holding a torch for a young traveler = MENTOR.
+P: An old sailor proudly clapping a boy's shoulder; in the distance across a moat, a giant brass lion statue on a city gate opening one glowing turquoise eye
+
+## 40
+ST: the arched door of the tower | the worn step | the signal-lamp on the left | the round floor of the tower room | the telescope on its stand at the center | the stone pillar on the right | the arrow-slit window facing the Basra Gate | the winding stair | the lookout balcony | the battlements on top
+
+== foreboding
+T: From the Garden Wall Tower they can see the Basra Gate and its Brass Lion. A heavy feeling settles over them: foreboding, a feeling that evil is coming.
+H: fore-BOD-ing ≈ “FORE-BODING”: a bad feeling before (fore) it happens
+L: 391→392 · The four-black-flag ship (foreboding) is IMMINENT: an “IMMI-NET” net about to drop on your head any second (Substitution: IM-mi-nent ≈ imminent-net).
+C: Station 1 · ARCH. As you step through the tower arch, a chill runs down your spine, something bad is coming = FOREBODING.
+P: Kids at the top of a garden-wall tower looking toward a massive city gate with a giant brass lion lying across it; ominous clouds; heavy mood
+
+== imminent
+T: The Hushlings are gathering at the moat. An attack is imminent: about to happen.
+H: IM-mi-nent ≈ “IMMI-NET”: a net about to drop
+L: 392→393 · The about-to-drop net (imminent) is watched by a VIGILANT “VIGIL-ANT” ant who stays awake all night with a flashlight, watchful (Substitution: VIG-i-lant ≈ vigil-ant).
+C: Station 2 · STEP. Above the worn step hangs a net, about to fall = IMMINENT.
+P: Shadow creatures massing at the edge of a moat, poised to attack; kids watching nervously from a tower
+
+== vigilant
+T: Marjana posts Sparrows on every wall. “Stay vigilant, watchful. No sleeping.”
+H: VIG-i-lant ≈ “VIGIL-ANT”: an ant on an all-night vigil
+L: 393→394 · The watchful ant (vigilant) stands guard as a SENTINEL: a “SENT-IN-NEL” soldier sent in to stand at the gate forever (Substitution: SEN-ti-nel ≈ sent-in).
+C: Station 3 · LAMP. Beside the signal-lamp, an ant holds a flashlight and never blinks = VIGILANT.
+P: Orphan kids with grey feathers posted along walls, keeping watch; a girl in a crimson bandana giving orders
+
+== sentinel
+T: The Brass Lion is the gate's sentinel, its guard. For a thousand years it has guarded the Basra Gate. Now its eyes are open.
+H: SEN-ti-nel ≈ “SENT-IN-NEL”: sent in to guard
+L: 394→395 · The guard soldier (sentinel) hides a LATENT “LATE-ENT” superpower, a hidden power that's there but sleeping late (Substitution: LA-tent ≈ late-ent).
+C: Station 4 · RUG. On the tower floor stands a soldier who never moves, guarding the door = SENTINEL.
+P: A close view of a giant brass lion statue atop a city gate, riveted, gears in its joints, glowing turquoise eyes open
+
+== latent
+T: Layla studies the lion through the telescope. “There's something latent (hidden but present) inside it. A power waiting to wake.”
+H: LA-tent ≈ “LATE-ENT”: a power sleeping in late
+L: 395→396 · The hidden power (latent) sends a PORTENT: a “PORT-TENT” tent that pops up at the port whenever a storm is coming, a sign of what's to come (Substitution: POR-tent ≈ port-tent).
+C: Station 5 · HEART. The telescope at the center shows a sleeping power glowing inside the lion = LATENT.
+P: A girl scholar looking through a brass telescope; inset: the brass lion's chest glowing faintly with a hidden power
+
+== portent
+T: A black comet streaks across the sky. Sinbad mutters: “A portent: a sign of what's to come. Big trouble.”
+H: POR-tent ≈ “PORT-TENT”: a tent that pops up when storms are coming
+L: 396→397 · The storm-warning tent (portent) shelters a MENACE: a “MEN-ACE” card player with a deadly ace up his sleeve, a threat (Substitution: MEN-ace ≈ men-ace).
+C: Station 6 · PILLAR. On the stone pillar, a tent pops up with a sign reading “STORM COMING” = PORTENT.
+P: A black comet streaking across a night sky above a round city; an old sailor pointing with a worried face
+
+== menace
+T: A shape rises from the moat: huge, dripping, three stories tall. Al-Hadid, Zulmat's brass giant. It's a menace: a threat.
+H: MEN-ace ≈ “MEN-ACE”: a man with a deadly ace up his sleeve
+L: 397→398 · The threatening ace (menace) is followed by a STEALTHY “STEALTH-Y” ninja cat who moves quietly and secretly (Substitution: STEALTH-y ≈ stealth).
+C: Station 7 · WINDOW. At the arrow-slit window, a card player shows a deadly ace = MENACE.
+P: A three-story-tall iron-and-brass war automaton rising from a moat, furnace glowing in its chest, single red eye slit; kids in a distant tower staring
+
+== stealthy
+T: Hushlings creep up the tower stair, stealthy: quiet and secret. Only Pebble's sensitive ears catch them.
+H: STEALTH-y ≈ “STEALTH”: moving like a ninja
+L: 398→399 · The ninja cat (stealthy) warns of an IMPENDING storm: an “IM-PENDING” pendulum clock swinging closer and closer, about to strike (Substitution: im-PEND-ing ≈ im-pendulum).
+C: Station 8 · STAIR. On the winding stair, a ninja cat creeps without a sound = STEALTHY.
+P: Shadow creatures creeping silently up a winding tower stair; a baby roc's ears perking up in alarm
+
+== impending
+T: Pebble squawks! The kids turn and fight. But beyond the tower, the impending battle (about to happen) at the gate is clear. They must go now.
+H: im-PEND-ing ≈ “IM-PENDULUM”: a pendulum swinging closer and closer
+L: 399→400 · The swinging pendulum (impending) is announced by a HARBINGER: a “HARBOR-SINGER” sailor who sings in the harbor before every storm arrives (Substitution: HAR-bin-ger ≈ harbor-singer).
+C: Station 9 · BALCONY. From the lookout balcony, a pendulum swings closer and closer to your nose = IMPENDING.
+P: Kids fighting shadow creatures on a tower stair; through the window, a looming battle at a great brass-lion gate
+
+== harbinger
+T: On the battlements, a white heron lands. Yasmin. “I'm a harbinger (a sign of what's coming). The Lion wakes at dawn. Answer its riddles, or it eats you.” She flies off. Why is she warning them?
+H: HAR-bin-ger ≈ “HARBOR-SINGER”: sings in the harbor before storms
+L: 400→401 · The storm-singer (harbinger) is questioned by a DEDUCE “DE-DEUCE” detective who reasons out the answer from a deuce playing card (Substitution: de-DUCE ≈ de-deuce).
+C: Station 10 · TOP. On the battlements, a sailor sings before the storm arrives = HARBINGER.
+P: A white heron landing on tower battlements at night and transforming into a girl in a feather cloak giving a warning; kids suspicious and confused

@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 81-90 · reviewed by hand against each L: line
+## 81
+1 | A: fox(mean) | B: breeches | ACT: bursts-a-hole-in-the-wall-with | SCALE: - | OAES: S
+2 | A: breeches | B: knight(many) | ACT: watched-by-a-veiled | SCALE: - | OAES: S
+3 | A: knight | B: camel(red) | ACT: fooled-by-a-flag-painted | SCALE: - | OAES: S
+4 | A: camel(red) | B: octopus(sunglasses) | ACT: goes-in-disguise-as | SCALE: - | OAES: S
+5 | A: octopus(sunglasses) | B: crowd | ACT: wears-a-costume-of | SCALE: - | OAES: S
+6 | A: crowd | B: spy | ACT: used-for-spying-by | SCALE: - | OAES: S
+7 | A: spy | B: fan | ACT: crawls-around-guards-through | SCALE: - | OAES: S
+8 | A: fan | B: sieve | ACT: dodged-by-a-slippery | SCALE: - | OAES: S
+9 | A: sieve | B: duck(yellow) | ACT: throws-a-decoy | SCALE: - | OAES: S
+10 | A: duck(yellow) | B: doll(sleepy, lying) | ACT: lands-on | SCALE: - | OAES: S
+## 82
+1 | A: doll(sleepy) | B: man(sleepy) | ACT: shows-no-care-like | SCALE: - | OAES: S
+2 | A: man(sleepy) | B: cat(crown) | ACT: is-as-smug-as | SCALE: - | OAES: S
+3 | A: cat(crown) | B: castle(brown) | ACT: lives-in-a-chocolate | SCALE: - | OAES: S
+4 | A: castle(brown) | B: hedonist | ACT: throws-a-party-for | SCALE: - | OAES: S
+5 | A: hedonist | B: man(sad) | ACT: goes-listless-as | SCALE: - | OAES: S
+6 | A: man(sad) | B: torpedo(sleepy) | ACT: sinks-into-sleep-like | SCALE: - | OAES: S
+7 | A: torpedo | B: cat(sleepy) | ACT: is-as-lazy-as | SCALE: - | OAES: S
+8 | A: cat(sleepy) | B: gardener(sleepy) | ACT: is-as-careless-as | SCALE: - | OAES: S
+9 | A: gardener(sleepy) | B: chef | ACT: shrugs-like-a-calm | SCALE: - | OAES: S
+10 | A: chef | B: banker(grin) | ACT: catches-a-money-stuffing | SCALE: - | OAES: S
+## 83
+1 | A: banker(grin) | B: plate | ACT: eats-every-cookie-off | SCALE: - | OAES: S
+2 | A: plate | B: bank | ACT: belongs-to-a-broken | SCALE: - | OAES: S
+3 | A: bank | B: family(sad) | ACT: leaves-poor | SCALE: - | OAES: S
+4 | A: family(sad) | B: coin | ACT: must-live-on-one | SCALE: B=tiny | OAES: S
+5 | A: coin | B: bowl(sad) | ACT: buys-a-meagre | SCALE: - | OAES: S
+6 | A: bowl(sad) | B: machine | ACT: scanned-by | SCALE: - | OAES: S
+7 | A: machine | B: chicken | ACT: finds-a-tiny | SCALE: B=tiny | OAES: S
+8 | A: chicken | B: bun(many) | ACT: multiplies-into | SCALE: - | OAES: S
+9 | A: bun(many) | B: knight | ACT: carried-by | SCALE: - | OAES: S
+10 | A: knight | B: house | ACT: watches-flatten | SCALE: - | OAES: S
+## 84
+1 | A: house | B: eraser | ACT: wiped-out-by | SCALE: B=giant | OAES: S
+2 | A: eraser | B: crocodile(mean) | ACT: outdone-by-a-city-eating | SCALE: B=giant | OAES: S
+3 | A: crocodile | B: gardener | ACT: roots-out-weeds-like | SCALE: - | OAES: S
+4 | A: radish | B: cake | ACT: chomps-through | SCALE: - | OAES: S
+5 | A: cake | B: stamp | ACT: sealed-forever-by | SCALE: - | OAES: S
+6 | A: stamp | B: vase(sad) | ACT: breaks | SCALE: - | OAES: S
+7 | A: vase(sad) | B: raven | ACT: wrecked-by | SCALE: - | OAES: S
+8 | A: raven | B: debris(many) | ACT: leaves | SCALE: - | OAES: S
+9 | A: debris | B: ant | ACT: holds-one-last | SCALE: B=tiny | OAES: S
+10 | A: ant | B: cat | ACT: sorted-into-boxes-by | SCALE: - | OAES: S
+## 85
+1 | A: cat | B: teacher | ACT: sorts-like | SCALE: - | OAES: S
+2 | A: teacher | B: curator | ACT: curates-like | SCALE: - | OAES: S
+3 | A: curator | B: book | ACT: cites-a-line-in | SCALE: - | OAES: S
+4 | A: book | B: menu | ACT: read-line-by-line-like | SCALE: - | OAES: S
+5 | A: menu | B: skater | ACT: raced-by-a-skimming | SCALE: - | OAES: S
+6 | A: skater | B: farmer | ACT: raced-by-a-gleaning | SCALE: - | OAES: S
+7 | A: farmer | B: spy | ACT: code-cracked-by | SCALE: - | OAES: S
+8 | A: spy | B: hen | ACT: understood-by | SCALE: - | OAES: S
+9 | A: hen | B: sponge | ACT: soaks-it-all-up-like | SCALE: - | OAES: S
+10 | A: sponge | B: parachute | ACT: rephrased-by | SCALE: - | OAES: S
+## 86
+1 | A: parachute | B: interpreter | ACT: made-clear-by | SCALE: - | OAES: S
+2 | A: interpreter | B: shop | ACT: speaks-the-street-talk-of | SCALE: - | OAES: S
+3 | A: shop | B: phone | ACT: speaks-with-the-accent-of | SCALE: - | OAES: S
+4 | A: phone | B: collie(talking) | ACT: chats-casually-like | SCALE: - | OAES: S
+5 | A: collie | B: dinosaur | ACT: guards-a-word-eating | SCALE: B=giant | OAES: S
+6 | A: dinosaur | B: tick(many, glasses) | ACT: studied-by | SCALE: - | OAES: S
+7 | A: tick(many) | B: ant(many) | ACT: notice-shades-in | SCALE: - | OAES: S
+8 | A: ant(many) | B: cat(many) | ACT: invent-raining | SCALE: - | OAES: S
+9 | A: cat(many) | B: scroll(glowing) | ACT: fall-on-a-universal | SCALE: - | OAES: S
+10 | A: scroll | B: parrot(talking) | ACT: repeated-by | SCALE: - | OAES: S
+## 87
+1 | A: parrot(talking) | B: mime | ACT: mimicked-by | SCALE: - | OAES: S
+2 | A: mime | B: thief | ACT: copied-by | SCALE: - | OAES: S
+3 | A: thief | B: band | ACT: writes-copied-songs-for | SCALE: - | OAES: S
+4 | A: band | B: scroll(sleepy) | ACT: sings-a-worn-out | SCALE: - | OAES: S
+5 | A: scroll | B: knee | ACT: creaks-like-an-overused | SCALE: - | OAES: S
+6 | A: knee | B: banana(sleepy) | ACT: walks-through-a-boring-day-with | SCALE: - | OAES: S
+7 | A: banana(sleepy) | B: poet(sleepy) | ACT: described-in-tired-words-by | SCALE: - | OAES: S
+8 | A: poet | B: rope | ACT: pulls-taut-a-same-twice | SCALE: - | OAES: S
+9 | A: rope | B: robot(talking) | ACT: copied-word-for-word-by | SCALE: - | OAES: S
+10 | A: robot | B: car(sad) | ACT: locked-up-inside | SCALE: - | OAES: S
+## 88
+1 | A: car(sad) | B: train | ACT: held-back-like | SCALE: - | OAES: S
+2 | A: train | B: press | ACT: squashed-quiet-by | SCALE: - | OAES: S
+3 | A: press | B: machine(crying) | ACT: pushes-tears-back-into | SCALE: - | OAES: S
+4 | A: machine | B: robot | ACT: run-by-a-tape-covered | SCALE: - | OAES: S
+5 | A: robot | B: dog(sad) | ACT: muzzles | SCALE: - | OAES: S
+6 | A: dog(sad) | B: bully(mean) | ACT: chased-by | SCALE: - | OAES: S
+7 | A: bully(mean) | B: king(angry) | ACT: tries-to-trap-a-kingdom-like | SCALE: - | OAES: S
+8 | A: king(angry) | B: door | ACT: outlasted-by | SCALE: - | OAES: S
+9 | A: door | B: desert(grey) | ACT: stands-in-a-bleak | SCALE: - | OAES: S
+10 | A: desert | B: chess | ACT: planned-over-with | SCALE: - | OAES: S
+## 89
+1 | A: chess | B: parachute | ACT: plans-a-backup | SCALE: - | OAES: S
+2 | A: parachute | B: camel | ACT: packed-onto | SCALE: - | OAES: S
+3 | A: camel | B: price-tag | ACT: checked-against | SCALE: - | OAES: S
+4 | A: price-tag | B: bull | ACT: is-as-viable-as | SCALE: - | OAES: S
+5 | A: bull | B: team | ACT: moves-in-order-with | SCALE: - | OAES: S
+6 | A: team | B: parachute(many) | ACT: deployed-by | SCALE: - | OAES: S
+7 | A: parachute(many) | B: phone | ACT: mobilized-by | SCALE: - | OAES: S
+8 | A: phone | B: teacup | ACT: helps-anticipate-a-hot | SCALE: - | OAES: S
+9 | A: teacup | B: trophy | ACT: puts-first-the | SCALE: - | OAES: S
+10 | A: trophy | B: lightning | ACT: galvanizes-with | SCALE: - | OAES: S
+## 90
+1 | A: lightning | B: fries | ACT: unites-everyone-on | SCALE: B=giant | OAES: S
+2 | A: fries | B: mouse(shouting) | ACT: roused-by | SCALE: - | OAES: S
+3 | A: mouse(shouting) | B: spark | ACT: incites-with | SCALE: - | OAES: S
+4 | A: spark | B: cup(many) | ACT: fails-against-raised | SCALE: - | OAES: S
+5 | A: cup(many) | B: popcorn(many) | ACT: lift-up | SCALE: - | OAES: S
+6 | A: popcorn(many) | B: beehive | ACT: form-a-shared | SCALE: - | OAES: S
+7 | A: beehive | B: egg(many) | ACT: seats-equally | SCALE: - | OAES: S
+8 | A: egg(many) | B: battery | ACT: powered-by | SCALE: - | OAES: S
+9 | A: battery | B: crowd(many) | ACT: lights-up | SCALE: - | OAES: S
+10 | A: crowd(many) | B: castle(gold) | ACT: march-to-a-dazzling | SCALE: B=giant | OAES: S

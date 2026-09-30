@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 81
+1 | A: fox | B: hole | ACT: bursts-out | SCALE: - | OAES: S
+2 | A: hole | B: knight(many) | ACT: links-to | SCALE: - | OAES: S
+3 | A: knight(many) | B: camel-flag | ACT: links-to | SCALE: - | OAES: S
+4 | A: camel-flag | B: ink-og-nito | ACT: links-to | SCALE: - | OAES: S
+5 | A: ink-og-nito | B: guy(many) | ACT: links-to | SCALE: - | OAES: S
+6 | A: guy(many) | B: espresso-nage | ACT: links-to | SCALE: - | OAES: S
+7 | A: espresso-nage | B: spy | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: spy | B: sieve | ACT: links-to | SCALE: - | OAES: S
+9 | A: sieve | B: duck(rubber) | ACT: throws | SCALE: - | OAES: S
+10 | A: duck(rubber) | B: doll | ACT: drops-on | SCALE: - | OAES: S
+## 82
+1 | A: doll | B: man | ACT: links-to | SCALE: - | OAES: S
+2 | A: man | B: cat | ACT: links-to | SCALE: - | OAES: S
+3 | A: cat | B: palace | ACT: links-to | SCALE: - | OAES: S
+4 | A: palace | B: head-on-ist | ACT: throws | SCALE: - | OAES: S
+5 | A: head-on-ist | B: man | ACT: links-to | SCALE: - | OAES: S
+6 | A: man | B: torpedo-r | ACT: links-to | SCALE: - | OAES: S
+7 | A: torpedo-r | B: cat | ACT: links-to | SCALE: - | OAES: S
+8 | A: cat | B: gardener | ACT: links-to | SCALE: - | OAES: S
+9 | A: gardener | B: chef | ACT: catches | SCALE: - | OAES: S
+10 | A: chef | B: banker | ACT: catches | SCALE: - | OAES: S
+## 83
+1 | A: banker | B: de-plate | ACT: gulps | SCALE: - | OAES: S
+2 | A: de-plate | B: bank | ACT: opens | SCALE: - | OAES: S
+3 | A: bank | B: family | ACT: links-to | SCALE: - | OAES: S
+4 | A: family | B: house | ACT: links-to | SCALE: - | OAES: S
+5 | A: house | B: rice | ACT: hugs | SCALE: - | OAES: S
+6 | A: rice | B: scanner | ACT: links-to | SCALE: - | OAES: S
+7 | A: scanner | B: chicken | ACT: links-to | SCALE: - | OAES: S
+8 | A: chicken | B: bun | ACT: links-to | SCALE: B=tiny | OAES: S
+9 | A: bun | B: knight | ACT: carries | SCALE: - | OAES: S
+10 | A: knight | B: building | ACT: links-to | SCALE: - | OAES: S
+## 84
+1 | A: building | B: eraser | ACT: links-to | SCALE: - | OAES: S
+2 | A: eraser | B: crocodile | ACT: gulps | SCALE: - | OAES: S
+3 | A: crocodile | B: gardener | ACT: pulls | SCALE: - | OAES: S
+4 | A: gardener | B: cake | ACT: gulps | SCALE: - | OAES: S
+5 | A: cake | B: stamp | ACT: links-to | SCALE: - | OAES: S
+6 | A: stamp | B: vase | ACT: links-to | SCALE: - | OAES: S
+7 | A: vase | B: raven | ACT: links-to | SCALE: - | OAES: S
+8 | A: raven | B: junk | ACT: links-to | SCALE: - | OAES: S
+9 | A: junk | B: ant | ACT: carries | SCALE: - | OAES: S
+10 | A: ant | B: cat | ACT: links-to | SCALE: - | OAES: S
+## 85
+1 | A: cat | B: teacher | ACT: links-to | SCALE: - | OAES: S
+2 | A: teacher | B: doctor | ACT: links-to | SCALE: - | OAES: S
+3 | A: doctor | B: book | ACT: links-to | SCALE: - | OAES: S
+4 | A: book | B: menu | ACT: links-to | SCALE: - | OAES: S
+5 | A: menu | B: skim-milk | ACT: rides | SCALE: - | OAES: S
+6 | A: skim-milk | B: farmer | ACT: links-to | SCALE: - | OAES: S
+7 | A: farmer | B: spy | ACT: links-to | SCALE: - | OAES: S
+8 | A: spy | B: hen | ACT: links-to | SCALE: - | OAES: S
+9 | A: hen | B: sponge | ACT: links-to | SCALE: - | OAES: S
+10 | A: sponge | B: parachute | ACT: links-to | SCALE: - | OAES: S
+## 86
+1 | A: parachute | B: interpreter | ACT: links-to | SCALE: - | OAES: S
+2 | A: interpreter | B: people | ACT: links-to | SCALE: - | OAES: S
+3 | A: people | B: phone | ACT: pulls | SCALE: - | OAES: S
+4 | A: phone | B: collie-quial | ACT: links-to | SCALE: - | OAES: S
+5 | A: collie-quial | B: dictionary | ACT: links-to | SCALE: - | OAES: S
+6 | A: dictionary | B: tick | ACT: links-to | SCALE: - | OAES: S
+7 | A: tick | B: new-ant | ACT: links-to | SCALE: - | OAES: S
+8 | A: new-ant | B: cat | ACT: drops-on | SCALE: - | OAES: S
+9 | A: cat | B: poem | ACT: drops-on | SCALE: - | OAES: S
+10 | A: poem | B: parrot | ACT: links-to | SCALE: - | OAES: S
+## 87
+1 | A: parrot | B: mime | ACT: links-to | SCALE: - | OAES: S
+2 | A: mime | B: thief | ACT: links-to | SCALE: - | OAES: S
+3 | A: thief | B: band | ACT: links-to | SCALE: - | OAES: S
+4 | A: band | B: phrase(many) | ACT: links-to | SCALE: - | OAES: S
+5 | A: phrase(many) | B: hack-knee-d | ACT: links-to | SCALE: - | OAES: S
+6 | A: hack-knee-d | B: banana-l | ACT: gulps | SCALE: - | OAES: S
+7 | A: banana-l | B: poet | ACT: links-to | SCALE: - | OAES: S
+8 | A: poet | B: rope | ACT: turns-into | SCALE: - | OAES: S
+9 | A: rope | B: robot | ACT: links-to | SCALE: - | OAES: S
+10 | A: robot | B: robot | ACT: links-to | SCALE: - | OAES: S
+## 88
+1 | A: robot | B: de-train-d | ACT: links-to | SCALE: - | OAES: S
+2 | A: de-train-d | B: super-press | ACT: smashes | SCALE: - | OAES: S
+3 | A: super-press | B: machine | ACT: links-to | SCALE: - | OAES: S
+4 | A: machine | B: robot | ACT: links-to | SCALE: - | OAES: S
+5 | A: robot | B: puzzle | ACT: links-to | SCALE: - | OAES: S
+6 | A: puzzle | B: purse-secure | ACT: chases | SCALE: - | OAES: S
+7 | A: purse-secure | B: king | ACT: links-to | SCALE: - | OAES: S
+8 | A: king | B: en-door | ACT: links-to | SCALE: - | OAES: S
+9 | A: en-door | B: landscape | ACT: drops-on | SCALE: - | OAES: S
+10 | A: landscape | B: chess | ACT: links-to | SCALE: - | OAES: S
+## 89
+1 | A: chess | B: parachute | ACT: links-to | SCALE: - | OAES: S
+2 | A: parachute | B: team | ACT: links-to | SCALE: - | OAES: S
+3 | A: team | B: price | ACT: links-to | SCALE: - | OAES: S
+4 | A: price | B: via-bull | ACT: links-to | SCALE: - | OAES: S
+5 | A: via-bull | B: team | ACT: links-to | SCALE: - | OAES: S
+6 | A: team | B: parachute | ACT: links-to | SCALE: - | OAES: S
+7 | A: parachute | B: phone | ACT: links-to | SCALE: - | OAES: S
+8 | A: phone | B: tea | ACT: links-to | SCALE: - | OAES: S
+9 | A: tea | B: list | ACT: links-to | SCALE: - | OAES: S
+10 | A: list | B: crowd(many) | ACT: links-to | SCALE: - | OAES: S
+## 90
+1 | A: crowd(many) | B: uni-fry | ACT: carries | SCALE: - | OAES: S
+2 | A: uni-fry | B: mouse | ACT: links-to | SCALE: - | OAES: S
+3 | A: mouse | B: spark(many) | ACT: links-to | SCALE: - | OAES: S
+4 | A: spark(many) | B: team | ACT: links-to | SCALE: - | OAES: S
+5 | A: team | B: crowd(many) | ACT: carries | SCALE: - | OAES: S
+6 | A: crowd(many) | B: beehive | ACT: links-to | SCALE: - | OAES: S
+7 | A: beehive | B: egg-all-itarian | ACT: links-to | SCALE: - | OAES: S
+8 | A: egg-all-itarian | B: battery | ACT: links-to | SCALE: - | OAES: S
+9 | A: battery | B: dude | ACT: links-to | SCALE: - | OAES: S
+10 | A: dude | B: palace | ACT: links-to | SCALE: - | OAES: S
