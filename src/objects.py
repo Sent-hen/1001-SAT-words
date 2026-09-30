@@ -147,6 +147,8 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "trainer": ("npc:captain", "whistle"), "manager": ("npc:official", None), "caveman": ("npc:vagabond", "hammer"), "mentor": ("npc:oldman", "scroll"),
+    "gambler": ("npc:vagabond", None), "artist": ("npc:dyer", "brush"), "politician": ("npc:envoy", "scroll"),
     "glutton": ("npc:official", None), "mechanic": ("npc:inventor", "hammer"), "swimmer": ("npc:dyer", None),
     "nomad": ("npc:vagabond", None),
     "miner": ("npc:smith", "hammer"),
@@ -1341,6 +1343,7 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "charmer": "musician", "snake-charmer": "musician", "barber": "smith", "dictator": "official", "santa": "grandpa", "sandal": "shoe",
               "fax": "machine", "printer": "machine", "melon": "watermelon", "collie": "dog", "jackal": "fox", "wagon": "cart",
               "salami-cat": "cat", "doctors": "doctor", "flour": "sack", "hummingbird": "bird", "copper": "clay",
+              "lemon": "apple", "cone": "icecream", "insole": "shoe", "poodle": "dog", "quill": "pencil", "harp": "guitar", "music-box": "chest",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):

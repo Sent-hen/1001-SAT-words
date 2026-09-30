@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 31-40 · reviewed by hand against each L: line
+## 31
+1 | A: collie(sad) | B: bear(sad) | ACT: plays-a-gloomy-trumpet-with | SCALE: - | OAES: S
+2 | A: bear(sad) | B: shoe | ACT: hugged-by | SCALE: - | OAES: S
+3 | A: shoe | B: cone(crying) | ACT: consoles | SCALE: - | OAES: S
+4 | A: cone | B: lamb(many, singing) | ACT: joins-a-sad-choir | SCALE: - | OAES: S
+5 | A: lamb(many) | B: mermaid(sleepy) | ACT: floats-into-a-calm-sea | SCALE: - | OAES: S
+6 | A: wave | B: quill | ACT: floats-still-on | SCALE: - | OAES: S
+7 | A: quill | B: cow | ACT: rests-on | SCALE: - | OAES: S
+8 | A: cow | B: well | ACT: gazes-at | SCALE: - | OAES: S
+9 | A: well | B: gnome(sad) | ACT: leaves-lonely | SCALE: - | OAES: S
+10 | A: gnome(sad) | B: coin(many) | ACT: finds-lucky | SCALE: - | OAES: S
+## 32
+1 | A: coin(many) | B: pool | ACT: fall-into | SCALE: - | OAES: S
+2 | A: treasure | B: volcano | ACT: rolls-into | SCALE: - | OAES: S
+3 | A: volcano | B: city(sad) | ACT: causes-hardship-for | SCALE: - | OAES: S
+4 | A: city | B: parrot(gold) | ACT: turns-into-rich | SCALE: - | OAES: S
+5 | A: parrot(gold) | B: woman(mean) | ACT: squeezed-by | SCALE: - | OAES: S
+6 | A: woman(mean) | B: pickle | ACT: is-as-fickle-as | SCALE: - | OAES: S
+7 | A: pickle | B: tower | ACT: builds-a-junk | SCALE: - | OAES: S
+8 | A: tower | B: camera | ACT: saved-by | SCALE: - | OAES: S
+9 | A: cloud | B: moon | ACT: blows-thin | SCALE: - | OAES: S
+10 | A: moon | B: lemon(yellow, angry) | ACT: lands-on | SCALE: - | OAES: S
+## 33
+1 | A: lemon(yellow, angry) | B: potion(green) | ACT: spits-acid | SCALE: - | OAES: S
+2 | A: potion(green) | B: sardine(mean) | ACT: poured-by | SCALE: - | OAES: S
+3 | A: sardine(mean) | B: skater | ACT: slices-your-work-as | SCALE: - | OAES: S
+4 | A: skater | B: balloon | ACT: cackles-as | SCALE: - | OAES: S
+5 | A: balloon | B: insole | ACT: popped-by | SCALE: - | OAES: S
+6 | A: insole | B: fan | ACT: flattered-by | SCALE: - | OAES: S
+7 | A: fan | B: potion(green) | ACT: splashed-with | SCALE: - | OAES: S
+8 | A: potion(green) | B: poodle(sad) | ACT: splashes | SCALE: - | OAES: S
+9 | A: poodle(sad) | B: parrot(mean) | ACT: disparages-all-as | SCALE: - | OAES: S
+10 | A: parrot(mean) | B: giant(sleepy) | ACT: sat-on-by | SCALE: B=giant | OAES: S
+## 34
+1 | A: giant(sleepy) | B: lion(iron, angry) | ACT: roared-at-by | SCALE: - | OAES: S
+2 | A: lion(iron, angry) | B: cat(many, mean) | ACT: runs-wild-with | SCALE: - | OAES: S
+3 | A: cat(many) | B: trainer | ACT: tamed-by | SCALE: - | OAES: S
+4 | A: trainer | B: shark(mean) | ACT: stalked-by | SCALE: - | OAES: S
+5 | A: shark | B: sloth(sleepy) | ACT: gets-lazy-as | SCALE: - | OAES: S
+6 | A: sloth(sleepy) | B: cake | ACT: calmed-by | SCALE: - | OAES: S
+7 | A: lion | B: manager(top hat) | ACT: returns-to | SCALE: - | OAES: S
+8 | A: manager(top hat) | B: mouse(scared) | ACT: helped-by | SCALE: B=tiny | OAES: S
+9 | A: mouse(scared) | B: caveman(angry) | ACT: awakens-a | SCALE: - | OAES: S
+10 | A: caveman(angry) | B: orator | ACT: inspires | SCALE: - | OAES: S
+## 35
+1 | A: orator | B: artist | ACT: meets | SCALE: - | OAES: S
+2 | A: artist | B: singer | ACT: sings-a-flowing | SCALE: - | OAES: S
+3 | A: singer | B: dancer | ACT: gets-a-rhythm | SCALE: - | OAES: S
+4 | A: dancer | B: lion | ACT: turns-into-a-man-who-is-a | SCALE: - | OAES: S
+5 | A: lion | B: alligator(crown) | ACT: tells-a-story-of | SCALE: - | OAES: S
+6 | A: alligator(crown) | B: tire | ACT: mocked-by-a-comic-on | SCALE: - | OAES: S
+7 | A: comedian | B: chef | ACT: answered-by | SCALE: - | OAES: S
+8 | A: chef | B: ball | ACT: tosses-words-like-a | SCALE: - | OAES: S
+9 | A: crowd | B: mountain(gold) | ACT: speaks-from | SCALE: - | OAES: S
+10 | A: mountain(gold) | B: machine | ACT: boils-down-in | SCALE: - | OAES: S
+## 36
+1 | A: machine | B: bottle(pink) | ACT: drips-into | SCALE: - | OAES: S
+2 | A: bottle(pink) | B: ant(crying) | ACT: makes-everyone-cry-at | SCALE: - | OAES: S
+3 | A: ant(crying) | B: chest(heart) | ACT: saves-every-memory-in | SCALE: - | OAES: S
+4 | A: chest | B: music-box | ACT: plays-a | SCALE: - | OAES: S
+5 | A: music-box | B: genie | ACT: evokes | SCALE: - | OAES: S
+6 | A: genie | B: shoe(many) | ACT: walks-in-your | SCALE: - | OAES: S
+7 | A: shoe | B: compass | ACT: acts-with | SCALE: - | OAES: S
+8 | A: compass | B: chick(scared) | ACT: finds | SCALE: - | OAES: S
+9 | A: chick | B: cat | ACT: plays-a-harp-as | SCALE: - | OAES: S
+10 | A: cat | B: giant(many) | ACT: leads-to-loyal | SCALE: - | OAES: S
+## 37
+1 | A: giant(many) | B: dog | ACT: swear-loyalty-like | SCALE: - | OAES: S
+2 | A: dog | B: firework | ACT: makes-a-vow-of | SCALE: - | OAES: S
+3 | A: firework | B: shoe(sad) | ACT: is-as-solemn-as | SCALE: - | OAES: S
+4 | A: shoe(sad) | B: stamp | ACT: seals-a-deal-with | SCALE: B=giant | OAES: S
+5 | A: stamp | B: grandma(many) | ACT: approved-by | SCALE: - | OAES: S
+6 | A: grandma(many) | B: crowd | ACT: form-a-solid-wall | SCALE: - | OAES: S
+7 | A: crowd | B: camera | ACT: share-a-photo-with | SCALE: - | OAES: S
+8 | A: camera | B: ant(many) | ACT: signs-an-alliance-with | SCALE: - | OAES: S
+9 | A: ant(many) | B: chef | ACT: trade-with | SCALE: - | OAES: S
+10 | A: cake | B: card | ACT: leaves-you-with | SCALE: - | OAES: S
+## 38
+1 | A: card | B: letter | ACT: carries-a-two-way | SCALE: - | OAES: S
+2 | A: letter | B: gambler(scared) | ACT: confuses | SCALE: - | OAES: S
+3 | A: gambler(scared) | B: lemon(yellow, many) | ACT: must-choose-between | SCALE: - | OAES: S
+4 | A: lemon(yellow, many) | B: cow(shock) | ACT: sink-into-a-maze-with | SCALE: - | OAES: S
+5 | A: cow(shock) | B: man | ACT: pauses-like | SCALE: - | OAES: S
+6 | A: man | B: drum | ACT: solves-a-cone-in | SCALE: - | OAES: S
+7 | A: drum | B: cat(shock) | ACT: perplexes | SCALE: - | OAES: S
+8 | A: cat(shock) | B: deli-owner | ACT: watches | SCALE: - | OAES: S
+9 | A: deli-owner | B: politician | ACT: annoyed-by | SCALE: - | OAES: S
+10 | A: politician | B: grandpa(smiling) | ACT: sits-to-remember-with | SCALE: - | OAES: S
+## 39
+1 | A: grandpa | B: lake | ACT: dives-into | SCALE: B=giant | OAES: S
+2 | A: lake | B: elephant | ACT: reveals-a | SCALE: - | OAES: S
+3 | A: elephant | B: lightbulb | ACT: switches-on-a | SCALE: - | OAES: S
+4 | A: lightbulb | B: turtle | ACT: glows-on | SCALE: - | OAES: S
+5 | A: turtle | B: owl(green) | ACT: advised-by | SCALE: - | OAES: S
+6 | A: owl(green) | B: statue(golden) | ACT: leaves-a | SCALE: - | OAES: S
+7 | A: statue | B: lightbulb | ACT: lights-up-your-brain-with | SCALE: - | OAES: S
+8 | A: lightbulb | B: lamp | ACT: lights-every-corner-with | SCALE: - | OAES: S
+9 | A: lamp | B: mentor | ACT: carried-by | SCALE: - | OAES: S
+10 | A: torch | B: ship(black) | ACT: senses-evil-from | SCALE: - | OAES: S
+## 40
+1 | A: ship(black) | B: net | ACT: about-to-drop | SCALE: - | OAES: S
+2 | A: net | B: ant | ACT: watched-all-night-by | SCALE: - | OAES: S
+3 | A: ant | B: soldier | ACT: guards-with | SCALE: - | OAES: S
+4 | A: soldier | B: lightning | ACT: hides-a-sleeping | SCALE: - | OAES: S
+5 | A: lightning | B: tent | ACT: pops-up-as-a-storm | SCALE: - | OAES: S
+6 | A: tent | B: card | ACT: shelters-a-deadly | SCALE: - | OAES: S
+7 | A: card | B: cat(black) | ACT: followed-by | SCALE: - | OAES: S
+8 | A: cat(black) | B: clock | ACT: warns-of | SCALE: - | OAES: S
+9 | A: clock | B: sailor(singing) | ACT: announced-by | SCALE: - | OAES: S
+10 | A: sailor(singing) | B: detective | ACT: questioned-by | SCALE: - | OAES: S
