@@ -147,24 +147,27 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
-    "man": ("npc:vagabond", None), "woman": ("npc:woman", None), "kid": ("tariq", None), "child": ("tariq", None), "boy": ("tariq", None),
-    "girl": ("npc:clerk", None), "baby": ("baby", None), "grandpa": ("hakim", None), "grandma": ("npc:oldwoman", None), "oldman": ("npc:oldman", None),
-    "king": ("caliph", None), "caliph": ("caliph", None), "sultan": ("caliph", None), "queen": ("queen_hind", None), "princess": ("npc:prince", None),
-    "prince": ("npc:prince", None), "sailor": ("sinbad", None), "pirate": ("marjana", "eyepatch"), "captain": ("npc:captain", None),
+    "glutton": ("npc:official", None), "mechanic": ("npc:inventor", "hammer"), "swimmer": ("npc:dyer", None),
+    "nomad": ("npc:vagabond", None),
+    "miner": ("npc:smith", "hammer"),
+    "man": ("npc:vagabond", None), "woman": ("npc:woman", None), "kid": ("npc:dyer", "small"), "child": ("npc:dyer", "small"), "boy": ("npc:dyer", "small"),
+    "girl": ("npc:clerk", "small"), "baby": ("baby", None), "grandpa": ("npc:oldman", None), "grandma": ("npc:oldwoman", None), "oldman": ("npc:oldman", None),
+    "king": ("caliph", None), "caliph": ("caliph", None), "sultan": ("caliph", None), "queen": ("npc:envoy", "queencrown"), "princess": ("npc:woman", "queencrown"),
+    "prince": ("npc:prince", None), "sailor": ("npc:captain", None), "pirate": ("npc:vagabond", "eyepatch"), "captain": ("npc:captain", None),
     "knight": ("npc:captain", "sword"), "soldier": ("npc:captain", "spear"), "guard": ("npc:captain", "spear"), "warrior": ("npc:captain", "sword"),
     "judge": ("npc:scholar", "gavel"), "scholar": ("npc:scholar", None), "professor": ("npc:scholar", None), "teacher": ("npc:scholar", None),
     "scientist": ("npc:inventor", "flask"), "inventor": ("npc:inventor", None), "doctor": ("npc:physician", None), "physician": ("npc:physician", None),
     "detective": ("npc:hooded", "magnifier"), "spy": ("npc:hooded", None), "thief": ("npc:hooded", "sack"), "ninja": ("npc:hooded", None),
-    "chef": ("npc:official", "chefhat"), "baker": ("abu_hasan", "chefhat"), "cook": ("npc:official", "chefhat"), "merchant": ("abu_hasan", None),
+    "chef": ("npc:official", "chefhat"), "baker": ("npc:official", "chefhat"), "cook": ("npc:official", "chefhat"), "merchant": ("npc:official", "coinbag"),
     "farmer": ("npc:farmer", None), "gardener": ("npc:farmer", None), "smith": ("npc:smith", None), "blacksmith": ("npc:smith", None),
     "poet": ("npc:poet", "scroll"), "singer": ("npc:poet", "notes"), "rapper": ("npc:dyer", "notes"), "orator": ("npc:envoy", "scroll"),
-    "diplomat": ("npc:envoy", None), "envoy": ("npc:envoy", None), "messenger": ("zayn", None), "courier": ("zayn", None), "clown": ("npc:dyer", "clown"),
-    "dancer": ("yasmin", None), "athlete": ("zayn", None), "weightlifter": ("npc:smith", "barbell"), "wizard": ("npc:inventor", "wizardhat"),
-    "rebel": ("marjana", None), "bully": ("npc:vagabond", None), "dude": ("zayn", None), "owner": ("npc:official", None), "wanderer": ("npc:vagabond", None),
-    "hermit": ("npc:oldman", None), "sage": ("hakim", None), "mayor": ("npc:official", None), "official": ("npc:official", None), "banker": ("npc:official", "coinbag"),
-    "miser": ("npc:official", "coinbag"), "lawyer": ("npc:scholar", "scroll"), "hero": ("zayn", None), "villain": ("zulmat", None), "vizier": ("zulmat", None),
-    "sorcerer": ("zulmat", None), "witch": ("npc:hooded", "wizardhat"), "monk": ("npc:hooded", None), "priest": ("npc:scholar", None), "student": ("layla", None),
-    "librarian": ("layla", None), "gymnast": ("yasmin", None), "acrobat": ("yasmin", None), "explorer": ("sinbad", None), "fisherman": ("npc:fishwoman", None),
+    "diplomat": ("npc:envoy", None), "envoy": ("npc:envoy", None), "messenger": ("npc:dyer", None), "courier": ("npc:dyer", None), "clown": ("npc:dyer", "clown"),
+    "dancer": ("npc:woman", None), "athlete": ("npc:dyer", None), "weightlifter": ("npc:smith", "barbell"), "wizard": ("npc:inventor", "wizardhat"),
+    "rebel": ("npc:vagabond", None), "bully": ("npc:vagabond", None), "dude": ("npc:dyer", None), "owner": ("npc:official", None), "wanderer": ("npc:vagabond", None),
+    "hermit": ("npc:oldman", None), "sage": ("npc:oldman", None), "mayor": ("npc:official", None), "official": ("npc:official", None), "banker": ("npc:official", "coinbag"),
+    "miser": ("npc:official", "coinbag"), "lawyer": ("npc:scholar", "scroll"), "hero": ("npc:dyer", "sword"), "villain": ("npc:hooded", None), "vizier": ("zulmat", None),
+    "sorcerer": ("npc:hooded", "wizardhat"), "witch": ("npc:hooded", "wizardhat"), "monk": ("npc:hooded", None), "priest": ("npc:scholar", None), "student": ("npc:clerk", "scroll"),
+    "librarian": ("npc:clerk", "scroll"), "gymnast": ("npc:woman", None), "acrobat": ("npc:dyer", None), "explorer": ("npc:captain", None), "fisherman": ("npc:fishwoman", None),
     "nurse": ("npc:physician", None), "carpenter": ("npc:smith", "hammer"), "builder": ("npc:smith", "hammer"), "painter": ("npc:dyer", "brush"),
     "musician": ("npc:poet", "notes"), "drummer": ("npc:dyer", "drum"), "referee": ("npc:official", "whistle"), "coach": ("npc:official", "whistle"),
     "person": ("npc:vagabond", None), "guy": ("npc:vagabond", None), "lady": ("npc:woman", None), "family": ("family", None), "crowd": ("crowd", None),
@@ -185,12 +188,15 @@ def person(role="man", expr="happy", c=None, **kw):
         return (gs(person("man", expr), -22, 0, 0.9) + gs(person("woman", expr), 20, 0, 0.85) + gs(person("kid", expr), 0, 0, 0.55))
     if kind == "baby":
         return (E(0, -18, 18, 16, c or "#f7f3e8", 3) + C(0, -46, 15, "#e8b98d", 3) + face(0, -48, 0.9, expr) + P("M-3,-60 q3,-6 6,0", "none", 2))
+    small = extra == "small"
+    if small: extra = None
     spec = dict(_role_spec(kind))
     if c: spec.update(tunic=c, sleeve=c)
     pose = {"judge": ("down", "up"), "knight": ("down", "up"), "soldier": ("down", "up"), "singer": ("down", "wave"), "orator": ("down", "point")}.get(role, ("down", "wave"))
     body = human(spec, "angry" if expr in ("mean", "angry") else "shock" if expr in ("shock", "scared", "gasp") else "sad" if expr in ("sad", "crying") else "happy", pose)
-    o = gs(body, 0, 0, 0.27)
-    if extra: o += _extra(extra, 0, -78)
+    sc = 0.2 if small else 0.27
+    o = gs(body, 0, 0, sc)
+    if extra: o += _extra(extra, 0, -300 * sc + 3)
     return o
 
 def _crowd_body(k, c):
@@ -200,6 +206,7 @@ def _crowd_body(k, c):
 
 def _extra(kind, x, top):
     """Role props, placed relative to a person's head top (x, top)."""
+    if kind == "queencrown": return P(f"M{x-12},{top+6} L{x-14},{top-10} L{x-6},{top-2} L{x},{top-14} L{x+6},{top-2} L{x+14},{top-10} L{x+12},{top+6} Z", "#f4c542", 2)
     if kind == "chefhat": return P(f"M{x-10},{top+8} v-8 q-8,-10 2,-14 q6,-10 14,0 q10,2 2,14 v8 Z", "#fff", 2)
     if kind == "wizardhat": return P(f"M{x-14},{top+6} L{x+2},{top-24} L{x+14},{top+6} Z", "#6b2fa0", 2) + sparkle(x + 2, top - 8, 4)
     if kind == "clown": return C(x + 10, top + 38, 4, "#e0533b", 1.5) + P(f"M{x-10},{top+4} L{x},{top-14} L{x+10},{top+4} Z", "#ffd23f", 2)
@@ -1058,6 +1065,45 @@ LIB_BATCH2 = ({"vase": _vase, "teddy": _teddy, "teddy-bear": _teddy, "bicycle": 
             "labyrinth": _maze, "tray": _tray, "broccoli": _broccoli, "bus": _bus, "question": _question, "question-mark": _question, "quiz": _question,
             "riddle": _question, "cave": _cave, "stairs": _stairs, "staircase": _stairs, "stair": _stairs, "steps": _stairs})
 
+# ---- library growth · batch 3 (chapters 21-30)
+def _carpet(c=None, **k):
+    c = c or "#a0303a"
+    return (P("M-44,-30 Q-20,-44 0,-34 Q20,-24 44,-38 L40,-14 Q20,0 0,-10 Q-20,-20 -44,-6 Z", c, 3) + P("M-36,-24 Q-18,-34 0,-26 Q18,-18 36,-30", "none", 2, "#f4c542")
+            + "".join(L(-44 + j * 0, -30 + j * 6, -52, -32 + j * 6, "#f4c542", 2) for j in range(4)) + P("M-10,-26 l6,-4 l6,4 l-6,4 Z", "#f4c542", 1.5))
+
+def _lure(c=None, **k):
+    c = c or "#ffd23f"
+    return L(0, -86, 0, -60, "#9aa8b8", 1.5) + P("M-18,-58 Q0,-70 18,-58 Q10,-40 0,-36 Q-10,-40 -18,-58 Z", c, 3) + C(-8, -56, 3, INK, 0) + P("M0,-36 V-14 Q0,-2 -10,-6", "none", 3, "#9aa8b8") + sparkle(22, -66, 6)
+
+def _beehive(c=None, **k):
+    c = c or "#f0b030"
+    return (L(0, -84, 0, -76, "#6b4a2a", 3) + "".join(E(0, y, w, 8, c, 2.5) for y, w in [(-70, 16), (-56, 26), (-40, 32), (-24, 30), (-10, 22)])
+            + P("M-6,-10 Q0,-22 6,-10 Z", "#6b4a2a", 1.5) + gs(bug("#ffd23f", segs=2, wings=True, stripes=INK), 34, -50, 0.35))
+
+def _gong(c=None, **k):
+    c = c or "#d9a441"
+    return L(-36, 0, -36, -84, "#8a5a2b", 5) + L(36, 0, 36, -84, "#8a5a2b", 5) + L(-40, -82, 40, -82, "#8a5a2b", 6) + L(-10, -82, -8, -70, INK, 1.5) + L(10, -82, 8, -70, INK, 1.5) + C(0, -44, 26, c, 3) + C(0, -44, 10, shade(c, 0.75), 2)
+
+def _tape(c=None, **k):
+    c = c or "#9aa8b8"
+    return C(0, -34, 28, c, 3) + C(0, -34, 12, "#fff", 2.5) + P("M24,-20 L46,-6 L40,4 L18,-10", c, 2.5)
+
+def _tire(c=None, expr=None, **k):
+    return C(0, -36, 34, c or "#2a2a33", 3) + C(0, -36, 16, "#9aa8b8", 3) + "".join(L(22 * math.cos(a), -36 + 22 * math.sin(a), 32 * math.cos(a), -36 + 32 * math.sin(a), "#555", 3) for a in [j * math.pi / 5 for j in range(10)]) + (face(0, -36, 0.5, expr) if expr and expr != "happy" else "")
+
+def _press(c=None, **k):
+    c = c or "#6b6b78"
+    return (f'<rect x="-40" y="-84" width="80" height="12" fill="{c}" stroke="{INK}" stroke-width="3"/>' + L(-34, -72, -34, 0, c, 6) + L(34, -72, 34, 0, c, 6)
+            + L(0, -72, 0, -44, "#9aa8b8", 8) + f'<rect x="-28" y="-44" width="56" height="12" fill="{shade(c,0.8)}" stroke="{INK}" stroke-width="3"/>'
+            + f'<rect x="-30" y="-8" width="60" height="8" fill="#e0c28a" stroke="{INK}" stroke-width="2.5"/>' + "".join(P(f"M{x},-18 l3,6 l3,-6", "none", 2, "#fff") for x in (-20, 0, 18)))
+
+def _sausage(c=None, expr="happy", **k):
+    c = c or "#c0503a"
+    return P("M-40,-20 Q-44,-44 -20,-44 H20 Q44,-44 40,-20 Q36,-6 20,-8 H-20 Q-36,-6 -40,-20 Z", c, 3) + "".join(C(x, -28, 2.5, "#f3d9c8", 0) for x in (-24, -8, 10, 26)) + face(0, -30, 0.55, expr)
+
+LIB_BATCH3 = {"carpet": _carpet, "magic-carpet": _carpet, "rug": _carpet, "lure": _lure, "bait": _lure, "beehive": _beehive, "hive": _beehive,
+              "gong": _gong, "tape": _tape, "duct-tape": _tape, "tire": _tire, "tyre": _tire, "press": _press, "sausage": _sausage, "salami": _sausage}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1287,12 +1333,14 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
               "wildebeest": "bull", "gnu": "bull", "stag": "deer", "labrador": "dog", "parsnip": "carrot", "spire": "tower",
               "charmer": "musician", "snake-charmer": "musician", "barber": "smith", "dictator": "official", "santa": "grandpa", "sandal": "shoe",
+              "fax": "machine", "printer": "machine", "melon": "watermelon", "collie": "dog", "jackal": "fox", "wagon": "cart",
+              "salami-cat": "cat", "doctors": "doctor", "flour": "sack", "hummingbird": "bird", "copper": "clay",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):

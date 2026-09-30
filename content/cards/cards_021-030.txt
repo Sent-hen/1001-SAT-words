@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 21-30 · reviewed by hand against each L: line
+## 21
+1 | A: bus(many) | B: crowd | ACT: unload-a-throne-carrying | SCALE: B=giant | OAES: S
+2 | A: crowd | B: swimmer(many) | ACT: dives-in-from-everywhere | SCALE: - | OAES: S
+3 | A: swimmer(many) | B: clock(many) | ACT: shop-for-odd | SCALE: - | OAES: S
+4 | A: clock(many) | B: parrot(rainbow) | ACT: bursts-into-colour | SCALE: - | OAES: S
+5 | A: parrot | B: alien(many) | ACT: hosts-a-space-party | SCALE: - | OAES: S
+6 | A: alien(many) | B: coin(many) | ACT: trade-commas-for | SCALE: - | OAES: S
+7 | A: coin(many) | B: robot | ACT: run-by | SCALE: - | OAES: S
+8 | A: robot | B: robot(many) | ACT: copied-everywhere | SCALE: - | OAES: S
+9 | A: robot(many) | B: mule(many) | ACT: cause-a-stampede | SCALE: - | OAES: S
+10 | A: mule(many) | B: spy | ACT: sent-by | SCALE: - | OAES: S
+## 22
+1 | A: spy | B: woman(mean, black) | ACT: hides-behind | SCALE: - | OAES: S
+2 | A: woman(mean, black) | B: submarine | ACT: flips-a | SCALE: - | OAES: S
+3 | A: submarine | B: medal(many) | ACT: joined-by | SCALE: - | OAES: S
+4 | A: medal | B: miner | ACT: undermines-a-tower | SCALE: - | OAES: S
+5 | A: tower | B: raccoon | ACT: tampered-with-by | SCALE: - | OAES: S
+6 | A: raccoon | B: monster(mean) | ACT: sent-by | SCALE: - | OAES: S
+7 | A: monster(mean) | B: hole | ACT: falls-into | SCALE: - | OAES: S
+8 | A: thief | B: pig | ACT: out-foxed-by | SCALE: - | OAES: S
+9 | A: pig | B: frog | ACT: thwarted-by | SCALE: - | OAES: S
+10 | A: frog | B: carpet | ACT: knocked-off-by | SCALE: - | OAES: S
+## 23
+1 | A: carpet | B: goat | ACT: ridden-by | SCALE: - | OAES: S
+2 | A: goat | B: fish | ACT: chased-by | SCALE: - | OAES: S
+3 | A: fish | B: dancer(many) | ACT: enters-a-wild-dance | SCALE: - | OAES: S
+4 | A: dancer(many) | B: wagon | ACT: spins-off-a | SCALE: - | OAES: S
+5 | A: wagon | B: kid(many) | ACT: joins-a-wild-class | SCALE: - | OAES: S
+6 | A: kid(many) | B: cart | ACT: careen-downhill-in | SCALE: - | OAES: S
+7 | A: cart | B: lawyer | ACT: pursued-by | SCALE: - | OAES: S
+8 | A: lawyer | B: chef(angry) | ACT: exasperates | SCALE: - | OAES: S
+9 | A: chef(angry) | B: bull | ACT: saved-by | SCALE: B=tiny | OAES: S
+10 | A: bull | B: ant(pink) | ACT: lands-among-rose | SCALE: - | OAES: S
+## 24
+1 | A: ant(pink) | B: clock | ACT: rides | SCALE: - | OAES: S
+2 | A: clock | B: vase(purple) | ACT: spreads-smoke-from | SCALE: - | OAES: S
+3 | A: smoke(purple) | B: submarine | ACT: hides | SCALE: B=tiny | OAES: S
+4 | A: submarine | B: lure | ACT: pulled-by | SCALE: - | OAES: S
+5 | A: lure | B: potion | ACT: spiked-with | SCALE: - | OAES: S
+6 | A: potion | B: syrup | ACT: mixed-with | SCALE: - | OAES: S
+7 | A: syrup | B: cake | ACT: hides-a-glue | SCALE: - | OAES: S
+8 | A: cake | B: shop | ACT: sits-before-a-fake | SCALE: - | OAES: S
+9 | A: shop | B: soup(red) | ACT: falls-into | SCALE: - | OAES: S
+10 | A: soup(red) | B: owl | ACT: served-to | SCALE: - | OAES: S
+## 25
+1 | A: owl | B: ant(glasses) | ACT: corrected-by | SCALE: - | OAES: S
+2 | A: ant | B: door | ACT: guards | SCALE: - | OAES: S
+3 | A: door | B: book | ACT: leads-to-a | SCALE: B=giant | OAES: S
+4 | A: book | B: girl | ACT: scribbled-on-by | SCALE: - | OAES: S
+5 | A: book | B: beehive | ACT: filed-in | SCALE: B=giant | OAES: S
+6 | A: beehive | B: lizard | ACT: studied-by | SCALE: - | OAES: S
+7 | A: lizard | B: rabbit(many) | ACT: is-outdone-by | SCALE: - | OAES: S
+8 | A: rabbit | B: parrot(talking) | ACT: talks-to | SCALE: - | OAES: S
+9 | A: parrot(talking) | B: kitten(many) | ACT: meets | SCALE: - | OAES: S
+10 | A: kitten(many) | B: clay | ACT: hammered-into | SCALE: - | OAES: S
+## 26
+1 | A: clay | B: monster(angry, shouting) | ACT: hammered-by | SCALE: B=giant | OAES: S
+2 | A: monster(angry) | B: band | ACT: joins-a-clashing | SCALE: - | OAES: S
+3 | A: band | B: weightlifter | ACT: drowned-out-by | SCALE: - | OAES: S
+4 | A: weightlifter | B: crowd(shouting) | ACT: crashes-a-concert | SCALE: - | OAES: S
+5 | A: crowd | B: ant(talking) | ACT: never-stops | SCALE: - | OAES: S
+6 | A: ant(talking) | B: gong | ACT: bangs-a | SCALE: - | OAES: S
+7 | A: gong | B: baby(angry) | ACT: calms-a | SCALE: - | OAES: S
+8 | A: baby | B: duck | ACT: stretched-by | SCALE: - | OAES: S
+9 | A: duck | B: robot | ACT: builds-a-sturdy | SCALE: - | OAES: S
+10 | A: robot | B: santa | ACT: invited-by | SCALE: - | OAES: S
+## 27
+1 | A: santa | B: glutton | ACT: sits-beside | SCALE: - | OAES: S
+2 | A: glutton | B: grandpa(smiling) | ACT: spoiled-by | SCALE: - | OAES: S
+3 | A: grandpa | B: coin(many) | ACT: speaks-in | SCALE: - | OAES: S
+4 | A: man | B: genie | ACT: meets | SCALE: - | OAES: S
+5 | A: genie | B: jackal | ACT: jokes-with | SCALE: - | OAES: S
+6 | A: jackal | B: clown | ACT: jokes-at-a-funeral | SCALE: - | OAES: S
+7 | A: clown | B: nurse | ACT: welcomed-by | SCALE: - | OAES: S
+8 | A: nurse | B: bear(sleepy) | ACT: feeds | SCALE: - | OAES: S
+9 | A: bear(sleepy) | B: cake | ACT: dreams-of | SCALE: - | OAES: S
+10 | A: cake | B: bird(many) | ACT: carried-off-by | SCALE: - | OAES: S
+## 28
+1 | A: bird(many) | B: peacock(purple) | ACT: show-off | SCALE: - | OAES: S
+2 | A: peacock(purple) | B: cage | ACT: locked-in | SCALE: - | OAES: S
+3 | A: cage | B: box | ACT: squeezed-into | SCALE: B=tiny | OAES: S
+4 | A: box | B: eagle | ACT: bursts-out-and-soars | SCALE: - | OAES: S
+5 | A: eagle | B: cheese | ACT: breaks-free-of | SCALE: - | OAES: S
+6 | A: bird | B: hummingbird | ACT: flits-as | SCALE: - | OAES: S
+7 | A: hummingbird | B: sack(white) | ACT: lands-in-flour | SCALE: - | OAES: S
+8 | A: flower(many) | B: chick | ACT: shelters | SCALE: - | OAES: S
+9 | A: chick | B: parrot(scared) | ACT: watched-by | SCALE: - | OAES: S
+10 | A: parrot(scared) | B: magician | ACT: fooled-by | SCALE: - | OAES: S
+## 29
+1 | A: elephant(ghostly) | B: mirror | ACT: walks-into | SCALE: - | OAES: S
+2 | A: cake | B: detective | ACT: looks-inward-as | SCALE: - | OAES: S
+3 | A: detective | B: peacock | ACT: meets | SCALE: - | OAES: S
+4 | A: peacock | B: doctor(many) | ACT: faces | SCALE: - | OAES: S
+5 | A: doctor(many) | B: fax | ACT: faxed-into | SCALE: - | OAES: S
+6 | A: fax | B: cat(many) | ACT: copies-into | SCALE: - | OAES: S
+7 | A: cat | B: sausage | ACT: thinks-he-is-a | SCALE: - | OAES: S
+8 | A: sausage | B: cat(glasses) | ACT: checked-by | SCALE: - | OAES: S
+9 | A: cat(glasses) | B: van | ACT: laughs-at | SCALE: - | OAES: S
+10 | A: van | B: horse(angry) | ACT: hijacked-by | SCALE: - | OAES: S
+## 30
+1 | A: horse(angry) | B: house | ACT: rips-the-roof-off | SCALE: - | OAES: S
+2 | A: house | B: mechanic(sad) | ACT: leaves-a | SCALE: - | OAES: S
+3 | A: mechanic(sad) | B: genie(crying) | ACT: cries-with | SCALE: - | OAES: S
+4 | A: genie(crying) | B: tape | ACT: abducted-with | SCALE: - | OAES: S
+5 | A: tape | B: money | ACT: held-for | SCALE: B=giant | OAES: S
+6 | A: money | B: foot(mean) | ACT: signed-by | SCALE: - | OAES: S
+7 | A: foot | B: pot(angry) | ACT: belongs-to | SCALE: - | OAES: S
+8 | A: pot(angry) | B: tire(mean) | ACT: builds-a-machine-of | SCALE: - | OAES: S
+9 | A: tire(mean) | B: press | ACT: squashes-the-city-in | SCALE: B=giant | OAES: S
+10 | A: press | B: collie(sad) | ACT: squeezes-a-tear-for | SCALE: - | OAES: S
