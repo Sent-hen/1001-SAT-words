@@ -147,6 +147,8 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "butler": ("npc:official", None), "auctioneer": ("npc:official", "gavel"), "reaper": ("npc:hooded", "spear"), "hypnotist": ("npc:poet", "wizardhat"),
+    "host": ("npc:envoy", None), "racer": ("npc:dyer", None), "taster": ("npc:official", "chefhat"),
     "artisan": ("npc:woman", "hammer"), "tailor": ("npc:woman", "scroll"), "collector": ("npc:scholar", "scroll"), "jeweler": ("npc:official", "magnifier"),
     "composer": ("npc:poet", "notes"), "conductor": ("npc:poet", "notes"),
     "trainer": ("npc:captain", "whistle"), "manager": ("npc:official", None), "caveman": ("npc:vagabond", "hammer"), "mentor": ("npc:oldman", "scroll"),
@@ -1200,6 +1202,22 @@ LIB_BATCH6 = {"stain": _stain, "blot": _stain, "ink-stain": _stain, "jeans": _je
               "scissors": _scissors, "bridge": _bridge, "sprout": _sprout, "seedling": _sprout, "seed": _sprout, "club": _club, "blob": _blob, "slime": _blob,
               "poster": _poster, "plant": _plant, "salvage-crane": _salvagecrane, "crane-machine": _salvagecrane}
 
+# ---- library growth · batch 7 (chapters 61-70)
+def _grapes(c=None, **k):
+    c = c or "#8a4fc8"
+    return L(0, -80, 2, -70, "#6b4a2a", 3) + P("M2,-74 q14,-8 20,2 q-12,4 -20,-2 Z", "#3f9b4a", 1.5) + "".join(C(x, y, 8, c, 2) for x, y in [(-12, -62), (0, -64), (12, -62), (-6, -48), (6, -48), (0, -34), (0, -20)])
+
+def _windmill(c=None, **k):
+    c = c or "#e8d6b0"
+    return (P("M-16,0 L-10,-56 H10 L16,0 Z", c, 3) + P("M-12,-56 L0,-68 L12,-56 Z", "#c0262d", 2.5) + P("M-6,0 v-14 h12 v14", "#6b4a2a", 2)
+            + "".join(P(f"M0,-60 L{40*math.cos(a):.1f},{-60+40*math.sin(a):.1f} L{40*math.cos(a+0.3):.1f},{-60+40*math.sin(a+0.3):.1f} Z", "#f7f3e8", 2) for a in (0.4, 2.0, 3.5, 5.1)) + C(0, -60, 4, INK, 0))
+
+def _log(c=None, **k):
+    c = c or "#a0703a"
+    return f'<rect x="-40" y="-40" width="72" height="30" rx="4" fill="{c}" stroke="{INK}" stroke-width="3"/>' + E(32, -25, 9, 15, "#e0c28a", 3) + C(32, -25, 5, "none", 1.5, shade(c, 0.7)) + L(-30, -32, 20, -32, shade(c, 0.7), 1.5) + L(-26, -20, 16, -20, shade(c, 0.7), 1.5)
+
+LIB_BATCH7 = {"grapes": _grapes, "grape": _grapes, "windmill": _windmill, "log": _log, "timber": _log, "wood": _log}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1429,7 +1447,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1441,6 +1459,8 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "viking": "warrior", "marshal": "soldier", "fire-truck": "car", "firetruck": "car", "hermit-crab": "crab", "olive": "apple",
               "soda": "bottle", "squid-wander": "octopus", "dunk-tank": "pool", "ember": "fire", "campfire": "fire", "patient": "man", "lady": "woman",
               "cling-film": "tape", "cupcake": "cake", "juice": "bottle", "album": "book", "swamp": "pool", "dinosaur": "dragon", "icon": "statue",
+              "prune": "apple", "clementine": "apple", "chimera": "monster", "apparition": "ghost", "hallway": "door", "vandal": "painter",
+              "cable": "rope", "empress": "queen", "grim-reaper": "reaper", "fig": "apple", "dough": "bread", "morse": "letter",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):

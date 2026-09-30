@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 61-70 · reviewed by hand against each L: line
+## 61
+1 | A: judge | B: judge(blindfold) | ACT: takes-no-side-as | SCALE: - | OAES: S
+2 | A: judge | B: dictionary | ACT: reads-the-final | SCALE: - | OAES: S
+3 | A: dictionary | B: prune | ACT: read-by | SCALE: - | OAES: S
+4 | A: prune | B: taster | ACT: tastes-like | SCALE: - | OAES: S
+5 | A: taster | B: scales(tilted) | ACT: exposes | SCALE: - | OAES: S
+6 | A: scales | B: judge(mean) | ACT: carry-prejudice-to | SCALE: - | OAES: S
+7 | A: judge(mean) | B: table | ACT: overruled-by-an-equal | SCALE: - | OAES: S
+8 | A: table | B: cat(judge wig) | ACT: ruled-on-by | SCALE: - | OAES: S
+9 | A: cat | B: crowd(angry) | ACT: booed-by | SCALE: - | OAES: S
+10 | A: crowd(angry) | B: tent | ACT: joined-by-a-traveler-with | SCALE: - | OAES: S
+## 62
+1 | A: tent | B: camel | ACT: rides-with-a-family-on | SCALE: - | OAES: S
+2 | A: camel | B: dog(glasses) | ACT: meets-a-walking-teacher | SCALE: - | OAES: S
+3 | A: dog | B: island | ACT: takes-a-short-stay-on | SCALE: - | OAES: S
+4 | A: island | B: bubble | ACT: lasts-as-briefly-as | SCALE: - | OAES: S
+5 | A: bubble | B: explorer(many) | ACT: floats-off-with | SCALE: - | OAES: S
+6 | A: explorer(many) | B: ship | ACT: sets-off-on-an-odd | SCALE: - | OAES: S
+7 | A: ship | B: wanderer | ACT: meets | SCALE: - | OAES: S
+8 | A: wanderer | B: dog(talking) | ACT: barks-and-boards | SCALE: - | OAES: S
+9 | A: dog | B: emu | ACT: leaves-forever-as | SCALE: - | OAES: S
+10 | A: emu | B: racer | ACT: meets-his | SCALE: - | OAES: S
+## 63
+1 | A: racer | B: fly | ACT: vies-with | SCALE: - | OAES: S
+2 | A: fly | B: spider(mean) | ACT: faces | SCALE: - | OAES: S
+3 | A: spider(mean) | B: tack(many) | ACT: throws | SCALE: - | OAES: S
+4 | A: tack(many) | B: weightlifter | ACT: make-strain | SCALE: - | OAES: S
+5 | A: weightlifter | B: mountain | ACT: passes-over-the-top-of | SCALE: - | OAES: S
+6 | A: mountain | B: zebra | ACT: outrun-by | SCALE: - | OAES: S
+7 | A: zebra | B: stamp(many) | ACT: runs-on | SCALE: - | OAES: S
+8 | A: stamp | B: ant(gold) | ACT: makes-jubilant | SCALE: - | OAES: S
+9 | A: ant(gold) | B: van | ACT: beats-a-dragon-with | SCALE: - | OAES: S
+10 | A: van | B: king(cloud) | ACT: announced-by | SCALE: - | OAES: S
+## 64
+1 | A: king | B: eagle(crown) | ACT: is-as-regal-as | SCALE: - | OAES: S
+2 | A: eagle(crown) | B: mountain(crown) | ACT: is-as-majestic-as | SCALE: B=giant | OAES: S
+3 | A: mountain | B: robot(crown) | ACT: ruled-by | SCALE: - | OAES: S
+4 | A: robot(crown) | B: butler | ACT: replaced-by | SCALE: - | OAES: S
+5 | A: butler | B: scroll | ACT: reads-a-royal | SCALE: - | OAES: S
+6 | A: scroll | B: grandma | ACT: signed-by | SCALE: - | OAES: S
+7 | A: grandma | B: author | ACT: speaks-like | SCALE: - | OAES: S
+8 | A: author | B: empress(mean) | ACT: has-a-bossy-sister | SCALE: - | OAES: S
+9 | A: empress(mean) | B: clementine | ACT: shows-mercy-with | SCALE: - | OAES: S
+10 | A: clementine | B: chimera | ACT: grows-into | SCALE: - | OAES: S
+## 65
+1 | A: chimera | B: elephant(ghostly) | ACT: makes-you-see | SCALE: - | OAES: S
+2 | A: hallway | B: ghost | ACT: haunted-by | SCALE: - | OAES: S
+3 | A: ghost | B: specter(black) | ACT: followed-by | SCALE: B=giant | OAES: S
+4 | A: specter(black) | B: apparition | ACT: calls-up | SCALE: - | OAES: S
+5 | A: apparition | B: clock(melting) | ACT: walks-into-a-world-of | SCALE: - | OAES: S
+6 | A: clock | B: fig(green) | ACT: is-only-a | SCALE: - | OAES: S
+7 | A: fig(green) | B: grapes | ACT: dangles-out-of-reach | SCALE: - | OAES: S
+8 | A: grapes | B: queen | ACT: used-to-quench-by | SCALE: - | OAES: S
+9 | A: queen | B: desert | ACT: wanders-into | SCALE: - | OAES: S
+10 | A: desert | B: skeleton | ACT: home-to | SCALE: - | OAES: S
+## 66
+1 | A: skeleton | B: auctioneer | ACT: bid-on-by | SCALE: - | OAES: S
+2 | A: auctioneer | B: octopus(green) | ACT: opens-a-box-of | SCALE: - | OAES: S
+3 | A: box | B: ghost(scared) | ACT: opened-by | SCALE: - | OAES: S
+4 | A: ghost | B: door(black) | ACT: spreads-dread-behind | SCALE: - | OAES: S
+5 | A: door | B: fly(stone) | ACT: petrifies | SCALE: - | OAES: S
+6 | A: fly(stone) | B: rollercoaster | ACT: survives-a-spiky | SCALE: - | OAES: S
+7 | A: rollercoaster | B: reaper | ACT: ends-at | SCALE: - | OAES: S
+8 | A: reaper | B: house(rusty) | ACT: lives-in | SCALE: - | OAES: S
+9 | A: house | B: vandal | ACT: defaced-by | SCALE: - | OAES: S
+10 | A: vandal | B: seed(many) | ACT: hands-over | SCALE: - | OAES: S
+## 67
+1 | A: seed(many) | B: pizza | ACT: lead-to-a-half-half | SCALE: - | OAES: S
+2 | A: pizza | B: diplomat | ACT: delivered-by | SCALE: - | OAES: S
+3 | A: diplomat | B: tv | ACT: calls-in | SCALE: - | OAES: S
+4 | A: tv | B: clown | ACT: is-as-peaceful-as | SCALE: - | OAES: S
+5 | A: clown | B: cable | ACT: connected-to-a-friend-by | SCALE: - | OAES: S
+6 | A: cable | B: phone | ACT: connects-to | SCALE: - | OAES: S
+7 | A: phone | B: rapper | ACT: builds-rapport-like | SCALE: - | OAES: S
+8 | A: rapper | B: cake | ACT: everyone-agrees-on | SCALE: - | OAES: S
+9 | A: cake | B: rope | ACT: seal-an-accord-with | SCALE: - | OAES: S
+10 | A: rope | B: fan | ACT: used-to-ventilate-with | SCALE: - | OAES: S
+## 68
+1 | A: fan | B: windmill | ACT: runs-forever-like | SCALE: - | OAES: S
+2 | A: windmill | B: desert | ACT: stands-in-an-arid | SCALE: - | OAES: S
+3 | A: desert | B: jungle | ACT: sits-next-to | SCALE: - | OAES: S
+4 | A: jungle | B: porridge | ACT: cools-to-just-right | SCALE: - | OAES: S
+5 | A: porridge | B: tomato(crying) | ACT: left-in-the-sun-with | SCALE: - | OAES: S
+6 | A: tomato | B: hole | ACT: rests-in-a-shady | SCALE: - | OAES: S
+7 | A: hole | B: moon(sad) | ACT: ruined-by-a-sweaty | SCALE: - | OAES: S
+8 | A: moon | B: fridge(frozen) | ACT: replaced-by | SCALE: - | OAES: S
+9 | A: fridge(frozen) | B: volcano | ACT: thrown-into | SCALE: B=giant | OAES: S
+10 | A: volcano | B: bird(singing) | ACT: cooled-by | SCALE: - | OAES: S
+## 69
+1 | A: bird(singing) | B: choir | ACT: joins | SCALE: - | OAES: S
+2 | A: choir | B: dove(singing) | ACT: joined-by | SCALE: - | OAES: S
+3 | A: dove(singing) | B: mermaid(singing) | ACT: sings-a-serenade-with | SCALE: - | OAES: S
+4 | A: mermaid | B: rapper | ACT: turns-into | SCALE: - | OAES: S
+5 | A: rapper | B: moon | ACT: builds-to-a-rising | SCALE: B=giant | OAES: S
+6 | A: moon | B: log | ACT: has-the-timbre-of | SCALE: - | OAES: S
+7 | A: log | B: boat | ACT: floats-on-a-rocking | SCALE: - | OAES: S
+8 | A: boat | B: kid(many) | ACT: filled-with-joyful | SCALE: - | OAES: S
+9 | A: kid(many) | B: hypnotist | ACT: mesmerized-by | SCALE: - | OAES: S
+10 | A: clock | B: thief(sad) | ACT: makes-repent | SCALE: - | OAES: S
+## 70
+1 | A: thief(sad) | B: crow(sad) | ACT: is-as-sorry-as | SCALE: - | OAES: S
+2 | A: crow(sad) | B: morse | ACT: taps-sorry-in | SCALE: - | OAES: S
+3 | A: letter | B: judge | ACT: absolved-by | SCALE: - | OAES: S
+4 | A: judge | B: girl | ACT: lets-atone | SCALE: - | OAES: S
+5 | A: girl | B: nest | ACT: granted-amnesty-in | SCALE: - | OAES: S
+6 | A: nest | B: priest | ACT: reprieved-by | SCALE: - | OAES: S
+7 | A: priest | B: rabbit | ACT: vindicates | SCALE: - | OAES: S
+8 | A: rabbit | B: stamp | ACT: exonerated-by | SCALE: - | OAES: S
+9 | A: stamp | B: machine | ACT: leads-to-reform-in | SCALE: - | OAES: S
+10 | A: hammer | B: horse(many) | ACT: rides-a-train-of | SCALE: - | OAES: S
