@@ -35,6 +35,35 @@ def validate(chs, D):
             st = f"Station {i+1} ·"
             if "loci" in f and not f["loci"].startswith(st): errs.append(f"ch{n} {f['word']} loci prefix")
     return errs
+def _noun(spec):
+    """'gnome(lying, green-moon hat)' -> ('gnome', ['lying', 'green-moon hat'])"""
+    m = re.match(r"^\s*([^()]+?)\s*(?:\((.*)\))?\s*$", spec)
+    if not m: raise ValueError(f"bad object spec: {spec!r}")
+    return m.group(1).strip(), [x.strip() for x in (m.group(2) or "").split(",") if x.strip()]
+
+def parse_cards(files):
+    """Memory-Card specs (content/cards/cards_*.txt) -> {chapter: {frame_no 1..10: card}}.
+    Line:  k | A: noun(mods) | B: noun(mods) | ACT: slug | SCALE: A=giant,B=tiny | OAES: O,A,S
+    '#' starts a comment. Missing chapters/frames are simply absent (memcard falls back)."""
+    cards, cur = {}, None
+    for f in sorted(files):
+        for raw in open(f, encoding="utf-8"):
+            line = raw.split("#", 1)[0].strip() if not raw.lstrip().startswith("##") else raw.strip()
+            if not line: continue
+            if line.startswith("## "):
+                cur = int(line[3:].strip()); cards.setdefault(cur, {}); continue
+            parts = [p.strip() for p in line.split("|")]
+            k = int(parts[0])
+            kv = dict((p.split(":", 1)[0].strip().upper(), p.split(":", 1)[1].strip()) for p in parts[1:])
+            scale = {}
+            for s in kv.get("SCALE", "-").split(","):
+                if "=" in s: a, b = s.split("="); scale[a.strip().upper()] = b.strip().lower()
+            oaes = [x.strip().upper() for x in kv.get("OAES", "-").split(",") if x.strip() and x.strip() != "-"]
+            if cur is None or not 1 <= k <= 10: raise ValueError(f"{f}: bad card line {line[:60]}")
+            cards[cur][k] = {"a": _noun(kv["A"]), "b": _noun(kv["B"]), "act": kv.get("ACT", "-").strip("- ") and kv.get("ACT"),
+                             "scale": scale, "oaes": oaes}
+    return cards
+
 if __name__ == "__main__":
     import sys
     chs = parse(glob.glob("content/b*.txt"))

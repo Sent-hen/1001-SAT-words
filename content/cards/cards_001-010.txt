@@ -1,0 +1,13 @@
+# Memory Card specs · chapters 1-10 · one line per frame (see tools/draft_cards.py for the format)
+# k | A: object of word k (mods) | B: object of word k+1 (mods) | ACT: what A does to/with B | SCALE | OAES used by the L: line
+## 1
+1 | A: gnome(lying, green-moon hat) | B: crow(mean, many) | ACT: bursts-out-of-mouth | SCALE: A=giant | OAES: O,A,S
+2 | A: crow(mean) | B: imp(red) | ACT: rides-like-rocket | SCALE: - | OAES: A,E
+3 | A: imp(red) | B: king(shock) | ACT: snatches-crown-as-tutu | SCALE: B=giant | OAES: O,S
+4 | A: imp(red, crown tutu) | B: baker(smiling) | ACT: showers-with-loaves | SCALE: B=giant | OAES: O,A,E
+5 | A: bread(many) | B: tick(monocle) | ACT: rains-on | SCALE: B=giant | OAES: A,E,S
+6 | A: tick(monocle) | B: candy(talking) | ACT: pokes-and-bursts | SCALE: B=giant | OAES: A,S
+7 | A: candy(talking) | B: pickle(top hat) | ACT: gulps | SCALE: - | OAES: A,E,S
+8 | A: pickle(top hat) | B: monster(spiky, mean) | ACT: kicks-over | SCALE: B=giant | OAES: O,A,S
+9 | A: monster(spiky, mean) | B: ball(rubber) | ACT: stomps-then-bounces | SCALE: - | OAES: A,E,S
+10 | A: ball(rubber) | B: fish(shock) | ACT: rolls-into-mouth | SCALE: B=giant | OAES: O
