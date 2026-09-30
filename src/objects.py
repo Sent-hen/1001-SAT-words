@@ -147,6 +147,7 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "curator": ("npc:scholar", "magnifier"), "interpreter": ("npc:envoy", "scroll"), "mime": ("npc:dyer", "clown"), "hedonist": ("npc:prince", None),
     "bride": ("npc:woman", "queencrown"), "fortune-teller": ("npc:hooded", None), "accuser": ("npc:official", None),
     "butler": ("npc:official", None), "auctioneer": ("npc:official", "gavel"), "reaper": ("npc:hooded", "spear"), "hypnotist": ("npc:poet", "wizardhat"),
     "host": ("npc:envoy", None), "racer": ("npc:dyer", None), "taster": ("npc:official", "chefhat"),
@@ -1243,6 +1244,38 @@ def _spoon(c=None, expr=None, **k):
 LIB_BATCH8 = {"burrito": _burrito, "wrap": _burrito, "newspaper": _newspaper, "news": _newspaper, "headline": _newspaper, "yarn": _yarn,
               "conveyor": _conveyor, "conveyor-belt": _conveyor, "belt": _conveyor, "spoon": _spoon}
 
+# ---- library growth · batch 9 (chapters 81-90)
+def _sieve(c=None, **k):
+    c = c or "#9aa8b8"
+    return E(0, -40, 32, 10, c, 3) + P("M-32,-40 Q-30,-6 0,-6 Q30,-6 32,-40", "#dfe6f0", 3) + "".join(C(x, y, 1.6, INK, 0) for x in range(-20, 24, 8) for y in (-30, -20)) + L(32, -42, 48, -52, "#8a5a2b", 5)
+
+def _parachute(c=None, **k):
+    c = c or "#e0533b"
+    return (P("M-42,-50 Q-40,-90 0,-90 Q40,-90 42,-50 Q30,-58 20,-50 Q10,-58 0,-50 Q-10,-58 -20,-50 Q-30,-58 -42,-50 Z", c, 3)
+            + P("M-20,-86 Q-10,-70 -20,-50 M20,-86 Q10,-70 20,-50", "none", 2, "#fff") + "".join(L(x, -50, 0, -14, INK, 1.2) for x in (-42, -20, 0, 20, 42))
+            + f'<rect x="-7" y="-16" width="14" height="14" rx="3" fill="#8a5a2b" stroke="{INK}" stroke-width="2"/>')
+
+def _battery(c=None, expr="grin", **k):
+    c = c or "#3f9b4a"
+    return (f'<rect x="-18" y="-72" width="36" height="68" rx="5" fill="{c}" stroke="{INK}" stroke-width="3"/><rect x="-8" y="-80" width="16" height="8" fill="#c9ccd8" stroke="{INK}" stroke-width="2"/>'
+            + f'<rect x="-18" y="-28" width="36" height="24" rx="3" fill="#23233a"/>' + T(0, -58, "+", 14, "#fff") + face(0, -42, 0.55, expr) + P("M24,-60 l8,-6 l-4,10 l10,-4", "none", 2, "#ffd23f"))
+
+def _fries(c=None, expr="happy", **k):
+    c = c or "#e0533b"
+    return "".join(f'<rect x="{x}" y="{-80+abs(x)%9}" width="7" height="44" fill="#ffd23f" stroke="{INK}" stroke-width="1.5" transform="rotate({x/3:.0f} {x} -50)"/>' for x in range(-18, 20, 7)) + P("M-24,-42 H24 L18,0 H-18 Z", c, 3) + face(0, -22, 0.6, expr)
+
+def _popcorn(c=None, **k):
+    c = c or "#e0533b"
+    return "".join(C(x, y, 9, "#fff6c9", 2) for x, y in [(-16, -56), (0, -62), (16, -56), (-8, -68), (10, -70)]) + P("M-24,-52 H24 L18,0 H-18 Z", "#fff", 3) + "".join(f'<rect x="{x}" y="-52" width="7" height="52" fill="{c}"/>' for x in (-16, -2, 12)) + P("M-24,-52 H24 L18,0 H-18 Z", "none", 3)
+
+def _chess(c=None, **k):
+    c = c or "#f7f3e8"
+    return (f'<rect x="-24" y="-12" width="48" height="12" rx="3" fill="{c}" stroke="{INK}" stroke-width="3"/>' + P("M-16,-12 Q-14,-30 -8,-40 Q-22,-50 -16,-66 Q-6,-86 12,-78 Q24,-70 20,-50 Q18,-30 16,-12 Z", c, 3)
+            + C(4, -66, 3, INK, 0) + P("M-8,-40 Q0,-44 8,-40", "none", 2))
+
+LIB_BATCH9 = {"sieve": _sieve, "strainer": _sieve, "parachute": _parachute, "battery": _battery, "fries": _fries, "french-fry": _fries, "fry": _fries,
+              "popcorn": _popcorn, "chess": _chess, "chess-piece": _chess, "chessboard": _chess}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1472,7 +1505,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7); LIB.update(LIB_BATCH8)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7); LIB.update(LIB_BATCH8); LIB.update(LIB_BATCH9)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1487,6 +1520,8 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "prune": "apple", "clementine": "apple", "chimera": "monster", "apparition": "ghost", "hallway": "door", "vandal": "painter",
               "cable": "rope", "empress": "queen", "grim-reaper": "reaper", "fig": "apple", "dough": "bread", "morse": "letter",
               "chameleon": "lizard", "missile": "rocket", "filter": "cup", "sandcastle": "castle", "hovercraft": "boat", "plum": "apple",
+              "breeches": "jeans", "torpedo": "rocket", "raven": "crow", "debris": "rock", "junk": "box", "bun": "bread", "radish": "carrot",
+              "knee": "skeleton", "jug": "jar", "spark": "firework", "glow-stick": "torch", "menu": "scroll", "espresso": "cup", "latte": "cup",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
