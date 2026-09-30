@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 91-100 · reviewed by hand against each L: line
+## 91
+1 | A: castle(gold) | B: fish(gold) | ACT: covers-in-gold-leaf-a | SCALE: - | OAES: S
+2 | A: fish(gold) | B: ostrich(tuxedo) | ACT: shows-off-like | SCALE: - | OAES: S
+3 | A: ostrich(tuxedo) | B: volcano | ACT: throws-a-lava-party-with | SCALE: - | OAES: S
+4 | A: volcano | B: vagrant | ACT: spent-on-by-an-extra | SCALE: - | OAES: S
+5 | A: vagrant | B: outfit(pink) | ACT: wears-a-gaudy | SCALE: - | OAES: S
+6 | A: outfit(pink) | B: feast | ACT: served-at-a | SCALE: B=giant | OAES: S
+7 | A: feast | B: tent | ACT: pitched-indoors-as-a-show-off | SCALE: - | OAES: S
+8 | A: tent | B: door(glowing) | ACT: blinded-by-a-splendid | SCALE: - | OAES: S
+9 | A: door(glowing) | B: peacock(crown) | ACT: slammed-on | SCALE: - | OAES: S
+10 | A: peacock(crown) | B: doctor(angry) | ACT: splashes | SCALE: - | OAES: S
+## 92
+1 | A: doctor(angry) | B: liver(purple, angry) | ACT: turns-livid-like | SCALE: - | OAES: S
+2 | A: liver(purple) | B: rat(flaming, angry) | ACT: unleashes | SCALE: - | OAES: S
+3 | A: rat(flaming) | B: incense(burning) | ACT: is-as-incensed-as | SCALE: - | OAES: S
+4 | A: incense(burning) | B: rancher(angry) | ACT: fills-with-a-grudge | SCALE: - | OAES: S
+5 | A: rancher(angry) | B: tie | ACT: wears-an-enemy | SCALE: B=giant | OAES: S
+6 | A: tie | B: hostel | ACT: worn-by-the-owner-of-a-hostile | SCALE: - | OAES: S
+7 | A: hostel | B: shop(shouting) | ACT: delivers-a-tirade-from | SCALE: - | OAES: S
+8 | A: shop(shouting) | B: scoreboard | ACT: hit-back-by | SCALE: - | OAES: S
+9 | A: scoreboard | B: grandpa(angry) | ACT: is-as-grumpy-as | SCALE: - | OAES: S
+10 | A: giant(angry) | B: painting | ACT: stomps-past-a-trick | SCALE: - | OAES: S
+## 93
+1 | A: painting | B: van | ACT: invents-a-gadget | SCALE: - | OAES: S
+2 | A: van | B: marble(glowing) | ACT: is-a-marvel-like-a | SCALE: - | OAES: S
+3 | A: marble(glowing) | B: egg(gold) | ACT: is-as-exquisite-as | SCALE: - | OAES: S
+4 | A: egg(gold) | B: lab | ACT: decorated-in-an-elaborate | SCALE: - | OAES: S
+5 | A: lab | B: violinist | ACT: belongs-to | SCALE: - | OAES: S
+6 | A: violinist | B: terrier | ACT: is-as-dexterous-as | SCALE: - | OAES: S
+7 | A: terrier | B: submarine(green) | ACT: climbs-to-a-sky-high | SCALE: - | OAES: S
+8 | A: song | B: web | ACT: enthralls-in-a | SCALE: - | OAES: S
+9 | A: web | B: baby | ACT: is-easy-enough-for-a | SCALE: - | OAES: S
+10 | A: baby | B: cat(crown) | ACT: dropped-by-an-abdicating | SCALE: - | OAES: S
+## 94
+1 | A: cat(crown) | B: kid | ACT: replaced-by | SCALE: - | OAES: S
+2 | A: kid | B: certificate | ACT: shows-a-real | SCALE: - | OAES: S
+3 | A: certificate | B: gym | ACT: overthrows-a-bossy | SCALE: - | OAES: S
+4 | A: gym | B: king(many, mean) | ACT: run-by | SCALE: - | OAES: S
+5 | A: king(many) | B: hedge(green) | ACT: seek-power-with-a-money | SCALE: B=giant | OAES: S
+6 | A: hedge | B: president | ACT: presided-over-by | SCALE: - | OAES: S
+7 | A: president | B: arrow(many) | ACT: falls-into | SCALE: - | OAES: S
+8 | A: arrow(many) | B: seed | ACT: set-a-first | SCALE: - | OAES: S
+9 | A: seed | B: man | ACT: grows-a-mandate-for | SCALE: - | OAES: S
+10 | A: man | B: mask | ACT: sends-a-messenger-in | SCALE: - | OAES: S
+## 95
+1 | A: messenger | B: chef | ACT: is-a-delegate-like | SCALE: - | OAES: S
+2 | A: chef | B: book | ACT: follows-the-rules-in | SCALE: - | OAES: S
+3 | A: book | B: kettle(smiling) | ACT: teaches-manners-to | SCALE: - | OAES: S
+4 | A: kettle | B: chair(smiling) | ACT: shows-decorum-like | SCALE: - | OAES: S
+5 | A: chair | B: knight | ACT: is-as-courteous-as | SCALE: - | OAES: S
+6 | A: knight | B: diplomat | ACT: is-as-tactful-as | SCALE: - | OAES: S
+7 | A: diplomat | B: bed | ACT: meets-a-man-hiding-under | SCALE: - | OAES: S
+8 | A: man(scared) | B: toll-gate | ACT: learns-tolerance-at | SCALE: - | OAES: S
+9 | A: toll-gate | B: city | ACT: builds-a-many-group | SCALE: - | OAES: S
+10 | A: city | B: stew | ACT: falls-into-a-daze-from | SCALE: - | OAES: S
+## 96
+1 | A: man(sleepy) | B: lamb(sleepy) | ACT: is-as-drowsy-as | SCALE: - | OAES: S
+2 | A: lamb(sleepy) | B: log(many, sleepy) | ACT: sinks-into-slumber-like | SCALE: - | OAES: S
+3 | A: log(many) | B: man(sleepy, lying) | ACT: are-as-comatose-as | SCALE: - | OAES: S
+4 | A: man(sleepy) | B: owl | ACT: lies-next-to-a-sleepless | SCALE: - | OAES: S
+5 | A: owl | B: candle | ACT: keeps-a-vigil-with | SCALE: - | OAES: S
+6 | A: candle | B: soap | ACT: drugged-by | SCALE: - | OAES: S
+7 | A: soap | B: newspaper | ACT: makes-oblivious-behind | SCALE: - | OAES: S
+8 | A: newspaper | B: star(shock) | ACT: startled-by | SCALE: - | OAES: S
+9 | A: star(shock) | B: gear(many) | ACT: wakes-an-ant-made-of | SCALE: - | OAES: S
+10 | A: ant | B: mountain | ACT: climbs-a-grueling | SCALE: B=giant | OAES: S
+## 97
+1 | A: mountain | B: weightlifter | ACT: is-as-strenuous-as | SCALE: - | OAES: S
+2 | A: weightlifter | B: teapot(sleepy) | ACT: feels-tired-like | SCALE: - | OAES: S
+3 | A: teapot(sleepy) | B: rabbit(silver) | ACT: replaced-by-a-tireless | SCALE: - | OAES: S
+4 | A: rabbit(silver) | B: rabbit | ACT: refuses-detours-like | SCALE: - | OAES: S
+5 | A: rabbit | B: woman(angry) | ACT: is-as-persistent-as | SCALE: - | OAES: S
+6 | A: woman | B: ladder | ACT: climbs-step-by-step-up | SCALE: - | OAES: S
+7 | A: ladder | B: kid(many) | ACT: rises-slowly-like | SCALE: - | OAES: S
+8 | A: kid(many) | B: knight | ACT: helped-over-a-wall-by | SCALE: - | OAES: S
+9 | A: knight | B: tack | ACT: reaches-the-peak-with-a | SCALE: - | OAES: S
+10 | A: tack | B: wrestler(many) | ACT: is-where-they-confront | SCALE: - | OAES: S
+## 98
+1 | A: wrestler(many) | B: shark(mean) | ACT: faces-the-nemesis | SCALE: - | OAES: S
+2 | A: shark(mean) | B: ant(mean) | ACT: plays-the-villain-like | SCALE: - | OAES: S
+3 | A: ant(mean) | B: hero | ACT: faces | SCALE: - | OAES: S
+4 | A: hero | B: statue | ACT: is-as-unflinching-as | SCALE: - | OAES: S
+5 | A: statue | B: soldier | ACT: is-as-resolute-as | SCALE: - | OAES: S
+6 | A: soldier | B: wall(rusty) | ACT: stands-at-the-brink-of | SCALE: - | OAES: S
+7 | A: wall | B: verge | ACT: is-on-the | SCALE: - | OAES: S
+8 | A: verge | B: climber | ACT: builds-to-the-summit-with | SCALE: - | OAES: S
+9 | A: climber | B: emperor(angry) | ACT: ordered-by | SCALE: - | OAES: S
+10 | A: emperor | B: door | ACT: reaches-a-pivot | SCALE: - | OAES: S
+## 99
+1 | A: door | B: key(gold) | ACT: opens-on-a-crucial | SCALE: - | OAES: S
+2 | A: key(gold) | B: door(glowing) | ACT: opens-a-deciding | SCALE: - | OAES: S
+3 | A: door | B: coin | ACT: opens-onto-a-flipped | SCALE: - | OAES: S
+4 | A: coin | B: genie | ACT: makes-revert | SCALE: - | OAES: S
+5 | A: genie | B: iron | ACT: finds-ironic | SCALE: - | OAES: S
+6 | A: iron | B: penguin(crown) | ACT: causes-a-first-ever | SCALE: - | OAES: S
+7 | A: penguin(crown) | B: shed | ACT: reaches-a-water | SCALE: - | OAES: S
+8 | A: shed | B: butterfly | ACT: begins-a-train-to | SCALE: - | OAES: S
+9 | A: butterfly | B: junction | ACT: arrives-at-a | SCALE: - | OAES: S
+10 | A: junction | B: rope | ACT: unties-the-knots-of | SCALE: - | OAES: S
+## 100
+1 | A: rope | B: diary | ACT: followed-by-an-epic | SCALE: - | OAES: S
+2 | A: diary | B: climber | ACT: written-by-a-summit | SCALE: - | OAES: S
+3 | A: climber | B: chef(many) | ACT: is-as-perfect-as-five | SCALE: - | OAES: S
+4 | A: pizza | B: icecream(rainbow) | ACT: tastes-indescribable-like | SCALE: - | OAES: S
+5 | A: icecream(rainbow) | B: figure-eight | ACT: goes-on-forever-in-a | SCALE: - | OAES: S
+6 | A: figure-eight | B: card | ACT: sends-a-mountain-sized-thank-you | SCALE: B=giant | OAES: S
+7 | A: card | B: king | ACT: delivered-humbly-by | SCALE: - | OAES: S
+8 | A: king | B: castle | ACT: builds-an-enduring | SCALE: - | OAES: S
+9 | A: castle | B: rocket | ACT: transcends-the-sky-as | SCALE: - | OAES: S
+10 | A: rocket | B: gnome(lying, green-moon hat) | ACT: lands-on-and-loops-back-to | SCALE: - | OAES: -

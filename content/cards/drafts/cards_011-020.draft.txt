@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 11
+1 | A: tightrope | B: poet | ACT: links-to | SCALE: - | OAES: O,S
+2 | A: poet | B: vase-illate | ACT: links-to | SCALE: - | OAES: S
+3 | A: vase-illate | B: scale | ACT: drops-on | SCALE: - | OAES: S
+4 | A: scale | B: ape-prehensive | ACT: links-to | SCALE: - | OAES: S
+5 | A: ape-prehensive | B: statue | ACT: links-to | SCALE: - | OAES: S
+6 | A: statue | B: trembling | ACT: links-to | SCALE: - | OAES: S
+7 | A: trembling | B: navy-gate | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: navy-gate | B: tide | ACT: climbs-out | SCALE: - | OAES: S
+9 | A: tide | B: co-lab-orate | ACT: links-to | SCALE: - | OAES: S
+10 | A: co-lab-orate | B: cat | ACT: links-to | SCALE: - | OAES: S
+## 12
+1 | A: cat | B: note | ACT: links-to | SCALE: - | OAES: S
+2 | A: note | B: bee | ACT: links-to | SCALE: - | OAES: S
+3 | A: bee | B: teddy-us | ACT: drops-on | SCALE: - | OAES: S
+4 | A: teddy-us | B: labrador-ious | ACT: links-to | SCALE: - | OAES: S
+5 | A: labrador-ious | B: owl | ACT: smashes | SCALE: - | OAES: S
+6 | A: owl | B: bicycle | ACT: rides | SCALE: - | OAES: S
+7 | A: bicycle | B: f-fish-ent | ACT: links-to | SCALE: - | OAES: S
+8 | A: f-fish-ent | B: pond | ACT: drops-on | SCALE: - | OAES: S
+9 | A: pond | B: horse | ACT: links-to | SCALE: - | OAES: S
+10 | A: horse | B: clan | ACT: links-to | SCALE: - | OAES: S
+## 13
+1 | A: clan | B: teapot | ACT: links-to | SCALE: - | OAES: S
+2 | A: teapot | B: bat | ACT: drops-on | SCALE: - | OAES: S
+3 | A: bat | B: knight-lizard | ACT: links-to | SCALE: - | OAES: S
+4 | A: knight-lizard | B: spire | ACT: climbs-out | SCALE: - | OAES: S
+5 | A: spire | B: fog | ACT: links-to | SCALE: - | OAES: S
+6 | A: fog | B: whale | ACT: gulps | SCALE: - | OAES: S
+7 | A: whale | B: snake | ACT: links-to | SCALE: - | OAES: S
+8 | A: snake | B: ferret | ACT: links-to | SCALE: - | OAES: S
+9 | A: ferret | B: cricket | ACT: links-to | SCALE: - | OAES: S
+10 | A: cricket | B: riddle | ACT: links-to | SCALE: - | OAES: S
+## 14
+1 | A: riddle | B: magnet | ACT: pulls | SCALE: - | OAES: S
+2 | A: magnet | B: cat | ACT: pulls | SCALE: - | OAES: S
+3 | A: cat | B: table | ACT: opens | SCALE: - | OAES: S
+4 | A: table | B: snake | ACT: opens | SCALE: - | OAES: S
+5 | A: snake | B: ballerina | ACT: links-to | SCALE: - | OAES: S
+6 | A: ballerina | B: guy-l | ACT: links-to | SCALE: - | OAES: S
+7 | A: guy-l | B: fox | ACT: links-to | SCALE: - | OAES: S
+8 | A: fox | B: elephant | ACT: drops-on | SCALE: - | OAES: S
+9 | A: elephant | B: hedgehog | ACT: links-to | SCALE: - | OAES: S
+10 | A: hedgehog | B: fru-gull | ACT: links-to | SCALE: - | OAES: S
+## 15
+1 | A: fru-gull | B: price | ACT: links-to | SCALE: - | OAES: S
+2 | A: price | B: dragon | ACT: catches | SCALE: - | OAES: S
+3 | A: dragon | B: barber | ACT: links-to | SCALE: - | OAES: S
+4 | A: barber | B: knee-go-she-ate | ACT: turns-into | SCALE: - | OAES: S
+5 | A: knee-go-she-ate | B: mouse | ACT: links-to | SCALE: - | OAES: S
+6 | A: mouse | B: parsnip-money-ous | ACT: links-to | SCALE: - | OAES: S
+7 | A: parsnip-money-ous | B: compass-sated | ACT: links-to | SCALE: - | OAES: S
+8 | A: compass-sated | B: lemonade | ACT: opens | SCALE: - | OAES: S
+9 | A: lemonade | B: hag-gull(many) | ACT: links-to | SCALE: - | OAES: S
+10 | A: hag-gull(many) | B: family | ACT: throws | SCALE: - | OAES: S
+## 16
+1 | A: family | B: pet-tea | ACT: links-to | SCALE: - | OAES: S
+2 | A: pet-tea | B: giant | ACT: smashes | SCALE: - | OAES: S
+3 | A: giant | B: truck | ACT: links-to | SCALE: A=giant,B=giant | OAES: S
+4 | A: truck | B: duck | ACT: links-to | SCALE: - | OAES: S
+5 | A: duck | B: seal | ACT: hugs | SCALE: - | OAES: S
+6 | A: seal | B: zoo | ACT: links-to | SCALE: - | OAES: S
+7 | A: zoo | B: quiz | ACT: links-to | SCALE: - | OAES: S
+8 | A: quiz | B: pigeon | ACT: links-to | SCALE: - | OAES: S
+9 | A: pigeon | B: owl-judge | ACT: links-to | SCALE: - | OAES: S
+10 | A: owl-judge | B: everyone | ACT: links-to | SCALE: - | OAES: S
+## 17
+1 | A: everyone | B: sandal | ACT: carries | SCALE: - | OAES: S
+2 | A: sandal | B: vest | ACT: links-to | SCALE: - | OAES: S
+3 | A: vest | B: robot | ACT: links-to | SCALE: - | OAES: S
+4 | A: robot | B: robe | ACT: links-to | SCALE: - | OAES: S
+5 | A: robe | B: door | ACT: links-to | SCALE: - | OAES: S
+6 | A: door | B: flower | ACT: links-to | SCALE: - | OAES: S
+7 | A: flower | B: f-emerald | ACT: links-to | SCALE: - | OAES: S
+8 | A: f-emerald | B: pencil | ACT: links-to | SCALE: - | OAES: S
+9 | A: pencil | B: cave | ACT: links-to | SCALE: - | OAES: S
+10 | A: cave | B: vortex-ous | ACT: gulps | SCALE: - | OAES: S
+## 18
+1 | A: vortex-ous | B: sea | ACT: gulps | SCALE: - | OAES: S
+2 | A: sea | B: bowl | ACT: drops-on | SCALE: B=giant | OAES: S
+3 | A: bowl | B: box | ACT: links-to | SCALE: - | OAES: S
+4 | A: box | B: slime | ACT: throws | SCALE: - | OAES: S
+5 | A: slime | B: loaf | ACT: throws | SCALE: - | OAES: S
+6 | A: loaf | B: dessert-pirate | ACT: links-to | SCALE: - | OAES: S
+7 | A: dessert-pirate | B: ship | ACT: links-to | SCALE: - | OAES: S
+8 | A: ship | B: cannon | ACT: throws | SCALE: - | OAES: S
+9 | A: cannon | B: grow-test-queen | ACT: drops-on | SCALE: - | OAES: S
+10 | A: grow-test-queen | B: compass | ACT: links-to | SCALE: - | OAES: S
+## 19
+1 | A: compass | B: lab-rinse-tine | ACT: drops-on | SCALE: - | OAES: S
+2 | A: lab-rinse-tine | B: wander | ACT: carries | SCALE: - | OAES: S
+3 | A: wander | B: ring | ACT: links-to | SCALE: - | OAES: S
+4 | A: ring | B: wildebeest | ACT: links-to | SCALE: - | OAES: S
+5 | A: wildebeest | B: imp-penny-trable | ACT: carries | SCALE: - | OAES: S
+6 | A: imp-penny-trable | B: genie | ACT: opens | SCALE: - | OAES: S
+7 | A: genie | B: purse-ever | ACT: carries | SCALE: - | OAES: S
+8 | A: purse-ever | B: fog | ACT: links-to | SCALE: - | OAES: S
+9 | A: fog | B: eel | ACT: catches | SCALE: - | OAES: S
+10 | A: eel | B: bet-tray | ACT: links-to | SCALE: - | OAES: S
+## 20
+1 | A: bet-tray | B: stair | ACT: climbs-out | SCALE: - | OAES: S
+2 | A: stair | B: city | ACT: pulls | SCALE: - | OAES: S
+3 | A: city | B: cat | ACT: links-to | SCALE: - | OAES: S
+4 | A: cat | B: wrap | ACT: pulls | SCALE: - | OAES: S
+5 | A: wrap | B: gull-able | ACT: gulps | SCALE: - | OAES: S
+6 | A: gull-able | B: friend | ACT: links-to | SCALE: - | OAES: S
+7 | A: friend | B: grape | ACT: chases | SCALE: - | OAES: S
+8 | A: grape | B: broccoli | ACT: gulps | SCALE: - | OAES: S
+9 | A: broccoli | B: magician | ACT: links-to | SCALE: - | OAES: S
+10 | A: magician | B: crowd(many) | ACT: links-to | SCALE: - | OAES: S

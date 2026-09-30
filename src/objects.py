@@ -147,6 +147,8 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "rancher": ("npc:farmer", None), "violinist": ("npc:poet", "notes"), "climber": ("npc:captain", None), "president": ("npc:official", "scroll"),
+    "emperor": ("caliph", None), "wrestler": ("npc:smith", None), "delegate": ("npc:official", "chefhat"),
     "curator": ("npc:scholar", "magnifier"), "interpreter": ("npc:envoy", "scroll"), "mime": ("npc:dyer", "clown"), "hedonist": ("npc:prince", None),
     "bride": ("npc:woman", "queencrown"), "fortune-teller": ("npc:hooded", None), "accuser": ("npc:official", None),
     "butler": ("npc:official", None), "auctioneer": ("npc:official", "gavel"), "reaper": ("npc:hooded", "spear"), "hypnotist": ("npc:poet", "wizardhat"),
@@ -1276,6 +1278,17 @@ def _chess(c=None, **k):
 LIB_BATCH9 = {"sieve": _sieve, "strainer": _sieve, "parachute": _parachute, "battery": _battery, "fries": _fries, "french-fry": _fries, "fry": _fries,
               "popcorn": _popcorn, "chess": _chess, "chess-piece": _chess, "chessboard": _chess}
 
+# ---- library growth · batch 10 (chapters 91-100)
+def _tie(c=None, **k):
+    c = c or "#c0262d"
+    return P("M-10,-84 H10 L6,-72 L16,-20 L0,-2 L-16,-20 L-6,-72 Z", c, 3) + P("M-10,-84 H10 L6,-72 H-6 Z", shade(c, 0.8), 2) + T(0, -40, "ENEMY", 7, "#fff", family="Arial,sans-serif", weight="900", extra='transform="rotate(-90 0 -40)"')
+
+def _clothesiron(c=None, **k):
+    c = c or "#9aa8b8"
+    return P("M-40,-10 Q-36,-44 10,-44 Q36,-40 44,-10 Z", c, 3) + P("M-20,-44 Q-18,-66 6,-66 Q22,-64 20,-44", "none", 6, INK) + f'<rect x="-40" y="-14" width="84" height="6" fill="#dfe6f0" stroke="{INK}" stroke-width="2"/>' + "".join(P(f"M{x},-2 q4,-6 0,-12", "none", 1.5, "#fff") for x in (-24, -8, 8))
+
+LIB_BATCH10 = {"tie": _tie, "necktie": _tie, "clothes-iron": _clothesiron, "iron": _clothesiron}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1505,7 +1518,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7); LIB.update(LIB_BATCH8); LIB.update(LIB_BATCH9)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7); LIB.update(LIB_BATCH8); LIB.update(LIB_BATCH9); LIB.update(LIB_BATCH10)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1522,6 +1535,10 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "chameleon": "lizard", "missile": "rocket", "filter": "cup", "sandcastle": "castle", "hovercraft": "boat", "plum": "apple",
               "breeches": "jeans", "torpedo": "rocket", "raven": "crow", "debris": "rock", "junk": "box", "bun": "bread", "radish": "carrot",
               "knee": "skeleton", "jug": "jar", "spark": "firework", "glow-stick": "torch", "menu": "scroll", "espresso": "cup", "latte": "cup",
+              "outfit": "skirt", "feast": "cake", "liver": "heart", "incense": "candle", "hostel": "house", "scoreboard": "tv", "terrier": "dog",
+              "dynasty": "king", "hedge": "tree", "certificate": "scroll", "living-room": "chair", "toll-gate": "door", "stew": "soup",
+              "clownfish": "fish", "verge": "flower", "shed": "house", "junction": "train", "knot": "rope", "quintuplet": "chef", "flavor": "icecream",
+              "figure-eight": "rollercoaster", "vagrant": "wanderer", "lava": "volcano", "thrall": "crowd", "office": "painting", "gruel": "bowl",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):

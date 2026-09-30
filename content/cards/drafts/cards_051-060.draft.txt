@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 51
+1 | A: re-train | B: collector | ACT: links-to | SCALE: - | OAES: S
+2 | A: collector | B: cake | ACT: gulps | SCALE: - | OAES: S
+3 | A: cake | B: hat | ACT: links-to | SCALE: - | OAES: S
+4 | A: hat | B: hole(black) | ACT: throws | SCALE: - | OAES: S
+5 | A: hole(black) | B: ink | ACT: gulps | SCALE: - | OAES: S
+6 | A: ink | B: book | ACT: links-to | SCALE: - | OAES: S
+7 | A: book | B: letter | ACT: links-to | SCALE: - | OAES: S
+8 | A: letter | B: hippo | ACT: links-to | SCALE: - | OAES: S
+9 | A: hippo | B: village | ACT: links-to | SCALE: - | OAES: S
+10 | A: village | B: egg | ACT: links-to | SCALE: - | OAES: S
+## 52
+1 | A: egg | B: cling | ACT: links-to | SCALE: - | OAES: S
+2 | A: cling | B: wrap | ACT: links-to | SCALE: - | OAES: S
+3 | A: wrap | B: tile | ACT: links-to | SCALE: - | OAES: S
+4 | A: tile | B: flying | ACT: throws | SCALE: - | OAES: S
+5 | A: flying | B: pair | ACT: links-to | SCALE: - | OAES: S
+6 | A: pair | B: teacup | ACT: carries | SCALE: - | OAES: S
+7 | A: teacup | B: bull | ACT: links-to | SCALE: - | OAES: S
+8 | A: bull | B: inventor | ACT: links-to | SCALE: - | OAES: S
+9 | A: inventor | B: idea | ACT: links-to | SCALE: - | OAES: S
+10 | A: idea | B: glass | ACT: links-to | SCALE: - | OAES: S
+## 53
+1 | A: glass | B: candle | ACT: links-to | SCALE: - | OAES: S
+2 | A: candle | B: kid | ACT: links-to | SCALE: - | OAES: S
+3 | A: kid | B: bottle | ACT: links-to | SCALE: - | OAES: S
+4 | A: bottle | B: circus | ACT: drops-on | SCALE: - | OAES: S
+5 | A: circus | B: hippo-crit | ACT: gulps | SCALE: - | OAES: S
+6 | A: hippo-crit | B: monocle | ACT: links-to | SCALE: - | OAES: S
+7 | A: monocle | B: statue(brass) | ACT: links-to | SCALE: - | OAES: S
+8 | A: statue(brass) | B: professor | ACT: links-to | SCALE: - | OAES: S
+9 | A: professor | B: chicken | ACT: links-to | SCALE: - | OAES: S
+10 | A: chicken | B: star | ACT: links-to | SCALE: - | OAES: S
+## 54
+1 | A: star | B: mole | ACT: links-to | SCALE: - | OAES: S
+2 | A: mole | B: galaxy | ACT: links-to | SCALE: - | OAES: S
+3 | A: galaxy | B: snake | ACT: gulps | SCALE: - | OAES: S
+4 | A: snake | B: dog | ACT: catches | SCALE: - | OAES: S
+5 | A: dog | B: ocean | ACT: hugs | SCALE: - | OAES: S
+6 | A: ocean | B: scientist | ACT: links-to | SCALE: A=giant | OAES: S
+7 | A: scientist | B: professor | ACT: links-to | SCALE: - | OAES: S
+8 | A: professor | B: ghost-light(glowing) | ACT: links-to | SCALE: - | OAES: S
+9 | A: ghost-light(glowing) | B: crowd(many) | ACT: links-to | SCALE: - | OAES: S
+10 | A: crowd(many) | B: robot | ACT: links-to | SCALE: - | OAES: S
+## 55
+1 | A: robot | B: attic | ACT: links-to | SCALE: - | OAES: S
+2 | A: attic | B: sink-chrono | ACT: links-to | SCALE: - | OAES: S
+3 | A: sink-chrono | B: robot | ACT: links-to | SCALE: - | OAES: S
+4 | A: robot | B: unicorn | ACT: links-to | SCALE: - | OAES: S
+5 | A: unicorn | B: cone-form-ity | ACT: throws | SCALE: - | OAES: S
+6 | A: cone-form-ity | B: robot | ACT: rides | SCALE: - | OAES: S
+7 | A: robot | B: treasure | ACT: links-to | SCALE: - | OAES: S
+8 | A: treasure | B: clock(many) | ACT: links-to | SCALE: - | OAES: S
+9 | A: clock(many) | B: gear | ACT: links-to | SCALE: - | OAES: S
+10 | A: gear | B: robot | ACT: drops-on | SCALE: - | OAES: S
+## 56
+1 | A: robot | B: ant | ACT: links-to | SCALE: - | OAES: S
+2 | A: ant | B: gym | ACT: turns-into | SCALE: - | OAES: S
+3 | A: gym | B: net | ACT: catches | SCALE: - | OAES: S
+4 | A: net | B: note | ACT: links-to | SCALE: - | OAES: S
+5 | A: note | B: note | ACT: links-to | SCALE: - | OAES: S
+6 | A: note | B: bridge | ACT: links-to | SCALE: - | OAES: S
+7 | A: bridge | B: team | ACT: links-to | SCALE: - | OAES: S
+8 | A: team | B: ant | ACT: links-to | SCALE: - | OAES: S
+9 | A: ant | B: die-grass | ACT: links-to | SCALE: - | OAES: S
+10 | A: die-grass | B: swamp | ACT: links-to | SCALE: - | OAES: S
+## 57
+1 | A: swamp | B: genie-sis | ACT: links-to | SCALE: - | OAES: S
+2 | A: genie-sis | B: seed | ACT: opens | SCALE: - | OAES: S
+3 | A: seed | B: baby | ACT: turns-into | SCALE: - | OAES: S
+4 | A: baby | B: chick | ACT: links-to | SCALE: - | OAES: S
+5 | A: chick | B: hero | ACT: turns-into | SCALE: - | OAES: S
+6 | A: hero | B: robot | ACT: links-to | SCALE: - | OAES: S
+7 | A: robot | B: flower | ACT: links-to | SCALE: - | OAES: S
+8 | A: flower | B: baby | ACT: links-to | SCALE: - | OAES: S
+9 | A: baby | B: zebra | ACT: links-to | SCALE: - | OAES: S
+10 | A: zebra | B: rubber | ACT: links-to | SCALE: - | OAES: S
+## 58
+1 | A: rubber | B: clay | ACT: links-to | SCALE: - | OAES: S
+2 | A: clay | B: life | ACT: links-to | SCALE: - | OAES: S
+3 | A: life | B: club | ACT: smashes | SCALE: - | OAES: S
+4 | A: club | B: jeweler | ACT: links-to | SCALE: - | OAES: S
+5 | A: jeweler | B: hand | ACT: links-to | SCALE: - | OAES: S
+6 | A: hand | B: bucket | ACT: links-to | SCALE: - | OAES: S
+7 | A: bucket | B: painting | ACT: links-to | SCALE: - | OAES: S
+8 | A: painting | B: mint | ACT: drops-on | SCALE: - | OAES: S
+9 | A: mint | B: blob | ACT: turns-into | SCALE: - | OAES: S
+10 | A: blob | B: crowd(many) | ACT: carries | SCALE: - | OAES: S
+## 59
+1 | A: crowd(many) | B: rebel | ACT: links-to | SCALE: - | OAES: S
+2 | A: rebel | B: mouse | ACT: links-to | SCALE: B=tiny | OAES: S
+3 | A: mouse | B: turtle | ACT: links-to | SCALE: B=tiny | OAES: S
+4 | A: turtle | B: giant | ACT: links-to | SCALE: - | OAES: S
+5 | A: giant | B: painting | ACT: links-to | SCALE: - | OAES: S
+6 | A: painting | B: clown | ACT: links-to | SCALE: - | OAES: S
+7 | A: clown | B: rebel | ACT: smashes | SCALE: - | OAES: S
+8 | A: rebel | B: ice | ACT: links-to | SCALE: - | OAES: S
+9 | A: ice | B: poster | ACT: links-to | SCALE: - | OAES: S
+10 | A: poster | B: re-juice-venate | ACT: links-to | SCALE: - | OAES: S
+## 60
+1 | A: re-juice-venate | B: plant | ACT: links-to | SCALE: - | OAES: S
+2 | A: plant | B: painter | ACT: links-to | SCALE: - | OAES: S
+3 | A: painter | B: wave | ACT: climbs-out | SCALE: - | OAES: S
+4 | A: wave | B: crowd(sleepy, many) | ACT: gulps | SCALE: - | OAES: S
+5 | A: crowd(sleepy, many) | B: caterpillar | ACT: turns-into | SCALE: - | OAES: S
+6 | A: caterpillar | B: thief | ACT: links-to | SCALE: - | OAES: S
+7 | A: thief | B: crane | ACT: pulls | SCALE: - | OAES: S
+8 | A: crane | B: shipyard | ACT: links-to | SCALE: - | OAES: S
+9 | A: shipyard | B: tailor | ACT: links-to | SCALE: - | OAES: S
+10 | A: tailor | B: judge-icious | ACT: links-to | SCALE: - | OAES: S

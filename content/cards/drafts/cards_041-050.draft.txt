@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 41
+1 | A: detective | B: cave | ACT: links-to | SCALE: - | OAES: S
+2 | A: cave | B: promise | ACT: links-to | SCALE: - | OAES: S
+3 | A: promise | B: tower | ACT: drops-on | SCALE: - | OAES: S
+4 | A: tower | B: robot | ACT: links-to | SCALE: - | OAES: S
+5 | A: robot | B: card | ACT: links-to | SCALE: - | OAES: S
+6 | A: card | B: hippo-thesis | ACT: links-to | SCALE: - | OAES: S
+7 | A: hippo-thesis | B: question | ACT: turns-into | SCALE: - | OAES: S
+8 | A: question | B: acu-man | ACT: links-to | SCALE: - | OAES: S
+9 | A: acu-man | B: a-stew-t | ACT: links-to | SCALE: - | OAES: S
+10 | A: a-stew-t | B: giant | ACT: hugs | SCALE: - | OAES: S
+## 42
+1 | A: giant | B: shark | ACT: links-to | SCALE: - | OAES: S
+2 | A: shark | B: mountain | ACT: climbs-out | SCALE: - | OAES: S
+3 | A: mountain | B: viking | ACT: climbs-out | SCALE: - | OAES: S
+4 | A: viking | B: cow | ACT: links-to | SCALE: - | OAES: S
+5 | A: cow | B: bully | ACT: gulps | SCALE: - | OAES: S
+6 | A: bully | B: mask | ACT: links-to | SCALE: - | OAES: S
+7 | A: mask | B: knight-ant | ACT: links-to | SCALE: - | OAES: S
+8 | A: knight-ant | B: shield | ACT: links-to | SCALE: - | OAES: S
+9 | A: shield | B: monster | ACT: links-to | SCALE: - | OAES: S
+10 | A: monster | B: soldier | ACT: links-to | SCALE: - | OAES: S
+## 43
+1 | A: soldier | B: statue | ACT: links-to | SCALE: - | OAES: S
+2 | A: statue | B: face | ACT: links-to | SCALE: - | OAES: S
+3 | A: face | B: soldier | ACT: links-to | SCALE: - | OAES: S
+4 | A: soldier | B: rej-i-mint(many) | ACT: links-to | SCALE: - | OAES: S
+5 | A: rej-i-mint(many) | B: pyramid | ACT: links-to | SCALE: - | OAES: S
+6 | A: pyramid | B: sub | ACT: links-to | SCALE: - | OAES: S
+7 | A: sub | B: ant | ACT: links-to | SCALE: - | OAES: S
+8 | A: ant | B: rebel | ACT: throws | SCALE: - | OAES: S
+9 | A: rebel | B: marshal | ACT: links-to | SCALE: - | OAES: S
+10 | A: marshal | B: potion | ACT: links-to | SCALE: - | OAES: S
+## 44
+1 | A: potion | B: ail-mint | ACT: links-to | SCALE: - | OAES: S
+2 | A: ail-mint | B: mal-lady | ACT: catches | SCALE: - | OAES: S
+3 | A: mal-lady | B: bee-nine | ACT: links-to | SCALE: - | OAES: S
+4 | A: bee-nine | B: frog | ACT: smashes | SCALE: - | OAES: S
+5 | A: frog | B: eraser | ACT: links-to | SCALE: - | OAES: S
+6 | A: eraser | B: tag | ACT: chases | SCALE: - | OAES: S
+7 | A: tag | B: cat | ACT: links-to | SCALE: - | OAES: S
+8 | A: cat | B: mitt-gate | ACT: catches | SCALE: - | OAES: S
+9 | A: mitt-gate | B: patient | ACT: links-to | SCALE: - | OAES: S
+10 | A: patient | B: coin | ACT: links-to | SCALE: - | OAES: S
+## 45
+1 | A: coin | B: author-tic | ACT: links-to | SCALE: - | OAES: S
+2 | A: author-tic | B: coin | ACT: links-to | SCALE: - | OAES: S
+3 | A: coin | B: money | ACT: links-to | SCALE: - | OAES: S
+4 | A: money | B: soda | ACT: links-to | SCALE: - | OAES: S
+5 | A: soda | B: coin | ACT: smashes | SCALE: - | OAES: S
+6 | A: coin | B: dragon | ACT: pulls | SCALE: - | OAES: S
+7 | A: dragon | B: squid-wander | ACT: links-to | SCALE: - | OAES: S
+8 | A: squid-wander | B: everyone | ACT: gulps | SCALE: - | OAES: S
+9 | A: everyone | B: family | ACT: links-to | SCALE: - | OAES: S
+10 | A: family | B: cloud | ACT: links-to | SCALE: - | OAES: S
+## 46
+1 | A: cloud | B: window | ACT: links-to | SCALE: - | OAES: S
+2 | A: window | B: vegetable | ACT: links-to | SCALE: - | OAES: S
+3 | A: vegetable | B: lighthouse | ACT: links-to | SCALE: - | OAES: S
+4 | A: lighthouse | B: die-fuse | ACT: links-to | SCALE: - | OAES: S
+5 | A: die-fuse | B: machine | ACT: links-to | SCALE: - | OAES: S
+6 | A: machine | B: puddle | ACT: turns-into | SCALE: - | OAES: S
+7 | A: puddle | B: sponge | ACT: links-to | SCALE: - | OAES: S
+8 | A: sponge | B: syrup | ACT: gulps | SCALE: - | OAES: S
+9 | A: syrup | B: glass | ACT: links-to | SCALE: - | OAES: S
+10 | A: glass | B: blacksmith | ACT: smashes | SCALE: - | OAES: S
+## 47
+1 | A: blacksmith | B: bull | ACT: links-to | SCALE: - | OAES: S
+2 | A: bull | B: fan | ACT: links-to | SCALE: - | OAES: S
+3 | A: fan | B: fire-truck | ACT: throws | SCALE: - | OAES: S
+4 | A: fire-truck | B: seal | ACT: links-to | SCALE: - | OAES: S
+5 | A: seal | B: candle | ACT: links-to | SCALE: - | OAES: S
+6 | A: candle | B: ember | ACT: smashes | SCALE: B=tiny | OAES: S
+7 | A: ember | B: candle | ACT: links-to | SCALE: - | OAES: S
+8 | A: candle | B: mountain | ACT: climbs-out | SCALE: - | OAES: S
+9 | A: mountain | B: fort-attitude | ACT: climbs-out | SCALE: - | OAES: S
+10 | A: fort-attitude | B: chef | ACT: links-to | SCALE: - | OAES: S
+## 48
+1 | A: chef | B: robot | ACT: rides | SCALE: - | OAES: S
+2 | A: robot | B: jet | ACT: links-to | SCALE: - | OAES: S
+3 | A: jet | B: arrow | ACT: links-to | SCALE: - | OAES: S
+4 | A: arrow | B: devil-bee | ACT: gulps | SCALE: - | OAES: S
+5 | A: devil-bee | B: scale | ACT: links-to | SCALE: - | OAES: S
+6 | A: scale | B: rock | ACT: links-to | SCALE: - | OAES: S
+7 | A: rock | B: music | ACT: links-to | SCALE: - | OAES: S
+8 | A: music | B: watch | ACT: links-to | SCALE: - | OAES: S
+9 | A: watch | B: dive-verge | ACT: opens | SCALE: - | OAES: S
+10 | A: dive-verge | B: mouth | ACT: hugs | SCALE: - | OAES: S
+## 49
+1 | A: mouth | B: submarine | ACT: links-to | SCALE: - | OAES: S
+2 | A: submarine | B: tank | ACT: rides | SCALE: - | OAES: S
+3 | A: tank | B: desert | ACT: links-to | SCALE: - | OAES: S
+4 | A: desert | B: hut | ACT: links-to | SCALE: - | OAES: S
+5 | A: hut | B: ice-o-late | ACT: links-to | SCALE: - | OAES: S
+6 | A: ice-o-late | B: dude | ACT: links-to | SCALE: - | OAES: S
+7 | A: dude | B: hermit | ACT: smashes | SCALE: - | OAES: S
+8 | A: hermit | B: boat | ACT: links-to | SCALE: - | OAES: S
+9 | A: boat | B: referee | ACT: links-to | SCALE: - | OAES: S
+10 | A: referee | B: ant | ACT: links-to | SCALE: - | OAES: S
+## 50
+1 | A: ant | B: ant | ACT: links-to | SCALE: - | OAES: S
+2 | A: ant | B: mirror | ACT: links-to | SCALE: - | OAES: S
+3 | A: mirror | B: giant | ACT: links-to | SCALE: - | OAES: S
+4 | A: giant | B: owl | ACT: links-to | SCALE: - | OAES: S
+5 | A: owl | B: stall-wart | ACT: links-to | SCALE: - | OAES: S
+6 | A: stall-wart | B: magnet-animous | ACT: smashes | SCALE: - | OAES: S
+7 | A: magnet-animous | B: boat | ACT: links-to | SCALE: - | OAES: S
+8 | A: boat | B: tribe | ACT: links-to | SCALE: - | OAES: S
+9 | A: tribe | B: boy | ACT: links-to | SCALE: - | OAES: S
+10 | A: boy | B: re-train | ACT: links-to | SCALE: - | OAES: S

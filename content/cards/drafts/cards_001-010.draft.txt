@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 1
+1 | A: anomaly | B: blot | ACT: opens | SCALE: - | OAES: O,A,S
+2 | A: blot | B: imp(red) | ACT: pulls | SCALE: B=tiny | OAES: A,E
+3 | A: imp(red) | B: turban | ACT: smashes | SCALE: - | OAES: O,S
+4 | A: turban | B: imp | ACT: chases | SCALE: - | OAES: O,A,E
+5 | A: imp | B: tick | ACT: drops-on | SCALE: B=giant | OAES: A,E,S
+6 | A: tick | B: candy | ACT: bursts-out | SCALE: B=giant | OAES: A,S
+7 | A: candy | B: pickle | ACT: gulps | SCALE: - | OAES: A,E,S
+8 | A: pickle | B: mall-monster(spiky) | ACT: smashes | SCALE: - | OAES: O,A,S
+9 | A: mall-monster(spiky) | B: ball(rubber) | ACT: smashes | SCALE: - | OAES: A,E,S
+10 | A: ball(rubber) | B: fish | ACT: drops-on | SCALE: - | OAES: O
+## 2
+1 | A: fish | B: popsicle | ACT: bursts-out | SCALE: A=giant | OAES: O,S
+2 | A: popsicle | B: elephant | ACT: turns-into | SCALE: B=tiny | OAES: A,S
+3 | A: elephant | B: crown | ACT: opens | SCALE: - | OAES: S
+4 | A: crown | B: bull(fluffy) | ACT: climbs-out | SCALE: B=giant | OAES: O,S
+5 | A: bull(fluffy) | B: ice | ACT: hugs | SCALE: - | OAES: A,S
+6 | A: ice | B: mountain | ACT: links-to | SCALE: - | OAES: O,S
+7 | A: mountain | B: fist | ACT: links-to | SCALE: - | OAES: A,S
+8 | A: fist | B: party | ACT: links-to | SCALE: - | OAES: S
+9 | A: party | B: machine | ACT: links-to | SCALE: A=giant | OAES: A,S
+10 | A: machine | B: fire | ACT: throws | SCALE: - | OAES: O,A
+## 3
+1 | A: fire | B: tennis | ACT: pulls | SCALE: - | OAES: A,S
+2 | A: tennis | B: few-tile | ACT: pulls | SCALE: - | OAES: E,S
+3 | A: few-tile | B: genie-us | ACT: links-to | SCALE: - | OAES: A,S
+4 | A: genie-us | B: parrot | ACT: links-to | SCALE: - | OAES: S
+5 | A: parrot | B: locksmith | ACT: links-to | SCALE: - | OAES: E,S
+6 | A: locksmith | B: eel | ACT: chases | SCALE: - | OAES: A,S
+7 | A: eel | B: robot | ACT: chases | SCALE: - | OAES: A,E
+8 | A: robot | B: deer | ACT: links-to | SCALE: - | OAES: A,S
+9 | A: deer | B: jelly-party | ACT: throws | SCALE: - | OAES: O,S
+10 | A: jelly-party | B: lever | ACT: links-to | SCALE: B=giant | OAES: A,S
+## 4
+1 | A: lever | B: tree | ACT: throws | SCALE: - | OAES: S
+2 | A: tree | B: burro-crazy | ACT: links-to | SCALE: - | OAES: E,S
+3 | A: burro-crazy | B: screw-tiny | ACT: climbs-out | SCALE: B=tiny | OAES: S
+4 | A: screw-tiny | B: band | ACT: links-to | SCALE: - | OAES: A,S
+5 | A: band | B: torte | ACT: throws | SCALE: - | OAES: A,S
+6 | A: torte | B: twin | ACT: links-to | SCALE: - | OAES: S
+7 | A: twin | B: number | ACT: links-to | SCALE: - | OAES: S
+8 | A: number | B: vending | ACT: links-to | SCALE: - | OAES: E,S
+9 | A: vending | B: mosquito | ACT: links-to | SCALE: - | OAES: E,S
+10 | A: mosquito | B: dill-a-palace | ACT: drops-on | SCALE: - | OAES: O,S
+## 5
+1 | A: dill-a-palace | B: ear-y | ACT: hugs | SCALE: - | OAES: O,S
+2 | A: ear-y | B: root | ACT: links-to | SCALE: - | OAES: E,S
+3 | A: root | B: tower | ACT: pulls | SCALE: - | OAES: O,S
+4 | A: tower | B: dare-relic | ACT: drops-on | SCALE: - | OAES: S
+5 | A: dare-relic | B: cucumber-sumo | ACT: pulls | SCALE: - | OAES: S
+6 | A: cucumber-sumo | B: fort | ACT: pulls | SCALE: - | OAES: S
+7 | A: fort | B: sock | ACT: throws | SCALE: - | OAES: E,S
+8 | A: sock | B: formula-bull | ACT: hugs | SCALE: - | OAES: O,S
+9 | A: formula-bull | B: kid | ACT: links-to | SCALE: - | OAES: S
+10 | A: kid | B: bowl | ACT: links-to | SCALE: - | OAES: E,S
+## 6
+1 | A: bowl | B: bell | ACT: links-to | SCALE: - | OAES: A,S
+2 | A: bell | B: raccoon-teur | ACT: links-to | SCALE: - | OAES: S
+3 | A: raccoon-teur | B: credit-card | ACT: links-to | SCALE: - | OAES: E,S
+4 | A: credit-card | B: city | ACT: links-to | SCALE: - | OAES: S
+5 | A: city | B: monster | ACT: gulps | SCALE: - | OAES: S
+6 | A: monster | B: flamingo-buoy | ACT: rides | SCALE: - | OAES: S
+7 | A: flamingo-buoy | B: brag-cart | ACT: links-to | SCALE: - | OAES: S
+8 | A: brag-cart | B: ant-egg-dote | ACT: links-to | SCALE: - | OAES: S
+9 | A: ant-egg-dote | B: fire-hose(golden) | ACT: throws | SCALE: - | OAES: O,S
+10 | A: fire-hose(golden) | B: mermaid | ACT: bursts-out | SCALE: - | OAES: A,S
+## 7
+1 | A: mermaid | B: ant | ACT: rides | SCALE: - | OAES: S
+2 | A: ant | B: pearl-us | ACT: links-to | SCALE: - | OAES: S
+3 | A: pearl-us | B: hole(black) | ACT: drops-on | SCALE: - | OAES: O,S
+4 | A: hole(black) | B: nut | ACT: climbs-out | SCALE: - | OAES: S
+5 | A: nut | B: mud-key | ACT: drops-on | SCALE: - | OAES: S
+6 | A: mud-key | B: team | ACT: climbs-out | SCALE: - | OAES: S
+7 | A: team | B: rope | ACT: climbs-out | SCALE: - | OAES: A,S
+8 | A: rope | B: chariot | ACT: catches | SCALE: - | OAES: S
+9 | A: chariot | B: coaster | ACT: smashes | SCALE: - | OAES: S
+10 | A: coaster | B: pepper | ACT: links-to | SCALE: - | OAES: S
+## 8
+1 | A: pepper | B: volcano-tile | ACT: drops-on | SCALE: - | OAES: S
+2 | A: volcano-tile | B: circus | ACT: bursts-out | SCALE: - | OAES: S
+3 | A: circus | B: circus | ACT: links-to | SCALE: - | OAES: E,S
+4 | A: circus | B: smoke | ACT: links-to | SCALE: - | OAES: S
+5 | A: smoke | B: waterfall | ACT: links-to | SCALE: - | OAES: A,S
+6 | A: waterfall | B: flood | ACT: links-to | SCALE: - | OAES: E,S
+7 | A: flood | B: ig-knight | ACT: throws | SCALE: - | OAES: S
+8 | A: ig-knight | B: bonfire(many) | ACT: hugs | SCALE: - | OAES: S
+9 | A: bonfire(many) | B: have-ox | ACT: smashes | SCALE: A=giant | OAES: S
+10 | A: have-ox | B: tack-it-turn | ACT: links-to | SCALE: - | OAES: S
+## 9
+1 | A: tack-it-turn | B: re-tissue-sent | ACT: links-to | SCALE: - | OAES: S
+2 | A: re-tissue-sent | B: cack-o-phone | ACT: links-to | SCALE: - | OAES: S
+3 | A: cack-o-phone | B: note | ACT: links-to | SCALE: - | OAES: A,S
+4 | A: note | B: door-man | ACT: links-to | SCALE: - | OAES: S
+5 | A: door-man | B: speaker | ACT: links-to | SCALE: - | OAES: E,S
+6 | A: speaker | B: giant | ACT: links-to | SCALE: - | OAES: A,S
+7 | A: giant | B: band | ACT: links-to | SCALE: - | OAES: E,S
+8 | A: band | B: crew(many) | ACT: links-to | SCALE: - | OAES: S
+9 | A: crew(many) | B: whale | ACT: drops-on | SCALE: - | OAES: S
+10 | A: whale | B: e-man-sip-ate | ACT: drops-on | SCALE: - | OAES: S
+## 10
+1 | A: e-man-sip-ate | B: cheese | ACT: throws | SCALE: - | OAES: S
+2 | A: cheese | B: crowd(many) | ACT: links-to | SCALE: - | OAES: S
+3 | A: crowd(many) | B: tricycle | ACT: smashes | SCALE: - | OAES: S
+4 | A: tricycle | B: eggs-ult(many) | ACT: links-to | SCALE: - | OAES: A,S
+5 | A: eggs-ult(many) | B: mom-mentum | ACT: links-to | SCALE: - | OAES: S
+6 | A: mom-mentum | B: cat | ACT: links-to | SCALE: - | OAES: S
+7 | A: cat | B: defy-ant | ACT: links-to | SCALE: - | OAES: S
+8 | A: defy-ant | B: sign | ACT: links-to | SCALE: - | OAES: S
+9 | A: sign | B: cull-mint | ACT: links-to | SCALE: - | OAES: S
+10 | A: cull-mint | B: tightrope | ACT: links-to | SCALE: - | OAES: S

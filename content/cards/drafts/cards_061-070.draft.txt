@@ -1,0 +1,111 @@
+# DRAFT (machine-made by tools/draft_cards.py, NOT reviewed). The build ignores this folder.
+## 61
+1 | A: judge-icious | B: judge | ACT: links-to | SCALE: - | OAES: S
+2 | A: judge | B: dictionary | ACT: links-to | SCALE: - | OAES: S
+3 | A: dictionary | B: prune-dent | ACT: drops-on | SCALE: - | OAES: S
+4 | A: prune-dent | B: honey | ACT: gulps | SCALE: - | OAES: S
+5 | A: honey | B: scale | ACT: pulls | SCALE: - | OAES: S
+6 | A: scale | B: judge | ACT: carries | SCALE: - | OAES: S
+7 | A: judge | B: equal-table | ACT: links-to | SCALE: - | OAES: S
+8 | A: equal-table | B: add-judge-cate | ACT: links-to | SCALE: - | OAES: S
+9 | A: add-judge-cate | B: party-san(many) | ACT: links-to | SCALE: - | OAES: S
+10 | A: party-san(many) | B: i-tent-erant | ACT: carries | SCALE: - | OAES: S
+## 62
+1 | A: i-tent-erant | B: family | ACT: rides | SCALE: - | OAES: S
+2 | A: family | B: pet | ACT: links-to | SCALE: - | OAES: S
+3 | A: pet | B: beach | ACT: links-to | SCALE: - | OAES: S
+4 | A: beach | B: soap | ACT: links-to | SCALE: - | OAES: S
+5 | A: soap | B: team | ACT: links-to | SCALE: - | OAES: S
+6 | A: team | B: voyage | ACT: turns-into | SCALE: - | OAES: S
+7 | A: voyage | B: wanderer | ACT: links-to | SCALE: - | OAES: S
+8 | A: wanderer | B: dog | ACT: links-to | SCALE: - | OAES: S
+9 | A: dog | B: emu | ACT: links-to | SCALE: - | OAES: S
+10 | A: emu | B: river-l | ACT: links-to | SCALE: - | OAES: S
+## 63
+1 | A: river-l | B: fly | ACT: links-to | SCALE: - | OAES: S
+2 | A: fly | B: spider | ACT: links-to | SCALE: - | OAES: S
+3 | A: spider | B: tack-tic | ACT: throws | SCALE: - | OAES: S
+4 | A: tack-tic | B: eggs-ert | ACT: carries | SCALE: - | OAES: S
+5 | A: eggs-ert | B: mountain | ACT: links-to | SCALE: - | OAES: S
+6 | A: mountain | B: zebra | ACT: links-to | SCALE: - | OAES: S
+7 | A: zebra | B: stamp-ina | ACT: gulps | SCALE: - | OAES: S
+8 | A: stamp-ina | B: jewel-ant | ACT: bursts-out | SCALE: - | OAES: S
+9 | A: jewel-ant | B: van | ACT: pulls | SCALE: - | OAES: S
+10 | A: van | B: king | ACT: drops-on | SCALE: - | OAES: S
+## 64
+1 | A: king | B: eagle | ACT: links-to | SCALE: - | OAES: S
+2 | A: eagle | B: mountain | ACT: links-to | SCALE: - | OAES: S
+3 | A: mountain | B: robot | ACT: links-to | SCALE: - | OAES: S
+4 | A: robot | B: butler | ACT: links-to | SCALE: - | OAES: S
+5 | A: butler | B: scroll | ACT: links-to | SCALE: - | OAES: S
+6 | A: scroll | B: grandmother | ACT: links-to | SCALE: - | OAES: S
+7 | A: grandmother | B: author | ACT: links-to | SCALE: - | OAES: S
+8 | A: author | B: empress | ACT: links-to | SCALE: - | OAES: S
+9 | A: empress | B: clementine | ACT: links-to | SCALE: - | OAES: S
+10 | A: clementine | B: monster | ACT: turns-into | SCALE: - | OAES: S
+## 65
+1 | A: monster | B: hallway | ACT: links-to | SCALE: - | OAES: S
+2 | A: hallway | B: fan-tom | ACT: links-to | SCALE: - | OAES: S
+3 | A: fan-tom | B: ghost-dust | ACT: turns-into | SCALE: - | OAES: S
+4 | A: ghost-dust | B: figure | ACT: links-to | SCALE: - | OAES: S
+5 | A: figure | B: clock | ACT: drops-on | SCALE: - | OAES: S
+6 | A: clock | B: fig-mint | ACT: links-to | SCALE: - | OAES: S
+7 | A: fig-mint | B: king | ACT: links-to | SCALE: - | OAES: S
+8 | A: king | B: queen-ch | ACT: throws | SCALE: - | OAES: S
+9 | A: queen-ch | B: desert | ACT: drops-on | SCALE: - | OAES: S
+10 | A: desert | B: skeleton | ACT: drops-on | SCALE: - | OAES: S
+## 66
+1 | A: skeleton | B: auctioneer | ACT: links-to | SCALE: - | OAES: S
+2 | A: auctioneer | B: box | ACT: opens | SCALE: - | OAES: S
+3 | A: box | B: ghost-ly | ACT: opens | SCALE: - | OAES: S
+4 | A: ghost-ly | B: door | ACT: links-to | SCALE: - | OAES: S
+5 | A: door | B: fly | ACT: links-to | SCALE: - | OAES: S
+6 | A: fly | B: plow-field | ACT: rides | SCALE: - | OAES: S
+7 | A: plow-field | B: grim-reaper | ACT: links-to | SCALE: - | OAES: S
+8 | A: grim-reaper | B: house | ACT: drops-on | SCALE: - | OAES: S
+9 | A: house | B: vandal | ACT: links-to | SCALE: - | OAES: S
+10 | A: vandal | B: con-seed | ACT: links-to | SCALE: - | OAES: S
+## 67
+1 | A: con-seed | B: pizza | ACT: links-to | SCALE: - | OAES: S
+2 | A: pizza | B: diplomat | ACT: links-to | SCALE: - | OAES: S
+3 | A: diplomat | B: tv | ACT: links-to | SCALE: - | OAES: S
+4 | A: tv | B: clown | ACT: links-to | SCALE: - | OAES: S
+5 | A: clown | B: tv | ACT: links-to | SCALE: - | OAES: S
+6 | A: tv | B: phone | ACT: links-to | SCALE: - | OAES: S
+7 | A: phone | B: rapper | ACT: links-to | SCALE: - | OAES: S
+8 | A: rapper | B: group | ACT: links-to | SCALE: - | OAES: S
+9 | A: group | B: sign | ACT: links-to | SCALE: - | OAES: S
+10 | A: sign | B: vent | ACT: links-to | SCALE: - | OAES: S
+## 68
+1 | A: vent | B: windmill | ACT: links-to | SCALE: - | OAES: S
+2 | A: windmill | B: desert | ACT: drops-on | SCALE: - | OAES: S
+3 | A: desert | B: jungle | ACT: links-to | SCALE: - | OAES: S
+4 | A: jungle | B: porridge | ACT: links-to | SCALE: - | OAES: S
+5 | A: porridge | B: sun | ACT: links-to | SCALE: - | OAES: S
+6 | A: sun | B: rest-pit | ACT: links-to | SCALE: - | OAES: S
+7 | A: rest-pit | B: salt-try | ACT: links-to | SCALE: - | OAES: S
+8 | A: salt-try | B: fridge-id | ACT: links-to | SCALE: - | OAES: S
+9 | A: fridge-id | B: torch-rid | ACT: throws | SCALE: - | OAES: S
+10 | A: torch-rid | B: bird | ACT: links-to | SCALE: - | OAES: S
+## 69
+1 | A: bird | B: choir | ACT: links-to | SCALE: - | OAES: S
+2 | A: choir | B: dove | ACT: links-to | SCALE: - | OAES: S
+3 | A: dove | B: mermaid | ACT: links-to | SCALE: - | OAES: S
+4 | A: mermaid | B: rapper | ACT: turns-into | SCALE: - | OAES: S
+5 | A: rapper | B: moon | ACT: links-to | SCALE: - | OAES: S
+6 | A: moon | B: timber | ACT: smashes | SCALE: - | OAES: S
+7 | A: timber | B: boat | ACT: climbs-out | SCALE: - | OAES: S
+8 | A: boat | B: kid | ACT: links-to | SCALE: - | OAES: S
+9 | A: kid | B: hypnotist | ACT: carries | SCALE: - | OAES: S
+10 | A: hypnotist | B: pen-thief | ACT: links-to | SCALE: - | OAES: S
+## 70
+1 | A: pen-thief | B: crow | ACT: links-to | SCALE: - | OAES: S
+2 | A: crow | B: message | ACT: carries | SCALE: - | OAES: S
+3 | A: message | B: judge | ACT: links-to | SCALE: - | OAES: S
+4 | A: judge | B: girl | ACT: carries | SCALE: - | OAES: S
+5 | A: girl | B: nest | ACT: links-to | SCALE: - | OAES: S
+6 | A: nest | B: priest | ACT: links-to | SCALE: - | OAES: S
+7 | A: priest | B: video-cat | ACT: links-to | SCALE: - | OAES: S
+8 | A: video-cat | B: owner | ACT: links-to | SCALE: - | OAES: S
+9 | A: owner | B: machine | ACT: links-to | SCALE: - | OAES: S
+10 | A: machine | B: equus-train | ACT: rides | SCALE: - | OAES: S
