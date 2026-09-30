@@ -989,6 +989,75 @@ LIB_BATCH1 = {"crypt": _crypt, "tomb": _crypt, "tile": _tile, "jelly": _jelly, "
               "fork": _tuningfork, "tuning-fork": _tuningfork, "speaker": _speaker, "loudspeaker": _speaker, "clam": _clam, "oyster": _clam,
               "tricycle": _tricycle, "sign": _sign, "stop-sign": _sign, "tightrope": _tightrope}
 
+# ---- library growth · batch 2 (chapters 11-20)
+def _vase(c=None, **k):
+    c = c or "#2f6db5"
+    return P("M-10,-80 H10 Q8,-66 18,-54 Q34,-30 22,-8 Q14,0 0,0 Q-14,0 -22,-8 Q-34,-30 -18,-54 Q-8,-66 -10,-80 Z", c, 3) + P("M-24,-36 Q0,-26 24,-36", "none", 3, "#f4c542") + P("M-18,-52 Q0,-46 18,-52", "none", 2, "#fff")
+
+def _teddy(c=None, expr="sleepy", **k):
+    c = c or "#b8804a"
+    return (E(0, -22, 24, 22, c, 3) + E(0, -20, 12, 12, shade(c, 1.4), 0) + C(-22, -8, 9, c, 2.5) + C(22, -8, 9, c, 2.5)
+            + C(-18, -66, 8, c, 2.5) + C(18, -66, 8, c, 2.5) + C(0, -54, 18, c, 3) + E(0, -48, 8, 6, shade(c, 1.4), 1.5) + face(0, -56, 0.6, expr))
+
+def _bicycle(c=None, **k):
+    c = c or "#2f6db5"
+    return C(-26, -18, 16, "none", 4, INK) + C(26, -18, 16, "none", 4, INK) + P("M-26,-18 L-6,-46 L20,-46 L26,-18 M-6,-46 L0,-18 L20,-46 M-10,-54 H2 M20,-46 L24,-58 H32", "none", 4, c)
+
+def _pricetag(c=None, **k):
+    c = c or "#f4c542"
+    return P("M-30,-70 H14 L34,-44 L14,-18 H-30 Z", c, 3) + C(18, -44, 5, "#2a1450", 2) + T(-8, -38, "$$$", 15, "#c0262d") + P("M22,-44 q20,-10 14,-30", "none", 2)
+
+def _pyramid(c=None, **k):
+    c = c or "#e0c28a"
+    return P("M-46,0 L0,-78 L46,0 Z", c, 3) + P("M0,-78 L14,0 H46 Z", shade(c, 0.8), 0) + L(0, -78, 14, 0, INK, 2) + "".join(L(-46 + 6 * j, -10 * j, 46 - 6 * j, -10 * j, shade(c, 0.7), 1.2) for j in range(1, 7))
+
+def _vest(c=None, **k):
+    c = c or "#c0262d"
+    return P("M-26,-72 L-10,-72 L0,-40 L10,-72 L26,-72 L30,-6 H4 L0,-30 L-4,-6 H-30 Z", c, 3) + "".join(C(-6, y, 2.5, "#f4c542", 0) for y in (-26, -16)) + P("M-24,-60 Q-20,-40 -26,-20", "none", 2, "#f4c542")
+
+def _whirlpool(c=None, expr="mean", **k):
+    c = c or "#2f6db5"
+    return E(0, -20, 44, 20, c, 3) + "".join(P(f"M{-r},-20 A{r},{r*0.45} 0 1 1 {r*0.8},-{20 + r*0.2}", "none", 2.5, "#bfefff") for r in (34, 24, 14)) + E(0, -20, 6, 3, INK, 0) + face(0, -30, 0.6, expr)
+
+def _cannon(c=None, **k):
+    c = c or "#3a3a4a"
+    return P("M-30,-26 L34,-56 L40,-44 L-24,-12 Z", c, 3) + E(37, -50, 5, 7, INK, 0, extra='transform="rotate(-25 37 -50)"') + C(-14, -12, 14, "#8a5a2b", 3) + C(-14, -12, 4, INK, 0) + "".join(C(50 + j * 10, -62 - j * 6, 4, INK, 0) for j in range(3))
+
+def _maze(c=None, **k):
+    c = c or "#3f9b4a"
+    return (f'<rect x="-38" y="-72" width="76" height="68" fill="{shade(c,1.5)}" stroke="{INK}" stroke-width="3"/>'
+            + P("M-38,-58 H22 M-24,-58 V-30 H8 M22,-44 V-16 H-24 M-10,-44 H8 V-30 M-38,-16 H-24 M22,-30 H38", "none", 5, c))
+
+def _tray(c=None, **k):
+    c = c or "#c9ccd8"
+    return E(0, -24, 40, 10, c, 3) + E(0, -26, 32, 6, shade(c, 1.2), 0) + C(-14, -32, 8, "#e0533b", 2) + P("M4,-30 L20,-36 L22,-28 Z", "#f4c542", 2) + E(0, -24, 40, 10, "none", 3)
+
+def _broccoli(c=None, expr="happy", **k):
+    c = c or "#3f9b4a"
+    return P("M-8,0 L-4,-30 H4 L8,0 Z", "#9acd6a", 2.5) + "".join(C(x, y, r, c, 2.5) for x, y, r in [(-16, -40, 12), (14, -40, 12), (0, -54, 15), (-20, -56, 10), (20, -56, 10)]) + face(0, -44, 0.55, expr)
+
+def _bus(c=None, **k):
+    c = c or "#ffd23f"
+    return (f'<rect x="-42" y="-58" width="84" height="46" rx="8" fill="{c}" stroke="{INK}" stroke-width="3"/>' + "".join(f'<rect x="{x}" y="-50" width="14" height="14" fill="#bfefff" stroke="{INK}" stroke-width="2"/>' for x in (-34, -16, 2, 20))
+            + C(-24, -10, 9, "#333", 2.5) + C(24, -10, 9, "#333", 2.5) + L(-42, -30, 42, -30, "#c0262d", 3))
+
+def _question(c=None, **k):
+    c = c or "#ffd23f"
+    return P("M-18,-60 Q-18,-84 2,-84 Q24,-84 24,-62 Q24,-46 6,-40 V-24", "none", 13, INK) + P("M-18,-60 Q-18,-84 2,-84 Q24,-84 24,-62 Q24,-46 6,-40 V-24", "none", 8, c) + C(6, -8, 7, c, 3)
+
+def _cave(c=None, **k):
+    c = c or "#8a7a6a"
+    return P("M-44,0 Q-44,-50 -10,-70 Q20,-80 40,-50 Q48,-30 44,0 Z", c, 3) + P("M-20,0 Q-22,-34 0,-40 Q22,-34 20,0 Z", "#1b1b2f", 2.5) + P("M-12,-38 l4,8 l4,-8 M4,-38 l4,8 l4,-8", "#f7f3e8", 1)
+
+def _stairs(c=None, **k):
+    c = c or "#c9b89a"
+    return "".join(f'<rect x="{-40+j*16}" y="{-16-j*16}" width="{80-j*16}" height="16" fill="{c if j % 2 == 0 else shade(c,0.85)}" stroke="{INK}" stroke-width="2.5"/>' for j in range(5)) + P("M-8,-48 h12 v6 h-12 Z", INK, 0)
+
+LIB_BATCH2 = ({"vase": _vase, "teddy": _teddy, "teddy-bear": _teddy, "bicycle": _bicycle, "bike": _bicycle, "price-tag": _pricetag, "tag": _pricetag,
+            "price": _pricetag, "pyramid": _pyramid, "vest": _vest, "whirlpool": _whirlpool, "vortex": _whirlpool, "cannon": _cannon, "maze": _maze,
+            "labyrinth": _maze, "tray": _tray, "broccoli": _broccoli, "bus": _bus, "question": _question, "question-mark": _question, "quiz": _question,
+            "riddle": _question, "cave": _cave, "stairs": _stairs, "staircase": _stairs, "stair": _stairs, "steps": _stairs})
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1218,10 +1287,12 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
+              "wildebeest": "bull", "gnu": "bull", "stag": "deer", "labrador": "dog", "parsnip": "carrot", "spire": "tower",
+              "charmer": "musician", "snake-charmer": "musician", "barber": "smith", "dictator": "official", "santa": "grandpa", "sandal": "shoe",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
