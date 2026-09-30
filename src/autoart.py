@@ -401,7 +401,7 @@ def speaker_of(story, q, people):
     return bi
 GNAMES = {"g:lion": ["Lion"], "g:elephant": ["Elephant"], "g:eagle": ["Eagle"], "g:horse": ["Horse"]}
 
-ALLV = {w["word"].lower() for c in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json"))) for w in c["words"]} | {"the","and","go","no","stop","run","help","yes","now","all","she","ring","not"}
+ALLV = {w["word"].lower() for c in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json"), encoding="utf-8")) for w in c["words"]} | {"the","and","go","no","stop","run","help","yes","now","all","she","ring","not"}
 SFX_RX = re.compile(r"\b([A-Z][A-Z\-]{2,}[!.]+)")
 
 # ------------------------------------------------------------ compose one panel
@@ -502,5 +502,5 @@ if __name__ == "__main__":
     n = int(sys.argv[1])
     scenes.VOCAB.clear()
     html_out = "".join(f'<div style="display:inline-block;width:{"1200" if i==9 else "400"}px;margin:4px;vertical-align:top">{compose(n, i, CH[n]["frames"][i], D[n-1]["words"][i]["word"], D[n]["title"] if n < 100 else None)}</div>' for i in range(10))
-    open("/tmp/prev.html", "w").write(f"<html><body style='background:#333;width:1260px'>{html_out}</body></html>")
+    open("/tmp/prev.html", "w", encoding="utf-8").write(f"<html><body style='background:#333;width:1260px'>{html_out}</body></html>")
     print("ok")

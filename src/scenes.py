@@ -1,6 +1,6 @@
 """Panel backgrounds, speech bubbles and effects. Panel viewBox: 0 0 400 300 (wide panels: 0 0 1200 300)."""
 import math, textwrap, random, json, os
-VOCAB = {w["word"].lower() for c in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json"))) for w in c["words"]}
+VOCAB = {w["word"].lower() for c in json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json"), encoding="utf-8")) for w in c["words"]}
 from art import *
 from characters import SPECS
 

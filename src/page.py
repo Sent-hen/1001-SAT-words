@@ -3,7 +3,7 @@ sys.path.insert(0, ".")
 from scenes import panel
 
 STATIONS = ["ARCH", "STEP", "LAMP", "RUG", "HEART", "PILLAR", "WINDOW", "STAIR", "BALCONY", "TOP"]
-DATA = json.load(open("../data/saga.json"))
+DATA = json.load(open("../data/saga.json", encoding="utf-8"))
 
 CSS = """
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@700&family=Nunito:wght@500;700;800&display=swap');
@@ -108,6 +108,6 @@ if __name__ == "__main__":
     import os
     num = int(sys.argv[1]); mod = sys.argv[2]
     os.makedirs("../chapters", exist_ok=True)
-    open(f"../chapters/chapter_{num:03d}.html", "w").write(build(num, mod))
-    open(f"../chapters/chapter_{num:03d}_prompts.md", "w").write(prompts_md(num, mod))
+    open(f"../chapters/chapter_{num:03d}.html", "w", encoding="utf-8", newline="\n").write(build(num, mod))
+    open(f"../chapters/chapter_{num:03d}_prompts.md", "w", encoding="utf-8", newline="\n").write(prompts_md(num, mod))
     print("built", num)

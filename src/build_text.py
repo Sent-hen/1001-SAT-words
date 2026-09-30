@@ -183,8 +183,8 @@ def all_md():
 if __name__ == "__main__":
     os.makedirs(os.path.join(ROOT, "chapters"), exist_ok=True)
     for n in range(1, 101):
-        open(os.path.join(ROOT, "chapters", f"chapter_{n:03d}.html"), "w").write(page(n))
-        open(os.path.join(ROOT, "chapters", f"chapter_{n:03d}_prompts.md"), "w").write(prompts_md(n))
-    open(os.path.join(ROOT, "chapters", "index.html"), "w").write(index())
-    open(os.path.join(ROOT, "06_ALL_CHAPTERS.md"), "w").write(all_md())
+        open(os.path.join(ROOT, "chapters", f"chapter_{n:03d}.html"), "w", encoding="utf-8", newline="\n").write(page(n))
+        open(os.path.join(ROOT, "chapters", f"chapter_{n:03d}_prompts.md"), "w", encoding="utf-8", newline="\n").write(prompts_md(n))
+    open(os.path.join(ROOT, "chapters", "index.html"), "w", encoding="utf-8", newline="\n").write(index())
+    open(os.path.join(ROOT, "06_ALL_CHAPTERS.md"), "w", encoding="utf-8", newline="\n").write(all_md())
     print("built 100")

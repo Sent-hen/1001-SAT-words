@@ -148,13 +148,13 @@ if __name__ == "__main__":
     import os
     os.makedirs("../images/characters", exist_ok=True)
     for n in ORDER:
-        open(f"../images/characters/{n}.svg", "w").write(card(n))
+        open(f"../images/characters/{n}.svg", "w", encoding="utf-8", newline="\n").write(card(n))
     # lineup: 6 columns x 3 rows of scaled cards
     cells = ""
     for i, n in enumerate(ORDER):
         x, y = (i % 6) * 410, (i // 6) * 610
         inner = card(n).split(">", 1)[1].rsplit("</svg>", 1)[0]
         cells += f'<g transform="translate({x},{y})">{inner}</g>'
-    open("../images/characters/_cast_lineup.svg", "w").write(
+    open("../images/characters/_cast_lineup.svg", "w", encoding="utf-8", newline="\n").write(
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 2470 1840" width="2470" height="1840"><rect x="-10" y="-10" width="2470" height="1840" fill="#2a1f3d"/>{cells}</svg>')
     print("ok")

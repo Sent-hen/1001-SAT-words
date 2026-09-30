@@ -1,7 +1,9 @@
-import json, math
+import json, math, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from art import INK, T, P, C, E, L, sparkle
 
-D = json.load(open("../data/saga.json"))
+HERE = os.path.dirname(os.path.abspath(__file__))
+D = json.load(open(os.path.join(HERE, "..", "data", "saga.json"), encoding="utf-8"))
 W, H = 1500, 1160
 CX, CY = 640, 470
 R_WALL, R_OUT, R_IN, R_HEART = 250, 308, 185, 100
@@ -130,6 +132,6 @@ def svg():
     return "".join(o)
 
 if __name__ == "__main__":
-    open("../images/city_map.svg", "w").write(svg())
-    json.dump([[d * 10 + k + 1, round(x), round(y)] for d, r in enumerate(routes) for k, (x, y) in enumerate(r)], open("../data/map_points.json", "w"))
+    open(os.path.join(HERE, "..", "images", "city_map.svg"), "w", encoding="utf-8", newline="\n").write(svg())
+    json.dump([[d * 10 + k + 1, round(x), round(y)] for d, r in enumerate(routes) for k, (x, y) in enumerate(r)], open(os.path.join(HERE, "..", "data", "map_points.json"), "w", encoding="utf-8"))
     print("map ok")

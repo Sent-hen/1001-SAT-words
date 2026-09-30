@@ -1,6 +1,6 @@
 import json, re, glob
 import os
-D = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json")))
+D = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "saga.json"), encoding="utf-8"))
 def parse(files):
     chs = {}; cur = None; fr = None
     for f in sorted(files):

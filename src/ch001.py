@@ -1,7 +1,7 @@
 from scenes import *
 from characters import SPECS
 import json as _j
-VOCAB.clear(); VOCAB.update(w["word"] for w in _j.load(open("../data/saga.json"))[0]["words"])
+VOCAB.clear(); VOCAB.update(w["word"] for w in _j.load(open("../data/saga.json", encoding="utf-8"))[0]["words"])
 
 STYLE = ("Vibrant modern comic-book panel, Arabian Nights fantasy, mythic medieval Baghdad, bold clean ink outlines, cel shading, "
          "warm jewel-tone palette, cinematic angle, aimed at teenagers, no text")
