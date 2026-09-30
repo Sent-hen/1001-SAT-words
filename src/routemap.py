@@ -31,8 +31,8 @@ def nxt(n):
 # ------------------------------------------------------------------ page-level base map (once per page)
 def base_defs():
     """Hidden SVG with the night-mode base map as <symbol id="cm-base">.
-    Hidden with width/height 0 rather than display:none: Chrome and Firefox do not apply
-    filters/patterns that live inside a display:none subtree when they are <use>d elsewhere."""
+    Hidden with width/height 0 rather than display:none. Chrome renders either way, but Firefox has
+    historically not applied patterns/filters that live inside a display:none subtree."""
     return (f'<svg class="cm-defs" width="0" height="0" style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true" focusable="false">'
             f'<defs><filter id="cm-night" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">'
             f'<feColorMatrix type="saturate" values="{SATURATE}"/>'
