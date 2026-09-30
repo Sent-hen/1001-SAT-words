@@ -1,0 +1,440 @@
+# 1 | The Night the Words Fell | The Crescent Lighthouse
+anomaly | n. | something strange that breaks the normal pattern
+ominous | adj. | giving the feeling that something bad is coming
+impetuous | adj. | acting fast without thinking
+audacious | adj. | boldly daring, even shockingly so
+benevolent | adj. | kind and wanting to do good
+skeptical | adj. | doubting; not easily convinced
+candid | adj. | honest and direct
+diligent | adj. | hard-working and careful
+malevolent | adj. | wishing harm on others
+resilient | adj. | able to bounce back after trouble
+# 2 | A Djinn in the Fish Basket | The Fish Market
+incredulous | adj. | unable to believe something
+whimsical | adj. | playfully odd and unpredictable
+eloquent | adj. | speaking beautifully and persuasively
+cryptic | adj. | mysterious; hard to understand
+affable | adj. | friendly and easy to talk to
+novice | n. | a beginner
+frivolous | adj. | silly; not serious
+indignant | adj. | angry at something unfair
+gregarious | adj. | loving company; very social
+pragmatic | adj. | practical; focused on what works
+# 3 | Knots of the Hushlings | The Rope-Makers' Wharf
+ensnare | v. | to trap
+tenacious | adj. | refusing to let go or give up
+futile | adj. | useless; having no chance of success
+ingenious | adj. | clever and inventive
+predicament | n. | a difficult, tricky situation
+adept | adj. | very skilled
+evade | v. | to escape or avoid
+relentless | adj. | never stopping or easing up
+deft | adj. | quick and skillful with hands
+jeopardy | n. | danger of loss or harm
+# 4 | The Tax on Truth | The Customs House
+levy | v./n. | to impose (a tax); a tax
+arbitrary | adj. | based on whim, not reason
+bureaucracy | n. | a system of officials and endless rules
+scrutinize | v. | to examine very closely
+contraband | n. | smuggled or forbidden goods
+extort | v. | to get something by threats
+dubious | adj. | doubtful; suspicious
+integrity | n. | honesty and strong moral principles
+venal | adj. | open to bribery; corrupt
+meticulous | adj. | extremely careful with details
+# 5 | Skeleton Ships | The Shipyard
+dilapidated | adj. | falling apart from age or neglect
+eerie | adj. | strange and frightening
+rudimentary | adj. | basic; undeveloped
+precarious | adj. | dangerously unstable
+derelict | adj. | abandoned and run-down
+cumbersome | adj. | bulky and hard to handle
+fortify | v. | to strengthen
+makeshift | adj. | temporary, thrown together
+formidable | adj. | impressively powerful; scary to face
+intrepid | adj. | fearless; adventurous
+# 6 | The Liar Who Never Lied | Sinbad's Ship, the Wandering Pearl
+hyperbole | n. | extreme exaggeration
+embellish | v. | to decorate; to add made-up details
+raconteur | n. | a skilled storyteller
+credulous | adj. | too ready to believe things
+veracity | n. | truthfulness
+fabricate | v. | to make up (a lie); to build
+flamboyant | adj. | showy and colorful
+braggart | n. | a person who boasts a lot
+anecdote | n. | a short, interesting true story
+grandiose | adj. | overly grand; pretentiously big
+# 7 | Dive for the Drowned Spark | The Pearl Divers' Pier
+submerge | v. | to put or go under water
+buoyant | adj. | able to float; cheerful
+perilous | adj. | full of danger
+abyss | n. | a bottomless pit or depth
+luminous | adj. | glowing; giving off light
+murky | adj. | dark and cloudy; unclear
+endurance | n. | the ability to last through hardship
+ascend | v. | to go up
+reckless | adj. | careless about danger
+exhilarating | adj. | thrilling; making you feel alive
+# 8 | Pepper Storm | The Spice Warehouses
+pungent | adj. | sharply strong in smell or taste
+volatile | adj. | likely to explode or change suddenly
+chaotic | adj. | completely disordered
+pandemonium | n. | wild, noisy chaos
+acrid | adj. | bitter and burning to smell
+torrent | n. | a violent rushing stream
+inundate | v. | to flood; to overwhelm
+ignite | v. | to set on fire; to spark
+conflagration | n. | a huge destructive fire
+havoc | n. | widespread destruction
+# 9 | The Bell That Couldn't Ring | The Harbormaster's Tower
+taciturn | adj. | saying very little
+reticent | adj. | reluctant to share feelings or information
+cacophony | n. | harsh mix of loud sounds
+resonate | v. | to echo; to strike a chord
+dormant | adj. | asleep; inactive for now
+reverberate | v. | to echo repeatedly
+stifle | v. | to smother; to hold back
+inaudible | adj. | impossible to hear
+clamor | n. | loud, confused noise or demand
+sonorous | adj. | deep and full-sounding
+# 10 | Breaking the Chain | The Chain Gate
+emancipate | v. | to set free
+fetter | n./v. | a chain; to restrain
+impede | v. | to block or slow down
+triumph | n. | a great victory
+exult | v. | to rejoice greatly
+momentum | n. | force gained by motion
+catalyst | n. | something that sparks change
+defiance | n. | bold refusal to obey
+unyielding | adj. | not giving way
+culminate | v. | to reach a climax or final point
+# 11 | The Bridge That Floats | The Bridge of Boats (East End)
+tenuous | adj. | very thin or weak
+traverse | v. | to travel across
+vacillate | v. | to swing back and forth in opinion
+equilibrium | n. | a state of balance
+apprehensive | adj. | anxious about the future
+steadfast | adj. | firm and loyal
+trepidation | n. | nervous fear
+navigate | v. | to find one's way
+fluctuate | v. | to rise and fall irregularly
+collaborate | v. | to work together
+# 12 | Mills of Midnight | The Water-Mill Barges
+perpetual | adj. | never-ending
+monotonous | adj. | dull and unchanging
+industrious | adj. | hard-working
+tedious | adj. | boring and tiring
+laborious | adj. | needing lots of effort
+nocturnal | adj. | active at night
+cyclical | adj. | happening in repeating cycles
+efficient | adj. | getting results without waste
+stagnant | adj. | not moving; not growing
+harness | v. | to control and use (power)
+# 13 | Steam and Secrets | The Floating Bathhouse
+clandestine | adj. | secret, often illicit
+covert | adj. | hidden; undercover
+eavesdrop | v. | to secretly listen in
+surreptitious | adj. | done sneakily
+conspire | v. | to secretly plan together
+obscure | adj./v. | unclear or unknown; to hide
+divulge | v. | to reveal a secret
+insinuate | v. | to hint something unpleasant
+furtive | adj. | sly, trying not to be seen
+discreet | adj. | careful to keep things private
+# 14 | The Girl with Heron Feathers | Heron Island
+enigmatic | adj. | mysterious and puzzling
+charismatic | adj. | charmingly magnetic
+aloof | adj. | distant; cool and uninvolved
+inscrutable | adj. | impossible to read or understand
+beguile | v. | to charm, often deceptively
+poised | adj. | calm and composed; ready
+guile | n. | sly cunning
+feign | v. | to pretend
+elegant | adj. | gracefully stylish
+wary | adj. | cautious; on guard
+# 15 | The Ferryman's Price | The Ferryman's Hut
+frugal | adj. | careful with money
+exorbitant | adj. | far too expensive
+avarice | n. | extreme greed for wealth
+barter | v. | to trade goods without money
+negotiate | v. | to bargain to reach agreement
+miserly | adj. | stingy like a miser
+parsimonious | adj. | extremely unwilling to spend
+compensate | v. | to pay back; to make up for
+lucrative | adj. | producing lots of money
+haggle | v. | to argue over a price
+# 16 | The Watermelon War | Island of the Watermelon Farmers
+feud | n. | a long bitter quarrel
+petty | adj. | small-minded; unimportant
+belligerent | adj. | eager to fight; hostile
+truce | n. | an agreement to stop fighting
+absurd | adj. | ridiculous
+reconcile | v. | to make friends again
+animosity | n. | strong hostility
+trivial | adj. | of little importance
+squabble | n./v. | a noisy quarrel about small things
+arbitrate | v. | to settle a dispute as a judge
+# 17 | The Palace Beneath the River | The Sunken Palace
+antiquity | n. | ancient times
+relic | n. | an object surviving from the past
+vestige | n. | a trace of something gone
+archaic | adj. | very old; outdated
+opulent | adj. | richly luxurious
+grandeur | n. | splendor and greatness
+ornate | adj. | heavily decorated
+ephemeral | adj. | lasting a very short time
+obsolete | adj. | no longer used
+excavate | v. | to dig out
+# 18 | Belly of the Tanin | The Tanin's Whirlpool
+voracious | adj. | hungry for huge amounts
+engulf | v. | to swallow up completely
+colossal | adj. | enormous
+claustrophobic | adj. | afraid of tight spaces; cramped
+revulsion | n. | strong disgust
+loathe | v. | to hate intensely
+desperate | adj. | hopeless and ready to try anything
+improvise | v. | to make it up on the spot
+expel | v. | to force out
+grotesque | adj. | ugly in a bizarre way
+# 19 | Lost in the Reeds | The Reed Maze
+disoriented | adj. | confused about direction
+labyrinthine | adj. | maze-like; complicated
+meander | v. | to wander in a winding way
+circuitous | adj. | roundabout; indirect
+bewilder | v. | to confuse completely
+impenetrable | adj. | impossible to get through
+intuition | n. | knowing by instinct
+perseverance | n. | keeping on despite difficulty
+dense | adj. | thick; packed closely; slow to understand
+elusive | adj. | hard to catch or grasp
+# 20 | Toll of the Traitor | The Toll Post (Bridge of Boats, West End)
+betray | v. | to be disloyal to
+treacherous | adj. | untrustworthy; dangerous
+duplicity | n. | two-faced deceit
+perfidious | adj. | deliberately faithless
+deceit | n. | dishonest trickery
+gullible | adj. | easily fooled
+naive | adj. | innocent and inexperienced
+vindictive | adj. | wanting revenge
+ultimatum | n. | a final demand with a threat
+disillusioned | adj. | disappointed after learning the truth
+# 21 | The Copper Arch | The Copper Arch (Bazaar Gate)
+bustling | adj. | full of busy activity
+throng | n. | a large crowd
+diverse | adj. | varied; of many kinds
+eclectic | adj. | drawn from many sources
+vibrant | adj. | full of energy and color
+cosmopolitan | adj. | from or at home in many cultures
+commerce | n. | buying and selling
+mercantile | adj. | relating to trade and merchants
+ubiquitous | adj. | found everywhere
+tumult | n. | noisy commotion
+# 22 | Saffron and Sabotage | The Street of Spices
+sabotage | v./n. | to deliberately destroy or wreck
+sinister | adj. | seeming evil
+subvert | v. | to undermine secretly
+meddle | v. | to interfere
+undermine | v. | to weaken from below
+tamper | v. | to interfere harmfully
+malicious | adj. | intending to harm
+culprit | n. | the one guilty
+cunning | adj. | cleverly deceitful
+thwart | v. | to block someone's plans
+# 23 | The Carpet That Ran Away | Carpet Weavers' Alley
+erratic | adj. | unpredictable; irregular
+capricious | adj. | changing mood suddenly
+agile | adj. | moving quickly and easily
+frenetic | adj. | wildly energetic
+wayward | adj. | hard to control; straying
+unruly | adj. | disorderly; wild
+careen | v. | to rush wildly, swaying
+pursue | v. | to chase
+exasperate | v. | to annoy greatly
+nimble | adj. | quick and light in movement
+# 24 | A Scent of Lies | Perfumers' Row
+fragrant | adj. | sweet-smelling
+aromatic | adj. | having a strong pleasant smell
+pervasive | adj. | spreading everywhere
+subtle | adj. | delicate; hard to notice
+allure | n. | attractive charm
+potent | adj. | powerful
+cloying | adj. | sickeningly sweet
+deceptive | adj. | misleading
+facade | n. | a false front
+redolent | adj. | strongly smelling of; suggestive of
+# 25 | The Book That Bit Back | The Booksellers' Souq
+erudite | adj. | very learned
+pedantic | adj. | fussy about small rules of learning
+esoteric | adj. | understood by only a few
+tome | n. | a large, heavy book
+annotate | v. | to add notes to a text
+archive | n. | a collection of records
+scholarly | adj. | academic; learned
+prolific | adj. | producing a lot
+verbose | adj. | using too many words
+literate | adj. | able to read and write
+# 26 | Hammer and Echo | Coppersmiths' Lane
+malleable | adj. | easily shaped
+strident | adj. | loud and harsh
+discordant | adj. | clashing; out of harmony
+vigorous | adj. | strong and energetic
+raucous | adj. | loud and rowdy
+incessant | adj. | never stopping
+din | n. | a loud continuous noise
+temper | v. | to toughen (metal); to soften (a harsh effect)
+ductile | adj. | able to be stretched into wire
+robust | adj. | strong and sturdy
+# 27 | Sweet Deception | The Sweets Shop of Abu Hasan
+jovial | adj. | cheerful and jolly
+glutton | n. | someone who eats too much
+indulgent | adj. | giving in to wishes
+affluent | adj. | wealthy
+genial | adj. | warm and friendly
+jocular | adj. | joking
+facetious | adj. | joking at a wrong time
+hospitable | adj. | welcoming to guests
+satiate | v. | to fully satisfy
+delectable | adj. | delicious
+# 28 | A Thousand Wings | The Bird Market
+migrate | v. | to move from one region to another
+plumage | n. | a bird's feathers
+captivity | n. | being held prisoner
+confine | v. | to keep within limits
+soar | v. | to fly high
+unfettered | adj. | free; unrestrained
+flit | v. | to move quickly and lightly
+flourish | v. | to grow well; thrive
+fledgling | n./adj. | a young bird; new and inexperienced
+cagey | adj. | secretive and cautious
+# 29 | The Mirror Maze | The Hall of Mirrors
+illusion | n. | a false appearance
+distort | v. | to twist out of shape
+introspective | adj. | looking inward at oneself
+narcissistic | adj. | in love with oneself
+paradox | n. | a self-contradicting truth
+facsimile | n. | an exact copy
+replicate | v. | to copy exactly
+delusion | n. | a false belief
+perception | n. | the way something is seen
+vanity | n. | excessive pride in appearance
+# 30 | Sold to the Shadow | The Auction Square
+coerce | v. | to force by threats
+ruthless | adj. | without pity
+despair | n. | total loss of hope
+anguish | n. | severe pain or distress
+abduct | v. | to kidnap
+ransom | n. | payment demanded to free a captive
+callous | adj. | cold; unfeeling
+despot | n. | a cruel ruler with total power
+tyranny | n. | cruel, unfair rule
+oppress | v. | to keep down by force
+# 31 | Over the Sarat | The Sarat Canal Bridge
+melancholy | n./adj. | deep, lasting sadness
+somber | adj. | dark and gloomy; serious
+solace | n. | comfort in sorrow
+console | v. | to comfort
+lament | v./n. | to express grief
+serene | adj. | calm and peaceful
+tranquil | adj. | quiet and still
+placid | adj. | calm; not easily upset
+wistful | adj. | sadly longing
+forlorn | adj. | lonely and hopeless
+# 32 | The Wheel of Fortune | The Great Waterwheel
+fortuitous | adj. | happening by lucky chance
+serendipity | n. | finding good things by accident
+inevitable | adj. | certain to happen
+adversity | n. | hardship
+prosperity | n. | success and wealth
+vicissitude | n. | an unwelcome change of fortune
+fickle | adj. | changing loyalty often
+haphazard | adj. | random; unplanned
+providential | adj. | lucky, as if arranged by fate
+wane | v. | to shrink; to decline
+# 33 | Roses with Thorny Tongues | The Garden of Talking Roses
+acerbic | adj. | sharp and biting in tone
+caustic | adj. | burning; bitterly sarcastic
+sardonic | adj. | mocking with scorn
+scathing | adj. | harshly critical
+derisive | adj. | mocking
+insolent | adj. | rudely disrespectful
+sycophant | n. | a flatterer who sucks up
+vitriolic | adj. | full of bitter hate
+petulant | adj. | childishly sulky
+disparage | v. | to belittle
+# 34 | The Zoo of Silent Beasts | The Caliph's Menagerie
+docile | adj. | easily managed; gentle
+ferocious | adj. | fierce and violent
+feral | adj. | wild; untamed
+domesticate | v. | to tame
+predatory | adj. | hunting others
+lethargic | adj. | sluggish and sleepy
+placate | v. | to calm someone's anger
+menagerie | n. | a collection of wild animals
+timid | adj. | shy and fearful
+primal | adj. | basic; instinctive; original
+# 35 | Duel of Poets | The Poets' Café
+rhetoric | n. | the art of persuasive speech
+articulate | adj./v. | speaking clearly; to express
+lyrical | adj. | expressive like a song
+cadence | n. | the rhythm of speech
+metaphor | n. | a comparison without "like" or "as"
+allegory | n. | a story with a hidden meaning
+satire | n. | humor that mocks to criticize
+rebuttal | n. | an argument against
+banter | n. | playful teasing talk
+oratory | n. | skilled public speaking
+# 36 | Tears of Roses | The Rosewater Distillery
+distill | v. | to purify; to boil down to essentials
+essence | n. | the core nature of something
+poignant | adj. | deeply moving; touching
+sentimental | adj. | full of tender feelings
+nostalgia | n. | longing for the past
+evoke | v. | to call up (a feeling or memory)
+empathy | n. | feeling what another feels
+compassion | n. | deep caring for others' suffering
+vulnerable | adj. | open to harm
+catharsis | n. | release of strong emotion
+# 37 | The Pomegranate Oath | The Orchard of Pomegranates
+allegiance | n. | loyalty
+fidelity | n. | faithfulness
+vow | n./v. | a solemn promise
+solemn | adj. | serious and formal
+covenant | n. | a binding agreement
+unanimous | adj. | fully agreed by all
+solidarity | n. | unity of a group
+camaraderie | n. | friendship among a team
+alliance | n. | a union for a shared goal
+reciprocate | v. | to give back in return
+# 38 | Maze of Green Doubts | The Hedge Labyrinth
+ambivalent | adj. | having mixed feelings
+ambiguous | adj. | having more than one meaning
+indecisive | adj. | unable to decide
+dilemma | n. | a hard choice between two options
+quandary | n. | a state of confusion over what to do
+hesitate | v. | to pause before acting
+conundrum | n. | a confusing problem
+perplex | v. | to puzzle
+deliberate | v./adj. | to think carefully; on purpose
+equivocate | v. | to speak vaguely to avoid commitment
+# 39 | The Lotus Secret | The Lotus Pond Pavilion
+reminisce | v. | to recall the past fondly
+profound | adj. | very deep
+revelation | n. | a surprising discovery
+epiphany | n. | a sudden realization
+venerable | adj. | respected because of age and wisdom
+sagacious | adj. | wise
+legacy | n. | something handed down
+enlighten | v. | to give understanding
+illuminate | v. | to light up; to explain
+mentor | n. | a trusted guide or teacher
+# 40 | The Lion Opens One Eye | The Garden Wall Tower
+foreboding | n. | a feeling that evil is coming
+imminent | adj. | about to happen
+vigilant | adj. | watchful
+sentinel | n. | a guard
+latent | adj. | hidden but present
+portent | n. | a sign of what's to come
+menace | n. | a threat
+stealthy | adj. | quiet and secret
+impending | adj. | about to happen
+harbinger | n. | a forerunner; sign of what's coming
