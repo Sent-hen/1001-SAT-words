@@ -1,0 +1,111 @@
+# Memory Card specs · chapters 71-80 · reviewed by hand against each L: line
+## 71
+1 | A: horse(many) | B: bride | ACT: breaks-loose-as-a-wild | SCALE: - | OAES: S
+2 | A: bride | B: ghost(smiling) | ACT: dances-as | SCALE: - | OAES: S
+3 | A: ghost(smiling) | B: goat(angry) | ACT: meets | SCALE: - | OAES: S
+4 | A: goat(angry) | B: skunk(angry) | ACT: is-as-stubborn-as | SCALE: - | OAES: S
+5 | A: skunk(angry) | B: tractor(sad) | ACT: is-as-unmanageable-as | SCALE: - | OAES: S
+6 | A: tractor(sad) | B: dude(singing) | ACT: calmed-by | SCALE: - | OAES: S
+7 | A: dude | B: wizard | ACT: wields-power-like | SCALE: - | OAES: S
+8 | A: wizard | B: knight(iron) | ACT: shows-his-metal-like | SCALE: - | OAES: S
+9 | A: knight(iron) | B: tractor(smiling) | ACT: rides | SCALE: - | OAES: S
+10 | A: tractor(smiling) | B: imp | ACT: rammed-by | SCALE: - | OAES: S
+## 72
+1 | A: imp | B: man(shock) | ACT: makes-leap-into-a-lake | SCALE: - | OAES: S
+2 | A: man(shock) | B: sponge(singing) | ACT: bursts-into-song-as | SCALE: - | OAES: S
+3 | A: sponge(singing) | B: horse(angry) | ACT: wakes-a-fidgety | SCALE: - | OAES: S
+4 | A: horse(angry) | B: chef(angry) | ACT: owned-by-a-moody | SCALE: - | OAES: S
+5 | A: chef(angry) | B: car(shouting) | ACT: shouts-so-hard-it-shakes | SCALE: - | OAES: S
+6 | A: car | B: burrito | ACT: wakes-a-bouncing | SCALE: - | OAES: S
+7 | A: burrito | B: kid(many, shouting) | ACT: starts-a-noisy-party-of | SCALE: - | OAES: S
+8 | A: kid(many, shouting) | B: ram(angry) | ACT: joined-by | SCALE: - | OAES: S
+9 | A: ram(angry) | B: train | ACT: held-back-by | SCALE: - | OAES: S
+10 | A: train | B: wave | ACT: lifted-high-by | SCALE: B=giant | OAES: S
+## 73
+1 | A: wave | B: plum(purple) | ACT: drops-a | SCALE: - | OAES: S
+2 | A: plum(purple) | B: hovercraft | ACT: caught-by | SCALE: - | OAES: S
+3 | A: hovercraft | B: octopus(scared) | ACT: gets-tangled-with | SCALE: - | OAES: S
+4 | A: octopus | B: pillow(many) | ACT: starts-a-small-fight-with | SCALE: - | OAES: S
+5 | A: pillow | B: monk | ACT: watched-from-the-top-by | SCALE: - | OAES: S
+6 | A: monk | B: deer(sad) | ACT: falls-to-the-bottom-as | SCALE: - | OAES: S
+7 | A: deer(sad) | B: ape | ACT: climbs-to-the-top-as | SCALE: - | OAES: S
+8 | A: ape | B: spider | ACT: descends-a-rope-like | SCALE: - | OAES: S
+9 | A: spider | B: table | ACT: buffeted-by-a-flying | SCALE: - | OAES: S
+10 | A: cloud | B: parrot(talking) | ACT: carries | SCALE: - | OAES: S
+## 74
+1 | A: parrot(talking) | B: island | ACT: spreads-lies-across | SCALE: - | OAES: S
+2 | A: island | B: newspaper | ACT: printed-as | SCALE: - | OAES: S
+3 | A: newspaper | B: machine | ACT: defames-with-a | SCALE: - | OAES: S
+4 | A: machine | B: unicorn(sad) | ACT: maligns | SCALE: - | OAES: S
+5 | A: unicorn(sad) | B: window | ACT: hears-a-whisper-at | SCALE: - | OAES: S
+6 | A: window | B: goose(shouting) | ACT: blasted-by | SCALE: - | OAES: S
+7 | A: goose(shouting) | B: crow | ACT: checked-by | SCALE: - | OAES: S
+8 | A: crow | B: accuser | ACT: asked-to-allege-like | SCALE: - | OAES: S
+9 | A: accuser | B: lab | ACT: answered-by | SCALE: - | OAES: S
+10 | A: lab | B: kid | ACT: inspires-to-climb | SCALE: - | OAES: S
+## 75
+1 | A: tower | B: ant(crown) | ACT: climbed-by-an-eager | SCALE: - | OAES: S
+2 | A: ant(crown) | B: owl | ACT: meets | SCALE: - | OAES: S
+3 | A: owl | B: scroll | ACT: writes-a-perfect | SCALE: - | OAES: S
+4 | A: scroll | B: island | ACT: builds-a-perfect | SCALE: - | OAES: S
+5 | A: island | B: octopus(smiling) | ACT: loved-by | SCALE: - | OAES: S
+6 | A: octopus(smiling) | B: tick(sad) | ACT: argues-with | SCALE: - | OAES: S
+7 | A: tick(sad) | B: yarn | ACT: longs-for | SCALE: - | OAES: S
+8 | A: cat(sad) | B: tower | ACT: climbs-a-lofty | SCALE: B=giant | OAES: S
+9 | A: tower | B: icicle(mean) | ACT: sneered-at-by | SCALE: - | OAES: S
+10 | A: icicle(mean) | B: dynamite | ACT: melts-in | SCALE: - | OAES: S
+## 76
+1 | A: dynamite | B: statue | ACT: frozen-still-as | SCALE: - | OAES: S
+2 | A: statue | B: duck(many) | ACT: stands-in-a-river-of | SCALE: - | OAES: S
+3 | A: duck(many) | B: chameleon | ACT: change-like | SCALE: - | OAES: S
+4 | A: chameleon | B: mountain | ACT: meets-a-never-changing | SCALE: - | OAES: S
+5 | A: mountain | B: car | ACT: evolves-into | SCALE: - | OAES: S
+6 | A: car | B: fish | ACT: adapts-by-growing-fins-like | SCALE: - | OAES: S
+7 | A: car | B: river | ACT: swims-in | SCALE: - | OAES: S
+8 | A: river | B: jar | ACT: fills-a | SCALE: - | OAES: S
+9 | A: jar | B: tile | ACT: carried-by | SCALE: - | OAES: S
+10 | A: tile | B: conveyor | ACT: conveys-a-letter-on | SCALE: - | OAES: S
+## 77
+1 | A: conveyor | B: apple(talking) | ACT: delivers-letters-of | SCALE: - | OAES: S
+2 | A: apple | B: pirate | ACT: dispatched-by | SCALE: - | OAES: S
+3 | A: pirate | B: rocket | ACT: speeds-up-with | SCALE: - | OAES: S
+4 | A: rocket | B: kid | ACT: arrives-on-time-as | SCALE: - | OAES: S
+5 | A: kid | B: runner | ACT: hands-the-baton-to | SCALE: - | OAES: S
+6 | A: scroll | B: missile | ACT: rolls-into | SCALE: - | OAES: S
+7 | A: missile | B: mitt | ACT: transmits-with | SCALE: - | OAES: S
+8 | A: mitt | B: teacup | ACT: sends-only | SCALE: B=tiny | OAES: S
+9 | A: teacup | B: turtle | ACT: handed-over-by | SCALE: - | OAES: S
+10 | A: turtle | B: clock | ACT: is-as-punctual-as | SCALE: - | OAES: S
+## 78
+1 | A: clock | B: album | ACT: keeps-in-time-order | SCALE: - | OAES: S
+2 | A: album | B: knight | ACT: shows-with-a-phone | SCALE: - | OAES: S
+3 | A: knight | B: dj | ACT: meets | SCALE: - | OAES: S
+4 | A: dj | B: clock(singing) | ACT: plays-music-on | SCALE: - | OAES: S
+5 | A: clock | B: card | ACT: arrives-late-with | SCALE: - | OAES: S
+6 | A: card | B: sloth(sleepy) | ACT: mailed-late-by | SCALE: - | OAES: S
+7 | A: sloth(sleepy) | B: doll | ACT: dawdles-like | SCALE: - | OAES: S
+8 | A: doll | B: flower | ACT: plants-a-yearly | SCALE: - | OAES: S
+9 | A: flower | B: car(red) | ACT: told-to-hurry-like | SCALE: - | OAES: S
+10 | A: car(red) | B: tv | ACT: crashes-into-a-future | SCALE: - | OAES: S
+## 79
+1 | A: tv | B: fortune-teller | ACT: broadcasts | SCALE: - | OAES: S
+2 | A: fortune-teller | B: bee(glasses) | ACT: sees-the-future-like | SCALE: - | OAES: S
+3 | A: ant | B: drill | ACT: drills-into-tomorrow-with | SCALE: - | OAES: S
+4 | A: drill | B: cat(black) | ACT: hits-a-bad-sign | SCALE: - | OAES: S
+5 | A: cat(black) | B: scientist | ACT: foreseen-by | SCALE: - | OAES: S
+6 | A: scientist | B: teacher(angry) | ACT: warned-by | SCALE: - | OAES: S
+7 | A: teacher(angry) | B: horse | ACT: heeded-by | SCALE: - | OAES: S
+8 | A: horse | B: coach(shouting) | ACT: urged-on-by | SCALE: - | OAES: S
+9 | A: coach(shouting) | B: dragon(angry) | ACT: faces-a-dire | SCALE: - | OAES: S
+10 | A: dragon(angry) | B: thief(crown) | ACT: joined-by | SCALE: - | OAES: S
+## 80
+1 | A: thief(crown) | B: fish(mean) | ACT: toys-confiscated-by | SCALE: - | OAES: S
+2 | A: fish(mean) | B: pirate(angry) | ACT: goes-on-to-plunder-as | SCALE: - | OAES: S
+3 | A: pirate(angry) | B: machine(many) | ACT: plots-with | SCALE: - | OAES: S
+4 | A: machine(many) | B: villain(mean) | ACT: is-as-wicked-as | SCALE: - | OAES: S
+5 | A: villain(mean) | B: imp(flaming) | ACT: laughs-like | SCALE: - | OAES: S
+6 | A: imp(flaming) | B: goat(grin) | ACT: makes-gloat | SCALE: - | OAES: S
+7 | A: goat(grin) | B: wave | ACT: devastates-a-sandcastle-with | SCALE: B=giant | OAES: S
+8 | A: wave | B: spoon(sad) | ACT: leaves-hopeless | SCALE: - | OAES: S
+9 | A: spoon(sad) | B: fox(mean) | ACT: snatched-by | SCALE: - | OAES: S
+10 | A: fox(mean) | B: filter | ACT: slips-in-through | SCALE: - | OAES: S

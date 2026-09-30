@@ -147,6 +147,7 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "bride": ("npc:woman", "queencrown"), "fortune-teller": ("npc:hooded", None), "accuser": ("npc:official", None),
     "butler": ("npc:official", None), "auctioneer": ("npc:official", "gavel"), "reaper": ("npc:hooded", "spear"), "hypnotist": ("npc:poet", "wizardhat"),
     "host": ("npc:envoy", None), "racer": ("npc:dyer", None), "taster": ("npc:official", "chefhat"),
     "artisan": ("npc:woman", "hammer"), "tailor": ("npc:woman", "scroll"), "collector": ("npc:scholar", "scroll"), "jeweler": ("npc:official", "magnifier"),
@@ -1218,6 +1219,30 @@ def _log(c=None, **k):
 
 LIB_BATCH7 = {"grapes": _grapes, "grape": _grapes, "windmill": _windmill, "log": _log, "timber": _log, "wood": _log}
 
+# ---- library growth · batch 8 (chapters 71-80)
+def _burrito(c=None, expr="grin", **k):
+    c = c or "#f3d9a0"
+    return P("M-40,-20 Q-44,-46 -16,-50 L30,-44 Q46,-30 34,-14 L-14,-8 Q-38,-6 -40,-20 Z", c, 3) + P("M30,-44 Q40,-40 40,-30 Q32,-26 24,-30", "#3f9b4a", 2) + P("M34,-26 q6,4 4,10", "none", 3, "#e0533b") + face(-6, -30, 0.6, expr)
+
+def _newspaper(c=None, **k):
+    return (f'<rect x="-34" y="-72" width="62" height="64" fill="#f7f3e8" stroke="{INK}" stroke-width="3" transform="rotate(-6 0 -40)"/>'
+            + f'<g transform="rotate(-6 0 -40)">' + T(-3, -58, "LIES!", 14, c or "#c0262d") + "".join(L(-28, y, 22, y, "#9a9aa8", 2) for y in (-48, -40, -32, -24, -16)) + "</g>")
+
+def _yarn(c=None, **k):
+    c = c or "#e0533b"
+    return C(0, -30, 28, c, 3) + "".join(P(f"M{-24+j*8},{-48+j*2} Q{j*3},-30 {-20+j*10},{-10}", "none", 2, shade(c, 0.75)) for j in range(5)) + P("M24,-18 Q40,-4 30,0", "none", 2.5, c)
+
+def _conveyor(c=None, **k):
+    c = c or "#6b6b78"
+    return f'<rect x="-44" y="-34" width="88" height="16" rx="8" fill="{c}" stroke="{INK}" stroke-width="3"/>' + "".join(C(x, -26, 5, "#9aa8b8", 2) for x in (-34, -12, 10, 32)) + L(-36, -18, -36, 0, INK, 4) + L(36, -18, 36, 0, INK, 4) + gs(_letter(), 0, -34, 0.5)
+
+def _spoon(c=None, expr=None, **k):
+    c = c or "#c9ccd8"
+    return E(0, -66, 14, 18, c, 3) + L(0, -48, 0, -2, c, 7) + L(0, -48, 0, -2, INK, 0.1) + P("M-6,-72 q4,-6 10,-4", "none", 2, "#fff") + (face(0, -66, 0.5, expr) if expr and expr != "happy" else "")
+
+LIB_BATCH8 = {"burrito": _burrito, "wrap": _burrito, "newspaper": _newspaper, "news": _newspaper, "headline": _newspaper, "yarn": _yarn,
+              "conveyor": _conveyor, "conveyor-belt": _conveyor, "belt": _conveyor, "spoon": _spoon}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1447,7 +1472,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6); LIB.update(LIB_BATCH7); LIB.update(LIB_BATCH8)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1461,6 +1486,7 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "cling-film": "tape", "cupcake": "cake", "juice": "bottle", "album": "book", "swamp": "pool", "dinosaur": "dragon", "icon": "statue",
               "prune": "apple", "clementine": "apple", "chimera": "monster", "apparition": "ghost", "hallway": "door", "vandal": "painter",
               "cable": "rope", "empress": "queen", "grim-reaper": "reaper", "fig": "apple", "dough": "bread", "morse": "letter",
+              "chameleon": "lizard", "missile": "rocket", "filter": "cup", "sandcastle": "castle", "hovercraft": "boat", "plum": "apple",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
