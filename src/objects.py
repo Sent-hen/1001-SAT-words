@@ -147,6 +147,7 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "composer": ("npc:poet", "notes"), "conductor": ("npc:poet", "notes"),
     "trainer": ("npc:captain", "whistle"), "manager": ("npc:official", None), "caveman": ("npc:vagabond", "hammer"), "mentor": ("npc:oldman", "scroll"),
     "gambler": ("npc:vagabond", None), "artist": ("npc:dyer", "brush"), "politician": ("npc:envoy", "scroll"),
     "glutton": ("npc:official", None), "mechanic": ("npc:inventor", "hammer"), "swimmer": ("npc:dyer", None),
@@ -1106,6 +1107,50 @@ def _sausage(c=None, expr="happy", **k):
 LIB_BATCH3 = {"carpet": _carpet, "magic-carpet": _carpet, "rug": _carpet, "lure": _lure, "bait": _lure, "beehive": _beehive, "hive": _beehive,
               "gong": _gong, "tape": _tape, "duct-tape": _tape, "tire": _tire, "tyre": _tire, "press": _press, "sausage": _sausage, "salami": _sausage}
 
+# ---- library growth · batch 5 (chapters 41-50)
+def _loom(c=None, **k):
+    c = c or "#8a5a2b"
+    return (L(-38, 0, -38, -84, c, 6) + L(38, 0, 38, -84, c, 6) + L(-42, -80, 42, -80, c, 6) + L(-42, -20, 42, -20, c, 6)
+            + "".join(L(x, -78, x, -22, "#dfe6f0", 1.2) for x in range(-30, 34, 6)) + f'<rect x="-34" y="-58" width="68" height="20" fill="#e0533b" opacity=".85"/>'
+            + P("M-34,-52 H34 M-34,-44 H34", "none", 2, "#ffd23f"))
+
+def _mask(c=None, expr="angry", **k):
+    c = c or "#6b8a3a"
+    return (P("M-30,-72 Q0,-86 30,-72 Q34,-40 20,-16 Q0,-2 -20,-16 Q-34,-40 -30,-72 Z", c, 3) + P("M-22,-58 l12,6 l-12,6 Z M22,-58 l-12,6 l12,6 Z", INK, 1)
+            + P("M-12,-26 l4,-6 l4,6 l4,-6 l4,6 l4,-6", "#fff", 1.5) + P("M-30,-66 l-10,-10 M30,-66 l10,-10", "none", 3, shade(c, 0.7)) + C(-4, -40, 3, shade(c, 0.6), 0))
+
+def _plunger(c=None, **k):
+    return P("M-24,0 Q-24,-26 0,-28 Q24,-26 24,0 Z", c or "#e0533b", 3) + L(0, -28, 0, -86, "#a0703a", 7)
+
+def _mint(c=None, expr="happy", **k):
+    c = c or "#9cff9a"
+    return C(0, -32, 28, "#fff", 3) + "".join(P(f"M0,-32 L{28*math.cos(a):.1f},{-32+28*math.sin(a):.1f} A28,28 0 0 1 {28*math.cos(a+0.52):.1f},{-32+28*math.sin(a+0.52):.1f} Z", "#e0533b" if c == "#9cff9a" else c, 0) for a in [j * math.pi / 3 for j in range(6)]) + C(0, -32, 28, "none", 3) + face(0, -32, 0.6, expr)
+
+def _mitt(c=None, **k):
+    c = c or "#e0533b"
+    return P("M-20,0 V-50 Q-20,-78 4,-78 Q26,-78 26,-54 V-40 Q40,-48 42,-36 Q40,-24 26,-20 V0 Z", c, 3) + "".join(P(f"M-20,{y} H26", "none", 2, "#fff") for y in (-12, -6))
+
+def _window(c=None, **k):
+    c = c or "#8a5a2b"
+    return P("M-30,0 V-52 Q-30,-84 0,-84 Q30,-84 30,-52 V0 Z", c, 3) + P("M-24,-6 V-52 Q-24,-76 0,-76 Q24,-76 24,-52 V-6 Z", "#9ad0ff", 2) + L(0, -76, 0, -6, c, 3) + L(-24, -40, 24, -40, c, 3)
+
+def _jet(c=None, **k):
+    c = c or "#c9ccd8"
+    return (P("M-44,-40 Q-10,-50 30,-46 Q46,-44 46,-40 Q46,-36 30,-34 Q-10,-30 -44,-40 Z", c, 3) + P("M-4,-44 L-24,-74 L-12,-74 L14,-44 Z", shade(c, 0.85), 2.5)
+            + P("M-4,-36 L-22,-10 L-10,-10 L14,-36 Z", shade(c, 0.85), 2.5) + P("M-44,-40 L-52,-58 L-36,-44 Z", c, 2.5) + P("M-60,-40 q-20,-6 -30,6", "none", 5, "#fff", 'opacity=".6"'))
+
+def _arrow(c=None, **k):
+    c = c or "#8a5a2b"
+    return L(-40, -10, 30, -66, c, 5) + P("M30,-66 L22,-50 L40,-72 L18,-62 Z", "#c9ccd8", 2) + P("M-40,-10 l-6,-12 M-40,-10 l-12,-4 M-34,-16 l-6,-12 M-34,-16 l-12,-4", "none", 3, "#e0533b")
+
+def _spur(c=None, **k):
+    c = c or "#c9ccd8"
+    pts = " ".join(f"{20+(16 if j % 2 == 0 else 6)*math.cos(j*math.pi/5):.1f},{-30+(16 if j % 2 == 0 else 6)*math.sin(j*math.pi/5):.1f}" for j in range(10))
+    return _shoe("#8a5a2b").replace("M-34,0 V-22", "M-34,0 V-22") + L(-34, -18, 6, -30, c, 4) + f'<polygon points="{pts}" fill="{c}" stroke="{INK}" stroke-width="2"/>'
+
+LIB_BATCH5 = {"spur": _spur, "loom": _loom, "mask": _mask, "plunger": _plunger, "mint": _mint, "peppermint": _mint, "mitt": _mitt, "oven-mitt": _mitt,
+              "window": _window, "jet": _jet, "plane": _jet, "airplane": _jet, "arrow": _arrow}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1335,7 +1380,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1344,6 +1389,8 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "fax": "machine", "printer": "machine", "melon": "watermelon", "collie": "dog", "jackal": "fox", "wagon": "cart",
               "salami-cat": "cat", "doctors": "doctor", "flour": "sack", "hummingbird": "bird", "copper": "clay",
               "lemon": "apple", "cone": "icecream", "insole": "shoe", "poodle": "dog", "quill": "pencil", "harp": "guitar", "music-box": "chest",
+              "viking": "warrior", "marshal": "soldier", "fire-truck": "car", "firetruck": "car", "hermit-crab": "crab", "olive": "apple",
+              "soda": "bottle", "squid-wander": "octopus", "dunk-tank": "pool", "ember": "fire", "campfire": "fire", "patient": "man", "lady": "woman",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
