@@ -147,6 +147,7 @@ def bug(c="#23233a", segs=3, legs=6, wings=False, stripes=None, antenna=True, ex
     return o
 
 ROLE = {  # person role -> (npc kind or SPECS key, extra hat/prop)
+    "artisan": ("npc:woman", "hammer"), "tailor": ("npc:woman", "scroll"), "collector": ("npc:scholar", "scroll"), "jeweler": ("npc:official", "magnifier"),
     "composer": ("npc:poet", "notes"), "conductor": ("npc:poet", "notes"),
     "trainer": ("npc:captain", "whistle"), "manager": ("npc:official", None), "caveman": ("npc:vagabond", "hammer"), "mentor": ("npc:oldman", "scroll"),
     "gambler": ("npc:vagabond", None), "artist": ("npc:dyer", "brush"), "politician": ("npc:envoy", "scroll"),
@@ -1151,6 +1152,54 @@ def _spur(c=None, **k):
 LIB_BATCH5 = {"spur": _spur, "loom": _loom, "mask": _mask, "plunger": _plunger, "mint": _mint, "peppermint": _mint, "mitt": _mitt, "oven-mitt": _mitt,
               "window": _window, "jet": _jet, "plane": _jet, "airplane": _jet, "arrow": _arrow}
 
+# ---- library growth · batch 6 (chapters 51-60)
+def _stain(c=None, **k):
+    c = c or "#23233a"
+    return P("M-30,-20 Q-40,-40 -20,-44 Q-14,-64 6,-54 Q24,-66 30,-44 Q46,-36 32,-20 Q36,-2 14,-6 Q0,6 -14,-4 Q-34,2 -30,-20 Z", c, 3) + "".join(C(x, y, r, c, 0) for x, y, r in [(-38, -50, 4), (40, -58, 3), (44, -10, 4)])
+
+def _jeans(c=None, **k):
+    c = c or "#2f6db5"
+    return P("M-26,-80 H26 L30,0 H6 L0,-44 L-6,0 H-30 Z", c, 3) + L(-26, -72, 26, -72, shade(c, 0.7), 3) + P("M-20,-66 q6,8 14,0 M20,-66 q-6,8 -14,0", "none", 1.5, "#f4c542")
+
+def _galaxy(c=None, **k):
+    c = c or "#b48cff"
+    return (f'<circle cx="0" cy="-40" r="40" fill="{c}" opacity=".25"/>' + "".join(P(f"M0,-40 Q{24*math.cos(a):.1f},{-40+24*math.sin(a):.1f} {38*math.cos(a+1):.1f},{-40+38*math.sin(a+1):.1f}", "none", 5, c) for a in (0, 2.1, 4.2))
+            + C(0, -40, 7, "#fff6c9", 2) + "".join(C(x, y, 1.6, "#fff", 0) for x, y in [(-30, -60), (28, -20), (22, -70), (-24, -14)]))
+
+def _scissors(c=None, **k):
+    c = c or "#c9ccd8"
+    return P("M-6,-40 L30,-78 M6,-40 L-30,-78", "none", 6, c) + C(-16, -22, 10, "none", 4, "#e0533b") + C(16, -22, 10, "none", 4, "#e0533b") + C(0, -44, 3, INK, 0) + L(-8, -32, -6, -40, "#e0533b", 4) + L(8, -32, 6, -40, "#e0533b", 4)
+
+def _bridge(c=None, **k):
+    c = c or "#a0703a"
+    return P("M-46,-30 Q0,-70 46,-30", "none", 7, c) + L(-46, -30, -46, 0, c, 6) + L(46, -30, 46, 0, c, 6) + "".join(L(x, -30 - (44 - abs(x)) * 0.5 * 0.9, x, -26, shade(c, 0.7), 2) for x in range(-36, 40, 12)) + L(-48, -28, 48, -28, c, 4)
+
+def _sprout(c=None, expr="happy", **k):
+    return E(0, -8, 22, 8, "#8a5a2b", 2.5) + P("M0,-10 Q-2,-34 0,-44", "none", 4, "#3f9b4a") + P("M0,-40 Q-22,-56 -26,-40 Q-12,-32 0,-40 Z", c or "#9cff57", 2) + P("M0,-44 Q20,-62 26,-46 Q12,-38 0,-44 Z", c or "#9cff57", 2) + face(0, -20, 0.4, expr)
+
+def _club(c=None, **k):
+    c = c or "#8a5a2b"
+    return P("M-6,0 L-10,-40 Q-22,-74 0,-82 Q22,-74 12,-40 L6,0 Z", c, 3) + "".join(C(x, y, 2.5, shade(c, 0.6), 0) for x, y in [(-6, -64), (4, -56), (-2, -46)])
+
+def _blob(c=None, expr="happy", **k):
+    c = c or "#9cff57"
+    return P("M-34,0 Q-44,-30 -24,-46 Q-12,-66 8,-56 Q34,-62 36,-34 Q46,-12 30,0 Z", c, 3, extra='opacity=".92"') + face(0, -30, 0.8, expr) + E(18, -46, 6, 4, "#fff", 0, extra='opacity=".6"')
+
+def _poster(c=None, expr="angry", **k):
+    return f'<rect x="-28" y="-80" width="56" height="72" fill="{c or "#ffd23f"}" stroke="{INK}" stroke-width="3" transform="rotate(-4 0 -44)"/>' + T(0, -66, "!!", 16, "#c0262d") + face(0, -40, 0.8, expr) + C(-22, -76, 3, "#e0533b", 1)
+
+def _plant(c=None, expr="happy", **k):
+    return P("M-18,-24 H18 L14,0 H-14 Z", "#c8773a", 3) + P("M0,-24 Q-4,-50 0,-60", "none", 4, "#3f9b4a") + "".join(E(x, y, 10, 6, c or "#3f9b4a", 2, extra=f'transform="rotate({r} {x} {y})"') for x, y, r in [(-12, -44, -30), (12, -48, 30), (-8, -62, -50), (10, -66, 40)])
+
+def _salvagecrane(c=None, **k):
+    c = c or "#ffd23f"
+    return (f'<rect x="-40" y="-20" width="36" height="20" fill="{c}" stroke="{INK}" stroke-width="3"/>' + P("M-26,-20 L-10,-84 L40,-60", "none", 5, c)
+            + L(40, -60, 40, -30, INK, 1.5) + P("M34,-30 h12 l-2,8 h-8 Z", "#6b6b78", 1.5) + "".join(L(-24 + j * 4, -24 - j * 14, -18 + j * 4, -24 - j * 14, INK, 1) for j in range(4)))
+
+LIB_BATCH6 = {"stain": _stain, "blot": _stain, "ink-stain": _stain, "jeans": _jeans, "trousers": _jeans, "pants": _jeans, "galaxy": _galaxy, "nebula": _galaxy,
+              "scissors": _scissors, "bridge": _bridge, "sprout": _sprout, "seedling": _sprout, "seed": _sprout, "club": _club, "blob": _blob, "slime": _blob,
+              "poster": _poster, "plant": _plant, "salvage-crane": _salvagecrane, "crane-machine": _salvagecrane}
+
 def _thought(noun):
     """Fallback: a labelled thought bubble with the noun written inside."""
     word = noun.replace("-", " ").upper()
@@ -1380,7 +1429,7 @@ ALIAS = {
     "hat-trick": "hat", "top-hat": "hat",
 }
 
-LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5)
+LIB.update(LIB_BATCH1); LIB.update(LIB_BATCH2); LIB.update(LIB_BATCH3); LIB.update(LIB_BATCH5); LIB.update(LIB_BATCH6)
 ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman": "guard", "door-man": "guard", "skater": "athlete",
               "bonfire": "fire", "tissue": "mummy", "chain-mail": "chain", "handcuffs": "chain", "fetter": "chain", "shackle": "chain",
               "tutu-imp": "imp", "pancake": "cake", "tortes": "cake", "torte": "cake", "cereal": "bowl", "stick-figure": "carrot", "root": "carrot",
@@ -1391,6 +1440,7 @@ ALIAS.update({"locksmith": "smith", "burro": "donkey", "louse": "flea", "doorman
               "lemon": "apple", "cone": "icecream", "insole": "shoe", "poodle": "dog", "quill": "pencil", "harp": "guitar", "music-box": "chest",
               "viking": "warrior", "marshal": "soldier", "fire-truck": "car", "firetruck": "car", "hermit-crab": "crab", "olive": "apple",
               "soda": "bottle", "squid-wander": "octopus", "dunk-tank": "pool", "ember": "fire", "campfire": "fire", "patient": "man", "lady": "woman",
+              "cling-film": "tape", "cupcake": "cake", "juice": "bottle", "album": "book", "swamp": "pool", "dinosaur": "dragon", "icon": "statue",
               "pinecone": "nut", "coaster": "rollercoaster", "megaphone-cart": "cart", "wheelbarrow": "cart"})
 
 def resolve(noun):
