@@ -1,0 +1,729 @@
+## 91
+ST: the Golden Gate's blazing arch | the gold-leaf step | the jeweled lamp on the left | the gold-tiled floor of the gatehouse | the golden doors themselves at the center | the gilded column on the right | the window of the gatekeeper's box | the stair to the golden battlements | the gilded balcony above the gate | the golden crescent crowning the gate
+
+== resplendent
+T: Dawn. The Golden Gate of the palace blazes, resplendent (dazzling), too bright to look at. The army of Baghdad stands before it.
+H: re-SPLEN-dent ≈ “RE-SPLENDID”: splendid twice over, dazzling
+L: 901→902 · The dazzling palace (resplendent) is GILDED: a “GILL-DED” fish covered in gold leaf from gills to tail (Substitution: GILD-ed ≈ gill-ded).
+C: Station 1 · ARCH. The Golden Gate's arch shines so bright your sunglasses melt = RESPLENDENT.
+P: A gigantic blazing gold palace gate at dawn, too bright to look at; an army of ordinary citizens, nomads, orphans, soldiers, four brass guardians and a giant roc gathered before it
+
+== gilded
+T: But up close, the gate is only gilded (covered in gold), thin gold over rotten wood. Zulmat's palace is all surface.
+H: GILD-ed ≈ “GILL-DED”: a fish gilded from gills to tail
+L: 902→903 · The gold-covered fish (gilded) is OSTENTATIOUS: an “OSTRICH-TATIOUS” ostrich in a diamond tuxedo showing off to everyone (Substitution: os-ten-TA-tious ≈ ostrich).
+C: Station 2 · STEP. The gold step is just thin gold paint over rotten wood = GILDED.
+P: A close-up of the gate's gold flaking off to reveal rotten wood underneath; a girl scholar noticing
+
+== ostentatious
+T: The gatekeeper, Silver-Tongue, appears in ostentatious (showing off) robes: twelve rings, a peacock hat, a golden cane.
+H: os-ten-TA-tious ≈ “OSTRICH-TATIOUS”: an ostrich showing off in diamonds
+L: 903→904 · The showing-off ostrich (ostentatious) throws a LAVISH “LAVA-SH” party with fountains of lava-hot chocolate, extravagant (Substitution: LAV-ish ≈ lava-sh).
+C: Station 3 · LAMP. The jeweled lamp has an ostrich in a diamond tux posing = OSTENTATIOUS.
+P: A sinister auctioneer on the gate in showy robes: twelve rings, a peacock hat and a golden cane
+
+== lavish
+T: He offers a lavish (extravagant) bribe: “A palace for each of you, if you go home.”
+H: LAV-ish ≈ “LAVA-SH”: a party with lava-hot chocolate fountains
+L: 904→905 · The lava party (lavish) is EXTRAVAGANT: an “EXTRA-VAGRANT” wanderer spending a thousand gold coins on one sandwich (Substitution: ex-TRAV-a-gant ≈ extra-vagrant).
+C: Station 4 · RUG. On the gold-tiled floor, chocolate lava fountains pour everywhere = LAVISH.
+P: A sinister auctioneer holding out a vision of golden palaces to the crowd as a bribe
+
+== extravagant
+T: His promises are extravagant (excessive): gold rivers, diamond roads. Nobody believes him anymore.
+H: ex-TRAV-a-gant ≈ “EXTRA-VAGRANT”: spending way too much
+L: 905→906 · The over-spender (extravagant) wears GAUDY clothes: a “GOD-DAY” outfit of neon feathers, blinking lights and plastic flowers, cheaply showy (Substitution: GAU-dy ≈ gaud-y).
+C: Station 5 · HEART. The golden doors show a man spending a mountain of gold on one sandwich = EXTRAVAGANT.
+P: A crowd laughing at a sinister auctioneer's over-the-top promises of gold rivers and diamond roads
+
+== gaudy
+T: Sinbad, in his garish neon turban, says: “Your clothes are gaudy (cheaply showy), friend.” Everyone laughs, since Sinbad's are worse.
+H: GAU-dy ≈ “GAUDY”: neon feathers and plastic flowers
+L: 906→907 · The neon outfit (gaudy) is served at a SUMPTUOUS “SUMP-TOAST” feast with a thousand dishes, splendid and costly (Substitution: SUMP-tu-ous ≈ sum-toast).
+C: Station 6 · PILLAR. On the gilded column hangs a cheap neon-and-plastic flower costume = GAUDY.
+P: An old sailor in a garish neon turban mocking the auctioneer's gaudy robes; the crowd laughing
+
+== sumptuous
+T: Behind the gate they glimpse a sumptuous (splendid and costly) feast laid for Zulmat's victory, which nobody will eat.
+H: SUMP-tu-ous ≈ “SUM-TOAST”: a feast costing a huge sum
+L: 907→908 · The costly feast (sumptuous) is attended by a PRETENTIOUS “PRE-TENT-IOUS” guest who pitches a tent inside the palace to seem important (Substitution: pre-TEN-tious ≈ pre-tent).
+C: Station 7 · WINDOW. At the gatekeeper's window, a table groans with a thousand dishes = SUMPTUOUS.
+P: A glimpse through the gate of a splendid, lavish feast table with a thousand dishes, untouched
+
+== pretentious
+T: Silver-Tongue gives a pretentious (trying to seem important) speech full of fancy words he doesn't understand. He uses “ubiquitous” wrong. The crowd corrects him.
+H: pre-TEN-tious ≈ “PRE-TENT”: pitching a tent to seem important
+L: 908→909 · The tent-pitcher (pretentious) is blinded by SPLENDOR: a “SPLENDID-DOOR” door made of rainbows and diamonds (Substitution: SPLEN-dor ≈ splendid-door).
+C: Station 8 · STAIR. On the golden stair, a guest pitches a tent to look important = PRETENTIOUS.
+P: A sinister auctioneer making a fancy speech; the crowd shouting corrections; he looks flustered
+
+== splendor
+T: Then the real splendor (magnificence) arrives: Pebble swoops down with the four Brass Guardians, and the Lion roars.
+H: SPLEN-dor ≈ “SPLENDID-DOOR”: a rainbow-and-diamond door
+L: 909→910 · The splendid door (splendor) is slammed in the face of a POMPOUS “POMP-US” peacock in a crown who thinks he's the most important bird alive (Substitution: POM-pous ≈ pomp-us).
+C: Station 9 · BALCONY. From the gilded balcony, a door of rainbows and diamonds opens = SPLENDOR.
+P: A giant red-gold roc swooping over a gate with four brass guardians charging below; the brass lion roaring; magnificent light
+
+== pompous
+T: The pompous (self-important) Silver-Tongue falls off the gate into a fountain. The gates crack open. The army of Baghdad pours through into the Courtyard of Fountains, where the water is boiling with rage.
+H: POM-pous ≈ “POMP-US”: a peacock full of pomp
+L: 910→911 · The self-important peacock (pompous) splashes an IRATE “EYE-RATE” eye-doctor who is furious, very angry (Substitution: i-RATE ≈ eye-rate).
+C: Station 10 · TOP. On the golden crescent, a peacock in a crown struts, full of himself = POMPOUS.
+P: A sinister auctioneer tumbling off a gate into a fountain; the golden gates cracking open; the army pouring through
+
+## 92
+ST: the arch of water jets | the step of wet marble | the lion-mouth fountain lamp on the left | the courtyard's tiled floor | the great central fountain | the fountain column on the right | the window of the fountain house | the stair of cascading water | the balcony over the pools | the tallest water jet on top
+
+== irate
+T: The Courtyard of Fountains boils. Zulmat's voice, written in boiling water, is irate: very angry.
+H: i-RATE ≈ “EYE-RATE”: an eye-doctor, very angry
+L: 911→912 · The angry eye-doctor (irate) turns LIVID: a “LIVER-D” liver turning purple with fury (Substitution: LIV-id ≈ liver-d).
+C: Station 1 · ARCH. The water-jet arch hisses and spits angrily = IRATE.
+P: A marble courtyard of fountains where the water boils and hisses furiously; angry words written in steam
+
+== livid
+T: The fountains turn livid (furious) purple and hurl scalding water at the army.
+H: LIV-id ≈ “LIVER-D”: a liver turning purple with fury
+L: 912→913 · The purple liver (livid) unleashes WRATH: a “RAT-TH” rat breathing fire, fierce anger (Substitution: WRATH ≈ rat-h).
+C: Station 2 · STEP. On the wet step, the water turns purple with fury = LIVID.
+P: Fountains turning furious purple and blasting scalding water at the army
+
+== wrath
+T: Al-Hadid returns, half-blind, full of wrath (fierce anger), smashing fountains.
+H: WRATH ≈ “RAT-TH”: a rat breathing fire
+L: 913→914 · The fire-breathing rat (wrath) is INCENSED: an “IN-SENSE-D” incense stick burning with rage (Substitution: in-CENSED ≈ incense).
+C: Station 3 · LAMP. The lion-mouth lamp spits fire in fierce anger = WRATH.
+P: A battered three-story automaton with one red eye smashing marble fountains in fury
+
+== incensed
+T: Pebble, incensed (enraged), dives at the giant with talons out.
+H: in-CENSED ≈ “INCENSE-D”: burning like incense with rage
+L: 914→915 · The burning incense (incensed) is full of RANCOR: a “RANCH-OR” rancher holding a grudge against a cow for fifty years (Substitution: RAN-cor ≈ ranch-or).
+C: Station 4 · RUG. On the tiled floor, an incense stick burns with rage = INCENSED.
+P: A giant red-gold roc diving with talons out at a battered iron automaton
+
+== rancor
+T: Zayn feels rancor (bitter resentment) rising: this machine hurt Sinbad. But Layla shouts, “Don't hate it! It's just a machine!”
+H: RAN-cor ≈ “RANCH-OR”: a rancher holding a grudge
+L: 915→916 · The grudge rancher (rancor) is full of ENMITY: an “ENEMY-TY” tie with ENEMY stamped on it (Substitution: EN-mi-ty ≈ enemy).
+C: Station 5 · HEART. At the central fountain, a rancher glares at his cow with a fifty-year grudge = RANCOR.
+P: A boy's face filling with bitter anger; a girl scholar shouting to stop him
+
+== enmity
+T: The enmity (hostility) between Zayn and Al-Hadid ends when Zayn notices: its furnace is full of Hushling ink.
+H: EN-mi-ty ≈ “ENEMY-TY”: an enemy tie
+L: 916→917 · The enemy tie (enmity) is worn by a HOSTILE “HOSTEL” owner who kicks out every guest, unfriendly (Substitution: HOS-tile ≈ hostel).
+C: Station 6 · PILLAR. On the fountain column hangs a tie stamped ENEMY = ENMITY.
+P: A boy noticing black ink swirling in the automaton's chest furnace; realization
+
+== hostile
+T: Al-Hadid is hostile (aggressive) because the ink controls it. Master Banu shouts: “Free the furnace!”
+H: HOS-tile ≈ “HOSTEL”: a hostel that kicks everyone out
+L: 917→918 · The rude hostel (hostile) owner delivers a TIRADE: a “TIRE-ADE” lemonade stand that shouts at customers for ten minutes straight (Substitution: ti-RADE ≈ tire-ade).
+C: Station 7 · WINDOW. At the fountain-house window, a hostel owner kicks out every guest = HOSTILE.
+P: An inventor shouting advice, pointing at the automaton's furnace; the machine thrashing aggressively
+
+== tirade
+T: Zulmat's scroll unrolls a tirade (a long angry speech) across the sky, hundreds of lines of rage.
+H: ti-RADE ≈ “TIRE-ADE”: a lemonade stand shouting for ten minutes
+L: 918→919 · The shouting stand (tirade) is hit by RETALIATE: a “RE-TALLY-ATE” scoreboard that hits back point for point (Substitution: re-TAL-i-ate ≈ re-tally).
+C: Station 8 · STAIR. Down the water stair, an angry speech pours for an hour = TIRADE.
+P: A gigantic scroll unrolling across the sky with a furious tirade of angry writing
+
+== retaliate
+T: Zayn doesn't retaliate (strike back). Instead, Qalam dives into the furnace and drinks the ink. Al-Hadid stops. Its eye turns blue.
+H: re-TAL-i-ate ≈ “RE-TALLY”: hitting back point for point
+L: 919→920 · The hit-back scoreboard (retaliate) is IRASCIBLE: an “IRAS-CIBLE” grumpy old grandpa who explodes at the smallest thing (Substitution: i-RAS-ci-ble ≈ i-rash).
+C: Station 9 · BALCONY. From the pool balcony, a scoreboard hits back: 1-1, 2-2 = RETALIATE.
+P: A small ink djinn diving into a giant automaton's furnace; the automaton's single eye turning from red to calm blue
+
+== irascible
+T: Al-Hadid, freed, turns out to be irascible (easily angered), but at Zulmat now. It stomps off to smash the palace's side door. The army follows into a garden where a silver tree glitters.
+H: i-RAS-ci-ble ≈ “I-RASH”: breaking out in a rash of anger
+L: 920→921 · The grumpy giant (irascible) stomps past ARTIFICE: an “ART-OFFICE” office where artists build clever tricks and fake flowers (Substitution: AR-ti-fice ≈ art-office).
+C: Station 10 · TOP. On the tallest jet, a grumpy grandpa explodes over a tiny drip = IRASCIBLE.
+P: A freed automaton with a blue eye angrily stomping toward the palace and smashing a side door; a glittering silver tree visible beyond
+
+## 93
+ST: the arch of silver branches | the step made of a silver root | the lamp of a silver bird's eye on the left | the courtyard floor under the tree | the silver trunk at the center | the branch-pillar on the right | the gap between branches like a window | the stair of branches | the high branch balcony | the silver bird on the very top
+
+== artifice
+T: The Tree of Silver Birds: a masterpiece of artifice (clever trickery, skill). Mechanical birds on silver branches, silent.
+H: AR-ti-fice ≈ “ART-OFFICE”: an office of clever tricks
+L: 921→922 · The trick office (artifice) invents a CONTRIVANCE: a “CON-TRY-VAN” van full of clever gadgets that try everything (Substitution: con-TRI-vance ≈ con-try-van).
+C: Station 1 · ARCH. The silver-branch arch is a clever fake, a machine made to look like a tree = ARTIFICE.
+P: A magnificent tree made entirely of silver with dozens of mechanical silver birds on its branches, silent; the army arriving in awe
+
+== contrivance
+T: Master Banu built this contrivance (a clever device) sixty years ago. “When the birds sing, the Caliph wakes.”
+H: con-TRI-vance ≈ “CON-TRY-VAN”: a van of clever devices
+L: 922→923 · The gadget van (contrivance) is a MARVEL: a “MARBLE” marble that rolls uphill, a wonder (Substitution: MAR-vel ≈ marble).
+C: Station 2 · STEP. The silver root step is full of hidden gears and springs = CONTRIVANCE.
+P: An old inventor touching the silver tree's trunk, remembering building it; gears visible
+
+== marvel
+T: Everyone marvels (is amazed): every feather is carved, every eye a jewel.
+H: MAR-vel ≈ “MARBLE”: a marble that rolls uphill, a wonder
+L: 923→924 · The amazing marble (marvel) is EXQUISITE: an “EX-QUIZ-IT” jeweler's egg so beautifully made you gasp (Substitution: ex-QUIS-ite ≈ ex-quiz).
+C: Station 3 · LAMP. The bird-eye lamp shows a marble rolling uphill = MARVEL.
+P: The army gazing in amazement at the silver tree's jewel-eyed birds
+
+== exquisite
+T: The details are exquisite (beautifully made): tiny silver feathers ruffle in the wind.
+H: ex-QUIS-ite ≈ “EX-QUIZ-IT”: so beautiful it passes every quiz
+L: 924→925 · The beautiful egg (exquisite) is decorated in an ELABORATE “E-LAB-ORATE” lab with a thousand tiny tools (Substitution: e-LAB-o-rate ≈ e-lab).
+C: Station 4 · RUG. On the courtyard floor lies a jeweled egg of perfect beauty = EXQUISITE.
+P: Close-up of an exquisitely detailed silver bird with jewel eyes and delicate feathers
+
+== elaborate
+T: The winding mechanism is elaborate (detailed): 999 gears, and one is missing.
+H: e-LAB-o-rate ≈ “E-LAB”: a lab full of detail
+L: 925→926 · The detailed lab (elaborate) belongs to a VIRTUOSO: a “VIRTUE-OSO” violinist who plays so masterfully birds cry (Substitution: vir-tu-O-so ≈ virtue-oso).
+C: Station 5 · HEART. The silver trunk opens to show a thousand tiny gears = ELABORATE.
+P: The silver tree's trunk opened to reveal an elaborate mechanism of hundreds of gears with one empty slot
+
+== virtuoso
+T: Zayn remembers the gear he pulled from the Clocktower. He hands it to Master Banu, a virtuoso (a master performer) who fits it in one move.
+H: vir-tu-O-so ≈ “VIRTUE-OSO”: a master performer
+L: 926→927 · The master violinist (virtuoso) has DEXTERITY: a “DEX-TERRIER” terrier who ties shoelaces with its paws (Substitution: dex-TER-i-ty ≈ dex-terrier).
+C: Station 6 · PILLAR. On the branch pillar, a violinist plays a masterpiece = VIRTUOSO.
+P: A boy handing a gear to an old inventor, who fits it perfectly with masterful skill
+
+== dexterity
+T: With dexterity (skill with hands), Banu winds the key. Click. Click. Click.
+H: dex-TER-i-ty ≈ “DEX-TERRIER”: a terrier tying shoelaces
+L: 927→928 · The shoelace terrier (dexterity) climbs to the SUBLIME: a “SUB-LIME” lime submarine that rises into the sky, awe-inspiring (Substitution: sub-LIME ≈ sub-lime).
+C: Station 7 · WINDOW. At the branch window, a terrier ties shoelaces with lightning paws = DEXTERITY.
+P: An old inventor's skilled hands winding a golden key in a silver tree
+
+== sublime
+T: The birds sing. It's sublime (awe-inspiring): a song so beautiful the army weeps.
+H: sub-LIME ≈ “SUB-LIME”: a lime rising to the heavens
+L: 928→929 · The heavenly song (sublime) ENTHRALLs: an “EN-THRALL” thrall caught spellbound in a web of music (Substitution: en-THRALL ≈ in-thrall).
+C: Station 8 · STAIR. On the branch stair, a lime submarine rises into the sky, breathtaking = SUBLIME.
+P: Silver birds singing, musical notes of light filling the air; an army of people in tears of awe
+
+== enthrall
+T: The song enthralls (captivates) even the Hushlings. They stop moving, listening.
+H: en-THRALL ≈ “IN-THRALL”: held spellbound
+L: 929→930 · The spellbound listener (enthrall) finds it FACILE: a “FAST-SILE” task so easy a baby could do it, too easy (Substitution: FAC-ile ≈ fast-ile).
+C: Station 9 · BALCONY. On the high branch, a spider-web of music holds everyone spellbound = ENTHRALL.
+P: Shadow creatures frozen, listening to the silver birds' song as if spellbound
+
+== facile
+T: Layla realizes: “Winning isn't facile (too easy, superficial). They're listening. The Hushlings can listen!” It's a clue. Inside the palace, the throne hall waits, empty.
+H: FAC-ile ≈ “FAST-ILE”: too easy, done too fast
+L: 930→931 · The too-easy task (facile) is dropped by a king who ABDICATEs: an “ABDI-CAT” cat king who throws away his crown and walks off (Substitution: AB-di-cate ≈ abdi-cat).
+C: Station 10 · TOP. On the top silver bird, a baby solves a puzzle in one second = FACILE.
+P: A girl scholar realizing something important as shadow creatures listen; beyond, a grand hall with an empty throne
+
+## 94
+ST: the arch of the throne hall | the step up to the hall | the lamp on a golden chain to the left | the carpet leading to the throne | the empty throne at the center | the column of royal banners on the right | the tall window behind the throne | the steps of the dais | the royal gallery balcony | the canopy crown over the throne
+
+== abdicate
+T: The Throne Hall. The throne is empty. A scroll lies on it in Zulmat's writing: “The Caliph has abdicated (given up the throne). I rule.” It's a lie.
+H: AB-di-cate ≈ “ABDI-CAT”: a cat king throwing away his crown
+L: 931→932 · The crown-dropping king (abdicate) is replaced by a SUCCESSOR: a “SUCK-SESSOR” child sucking a lollipop who steps up next in line (Substitution: suc-CES-sor ≈ success-or).
+C: Station 1 · ARCH. Under the throne-hall arch, a cat king tosses his crown and walks away = ABDICATE.
+P: A grand throne hall with an empty throne; a scroll resting on it; the kids approaching
+
+== successor
+T: “He named himself successor,” (one who follows another) Hakim growls. “He has no right.”
+H: suc-CES-sor ≈ “SUCCESS-OR”: next in line for success
+L: 932→933 · The next-in-line kid (successor) shows a LEGITIMATE “LEGIT-MATE” mate with a real stamped certificate, lawful (Substitution: le-GIT-i-mate ≈ legit-mate).
+C: Station 2 · STEP. On the hall step, a child steps up next in line to wear the crown = SUCCESSOR.
+P: An old astronomer angrily reading the false scroll
+
+== legitimate
+T: Layla: “The only legitimate (lawful) ruler is the Caliph. And he's asleep, not gone.”
+H: le-GIT-i-mate ≈ “LEGIT-MATE”: the real, lawful one
+L: 933→934 · The lawful mate (legitimate) overthrows a REGIME: a “RE-GYM” gym run by a coach who orders everyone around, a government (Substitution: re-GIME ≈ re-gym).
+C: Station 3 · LAMP. The chain lamp shines on a real, stamped certificate = LEGITIMATE.
+P: A girl scholar declaring firmly; the kids agreeing
+
+== regime
+T: Zulmat's regime (government) is built on silence and fear.
+H: re-GIME ≈ “RE-GYM”: a gym where the coach bosses everyone
+L: 934→935 · The bossy gym (regime) is run by a DYNASTY: a “DIE-NASTY” family of nasty kings passing the crown down for generations (Substitution: DY-nas-ty ≈ die-nasty).
+C: Station 4 · RUG. On the royal carpet, a coach blows a whistle and orders everyone around = REGIME.
+P: Banners of the vizier's mask hanging in the hall; symbols of fear and silence
+
+== dynasty
+T: The portraits on the walls show the Caliph's dynasty, a ruling family line. Zulmat has painted his mask over every face.
+H: DY-nas-ty ≈ “DIE-NASTY”: a line of kings
+L: 935→936 · The line of kings (dynasty) seeks HEGEMONY: a “HEDGE-MONEY” giant hedge made of money that shadows every kingdom, dominance (Substitution: he-GEM-o-ny ≈ hedge-money).
+C: Station 5 · HEART. Behind the empty throne hangs a line of portraits of kings = DYNASTY.
+P: Portraits of a royal family line with a mouthless mask painted over each face
+
+== hegemony
+T: Zulmat wants hegemony, dominance over every city, every word, every voice.
+H: he-GEM-o-ny ≈ “HEDGE-MONEY”: a money hedge dominating everything
+L: 936→937 · The money hedge (hegemony) is PRESIDED over by a “PRESIDENT” sitting on top of it, in charge (Substitution: pre-SIDE ≈ president).
+C: Station 6 · PILLAR. The banner column is wrapped in a hedge of money that shadows everything = HEGEMONY.
+P: A vision of a mouthless mask looming over a map of many cities
+
+== preside
+T: Zayn sits on the throne for one second. “Who presides (is in charge) here?” Then he gets up. “Not me. Not him.”
+H: pre-SIDE ≈ “PRESIDENT”: sitting on top, in charge
+L: 937→938 · The president (preside) falls off into ANARCHY: an “AN-ARCHERY” field where everyone shoots arrows in random directions, lawless chaos (Substitution: AN-ar-chy ≈ an-archery).
+C: Station 7 · WINDOW. At the tall window behind the throne, a president sits in charge = PRESIDE.
+P: A boy briefly sitting on the throne, then standing up with a thoughtful expression
+
+== anarchy
+T: Outside, the palace guards fall into anarchy (lawless chaos): half flee, half join the city's army.
+H: AN-ar-chy ≈ “AN-ARCHERY”: arrows flying everywhere, no rules
+L: 938→939 · The arrow chaos (anarchy) sets a PRECEDENT: a “PRE-SEED-ENT” first seed that every future tree grows from (Substitution: PREC-e-dent ≈ pre-seed).
+C: Station 8 · STAIR. On the dais steps, everyone runs in every direction with no rules = ANARCHY.
+P: Palace guards scattering in chaos, some fleeing, some throwing down weapons and joining the citizens
+
+== precedent
+T: Hakim: “There is a precedent (an earlier example). Shahrazad once woke a king with a story. We can wake this one.”
+H: PREC-e-dent ≈ “PRE-SEED”: the first seed others grow from
+L: 939→940 · The first seed (precedent) grows a MANDATE: a “MAN-DATE” man with an official order from the people stamped on his forehead (Substitution: MAN-date ≈ man-date).
+C: Station 9 · BALCONY. From the gallery balcony, one seed grows into a forest of trees = PRECEDENT.
+P: An old astronomer recalling an old story; an image of a queen telling a story to a king long ago
+
+== mandate
+T: The people's voices outside give the kids a mandate (authority): “Wake the Caliph!” They run to his sleeping chamber.
+H: MAN-date ≈ “MAN-DATE”: an order stamped on a man
+L: 940→941 · The man with the order (mandate) sends an EMISSARY: an “EMI-SCARY” messenger in a scary mask sent on a special mission (Substitution: EM-is-sar-y ≈ emi-scary).
+C: Station 10 · TOP. On the throne's canopy, a man holds up an official order from the people = MANDATE.
+P: A crowd outside chanting; kids running down a corridor toward a grand bedchamber
+
+## 95
+ST: the arch of flags of every land | the step with a carpet from Persia | the lantern from China on the left | the mosaic floor of many patterns | the great table of nations at the center | the pillar of gifts from abroad on the right | the window of the Byzantine envoy | the stair of the African embassy | the balcony of the Indian envoy | the dome painted with a world map
+
+== emissary
+T: On the way, they cross the Hall of Ambassadors. Emissaries (messengers on a mission) from twenty lands stand frozen, grey.
+H: EM-is-sar-y ≈ “EMI-SCARY”: a messenger on a scary mission
+L: 941→942 · The mission messenger (emissary) is a DELEGATE: a “DELI-GATE” deli worker sent to the gate to represent the whole shop (Substitution: DEL-e-gate ≈ deli-gate).
+C: Station 1 · ARCH. Under the flag arch, a messenger in a mask hurries off on a mission = EMISSARY.
+P: A grand hall of ambassadors with flags of many lands; envoys from twenty countries frozen grey in place
+
+== delegate
+T: Each delegate (representative) was sent to ask the Caliph for peace. Zulmat froze them all.
+H: DEL-e-gate ≈ “DELI-GATE”: sent to the gate to represent the deli
+L: 942→943 · The deli representative (delegate) follows PROTOCOL: a “PRO-TOE-COL” rulebook for exactly where to put your toes when bowing (Substitution: PRO-to-col ≈ pro-toe).
+C: Station 2 · STEP. On the Persian carpet step stands a representative of a far-off land = DELEGATE.
+P: Frozen envoys in diverse robes holding scrolls of peace
+
+== protocol
+T: Hakim knows the protocol, the official rules of conduct: “Bow three times, speak their language, offer bread.”
+H: PRO-to-col ≈ “PRO-TOE”: rules for where your toes go when you bow
+L: 943→944 · The toe rulebook (protocol) teaches ETIQUETTE: an “ETTI-KETTLE” kettle with perfect manners that pours tea politely (Substitution: ET-i-quette ≈ eti-kettle).
+C: Station 3 · LAMP. The Chinese lantern hangs over a rulebook of bows and handshakes = PROTOCOL.
+P: An old astronomer bowing three times to a frozen envoy and offering bread
+
+== etiquette
+T: Layla uses perfect etiquette (polite behavior rules): she greets each envoy in their own language.
+H: ET-i-quette ≈ “ETTI-KETTLE”: a polite kettle
+L: 944→945 · The polite kettle (etiquette) shows DECORUM: a “DECOR-UM” living room where even the furniture behaves properly (Substitution: de-CO-rum ≈ decor-um).
+C: Station 4 · RUG. On the mosaic floor, a kettle pours tea and bows politely = ETIQUETTE.
+P: A girl scholar greeting each frozen envoy politely in their own language; small sparks of color appearing
+
+== decorum
+T: Even Zayn shows decorum (proper behavior). He doesn't touch anything. Tariq touches everything.
+H: de-CO-rum ≈ “DECOR-UM”: furniture behaving properly
+L: 945→946 · The proper furniture (decorum) is COURTEOUS: a “COURT-EOUS” knight at court who holds the door for everyone (Substitution: COUR-te-ous ≈ court).
+C: Station 5 · HEART. At the table of nations, every chair sits properly = DECORUM.
+P: A boy behaving politely with hands behind his back; his little brother poking every object
+
+== courteous
+T: The kids are courteous (polite) to every envoy, and one by one, they unfreeze.
+H: COUR-te-ous ≈ “COURT-EOUS”: polite like a knight at court
+L: 946→947 · The polite knight (courteous) is TACTFUL: a “TACT-FUL” diplomat with a bag full of gentle words for hard news (Substitution: TACT-ful ≈ tact).
+C: Station 6 · PILLAR. On the gift pillar, a knight holds the door and bows to everyone = COURTEOUS.
+P: Envoys unfreezing one by one as the kids greet them politely; color returning
+
+== tactful
+T: One envoy is angry: “Your city insulted us!” Layla is tactful (sensitive in dealing with others): “We're sorry. Let us make it right.”
+H: TACT-ful ≈ “TACT-FULL”: full of gentle tact
+L: 947→948 · The gentle diplomat (tactful) meets XENOPHOBIA: a “ZENO-PHOBIA” man hiding under his bed afraid of anyone from another country (Substitution: xen-o-PHO-bi-a ≈ zeno-phobia).
+C: Station 7 · WINDOW. At the envoy's window, a diplomat delivers bad news gently with a flower = TACTFUL.
+P: A girl scholar speaking gently and tactfully to an angry envoy; his expression softening
+
+== xenophobia
+T: Zulmat spread xenophobia (fear of foreigners) to keep the envoys out. The kids undo it with welcome.
+H: xen-o-PHO-bi-a ≈ “ZENO-PHOBIA”: fear of strangers
+L: 948→949 · The fearful man (xenophobia) learns TOLERANCE: a “TOLL-ERRANDS” toll gate that lets every traveler through, accepting all (Substitution: TOL-er-ance ≈ toll).
+C: Station 8 · STAIR. On the embassy stair, a man hides afraid of anyone from another land = XENOPHOBIA.
+P: A vision of the vizier spreading fear of foreigners; kids welcoming envoys with bread and handshakes
+
+== tolerance
+T: Tolerance (acceptance of differences) fills the hall. The envoys join the army.
+H: TOL-er-ance ≈ “TOLL-ERRANDS”: a toll gate that lets everyone through
+L: 949→950 · The open toll gate (tolerance) builds PLURALISM: a “PLURAL-ISM” city where many groups live side by side, like a plural of everything (Substitution: PLU-ral-ism ≈ plural).
+C: Station 9 · BALCONY. From the Indian balcony, every kind of person is welcomed = TOLERANCE.
+P: Envoys from many lands joining hands with the kids and the citizens; smiles and color
+
+== pluralism
+T: “This is Baghdad,” Hakim smiles. “Pluralism, many groups living together. That's what the Lexicon protects.” Down the hall, snoring echoes from the Caliph's chamber.
+H: PLU-ral-ism ≈ “PLURAL-ISM”: many kinds, together
+L: 950→951 · The many-together city (pluralism) falls into a STUPOR: a “STEW-POUR” pot of stew poured over a sleeper so he's dazed (Substitution: STU-por ≈ stew-pour).
+C: Station 10 · TOP. On the world-map dome, many peoples live side by side on one painted globe = PLURALISM.
+P: An old astronomer smiling at a diverse crowd; a corridor echoing with snores
+
+## 96
+ST: the arched door of the bedchamber | the step with the Caliph's slippers | the night-lamp on the left | the soft carpet | the enormous canopy bed at the center | the bedpost on the right | the moonlit window | the step-stool to the bed | the balcony over the garden | the canopy's crown
+
+== stupor
+T: The Caliph lies in a stupor (a dazed state), snoring bubbles floating up.
+H: STU-por ≈ “STEW-POUR”: stew poured over you, dazed
+L: 951→952 · The dazed sleeper (stupor) is SOMNOLENT: a “SOMNO-LENT” sleepy lamb counting itself to sleep (Substitution: SOM-no-lent ≈ somno-lamb).
+C: Station 1 · ARCH. At the bedchamber door, someone lies dazed under a pot of stew = STUPOR.
+P: A kindly caliph in a green robe and white turban sleeping deeply in an enormous canopy bed, magical snore bubbles floating up; kids entering
+
+== somnolent
+T: Even the kids feel somnolent (sleepy) in here. The air is thick with a sleeping spell.
+H: SOM-no-lent ≈ “SOMNO-LAMB”: a sleepy lamb
+L: 952→953 · The sleepy lamb (somnolent) sinks into SLUMBER: a “SLUMBER-LUMBER” pile of logs that snore (Substitution: SLUM-ber ≈ lumber).
+C: Station 2 · STEP. On the slipper step, a lamb counts sheep and yawns = SOMNOLENT.
+P: Kids yawning and drooping in a spell-heavy bedchamber, eyelids heavy
+
+== slumber
+T: His slumber (sleep) is magical. Nothing wakes him: not shouts, not bells, not Pebble.
+H: SLUM-ber ≈ “SLUMBER-LUMBER”: snoring logs
+L: 953→954 · The snoring logs (slumber) are COMATOSE: a “COMMA-TOES” sleeper with commas for toes who can't wake at all (Substitution: CO-ma-tose ≈ comma-toes).
+C: Station 3 · LAMP. Beside the night-lamp, a pile of lumber snores = SLUMBER.
+P: Kids shouting, ringing a bell and a giant roc squawking at a sleeping caliph who doesn't stir
+
+== comatose
+T: He's almost comatose (in a deep unconscious state).
+H: CO-ma-tose ≈ “COMMA-TOES”: toes stuck in a comma pause
+L: 954→955 · The comma-toe sleeper (comatose) is next to an INSOMNIA owl: an “IN-SOM-NIA” owl who can't sleep at all and counts stars all night (Substitution: in-SOM-ni-a ≈ in-somnia).
+C: Station 4 · RUG. On the carpet lies a man so deeply asleep his toes curl into commas = COMATOSE.
+P: A deeply unconscious caliph; an old astronomer checking his pulse gravely
+
+== insomnia
+T: Tariq, who has insomnia (inability to sleep) from all the excitement, has an idea. “Mom used to wake us with a joke.”
+H: in-SOM-ni-a ≈ “IN-SOMNIA”: no sleep at all
+L: 955→956 · The sleepless owl (insomnia) keeps a VIGIL: a “VIGIL-ANT” ant holding a candle all night by the bed (Substitution: VIG-il ≈ vigil).
+C: Station 5 · HEART. On the giant bed, an owl can't sleep and counts stars = INSOMNIA.
+P: A small wide-awake boy in a green cap with an idea, a lightbulb glow
+
+== vigil
+T: While Tariq thinks, the others keep a vigil (a watch kept at night) by the bed, holding candles.
+H: VIG-il ≈ “VIGIL-ANT”: an ant keeping watch with a candle
+L: 956→957 · The watchful ant (vigil) is drugged by a SOPORIFIC “SOAP-OR-IFIC” soap that makes anyone who smells it fall asleep (Substitution: sop-o-RIF-ic ≈ soap-orific).
+C: Station 6 · PILLAR. On the bedpost, an ant holds a candle all night = VIGIL.
+P: Kids holding candles around the sleeping caliph in a quiet watch
+
+== soporific
+T: The room's perfume is soporific (causing sleep), Zulmat's trick. Layla opens the window. Fresh air!
+H: sop-o-RIF-ic ≈ “SOAP-ORIFIC”: soap that makes you sleep
+L: 957→958 · The sleepy soap (soporific) makes a man OBLIVIOUS: an “OBLIVI-US” man reading a newspaper while an elephant sits on his car, unaware (Substitution: ob-LIV-i-ous ≈ oblivi-us).
+C: Station 7 · WINDOW. At the moonlit window, a bar of soap puffs sleepy bubbles = SOPORIFIC.
+P: A girl scholar throwing open a window, fresh air blowing away a pink sleepy haze
+
+== oblivious
+T: The Caliph is still oblivious (unaware). Then Tariq climbs onto the bed and tells his worst joke: “What do you call a sleeping caliph? A CALI-NAP!”
+H: ob-LIV-i-ous ≈ “OBLIVI-US”: not noticing the elephant on your car
+L: 958→959 · The unaware man (oblivious) is STARTLED: a “STAR-TLED” star that jumps out of the sky with a “BOO!” (Substitution: STAR-tle ≈ star).
+C: Station 8 · STAIR. On the step-stool, a man reads peacefully as an elephant sits on him = OBLIVIOUS.
+P: A small boy standing on a giant bed telling a silly joke to a sleeping caliph
+
+== startle
+T: The Caliph snorts, startled (surprised suddenly), and bursts out laughing. His eyes open.
+H: STAR-tle ≈ “STAR-TLE”: a star jumping out with BOO
+L: 959→960 · The jumping star (startle) wakes a COGNIZANT “COG-NIZE-ANT” ant made of cogs who is suddenly aware of everything (Substitution: COG-ni-zant ≈ cog-ant).
+C: Station 9 · BALCONY. From the garden balcony, a star jumps up shouting BOO = STARTLE.
+P: A caliph startled awake with a burst of laughter, snore bubbles popping, eyes open
+
+== cognizant
+T: He sits up, fully cognizant (aware): “Children? What year is it? Where is my Vizier?” Zayn points up. On top of the palace, the Green Dome glows violet. Above it the sky is darkening, and a staircase of a thousand steps winds up to it.
+H: COG-ni-zant ≈ “COG-ANT”: a cog ant suddenly aware
+L: 960→961 · The aware ant (cognizant) climbs a GRUELING “GRUEL-ING” mountain while eating only gruel, exhausting (Substitution: GRUEL-ing ≈ gruel).
+C: Station 10 · TOP. On the canopy's crown, an ant of cogs clicks: “I know everything now” = COGNIZANT.
+P: An awakened caliph sitting up, alert; kids pointing out the window at a violet-glowing green dome with a long spiral staircase winding up to it
+
+## 97
+ST: the arch at the foot of the stair | the first of the thousand steps | the lamp at step 100 on the left | the landing at step 300 | the halfway landing at step 500 | the column at step 600 on the right | the window at step 700 | the steep flight to step 900 | the last landing balcony at step 999 | the thousandth step at the top
+
+== grueling
+T: The Stair of a Thousand Steps: a grueling (exhausting) climb to the Dome. Hushlings hold every landing.
+H: GRUEL-ing ≈ “GRUEL-ING”: climbing while eating only gruel
+L: 961→962 · The gruel climb (grueling) is STRENUOUS: a “STRAIN-UOUS” weightlifter straining to lift a whale (Substitution: STREN-u-ous ≈ strain).
+C: Station 1 · ARCH. At the arch at the bottom, a climber eats gruel and looks up at a thousand steps = GRUELING.
+P: A dizzying spiral staircase of a thousand steps winding up to a glowing green dome; shadow creatures on landings; the team at the bottom looking up
+
+== strenuous
+T: Each step is strenuous (requiring great effort): the Hush Stone's power pushes down on them like wind.
+H: STREN-u-ous ≈ “STRAIN-UOUS”: straining with every muscle
+L: 962→963 · The straining lifter (strenuous) feels FATIGUE: a “FAT-TEAGUE” tired teapot too tired to pour (Substitution: fa-TIGUE ≈ fat-teague).
+C: Station 2 · STEP. On the first step, a weightlifter strains to lift a whale = STRENUOUS.
+P: The team pushing up stairs against a heavy invisible force like a headwind, straining
+
+== fatigue
+T: Sinbad feels fatigue (tiredness) at step 300. “Go on without me, I'll hold this landing!” Pebble stays with him.
+H: fa-TIGUE ≈ “FAT-TEAGUE”: a teapot too tired to pour
+L: 963→964 · The tired teapot (fatigue) is replaced by an INDEFATIGABLE “IN-DEFEAT-IGABLE” robot bunny who never ever gets tired (Substitution: in-de-FAT-i-ga-ble ≈ in-defeat).
+C: Station 3 · LAMP. At the lamp at step 100, a teapot yawns, too tired to pour = FATIGUE.
+P: An old sailor, exhausted, planting his cane at a landing to hold off shadow creatures; the giant roc beside him
+
+== indefatigable
+T: Marjana is indefatigable (tireless). She carries Tariq on her back when his legs give out.
+H: in-de-FAT-i-ga-ble ≈ “IN-DEFEAT-ABLE”: can't be defeated by tiredness
+L: 964→965 · The tireless bunny (indefatigable) is UNDETERRED: an “UN-DETOUR-D” bunny who won't take any detour, not discouraged (Substitution: un-de-TERRED ≈ un-detoured).
+C: Station 4 · RUG. On the landing at step 300, a robot bunny hops and hops, never tired = INDEFATIGABLE.
+P: A girl in a crimson bandana tirelessly carrying a small boy on her back up the stairs
+
+== undeterred
+T: At step 500, Hushlings block the way. The kids are undeterred (not discouraged). They speak words, and the shadows part.
+H: un-de-TERRED ≈ “UN-DETOURED”: no detour will stop them
+L: 965→966 · The no-detour bunny (undeterred) is PERSISTENT: a “PURSE-SISTENT” sister who keeps knocking with her purse until the door opens (Substitution: per-SIS-tent ≈ purse-sister).
+C: Station 5 · HEART. At the halfway landing, a bunny refuses every detour sign = UNDETERRED.
+P: Kids speaking glowing words that push shadow creatures aside on a landing
+
+== persistent
+T: Yasmin is persistent (continuing firmly). Her illusions keep the Hushlings guessing, step after step.
+H: per-SIS-tent ≈ “PURSE-SISTENT”: a sister knocking with her purse till it opens
+L: 966→967 · The knocking sister (persistent) climbs INCREMENTALly: an “INCREMENT-AL” ladder with tiny extra steps added one at a time (Substitution: in-cre-MEN-tal ≈ increment).
+C: Station 6 · PILLAR. On the column at step 600, a sister knocks and knocks without stopping = PERSISTENT.
+P: A feathered girl casting illusion after illusion, confusing shadow creatures step by step
+
+== incremental
+T: Progress is incremental (step by step). 700… 800… 900…
+H: in-cre-MEN-tal ≈ “INCREMENT-AL”: adding one step at a time
+L: 967→968 · The tiny-step ladder (incremental) rises in a GRADUAL “GRAD-UAL” graduation line where kids move up one row per year (Substitution: GRAD-u-al ≈ grad).
+C: Station 7 · WINDOW. At the window at step 700, a number counter clicks up one at a time = INCREMENTAL.
+P: Numbered steps passing 700, 800, 900 as the team climbs higher
+
+== gradual
+T: The Dome's glow grows gradual (slow and steady) brighter as they climb. Layla doesn't look down. She doesn't need to anymore.
+H: GRAD-u-al ≈ “GRAD-UAL”: moving up one grade at a time
+L: 968→969 · The slow graduation (gradual) helps them SURMOUNT a wall: a “SIR-MOUNT” knight mounting his horse to leap over it (Substitution: sur-MOUNT ≈ sir-mount).
+C: Station 8 · STAIR. On the steep flight, a light grows brighter slowly, step by step = GRADUAL.
+P: A girl scholar climbing confidently high above the city without fear; the dome glowing brighter
+
+== surmount
+T: At step 999, a wall of ink. They surmount (overcome) it together, hand over hand, lifting each other up.
+H: sur-MOUNT ≈ “SIR-MOUNT”: a knight leaping over on his horse
+L: 969→970 · The leaping knight (surmount) reaches the PINNACLE: a “PIN-ACLE” pin standing on the highest point of a mountain (Substitution: PIN-na-cle ≈ pin).
+C: Station 9 · BALCONY. From the last balcony, a knight on horseback leaps over a wall = SURMOUNT.
+P: Kids lifting each other over a wall of black ink at the top of a staircase
+
+== pinnacle
+T: Step one thousand: the pinnacle (the highest point). The doors of the Green Dome swing open. Inside, under a violet sky, Zulmat waits beside the shattered Lexicon.
+H: PIN-na-cle ≈ “PIN-ACLE”: a pin on the very top
+L: 970→971 · The mountain-top pin (pinnacle) is where they CONFRONT: a “CON-FRONT” face-off, two wrestlers standing front to front (Substitution: con-FRONT ≈ front).
+C: Station 10 · TOP. On the thousandth step, a pin stands on the tip of the world = PINNACLE.
+P: The team reaching the top step as the doors of a great green dome swing open; inside, a masked vizier beside a floating shattered crystal book under a violet sky
+
+## 98
+ST: the dome's great arched doorway | the threshold marked with the Lexicon's crest | the violet lamp of the Hush Stone on the left | the mosaic floor inside the dome | the empty pedestal of the Lexicon at the center | the column of green marble on the right | the round window in the dome | the stair to the dome's gallery | the gallery balcony around the dome | the dome's apex
+
+== confront
+T: They confront (face boldly) Zulmat under the Green Dome. He holds the Satchel with 800 words and the Hush Stone, glowing.
+H: con-FRONT ≈ “CON-FRONT”: facing front to front
+L: 971→972 · The face-off (confront) is with a NEMESIS: a “NEMO-SIS” clownfish's arch-enemy shark who's chased him his whole life (Substitution: NEM-e-sis ≈ Nemo-sis).
+C: Station 1 · ARCH. At the dome doorway, two wrestlers stand front to front = CONFRONT.
+P: Inside a vast green dome, the kids facing a tall masked vizier who holds a glowing satchel and a black meteorite-topped staff
+
+== nemesis
+T: Zayn looks at his nemesis (archenemy). But under the mask, he now knows, is a boy who stammered.
+H: NEM-e-sis ≈ “NEMO-SIS”: the arch-enemy shark
+L: 972→973 · The arch-enemy shark (nemesis) plays the ANTAGONIST: an “ANT-AGONIST” ant villain twirling his mustache in every story (Substitution: an-TAG-o-nist ≈ ant-agonist).
+C: Station 2 · STEP. On the crest threshold, a shark glares at a little fish = NEMESIS.
+P: A boy looking at the vizier's mouthless mask, seeing in his mind a ghostly image of a stammering boy beneath
+
+== antagonist
+T: Zulmat writes: “Every story needs an antagonist (the villain). I am yours.”
+H: an-TAG-o-nist ≈ “ANT-AGONIST”: a villain ant twirling his mustache
+L: 973→974 · The villain ant (antagonist) faces the PROTAGONIST: a “PRO-TAG-ONIST” pro hero with a name tag reading HERO (Substitution: pro-TAG-o-nist ≈ pro-tag).
+C: Station 3 · LAMP. At the Hush-Stone lamp, an ant twirls a villain's mustache = ANTAGONIST.
+P: A scroll unrolling from the vizier with his words; dark violet energy swirling
+
+== protagonist
+T: Zayn answers out loud: “Then I'm the protagonist (the main character). And protagonists don't give up.”
+H: pro-TAG-o-nist ≈ “PRO-TAG”: a hero with a name tag
+L: 974→975 · The hero with a tag (protagonist) is UNFLINCHING: an “UN-FLINCH” statue that doesn't blink even when a pie flies at its face (Substitution: un-FLINCH-ing ≈ un-flinch).
+C: Station 4 · RUG. On the mosaic floor, a hero wears a big name tag: HERO = PROTAGONIST.
+P: A boy with an orange headband standing tall and declaring he is the hero; friends beside him
+
+== unflinching
+T: Zulmat blasts the Hush Stone's power. Everyone's voices fade. But Zayn stands unflinching (not shrinking back).
+H: un-FLINCH-ing ≈ “UN-FLINCH”: not blinking at a flying pie
+L: 975→976 · The non-blinking statue (unflinching) is RESOLUTE: a “RE-SOLUTE” soldier saluting again and again, determined (Substitution: RES-o-lute ≈ re-salute).
+C: Station 5 · HEART. By the empty pedestal, a statue doesn't blink as a pie hits it = UNFLINCHING.
+P: A blast of violet silence washing over everyone; a boy standing firm, not flinching
+
+== resolute
+T: Layla is resolute (determined). She holds up her grandmother's mirror.
+H: RES-o-lute ≈ “RE-SALUTE”: saluting again and again, determined
+L: 976→977 · The determined soldier (resolute) stands at the BRINK: a “BRICK” edge of a cliff made of crumbling bricks (Substitution: BRINK ≈ brick).
+C: Station 6 · PILLAR. On the green column, a soldier salutes over and over, never giving up = RESOLUTE.
+P: A girl scholar holding up a silver hand-mirror with determination against the violet storm
+
+== brink
+T: The city is on the brink (the edge) of total silence. Below, people fall grey mid-shout.
+H: BRINK ≈ “BRICK”: a crumbling brick cliff-edge
+L: 977→978 · The cliff edge (brink) is on the VERGE: a “VERGE-VIRGE” grass verge at the edge of the road, just about to crumble (Substitution: VERGE ≈ edge).
+C: Station 7 · WINDOW. At the round dome window, someone teeters on a crumbling brick edge = BRINK.
+P: Through the dome's window, the whole city turning grey, people frozen mid-shout
+
+== verge
+T: Qalam, holding on, is on the verge (about to) of vanishing. “Say it… true…” he whispers.
+H: VERGE ≈ “ROAD-VERGE”: the edge of the road
+L: 978→979 · The road-edge (verge) builds to a CLIMACTIC “CLIMB-ACTIC” moment where a climber reaches the final summit (Substitution: cli-MAC-tic ≈ climb).
+C: Station 8 · STAIR. On the gallery stair, someone stands on the very edge, about to fall = VERGE.
+P: A small ink djinn fading and flickering, almost vanishing, whispering
+
+== climactic
+T: It's the climactic moment, the climax of the story. Then Layla's mirror blazes gold. Shahrazad's voice rings out loud, whole, for the first time since Wordfall.
+H: cli-MAC-tic ≈ “CLIMB-ACTIC”: the top of the climb
+L: 979→980 · The final summit (climactic) is IMPERATIVE: an “IMPERIAL-TIVE” emperor ordering “You MUST!” (Substitution: im-PER-a-tive ≈ imperial).
+C: Station 9 · BALCONY. From the gallery, a climber plants a flag on the final peak = CLIMACTIC.
+P: A silver mirror blazing gold; an elderly queen's glowing figure rising out of it; a climactic burst of light
+
+== imperative
+T: “Listen to me, children. It is imperative (absolutely necessary) that you understand the last word. I survived 1001 nights not because my stories were clever… but because someone listened.”
+H: im-PER-a-tive ≈ “IMPERIAL-TIVE”: the emperor's MUST-DO
+L: 980→981 · The emperor's must (imperative) arrives at a PIVOTAL moment: a “PIVOT” door that spins on one hinge and changes everything (Substitution: PIV-o-tal ≈ pivot).
+C: Station 10 · TOP. At the dome's apex, an emperor points and orders: “You MUST!” = IMPERATIVE.
+P: A glowing golden elderly queen speaking to the kids; the vizier frozen, listening; the violet storm pausing
+
+## 99
+ST: the arch of the Horseman's plinth | the step up to the dome's summit | the lamp of the lightning rod on the left | the roof of the Green Dome | the bronze Horseman at the center | the Horseman's lance on the right | the window of sky between the horse's legs | the stair of the horse's tail | the balcony of the horse's saddle | the tip of the Horseman's lance
+
+== pivotal
+T: That's the pivotal (crucial, central) moment. On top of the Dome, the bronze Horseman, who turns with the wind, turns now… to point his lance at Zulmat.
+H: PIV-o-tal ≈ “PIVOT-AL”: everything turns on one pivot
+L: 981→982 · The pivot door (pivotal) opens on a CRUCIAL “CRUCI-ALL” key, the one key that matters most of all (Substitution: CRU-cial ≈ cruci-all).
+C: Station 1 · ARCH. At the plinth arch, a door spins on one hinge and everything changes = PIVOTAL.
+P: A giant bronze horseman statue atop a green dome slowly turning to point its lance down at a masked vizier; dramatic sky
+
+== crucial
+T: Shahrazad: “The crucial (extremely important) word, the thousand-and-first, is LISTEN.”
+H: CRU-cial ≈ “CRUCI-ALL”: the key that matters most of all
+L: 982→983 · The most-important key (crucial) opens a DECISIVE “DECIDE-SIVE” door that settles the result with one click (Substitution: de-CI-sive ≈ decide).
+C: Station 2 · STEP. On the summit step lies the one key that opens everything = CRUCIAL.
+P: A glowing golden queen speaking a single word that appears in huge light-letters: LISTEN
+
+== decisive
+T: Zayn makes a decisive (settling the result) choice. He lowers his hands. “Idris,” he says. “Tell us your poem. We're listening.”
+H: de-CI-sive ≈ “DECIDE-SIVE”: the move that decides it
+L: 983→984 · The deciding door (decisive) opens onto a new PARADIGM: a “PAIR-A-DIME” coin flipped that changes the whole model of thinking (Substitution: PAR-a-digm ≈ pair-a-dime).
+C: Station 3 · LAMP. At the lightning-rod lamp, one bolt strikes and settles everything = DECISIVE.
+P: A boy lowering his hands and speaking gently to the masked vizier, asking him to share his poem
+
+== paradigm
+T: It's a new paradigm (a model or pattern): not fighting silence, but filling it with listening.
+H: PAR-a-digm ≈ “PAIR-A-DIME”: flip a coin, change the whole pattern
+L: 984→985 · The coin-flip model (paradigm) makes a genie REVERT: a “RE-VERT” genie who goes back into his bottle and becomes what he was (Substitution: re-VERT ≈ re-vert).
+C: Station 4 · RUG. On the dome roof, a coin flips and the whole map turns over = PARADIGM.
+P: The whole city below falling silent, turning to face the dome, listening; a shift in the air
+
+== revert
+T: Zulmat hesitates. His mask trembles. For a moment he reverts (goes back) to what he was: Idris, fifteen, scared.
+H: re-VERT ≈ “RE-VERT”: turning back to what you were
+L: 985→986 · The genie back in his bottle (revert) finds it IRONIC: an “IRON-IC” iron that wrinkles your shirt instead of smoothing it, the opposite of what you'd expect (Substitution: i-RON-ic ≈ iron-ic).
+C: Station 5 · HEART. The bronze Horseman at the center shrinks back into a small bronze boy = REVERT.
+P: A masked vizier's mask trembling, a glimpse of a scared 15-year-old boy's face beneath
+
+== ironic
+T: It's ironic (the opposite of what's expected): the Silencer's whole war was because nobody listened to him.
+H: i-RON-ic ≈ “IRON-IC”: an iron that wrinkles your shirt
+L: 986→987 · The wrinkling iron (ironic) causes something UNPRECEDENTED: an “UN-PRESIDENT-ED” day when a penguin becomes president for the first time ever (Substitution: un-PRES-i-dent-ed ≈ un-president).
+C: Station 6 · PILLAR. On the Horseman's lance hangs an iron that wrinkles shirts instead of smoothing them = IRONIC.
+P: A split image: the vizier's army of silence versus a lonely boy nobody listened to
+
+== unprecedented
+T: Then something unprecedented (never happened before): the whole city goes silent, not from fear, but to listen.
+H: un-PREC-e-dent-ed ≈ “UN-PRESIDENT-ED”: never happened before
+L: 987→988 · The first-ever day (unprecedented) is a WATERSHED: a “WATER-SHED” shed where the river splits in two directions, a turning point (Substitution: WA-ter-shed ≈ water-shed).
+C: Station 7 · WINDOW. Through the window between the horse's legs, a penguin sits on the throne for the first time ever = UNPRECEDENTED.
+P: The entire city of Baghdad silent and still, thousands of faces turned upward, listening
+
+== watershed
+T: Idris speaks. He stammers. He stops. No one laughs. He starts again, and finishes his poem. It's a watershed (a turning point). His mask falls away.
+H: WA-ter-shed ≈ “WATER-SHED”: where the river turns
+L: 988→989 · The river-splitting shed (watershed) begins a TRANSITION: a “TRANS-ITION” train that turns into a butterfly as it crosses the bridge (Substitution: tran-SI-tion ≈ train-sition).
+C: Station 8 · STAIR. On the horse's tail-stair, a river splits into two directions = WATERSHED.
+P: A thin man with a gentle face stammering through a poem as his silver mask falls away; everyone listening kindly
+
+== transition
+T: The Hush Stone cracks. Light pours from it. A transition (a change from one state to another) sweeps the city as grey becomes color, street by street.
+H: tran-SI-tion ≈ “TRAIN-SITION”: a train changing into a butterfly
+L: 989→990 · The train-butterfly (transition) arrives at a JUNCTURE: a “JUNK-SURE” junction where all the tracks meet at one critical moment (Substitution: JUNC-ture ≈ junction).
+C: Station 9 · BALCONY. From the saddle balcony, a train turns into a butterfly mid-flight = TRANSITION.
+P: A black meteorite stone cracking with golden light; a wave of color sweeping over the city street by street
+
+== juncture
+T: At this juncture (a critical point in time), the Satchel bursts open. Eight hundred words rise into the air, then nine hundred, one thousand… and they swirl above the Dome, waiting.
+H: JUNC-ture ≈ “JUNCTION”: all tracks meeting at one moment
+L: 990→991 · The meeting-point junction (juncture) leads to the DENOUEMENT: a “DAY-NEW-MOMENT” when all the knots are untied at the end of the story (Substitution: de-noue-MENT ≈ day-new-moment).
+C: Station 10 · TOP. At the tip of the lance, all the train tracks meet at one point = JUNCTURE.
+P: A satchel bursting open and a thousand golden word-sparks swirling above a green dome like a galaxy
+
+## 100
+ST: the arch of the Milky Way above the dome | the first star-step | the moon as a lamp on the left | the floor of clouds | the re-formed Lexicon at the center | the pillar of light on the right | the window of dawn on the horizon | the stair of stars going up | the balcony of the crescent moon | the crown of stars at the very top
+
+== denouement
+T: The denouement (the final resolution): the thousand sparks fly home into the Lexicon, and it re-forms, whole and blazing. The Caliph's voice, Shahrazad's voice and the city's voice all ring together.
+H: de-noue-MENT ≈ “DAY-NEW-MOMENT”: untying the knots at the end
+L: 991→992 · The untied knots (denouement) are followed by an EPILOGUE: an “EPIC-LOG” diary written after the adventure is over (Substitution: EP-i-logue ≈ epic-log).
+C: Station 1 · ARCH. Under the Milky Way arch, every knot in a rope unties itself = DENOUEMENT.
+P: A thousand golden sparks flying home into a crystal book that re-forms whole and blazing above a green dome; a joyful city below in full color
+
+== epilogue
+T: Epilogue (a closing section). One year later. The House of Wisdom is rebuilt. Hakim teaches astronomy. Umm Nur teaches with him.
+H: EP-i-logue ≈ “EPIC-LOG”: the diary after the adventure
+L: 992→993 · The after-adventure diary (epilogue) is written by a CONSUMMATE “CON-SUMMIT” climber who reached every summit, complete and perfect (Substitution: CON-sum-mate ≈ con-summit).
+C: Station 2 · STEP. On the first star-step lies a diary titled “ONE YEAR LATER” = EPILOGUE.
+P: A rebuilt House of Wisdom full of students; an old astronomer teaching with his sister
+
+== consummate
+T: Sinbad, the consummate (complete, perfect) storyteller, now tells the true tale of the Thousand and One Words to crowds at the harbor. He only exaggerates a little.
+H: CON-sum-mate ≈ “CON-SUMMIT”: reached every summit, complete
+L: 993→994 · The complete climber (consummate) is QUINTESSENTIAL: a “QUINT-ESSENTIAL” quintuplet of five cooks making the perfect, purest example of pizza (Substitution: quin-tes-SEN-tial ≈ quint-essential).
+C: Station 3 · LAMP. The moon-lamp shines on a storyteller who's perfect at his craft = CONSUMMATE.
+P: An old sailor telling a story to a big crowd at a harbor, with a full-grown giant roc perched behind him
+
+== quintessential
+T: Marjana runs the quintessential (purest example) school for street kids: the Sparrows' Academy. Tariq is top of the class in talking.
+H: quin-tes-SEN-tial ≈ “QUINT-ESSENTIAL”: the purest essence
+L: 994→995 · The purest pizza (quintessential) tastes INEFFABLE: an “IN-EFF-ABLE” flavor so amazing no word can describe it (Substitution: in-EF-fa-ble ≈ in-f-able).
+C: Station 4 · RUG. On the cloud floor sits the most perfect pizza ever made = QUINTESSENTIAL.
+P: A girl in a crimson bandana teaching a lively school of orphan kids; a small boy in a green cap talking nonstop
+
+== ineffable
+T: Qalam chooses to stay a pen. When Layla writes with him, the feeling is ineffable: too great for words.
+H: in-EF-fa-ble ≈ “IN-F-ABLE”: impossible to put into words
+L: 995→996 · The indescribable flavor (ineffable) is PERPETUATEd: a “PERPETUAL-EIGHT” figure eight that keeps going forever and ever (Substitution: per-PET-u-ate ≈ perpetual).
+C: Station 5 · HEART. The re-formed Lexicon at the center glows with a light no word can describe = INEFFABLE.
+P: A girl scholar writing with a golden-and-black ink pen that glows; a small happy face in the ink
+
+== perpetuate
+T: Yasmin becomes Layla's fellow apprentice, and together they perpetuate (keep going) Shahrazad's tradition: a story every night, in the Square.
+H: per-PET-u-ate ≈ “PERPETUAL-ATE”: keeping it going forever
+L: 996→997 · The forever figure-eight (perpetuate) sends out GRATITUDE: a “GREAT-ATTITUDE” thank-you card the size of a mountain (Substitution: GRAT-i-tude ≈ great-attitude).
+C: Station 6 · PILLAR. The pillar of light loops a figure eight forever = PERPETUATE.
+P: A girl scholar and a feathered girl telling a story together to a crowd at night in a lantern-lit square
+
+== gratitude
+T: Idris, no longer Vizier, writes one letter a day to the city, full of gratitude (thankfulness): “Thank you for listening.”
+H: GRAT-i-tude ≈ “GREAT-ATTITUDE”: a great attitude of thanks
+L: 997→998 · The mountain-sized thank-you (gratitude) is delivered with HUMILITY: a “HUMBLE-ITY” king who kneels to tie a servant's shoe, modest (Substitution: hu-MIL-i-ty ≈ humble).
+C: Station 7 · WINDOW. At the dawn window hangs a thank-you card as big as a mountain = GRATITUDE.
+P: A thin gentle man writing a heartfelt thank-you letter at a desk, sunlight streaming in
+
+== humility
+T: Idris teaches the children's poetry class at the Poets' Café with humility (modesty). When a kid stammers, he says: “Take your time. We're listening.”
+H: hu-MIL-i-ty ≈ “HUMBLE-ITY”: humble as a kneeling king
+L: 998→999 · The kneeling king (humility) builds an ENDURING “EN-DURING” castle of stone that lasts forever (Substitution: en-DUR-ing ≈ endure).
+C: Station 8 · STAIR. On the stair of stars, a king kneels to tie a servant's shoe = HUMILITY.
+P: A gentle man teaching a poetry class to children; a small child stammering while everyone listens kindly
+
+== enduring
+T: The friendship of Zayn and Layla is enduring (lasting). On the Dome, she finally jumps, on Pebble's back, laughing, with no fear of heights left.
+H: en-DUR-ing ≈ “EN-DURING”: enduring through everything
+L: 999→1000 · The forever castle (enduring) TRANSCENDS the sky: a “TRANS-SEND” rocket sent beyond every limit into the stars (Substitution: tran-SCEND ≈ trans-send).
+C: Station 9 · BALCONY. From the crescent-moon balcony, a stone castle stands forever through every storm = ENDURING.
+P: A boy and a girl scholar leaping off the top of a green dome together on the back of a giant red-gold roc, laughing, the sunrise behind them
+
+== transcend
+T: Zayn, who once couldn't read, writes the last page of the chronicle. The words transcend (go beyond limits) the page and float up into the crown of stars. At the bottom of the page is one empty speech bubble: “Your word goes here.” THE END… and the beginning.
+H: tran-SCEND ≈ “TRANS-SEND”: sent beyond every limit
+L: 1000→1 (back to Chapter 1) · The limit-breaking rocket (transcend) lands on the Crescent Lighthouse, right on the head of the lying garden GNOME (anomaly), and the whole chain of 1000 words begins again, a loop you can walk forever.
+C: Station 10 · TOP. At the crown of stars, a rocket shoots past every limit and becomes a star = TRANSCEND.
+P: A boy with an orange headband writing the last page of a glowing book at dawn; his written words floating up to become stars; at the bottom of the page, an empty speech bubble waiting for the reader
