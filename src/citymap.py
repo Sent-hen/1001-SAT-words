@@ -47,12 +47,13 @@ routes = [
     arc(R_IN, 0, 324, 10), spiral(),
 ]
 
-def svg():
-    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">',
-         "<style>@import url('https://fonts.googleapis.com/css2?family=Bangers&amp;display=swap');</style>",
-         f'<rect width="{W}" height="{H}" fill="#f1dfb4"/>',
-         '<defs><pattern id="sand" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#d9c08a"/></pattern></defs>',
-         f'<rect width="{W}" height="{H}" fill="url(#sand)"/>']
+def body(route=True, chrome=True):
+    """The map drawing without the outer <svg>. IDs are namespaced (cm-*) so the body can be
+    inlined into a chapter page. route=False drops the dotted route + numbered dots, and
+    chrome=False drops compass, title card and legend (the Route Map draws its own)."""
+    o = [f'<rect width="{W}" height="{H}" fill="#f1dfb4"/>',
+         '<defs><pattern id="cm-sand" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#d9c08a"/></pattern></defs>',
+         f'<rect width="{W}" height="{H}" fill="url(#cm-sand)"/>']
     # desert NW
     o.append(P("M0,0 L420,0 Q300,90 180,120 Q80,160 0,260 Z", "#e8c77d", 2, "#c9a55a"))
     o.append(T(130, 70, "DESERT · to Syria", 22, "#8a6a2a"))
@@ -101,6 +102,14 @@ def svg():
     o.append(C(CX, CY + 2, 22, "#2ecc71", 3))
     o.append(L(CX, CY - 32, CX, CY - 56, INK, 3)); o.append(sparkle(CX, CY - 64, 12))
     o.append(T(CX, CY + R_HEART + 44, "GREEN DOME", 16, "#0d5a39"))
+    if route:
+        o.append(route_layer())
+    if chrome:
+        o.append(chrome_layer())
+    return "".join(o)
+
+def route_layer():
+    o = []
     # route line
     allpts = [p for r in routes for p in r]
     path = "M" + " L".join(f"{x:.0f},{y:.0f}" for x, y in allpts)
@@ -113,6 +122,10 @@ def svg():
             rr = (11 if n > 90 else 13) if n < 100 else 17
             o.append(C(round(x), round(y), rr, col, 2.5, "#fff"))
             o.append(T(round(x), round(y) + 5, str(n), 13 if n < 100 else 14, "#fff", family="Arial,sans-serif", weight="800"))
+    return "".join(o)
+
+def chrome_layer():
+    o = []
     # start/finish
     o.append(T(1200, 1150, "START ▲ Ch.1 Lighthouse", 18, "#2f6db5"))
     # compass
@@ -128,8 +141,12 @@ def svg():
         y = 192 + i * 26
         o.append(C(1200, y - 5, 9, col, 2, "#fff") + T(1216, y, f"{i*10+1}–{i*10+10}  {nm}", 13, INK, anchor="start", family="Arial,sans-serif", weight="700"))
     o.append(T(1330, 452, "Lions Eat Every Horse ↻", 15, "#7a2a1a"))
-    o.append("</svg>")
     return "".join(o)
+
+def svg():
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">'
+            "<style>@import url('https://fonts.googleapis.com/css2?family=Bangers&amp;display=swap');</style>"
+            + body() + "</svg>")
 
 if __name__ == "__main__":
     open(os.path.join(HERE, "..", "images", "city_map.svg"), "w", encoding="utf-8", newline="\n").write(svg())

@@ -74,6 +74,46 @@ footer{margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
 @media (max-width:900px){.grid{grid-template-columns:1fr}.frame.wide .rows{grid-template-columns:1fr}footer{grid-template-columns:1fr}.stations{grid-template-columns:repeat(2,1fr)}h1{font-size:30px}.page{margin:0;border-radius:0;padding:12px}}
 @media print{body{background:#fff}.page{box-shadow:none;margin:0}nav,.prompt button{display:none}}
 """
+# --- three images per frame (Story Panel · Memory Card · Route Map); chapter pages only
+IMG_CSS = """
+:root{--here:#ff2d95;--next:#00e5ff;--traveled:#9cff57;--future:#8a94a6}
+.toolbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;background:var(--ink);color:#fff;padding:7px 12px;border-bottom:3px solid var(--gold);font-weight:800;font-size:13px}
+.toolbar span{font-family:Bangers,Impact,sans-serif;letter-spacing:1.5px;font-size:15px;color:var(--gold);margin-right:4px}
+.toolbar button{font:800 13px Nunito,Arial,sans-serif;border:2px solid #fff;border-radius:16px;padding:3px 12px;cursor:pointer;background:transparent;color:#fff}
+.toolbar button[aria-pressed=true]{color:#fff;border-color:transparent}
+.toolbar button[data-toggle=story][aria-pressed=true]{background:var(--story)}
+.toolbar button[data-toggle=card][aria-pressed=true]{background:var(--link)}
+.toolbar button[data-toggle=map][aria-pressed=true]{background:var(--loci)}
+.toolbar button[aria-pressed=false]{text-decoration:line-through;opacity:.75}
+.toolbar button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+figure.img{margin:0;display:flex;flex-direction:column;min-width:0}
+figure.img .tab{font-family:Bangers,Impact,sans-serif;letter-spacing:1.2px;font-size:12.5px;color:#fff;padding:2px 9px;line-height:1.35}
+.img-story .tab{background:var(--story)} .img-card .tab{background:var(--link)} .img-map .tab{background:var(--loci)}
+.duo{display:grid;grid-template-columns:1fr 1fr;border-top:3px solid var(--ink);background:var(--ink);gap:3px}
+.duo svg{display:block;width:100%;height:auto;aspect-ratio:1/1}
+.frame.wide .duo{grid-template-columns:repeat(2,300px);justify-content:center;gap:14px;padding:10px 0;background:#2a1f3d}
+.hide-story .img-story,.hide-card .img-card,.hide-map .img-map{display:none}
+.hide-card.hide-map .duo{display:none}
+.hide-story .duo{border-top:0}
+.hide-card .duo,.hide-map .duo{grid-template-columns:minmax(0,300px);justify-content:center;background:#2a1f3d}
+.routemap .rm-pulse{transform-box:fill-box;transform-origin:center;animation:rm-pulse 1.8s ease-out infinite}
+@keyframes rm-pulse{0%{transform:scale(.7);opacity:.95}100%{transform:scale(2.1);opacity:0}}
+@media (prefers-reduced-motion:reduce){.routemap .rm-pulse{animation:none;opacity:.6}}
+.routemap .rm-here{fill:var(--here)} .routemap .rm-pulse{stroke:var(--here)}
+.routemap polyline.rm-traveled,.routemap line.rm-traveled{stroke:var(--traveled)} .routemap circle.rm-traveled{fill:var(--traveled)}
+.routemap path.rm-next,.routemap line.rm-next,.routemap circle.rm-next{stroke:var(--next)} .routemap polygon.rm-next{fill:var(--next)}
+.routemap .rm-future{stroke:var(--future)}
+@media (max-width:600px){.duo,.frame.wide .duo{grid-template-columns:1fr}.frame.wide .duo{padding:0;gap:3px}}
+@media print{.toolbar{display:none}.routemap .rm-pulse{animation:none}}
+"""
+TOGGLE_JS = """<script>
+(function(){var K='taow-images',s={story:true,card:true,map:true};
+try{var v=JSON.parse(localStorage.getItem(K)||'null');if(v)for(var k in s)if(typeof v[k]==='boolean')s[k]=v[k]}catch(e){}
+function apply(){for(var k in s){document.body.classList.toggle('hide-'+k,!s[k]);var b=document.querySelector('[data-toggle="'+k+'"]');if(b)b.setAttribute('aria-pressed',String(s[k]))}}
+document.querySelectorAll('[data-toggle]').forEach(function(b){b.addEventListener('click',function(){var k=b.getAttribute('data-toggle');s[k]=!s[k];apply();
+try{localStorage.setItem(K,JSON.stringify(s))}catch(e){}})});apply()})();
+</script>"""
+
 JS = """<script>
 function cp(b){const t=document.getElementById('style').innerText+'. '+b.closest('.prompt').querySelector('p').innerText;
 try{navigator.clipboard.writeText(t);b.textContent='Copied!';setTimeout(()=>b.textContent='Copy full prompt',1200)}catch(e){}}
@@ -93,9 +133,19 @@ def art_panels(n):
     nt = D[n]["title"] if n < 100 else None
     return [autoart.compose(n, i, CH[n]["frames"][i], D[n - 1]["words"][i]["word"], nt) for i in range(10)]
 
+def memory_cards(n):
+    try:
+        import memcard
+    except ImportError:
+        return None
+    return [memcard.memory_card(n, i) for i in range(10)]
+
 def page(n):
+    import routemap
     ch, c = D[n - 1], CH[n]
     arts = art_panels(n)
+    cards = memory_cards(n)
+    maps = [routemap.route_map(n, i, c["stations"]) for i in range(10)]
     words = ch["words"]
     nxt = D[n]["words"][0] if n < 100 else D[0]["words"][0]
     cells = []
@@ -104,7 +154,8 @@ def page(n):
         wide = i == 9
         cells.append(f"""<section class="frame{' wide' if wide else ''}">
  <div class="fno"><span>FRAME {i+1 if i < 9 else 0} · WORD #{w['n']}</span><span>📍 STATION {i+1} · {STATIONS[i]}</span></div>
- <div class="art">{arts[i]}</div>
+ <figure class="img img-story"><figcaption class="tab">📖 STORY</figcaption><div class="art">{arts[i]}</div></figure>
+ <div class="duo">{f'<figure class="img img-card"><figcaption class="tab">🔗 MEMORY CARD</figcaption>{cards[i]}</figure>' if cards else ''}<figure class="img img-map"><figcaption class="tab">🗺️ ROUTE</figcaption>{maps[i]}</figure></div>
  <div class="prompt"><div class="lab"><span>🎨 IMAGE PROMPT{' · WIDE 4:1' if wide else ' · 4:3'}</span><button onclick="cp(this)">Copy full prompt</button></div><p>{e(f['prompt'])}.</p></div>
  <div class="word"><b>{w['word'].upper()}</b><span class="pos">{w['pos']}</span><span class="mean">{e(w['meaning'])}</span><span class="hook">🔊 Sound-hook: {e(f['hook'])}</span></div>
  <div class="rows">
@@ -120,7 +171,9 @@ def page(n):
     prev_l = f'<a href="chapter_{n-1:03d}.html">◀ Chapter {n-1}</a>' if n > 1 else "<span></span>"
     next_l = f'<a href="chapter_{n+1:03d}.html">Chapter {n+1} ▶</a>' if n < 100 else "<span></span>"
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Chapter {n} · {e(ch['title'])} | The Thousand and One Words</title><style>{CSS}</style></head><body>
+<title>Chapter {n} · {e(ch['title'])} | The Thousand and One Words</title><style>{CSS}{IMG_CSS}</style></head><body>
+{routemap.base_defs()}
+<div class="toolbar" role="group" aria-label="Show or hide each image type"><span>SHOW:</span><button type="button" data-toggle="story" aria-pressed="true">📖 Story</button><button type="button" data-toggle="card" aria-pressed="true">🔗 Card</button><button type="button" data-toggle="map" aria-pressed="true">🗺️ Map</button></div>
 <div class="page">
 <nav>{prev_l}<a href="index.html">All 100 chapters</a>{next_l}</nav>
 <header>
@@ -137,7 +190,7 @@ def page(n):
  <div class="box"><h3 style="color:var(--loci)">🏛️ WALK {e(walk)}</h3><div class="stations">{stations}</div>
  <div class="chant">ARCH · STEP · LAMP · RUG · HEART! — PILLAR · WINDOW · STAIR · BALCONY · TOP!</div></div>
 </footer>
-</div>{JS}</body></html>"""
+</div>{JS}{TOGGLE_JS}</body></html>"""
 
 def prompts_md(n):
     ch, c = D[n - 1], CH[n]
